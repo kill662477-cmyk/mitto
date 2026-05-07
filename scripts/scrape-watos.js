@@ -172,19 +172,35 @@ function extractStatusText(text) {
 function detectWatoStatus(statusText) {
   const s = clean(statusText).replace(/\s+/g, "");
 
-  if (s.includes("마감")) {
-    return "closed";
+  if (
+    s.includes("무효") ||
+    s.includes("취소") ||
+    s.includes("삭제")
+  ) {
+    return null;
   }
 
-  if (s.includes("종료") || s.includes("결과")) {
+  if (
+    s.includes("종료") ||
+    s.includes("결과")
+  ) {
     return "result";
   }
 
-  if (s.includes("진행") || s.includes("남은시간")) {
+  if (
+    s.includes("마감")
+  ) {
+    return "closed";
+  }
+
+  if (
+    s.includes("진행중") ||
+    s.includes("남은시간")
+  ) {
     return "live";
   }
 
-  return "live";
+  return null;
 }
 
 async function verifyAndClassify(item) {
