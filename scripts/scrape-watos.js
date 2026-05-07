@@ -16,15 +16,18 @@ const CATEGORIES = {
   }
 };
 
-const OUTPUT = "public/data/watos.json";
-const MAX_ITEMS_PER_TAB = 100;
+const MAX_CANDIDATES_PER_TAB = 50;
+const DELAY_MS = 400;
+
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
 
 async function fetchHtml(url) {
   const res = await fetch(url, {
     headers: {
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36",
-      "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-      "accept-language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
+      "user-agent":
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36",
       "referer": "https://ygosu.com/"
     }
   });
@@ -36,65 +39,112 @@ async function fetchHtml(url) {
   return await res.text();
 }
 
-function cleanText(text) {
+function normalizeText(text) {
   return String(text || "").replace(/\s+/g, " ").trim();
 }
 
-function absoluteYgosuUrl(href) {
-  if (!href) return "";
-  if (href.startsWith("http")) return href;
-  if (href.startsWith("//")) return `https:${href}`;
-  if (href.startsWith("/")) return `https://ygosu.com${href}`;
-  return `https://ygosu.com/${href}`;
-}
-
-function parseList(html, tab) {
+function parseCandidates(html, tab) {
   const $ = cheerio.load(html);
-  const map = new Map();
+  const items = [];
 
   $("a[href*='/board/pan_ccy/']").each((_, el) => {
     const href = $(el).attr("href") || "";
-    const text = cleanText($(el).text());
+    const title = normalizeText($(el).text());
     const match = href.match(/\/board\/pan_ccy\/(\d+)/);
 
     if (!match) return;
+    if (!title) return;
+
     const id = match[1];
-    if (!id || id.length < 5) return;
 
-    let title = text;
-    const row = $(el).closest("tr, li, div");
-    const rowText = cleanText(row.text());
+    // 너무 짧은 이상값 제거
+    if (id.length < 5) return;
+    if (title.length < 3) return;
 
-    if (!title || title.length < 2) {
-      title = rowText || `게시글 #${id}`;
-    }
+    // 메뉴/탭/잡링크 제거
+    const badTitles = [
+      "전체",
+      "인기",
+      "와토",
+      "선점",
+      "진행중",
+      "마감",
+      "결과",
+      "공지",
+      "이벤트",
+      "즐겨찾기",
+      "미네랄창고"
+    ];
 
-    title = title
-      .replace(/^\[[^\]]+\]\s*/, "")
-      .replace(/\s*댓글\s*\d+\s*$/, "")
-      .trim();
+    if (badTitles.includes(title)) return;
 
-    if (!title) title = `게시글 #${id}`;
-
-    const articleUrl = `https://ygosu.com/board/pan_ccy/${id}`;
-    const watoUrl = `https://ygosu.com/board/pan_ccy/${id}/?s_wato=Y`;
-
-    if (!map.has(id)) {
-      map.set(id, {
-        id,
-        title,
-        tab,
-        tabName: CATEGORIES[tab].name,
-        articleUrl,
-        watoUrl,
-        sourceHref: absoluteYgosuUrl(href)
-      });
-    }
+    items.push({
+      id,
+      title,
+      tab,
+      tabName: CATEGORIES[tab].name,
+      articleUrl: `https://ygosu.com/board/pan_ccy/${id}`,
+      watoUrl: `https://ygosu.com/board/pan_ccy/${id}/?s_wato=Y`
+    });
   });
 
-  return Array.from(map.values())
-    .sort((a, b) => Number(b.id) - Number(a.id))
-    .slice(0, MAX_ITEMS_PER_TAB);
+  return Array.from(new Map(items.map(v => [v.id, v])).values()).slice(
+    0,
+    MAX_CANDIDATES_PER_TAB
+  );
+}
+
+async function isRealWato(item) {
+  try {
+    const html = await fetchHtml(item.watoUrl);
+    const text = normalizeText(html);
+
+    const hasWatoBox =
+      text.includes("참여현황") ||
+      text.includes("총 미네랄") ||
+      text.includes("마감 시각") ||
+      text.includes("진행 상태") ||
+      text.includes("베팅") ||
+      text.includes("미네랄");
+
+    const isNotNormalArticle =
+      !text.includes("게시글이 존재하지 않습니다") &&
+      !text.includes("삭제된 게시글") &&
+      !text.includes("권한이 없습니다");
+
+    return hasWatoBox && isNotNormalArticle;
+  } catch (e) {
+    console.warn(`[검증실패] ${item.id} ${item.title}`);
+    return false;
+  }
+}
+
+async function collectTab(tab) {
+  const category = CATEGORIES[tab];
+  console.log(`\n[${category.name}] 목록 수집 시작`);
+
+  const html = await fetchHtml(category.url);
+  const candidates = parseCandidates(html, tab);
+
+  console.log(`[${category.name}] 후보 ${candidates.length}개`);
+
+  const realWatos = [];
+
+  for (const item of candidates) {
+    const ok = await isRealWato(item);
+
+    if (ok) {
+      realWatos.push(item);
+      console.log(`  OK  ${item.id} ${item.title}`);
+    } else {
+      console.log(`  SKIP ${item.id} ${item.title}`);
+    }
+
+    await sleep(DELAY_MS);
+  }
+
+  console.log(`[${category.name}] 최종 ${realWatos.length}개`);
+  return realWatos;
 }
 
 async function main() {
@@ -108,14 +158,21 @@ async function main() {
   };
 
   for (const tab of Object.keys(CATEGORIES)) {
-    const html = await fetchHtml(CATEGORIES[tab].url);
-    result.tabs[tab] = parseList(html, tab);
-    console.log(`${CATEGORIES[tab].name}: ${result.tabs[tab].length}개`);
+    result.tabs[tab] = await collectTab(tab);
   }
 
   fs.mkdirSync("public/data", { recursive: true });
-  fs.writeFileSync(OUTPUT, JSON.stringify(result, null, 2), "utf8");
-  console.log(`saved: ${OUTPUT}`);
+
+  fs.writeFileSync(
+    "public/data/watos.json",
+    JSON.stringify(result, null, 2),
+    "utf8"
+  );
+
+  console.log("\n저장 완료: public/data/watos.json");
+  console.log(`진행중: ${result.tabs.live.length}개`);
+  console.log(`마감: ${result.tabs.closed.length}개`);
+  console.log(`결과: ${result.tabs.result.length}개`);
 }
 
 main().catch(err => {
