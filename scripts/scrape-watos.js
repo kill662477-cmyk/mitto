@@ -1,3 +1,4 @@
+```js
 import fs from "fs";
 import * as cheerio from "cheerio";
 
@@ -37,12 +38,16 @@ function sleep(ms) {
 async function fetchHtml(url) {
   const res = await fetch(url, {
     headers: {
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36",
-      "referer": "https://ygosu.com/"
+      "user-agent":
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36",
+      referer: "https://ygosu.com/"
     }
   });
 
-  if (!res.ok) throw new Error(`Fetch failed ${res.status} ${url}`);
+  if (!res.ok) {
+    throw new Error(`Fetch failed ${res.status} ${url}`);
+  }
+
   return await res.text();
 }
 
@@ -56,19 +61,25 @@ function clean(text) {
 
 function shouldBlockByTitle(title) {
   const t = clean(title);
-  return BLOCK_TITLE_KEYWORDS.some(k => t.includes(k));
+
+  return BLOCK_TITLE_KEYWORDS.some(keyword => t.includes(keyword));
 }
 
 function parseCandidatesFromList(html, boardKey) {
   const board = BOARDS[boardKey];
   const $ = cheerio.load(html);
+
   const items = [];
 
   $(`a[href*='/board/${board.boardUrl.split("/").pop()}/']`).each((_, el) => {
     const href = $(el).attr("href") || "";
     const title = clean($(el).text());
+
     const boardSlug = board.boardUrl.split("/").pop();
-    const match = href.match(new RegExp(`/board/${boardSlug}/(\\d+)`));
+
+    const match = href.match(
+      new RegExp(`/board/${boardSlug}/(\\d+)`)
+    );
 
     if (!match || !title) return;
 
@@ -79,9 +90,20 @@ function parseCandidatesFromList(html, boardKey) {
     if (shouldBlockByTitle(title)) return;
 
     const menuTitles = [
-      "전체", "인기", "와토", "선점", "진행중", "마감", "결과",
-      "사진/영상", "정보", "공지", "이벤트", "관리자공지",
-      "콘텐츠 추천", "미네랄창고"
+      "전체",
+      "인기",
+      "와토",
+      "선점",
+      "진행중",
+      "마감",
+      "결과",
+      "사진/영상",
+      "정보",
+      "공지",
+      "이벤트",
+      "관리자공지",
+      "콘텐츠 추천",
+      "미네랄창고"
     ];
 
     if (menuTitles.includes(title)) return;
@@ -101,20 +123,24 @@ function parseCandidatesFromList(html, boardKey) {
 
 async function collectCandidates(boardKey) {
   const board = BOARDS[boardKey];
+
   const all = [];
 
   for (let page = 1; page <= MAX_PAGES; page++) {
     const url = `${board.listUrl}&page=${page}`;
+
     console.log(`[${board.name}] 와토목록 page=${page} ${url}`);
 
     const html = await fetchHtml(url);
+
     all.push(...parseCandidatesFromList(html, boardKey));
 
     await sleep(DELAY_MS);
   }
 
-  return Array.from(new Map(all.map(v => [`${v.board}-${v.id}`, v])).values())
-    .slice(0, MAX_CANDIDATES);
+  return Array.from(
+    new Map(all.map(v => [`${v.board}-${v.id}`, v])).values()
+  ).slice(0, MAX_CANDIDATES);
 }
 
 function hasWatoBox(text) {
@@ -127,11 +153,12 @@ function hasWatoBox(text) {
     "진행 상태"
   ];
 
-  return signals.filter(k => t.includes(k)).length >= 3;
+  return signals.filter(v => t.includes(v)).length >= 3;
 }
 
 function extractStatusText(text) {
   const t = clean(text);
+
   const idx = t.indexOf("진행 상태");
 
   if (idx === -1) return "";
@@ -150,11 +177,17 @@ function detectWatoStatus(text) {
     return "closed";
   }
 
-  if (s.includes("종료") || s.includes("결과")) {
+  if (
+    s.includes("종료") ||
+    s.includes("결과")
+  ) {
     return "result";
   }
 
-  if (s.includes("진행") || s.includes("남은시간")) {
+  if (
+    s.includes("진행") ||
+    s.includes("남은시간")
+  ) {
     return "live";
   }
 
@@ -162,20 +195,30 @@ function detectWatoStatus(text) {
 }
 
 async function verifyAndClassify(item) {
-  if (shouldBlockByTitle(item.title)) return null;
+  if (shouldBlockByTitle(item.title)) {
+    return null;
+  }
 
   try {
     const html = await fetchHtml(item.watoUrl);
+
     const $ = cheerio.load(html);
+
     const text = clean($.root().text());
 
-    if (!hasWatoBox(text)) return null;
+    if (!hasWatoBox(text)) {
+      return null;
+    }
 
     const statusText = extractStatusText(text);
-    const tab = detectWatoStatus(text);
+
+    const tab = detectWatoStatus(statusText);
 
     if (!tab) {
-      console.log(`상태판독실패 ${item.boardName} ${item.id} / ${statusText} / ${item.title}`);
+      console.log(
+        `상태판독실패 ${item.boardName} ${item.id} / ${statusText} / ${item.title}`
+      );
+
       return null;
     }
 
@@ -185,8 +228,11 @@ async function verifyAndClassify(item) {
       tabName: TAB_NAMES[tab],
       statusText
     };
-  } catch {
-    console.warn(`[검증실패] ${item.boardName} ${item.id} ${item.title}`);
+  } catch (err) {
+    console.warn(
+      `[검증실패] ${item.boardName} ${item.id} ${item.title}`
+    );
+
     return null;
   }
 }
@@ -201,7 +247,9 @@ async function collectBoard(boardKey) {
   };
 
   console.log(`\n[${board.name}] 후보 수집 시작`);
+
   const candidates = await collectCandidates(boardKey);
+
   console.log(`[${board.name}] 후보 ${candidates.length}개`);
 
   for (const item of candidates) {
@@ -209,11 +257,14 @@ async function collectBoard(boardKey) {
 
     if (classified) {
       grouped[classified.tab].push(classified);
+
       console.log(
         `OK ${classified.boardName} / ${classified.tabName} / ${classified.id} / ${classified.statusText} / ${classified.title}`
       );
     } else {
-      console.log(`SKIP ${item.boardName} ${item.id} ${item.title}`);
+      console.log(
+        `SKIP ${item.boardName} ${item.id} ${item.title}`
+      );
     }
 
     await sleep(DELAY_MS);
@@ -226,8 +277,16 @@ async function main() {
   const result = {
     checkedAt: new Date().toISOString(),
     boards: {
-      mitto: { live: [], closed: [], result: [] },
-      monstarz: { live: [], closed: [], result: [] }
+      mitto: {
+        live: [],
+        closed: [],
+        result: []
+      },
+      monstarz: {
+        live: [],
+        closed: [],
+        result: []
+      }
     }
   };
 
@@ -236,7 +295,12 @@ async function main() {
   }
 
   const total = Object.values(result.boards).reduce((sum, board) => {
-    return sum + board.live.length + board.closed.length + board.result.length;
+    return (
+      sum +
+      board.live.length +
+      board.closed.length +
+      board.result.length
+    );
   }, 0);
 
   if (total === 0) {
@@ -244,7 +308,9 @@ async function main() {
     process.exit(1);
   }
 
-  fs.mkdirSync("public/data", { recursive: true });
+  fs.mkdirSync("public/data", {
+    recursive: true
+  });
 
   fs.writeFileSync(
     "public/data/watos.json",
@@ -266,3 +332,4 @@ main().catch(err => {
   console.error(err);
   process.exit(1);
 });
+```
