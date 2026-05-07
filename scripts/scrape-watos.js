@@ -143,15 +143,23 @@ function extractStatusText(text) {
     .trim();
 }
 
-const statusText = String(status || "").replace(/\s+/g, "");
+const s = String(item.statusText || "").replace(/\s+/g, "");
 
 let tab = "live";
 
-if (statusText.includes("마감")) {
+if (s.includes("마감")) {
   tab = "closed";
-} else if (statusText.includes("종료") || statusText.includes("결과")) {
+}
+else if (
+  s.includes("종료") ||
+  s.includes("결과")
+) {
   tab = "result";
-} else if (statusText.includes("진행") || statusText.includes("남은시간")) {
+}
+else if (
+  s.includes("진행") ||
+  s.includes("남은시간")
+) {
   tab = "live";
 }
 
