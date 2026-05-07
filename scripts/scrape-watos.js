@@ -143,24 +143,28 @@ function extractStatusText(text) {
     .trim();
 }
 
-const s = String(item.statusText || "").replace(/\s+/g, "");
+function detectWatoStatus(text) {
+  const s = clean(text).replace(/\s+/g, "");
 
-let tab = "live";
+  if (s.includes("마감")) {
+    return "closed";
+  }
 
-if (s.includes("마감")) {
-  tab = "closed";
-}
-else if (
-  s.includes("종료") ||
-  s.includes("결과")
-) {
-  tab = "result";
-}
-else if (
-  s.includes("진행") ||
-  s.includes("남은시간")
-) {
-  tab = "live";
+  if (
+    s.includes("종료") ||
+    s.includes("결과")
+  ) {
+    return "result";
+  }
+
+  if (
+    s.includes("진행") ||
+    s.includes("남은시간")
+  ) {
+    return "live";
+  }
+
+  return "live";
 }
 
 async function verifyAndClassify(item) {
