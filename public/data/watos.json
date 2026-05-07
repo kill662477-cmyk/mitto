@@ -1,450 +1,96 @@
 {
-  "checkedAt": "2026-05-07T02:24:45.750Z",
+  "checkedAt": "2026-05-07T02:36:05.310Z",
   "tabs": {
-    "live": [
+    "live": [],
+    "closed": [],
+    "result": [
       {
         "id": "659738",
-        "title": "[🟢진행중/와토/16시간 남음] ⚽ 유로파4강 2차전 ⚽ [H]아스톤빌라 (-0.5) vs 노팅엄 :: 5/8 :: 4시",
-        "tab": "live",
-        "tabName": "진행중",
+        "title": "⚽ 유로파4강 2차전 ⚽ [H]아스톤...",
         "articleUrl": "https://ygosu.com/board/pan_ccy/659738",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659738/?s_wato=Y"
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659738/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과"
       },
       {
         "id": "659737",
-        "title": "[🟢진행중/와토/16시간 남음] ⚽ 유로파4강 2차전 ⚽ [H]아스톤빌라 vs 노팅엄 :: 5/8 :: 4시",
-        "tab": "live",
-        "tabName": "진행중",
+        "title": "⚽ 유로파4강 2차전 ⚽ [H]아스톤빌라 vs 노팅엄 :: 5/8 :: 4시",
         "articleUrl": "https://ygosu.com/board/pan_ccy/659737",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659737/?s_wato=Y"
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659737/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과"
       },
       {
         "id": "659347",
-        "title": "[🟢진행중/와토/7시간 남음] 🌠종족 최강전🌠우승 종족 맞추기 ::: 목요일 ::: 19시",
-        "tab": "live",
-        "tabName": "진행중",
+        "title": "🌠종족 최강전🌠우승 종족 맞추기 ::: 목요일 ::: 19시 (1)",
         "articleUrl": "https://ygosu.com/board/pan_ccy/659347",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659347/?s_wato=Y"
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659347/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과"
       },
       {
         "id": "659849",
-        "title": "[🟢진행중/와토/7시간 남음] ⚾ KBO ⚾ 한화(+0.5) vs [H] KIA :: 5/7 :: 18시 30분",
-        "tab": "live",
-        "tabName": "진행중",
+        "title": "[🟢진행중/와토/6시간 남음] ⚾ KBO ⚾ 한화(+0.5) vs [H] KIA :: 5/7 :: 18시 30분",
         "articleUrl": "https://ygosu.com/board/pan_ccy/659849",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659849/?s_wato=Y"
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659849/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과"
       },
       {
         "id": "659848",
-        "title": "[🟢진행중/와토/7시간 남음] ⚾ KBO ⚾ 키움(+2.5) vs [H] 삼성 :: 5/7 :: 18시 30분",
-        "tab": "live",
-        "tabName": "진행중",
+        "title": "[🟢진행중/와토/6시간 남음] ⚾ KBO ⚾ 키움(+2.5) vs [H] 삼성 :: 5/7 :: 18시 30분",
         "articleUrl": "https://ygosu.com/board/pan_ccy/659848",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659848/?s_wato=Y"
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659848/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과"
       },
       {
         "id": "659847",
-        "title": "[🟢진행중/와토/7시간 남음] ⚾ KBO ⚾ 롯데(+1.5) vs [H] KT :: 5/7 :: 18시 30분",
-        "tab": "live",
-        "tabName": "진행중",
+        "title": "[🟢진행중/와토/6시간 남음] ⚾ KBO ⚾ 롯데(+1.5) vs [H] KT :: 5/7 :: 18시 30분",
         "articleUrl": "https://ygosu.com/board/pan_ccy/659847",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659847/?s_wato=Y"
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659847/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과"
       },
       {
         "id": "659846",
         "title": "[🟢진행중/와토/12시간 남음] ⚾ KBO ⚾ NC(+0.5) vs [H] SSG :: 5/7 :: 18시 30분",
-        "tab": "live",
-        "tabName": "진행중",
         "articleUrl": "https://ygosu.com/board/pan_ccy/659846",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659846/?s_wato=Y"
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659846/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과"
       },
       {
         "id": "659845",
-        "title": "[🟢진행중/와토/7시간 남음] ⚾ KBO ⚾ 두산(+1.5) vs [H] LG :: 5/7 :: 18시 30분",
-        "tab": "live",
-        "tabName": "진행중",
+        "title": "[🟢진행중/와토/6시간 남음] ⚾ KBO ⚾ 두산(+1.5) vs [H] LG :: 5/7 :: 18시 30분",
         "articleUrl": "https://ygosu.com/board/pan_ccy/659845",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659845/?s_wato=Y"
-      },
-      {
-        "id": "659191",
-        "title": "[🟢진행중/와토/진행] 🏆LCK또또🏆 한진브리온(+4.5) vs BFX 3세트 ::: 킬핸디",
-        "tab": "live",
-        "tabName": "진행중",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659191",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659191/?s_wato=Y"
-      },
-      {
-        "id": "659190",
-        "title": "[🟢진행중/와토/진행] 🏆LCK또또🏆 한진브리온(+4.5) vs BFX 2세트 ::: 킬핸디",
-        "tab": "live",
-        "tabName": "진행중",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659190",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659190/?s_wato=Y"
-      },
-      {
-        "id": "659188",
-        "title": "[🟢진행중/와토/진행] 🏆LCK또또🏆 한진브리온(+4.5) vs BFX 1세트 ::: 킬핸디",
-        "tab": "live",
-        "tabName": "진행중",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659188",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659188/?s_wato=Y"
-      },
-      {
-        "id": "659186",
-        "title": "[🟢진행중/와토/진행] 🏆LCK또또🏆 한진브리온 vs BFX 풀세트(B) ::: 5/7 19시",
-        "tab": "live",
-        "tabName": "진행중",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659186",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659186/?s_wato=Y"
-      },
-      {
-        "id": "659185",
-        "title": "[🟢진행중/와토/진행] 🏆LCK또또🏆 한진브리온 vs BFX 풀세트(A) ::: 5/7 19시",
-        "tab": "live",
-        "tabName": "진행중",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659185",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659185/?s_wato=Y"
-      },
-      {
-        "id": "659149",
-        "title": "[🟢진행중/와토/진행] 🏆LCK또또🏆3세트 ::: DK vs KT 💥킬핸디 X💥",
-        "tab": "live",
-        "tabName": "진행중",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659149",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659149/?s_wato=Y"
-      },
-      {
-        "id": "659148",
-        "title": "[🟢진행중/와토/진행] 🏆LCK또또🏆2세트 ::: DK vs KT 💥킬핸디 X💥",
-        "tab": "live",
-        "tabName": "진행중",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659148",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659148/?s_wato=Y"
-      },
-      {
-        "id": "659147",
-        "title": "[🟢진행중/와토/진행] 🏆LCK또또🏆1세트 ::: DK vs KT 💥킬핸디 X💥",
-        "tab": "live",
-        "tabName": "진행중",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659147",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659147/?s_wato=Y"
-      },
-      {
-        "id": "659143",
-        "title": "[🟢진행중/와토/진행] 🏆LCK또또🏆 DK vs KT 풀세트(B) ::: 5/7 17시",
-        "tab": "live",
-        "tabName": "진행중",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659143",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659143/?s_wato=Y"
-      },
-      {
-        "id": "659142",
-        "title": "[🟢진행중/와토/진행] 🏆LCK또또🏆 DK vs KT 풀세트(A) ::: 5/7 17시",
-        "tab": "live",
-        "tabName": "진행중",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659142",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659142/?s_wato=Y"
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659845/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과"
       },
       {
         "id": "659173",
         "title": "​🏀 NBA PO 🏀 미네소타(+8.5) vs ...",
-        "tab": "live",
-        "tabName": "진행중",
         "articleUrl": "https://ygosu.com/board/pan_ccy/659173",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659173/?s_wato=Y"
-      }
-    ],
-    "closed": [
-      {
-        "id": "659738",
-        "title": "⚽ 유로파4강 2차전 ⚽ [H]아스톤빌라 (-0.5) vs 노팅엄 :: 5/8 :: 4시 (1)",
-        "tab": "closed",
-        "tabName": "마감",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659738",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659738/?s_wato=Y"
-      },
-      {
-        "id": "659737",
-        "title": "⚽ 유로파4강 2차전 ⚽ [H]아스톤빌라 vs 노팅엄 :: 5/8 :: 4시",
-        "tab": "closed",
-        "tabName": "마감",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659737",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659737/?s_wato=Y"
-      },
-      {
-        "id": "659347",
-        "title": "🌠종족 최강전🌠우승 종족 맞추기 ::: 목요일 ::: 19시 (1)",
-        "tab": "closed",
-        "tabName": "마감",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659347",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659347/?s_wato=Y"
-      },
-      {
-        "id": "659372",
-        "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 피츠버그(-1.5) vs [H] 애리조나 :: 5/7 :: 10시 40분",
-        "tab": "closed",
-        "tabName": "마감",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659372",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659372/?s_wato=Y"
-      },
-      {
-        "id": "659358",
-        "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 뉴욕메츠(-1.5) vs [H] 콜로라도 :: 5/7 :: 10시 20분",
-        "tab": "closed",
-        "tabName": "마감",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659358",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659358/?s_wato=Y"
-      },
-      {
-        "id": "659342",
-        "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 클리블랜드 vs [H] 캔자스시티 :: 5/7 :: 8시 40분",
-        "tab": "closed",
-        "tabName": "마감",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659342",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659342/?s_wato=Y"
-      },
-      {
-        "id": "659173",
-        "title": "​🏀 NBA PO 🏀 미네소타(+8.5) vs ...",
-        "tab": "closed",
-        "tabName": "마감",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659173",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659173/?s_wato=Y"
-      }
-    ],
-    "result": [
-      {
-        "id": "659738",
-        "title": "⚽ 유로파4강 2차전 ⚽ [H]아스톤빌라 (-0.5) vs 노팅엄 :: 5/8 :: 4시 (1)",
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659173/?s_wato=Y",
         "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659738",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659738/?s_wato=Y"
+        "tabName": "결과"
       },
       {
-        "id": "659737",
-        "title": "⚽ 유로파4강 2차전 ⚽ [H]아스톤빌라 vs 노팅엄 :: 5/8 :: 4시",
+        "id": "659811",
+        "title": "⚾ MLB ⚾ 피츠버그(-1.5) vs [H] 애리조나 :: 5/7 :: 10시 40분",
+        "articleUrl": "https://ygosu.com/board/pan_ccy/659811",
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659811/?s_wato=Y",
         "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659737",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659737/?s_wato=Y"
+        "tabName": "결과"
       },
       {
-        "id": "659347",
-        "title": "🌠종족 최강전🌠우승 종족 맞추기 ::: 목요일 ::: 19시 (1)",
+        "id": "659805",
+        "title": "⚾ MLB ⚾ 뉴욕메츠(-1.5) vs [H] 콜로라도 :: 5/7 :: 10시 20분",
+        "articleUrl": "https://ygosu.com/board/pan_ccy/659805",
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659805/?s_wato=Y",
         "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659347",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659347/?s_wato=Y"
-      },
-      {
-        "id": "659321",
-        "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 텍사스(+1.5) vs [H] 뉴욕양키스 :: 5/7 :: 8시 5분",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659321",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659321/?s_wato=Y"
-      },
-      {
-        "id": "659305",
-        "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 보스턴 vs [H] 디트로이트 :: 5/7 :: 7시 40분",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659305",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659305/?s_wato=Y"
-      },
-      {
-        "id": "659184",
-        "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 시카고W vs [H] LA에인절스 :: 5/7 :: 5시 7분",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659184",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659184/?s_wato=Y"
-      },
-      {
-        "id": "659180",
-        "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 샌디에이고 vs [H] 샌프란시스코 :: 5/7 :: 4시 45분",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659180",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659180/?s_wato=Y"
-      },
-      {
-        "id": "659179",
-        "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ LA다저스(-1.5) vs [H] 휴스턴 :: 5/7 :: 3시 10분",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659179",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659179/?s_wato=Y"
-      },
-      {
-        "id": "659174",
-        "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 밀워키 vs [H] 세인트루이스 :: 5/7 :: 2시 15분",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659174",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659174/?s_wato=Y"
-      },
-      {
-        "id": "659172",
-        "title": "[🔴결과/와토/종료] ​🏀 NBA PO 🏀 필라델피아(+6.5) vs [H]뉴욕 닉스 05/07 08:00",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659172",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659172/?s_wato=Y"
-      },
-      {
-        "id": "659171",
-        "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 토론토 vs [H] 탬파베이 :: 5/7 :: 2시 10분",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659171",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659171/?s_wato=Y"
-      },
-      {
-        "id": "658911",
-        "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ 한화(+0.5) vs [H] KIA :: 5/6 :: 18시 30분",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/658911",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/658911/?s_wato=Y"
-      },
-      {
-        "id": "658908",
-        "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ 키움(+1.5) vs [H] 삼성 :: 5/6 :: 18시 30분",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/658908",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/658908/?s_wato=Y"
-      },
-      {
-        "id": "658907",
-        "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ 롯데(+1.5) vs [H] KT :: 5/6 :: 18시 30분",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/658907",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/658907/?s_wato=Y"
-      },
-      {
-        "id": "658904",
-        "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ NC(-1.5) vs [H] SSG :: 5/6 :: 18시 30분",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/658904",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/658904/?s_wato=Y"
-      },
-      {
-        "id": "658901",
-        "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ 두산(+0.5) vs [H] LG :: 5/6 :: 18시 30분",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/658901",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/658901/?s_wato=Y"
-      },
-      {
-        "id": "658811",
-        "title": "[🔴결과/와토/종료] 💎챔스4강 2차전💎[H]바이에른뮌헨(-0.5) vs 파리생제르망 :5/7: 4시 (A)",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/658811",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/658811/?s_wato=Y"
-      },
-      {
-        "id": "658810",
-        "title": "[🔴결과/와토/종료] 💎챔스4강 2차전💎[H]바이에른뮌헨(-0.5) vs 파리생제르망 :5/7: 4시 (B)",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/658810",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/658810/?s_wato=Y"
-      },
-      {
-        "id": "658809",
-        "title": "[🔴결과/와토/종료] 💎챔스4강 2차전💎[H] 바이에른뮌헨 vs 파리생제르망 : 5/7 : 4시",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/658809",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/658809/?s_wato=Y"
-      },
-      {
-        "id": "658807",
-        "title": "[🔴결과/와토/종료] 🌠스타 끝장전🌠 김민철 vs 김지성 :: 수요일 :: 21시 :: BO.9",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/658807",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/658807/?s_wato=Y"
-      },
-      {
-        "id": "658640",
-        "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 샌디에이고 vs [H] 샌프란시스코 :: 5/6 :: 10시 45분",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/658640",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/658640/?s_wato=Y"
-      },
-      {
-        "id": "658637",
-        "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 피츠버그 vs [H] 애리조나 :: 5/6 :: 10시 40분",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/658637",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/658637/?s_wato=Y"
-      },
-      {
-        "id": "658636",
-        "title": "[🔴결과/와토/무효] ⚾ MLB ⚾ 뉴욕메츠(-1.5) vs [H] 콜로라도 :: 5/6 :: 9시 40분",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/658636",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/658636/?s_wato=Y"
-      },
-      {
-        "id": "658635",
-        "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ LA다저스(-2.5) vs [H] 휴스턴 :: 5/6 :: 9시 10분",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/658635",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/658635/?s_wato=Y"
-      },
-      {
-        "id": "658632",
-        "title": "[🔴결과/와토/무효] ⚾ MLB ⚾ 밀워키 vs [H] 세인트루이스 :: 5/6 :: 8시 45분",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/658632",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/658632/?s_wato=Y"
-      },
-      {
-        "id": "658630",
-        "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 클리블랜드 vs [H] 캔자스시티 :: 5/6 :: 8시 40분",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/658630",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/658630/?s_wato=Y"
-      },
-      {
-        "id": "658629",
-        "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 텍사스 vs [H] 뉴욕양키스 :: 5/6 :: 8시 5분",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/658629",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/658629/?s_wato=Y"
-      },
-      {
-        "id": "658627",
-        "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 미네소타 vs [H] 워싱턴 :: 5/6 :: 7시 45분",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/658627",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/658627/?s_wato=Y"
-      },
-      {
-        "id": "659173",
-        "title": "​🏀 NBA PO 🏀 미네소타(+8.5) vs ...",
-        "tab": "result",
-        "tabName": "결과",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659173",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659173/?s_wato=Y"
+        "tabName": "결과"
       }
     ]
   }
