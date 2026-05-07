@@ -195,7 +195,7 @@ function detectWatoStatus(statusText) {
 
   if (
     s.includes("진행중") ||
-    s.includes("남은")
+    s.includes("남음")
   ) {
     return "live";
   }
