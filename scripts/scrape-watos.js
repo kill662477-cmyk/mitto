@@ -13,9 +13,23 @@ const TAB_NAMES = {
 };
 
 const BLOCK_TITLE_KEYWORDS = [
-  "📢", "공지", "규정", "일정", "대진표", "선점룰",
-  "진출자", "플레이오프", "가이드", "안내", "필독",
-  "이벤트", "업데이트", "요청", "문의", "건의"
+  "📢",
+  "공지",
+  "규정",
+  "이용 규정",
+  "일정",
+  "대진표",
+  "선점룰",
+  "진출자",
+  "플레이오프",
+  "가이드",
+  "안내",
+  "필독",
+  "이벤트",
+  "업데이트",
+  "요청",
+  "문의",
+  "건의"
 ];
 
 function sleep(ms) {
@@ -25,7 +39,8 @@ function sleep(ms) {
 async function fetchHtml(url) {
   const res = await fetch(url, {
     headers: {
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36",
+      "user-agent":
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36",
       "referer": "https://ygosu.com/"
     }
   });
@@ -65,9 +80,20 @@ function parseCandidatesFromList(html) {
     if (shouldBlockByTitle(title)) return;
 
     const menuTitles = [
-      "전체", "인기", "와토", "선점", "진행중", "마감", "결과",
-      "사진/영상", "정보", "공지", "이벤트", "관리자공지",
-      "콘텐츠 추천", "미네랄창고"
+      "전체",
+      "인기",
+      "와토",
+      "선점",
+      "진행중",
+      "마감",
+      "결과",
+      "사진/영상",
+      "정보",
+      "공지",
+      "이벤트",
+      "관리자공지",
+      "콘텐츠 추천",
+      "미네랄창고"
     ];
 
     if (menuTitles.includes(title)) return;
@@ -96,7 +122,10 @@ async function collectCandidates() {
     await sleep(DELAY_MS);
   }
 
-  return Array.from(new Map(all.map(v => [v.id, v])).values()).slice(0, MAX_CANDIDATES);
+  return Array.from(new Map(all.map(v => [v.id, v])).values()).slice(
+    0,
+    MAX_CANDIDATES
+  );
 }
 
 function hasWatoBox(text) {
@@ -105,12 +134,11 @@ function hasWatoBox(text) {
   const signals = [
     "참여현황",
     "총 미네랄",
-    "참여연속수",
     "마감 시각",
     "진행 상태"
   ];
 
-  return signals.filter(k => t.includes(k)).length >= 4;
+  return signals.filter(k => t.includes(k)).length >= 3;
 }
 
 function extractStatusText(text) {
@@ -120,43 +148,26 @@ function extractStatusText(text) {
   if (idx === -1) return "";
 
   return t
-    .slice(idx, idx + 80)
+    .slice(idx, idx + 60)
     .replace("진행 상태", "")
     .replace(/^[:：\s]+/, "")
     .trim();
 }
 
 function detectWatoStatus(text) {
-  const status = extractStatusText(text);
+  const statusText = extractStatusText(text);
 
-  if (!status) return null;
+  if (!statusText) return null;
 
-  // 제일 먼저 진행중 판정
-  if (
-    status.includes("진행중") ||
-    status.includes("진행 중") ||
-    status.includes("정상 진행") ||
-    status.includes("베팅 가능")
-  ) {
+  if (statusText.includes("남음")) {
     return "live";
   }
 
-  // 그 다음 마감 판정
-  if (
-    status.includes("마감") ||
-    status.includes("베팅 마감") ||
-    status.includes("참여 마감")
-  ) {
+  if (statusText.includes("마감됨")) {
     return "closed";
   }
 
-  // 마지막 결과/정산 판정
-  if (
-    status.includes("정산") ||
-    status.includes("처리됨") ||
-    status.includes("무효") ||
-    status.includes("결과")
-  ) {
+  if (statusText.includes("종료됨")) {
     return "result";
   }
 
@@ -173,11 +184,11 @@ async function verifyAndClassify(item) {
 
     if (!hasWatoBox(text)) return null;
 
-    const tab = detectWatoStatus(text);
     const statusText = extractStatusText(text);
+    const tab = detectWatoStatus(text);
 
     if (!tab) {
-      console.log(`  상태판독실패 ${item.id} / ${statusText}`);
+      console.log(`상태판독실패 ${item.id} / ${statusText} / ${item.title}`);
       return null;
     }
 
@@ -187,7 +198,7 @@ async function verifyAndClassify(item) {
       tabName: TAB_NAMES[tab],
       statusText
     };
-  } catch {
+  } catch (e) {
     console.warn(`[검증실패] ${item.id} ${item.title}`);
     return null;
   }
@@ -212,7 +223,9 @@ async function main() {
 
     if (classified) {
       result.tabs[classified.tab].push(classified);
-      console.log(`OK ${classified.tabName} / ${classified.id} / ${classified.statusText} / ${classified.title}`);
+      console.log(
+        `OK ${classified.tabName} / ${classified.id} / ${classified.statusText} / ${classified.title}`
+      );
     } else {
       console.log(`SKIP ${item.id} ${item.title}`);
     }
@@ -228,7 +241,7 @@ async function main() {
     "utf8"
   );
 
-  console.log("\n저장 완료");
+  console.log("\n저장 완료: public/data/watos.json");
   console.log(`진행중: ${result.tabs.live.length}개`);
   console.log(`마감: ${result.tabs.closed.length}개`);
   console.log(`결과: ${result.tabs.result.length}개`);
