@@ -14,7 +14,7 @@ const BOARDS = {
   }
 };
 
-const MAX_PAGES = 7;
+const MAX_PAGES = 4;
 const MAX_CANDIDATES = 500;
 const DELAY_MS = 350;
 
