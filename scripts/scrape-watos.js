@@ -2,8 +2,8 @@ import fs from "fs";
 import * as cheerio from "cheerio";
 
 const BOARD_URL = "https://ygosu.com/board/pan_ccy";
-const MAX_PAGES = 3;
-const MAX_CANDIDATES = 180;
+const MAX_PAGES = 20;
+const MAX_CANDIDATES = 500;
 const DELAY_MS = 350;
 
 const TAB_NAMES = {
@@ -232,7 +232,15 @@ async function main() {
 
     await sleep(DELAY_MS);
   }
+const total =
+  result.tabs.live.length +
+  result.tabs.closed.length +
+  result.tabs.result.length;
 
+if (total === 0) {
+  console.error("수집 결과 0개 - 기존 watos.json 유지");
+  process.exit(1);
+}
   fs.mkdirSync("public/data", { recursive: true });
 
   fs.writeFileSync(
