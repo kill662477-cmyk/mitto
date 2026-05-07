@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-07T05:20:33.114Z",
+  "checkedAt": "2026-05-07T05:30:30.621Z",
   "boards": {
     "mitto": {
       "live": [
@@ -12,7 +12,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/659738/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 39분 남음 [와토 랭킹] 1.35미만 적특 연장미포함1차전 1-1 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을"
+          "statusText": "13시간 29분 남음 [와토 랭킹] 1.35미만 적특 연장미포함1차전 1-1 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을"
         },
         {
           "board": "mitto",
@@ -23,7 +23,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/659737/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 39분 남음 [와토 랭킹] 배당보호X노핸디매치연장미포함1차전 1-1 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을"
+          "statusText": "13시간 29분 남음 [와토 랭킹] 배당보호X노핸디매치연장미포함1차전 1-1 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을"
         },
         {
           "board": "mitto",
@@ -34,40 +34,40 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/659347/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 39분 남음 [와토 랭킹] 배당보호X19시 자동마감 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내"
+          "statusText": "4시간 29분 남음 [와토 랭킹] 배당보호X19시 자동마감 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "id": "659849",
-          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ 한화(+0.5) vs [H] KIA :: 5/7 :: 18시 30분",
+          "title": "[🟢진행중/와토/3시간 남음] ⚾ KBO ⚾ 한화(+0.5) vs [H] KIA :: 5/7 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/659849",
           "watoUrl": "https://ygosu.com/board/pan_ccy/659849/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 9분 남음 [와토 랭킹] 한화 선발 : 정우주통산 상대전적 vs KIA) 5경기 1승 0패 2.2이닝ERA 10.13 WHI"
+          "statusText": "3시간 59분 남음 [와토 랭킹] 한화 선발 : 정우주통산 상대전적 vs KIA) 5경기 1승 0패 2.2이닝ERA 10.13 WH"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "id": "659848",
-          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ 키움(+2.5) vs [H] 삼성 :: 5/7 :: 18시 30분",
+          "title": "[🟢진행중/와토/3시간 남음] ⚾ KBO ⚾ 키움(+2.5) vs [H] 삼성 :: 5/7 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/659848",
           "watoUrl": "https://ygosu.com/board/pan_ccy/659848/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 9분 남음 [와토 랭킹] 키움 선발 : 박정훈통산 상대전적 vs 삼성) 6경기 0승 0패 2홀드6.2이닝 ERA 1.35 W"
+          "statusText": "3시간 59분 남음 [와토 랭킹] 키움 선발 : 박정훈통산 상대전적 vs 삼성) 6경기 0승 0패 2홀드6.2이닝 ERA 1.35"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "id": "659847",
-          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ 롯데(+1.5) vs [H] KT :: 5/7 :: 18시 30분",
+          "title": "[🟢진행중/와토/3시간 남음] ⚾ KBO ⚾ 롯데(+1.5) vs [H] KT :: 5/7 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/659847",
           "watoUrl": "https://ygosu.com/board/pan_ccy/659847/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 9분 남음 [와토 랭킹] 롯데 선발 : 박세웅통산 상대전적 vs KT) 44경기 16승 9패 232이닝ERA 4.07 WHI"
+          "statusText": "3시간 59분 남음 [와토 랭킹] 롯데 선발 : 박세웅통산 상대전적 vs KT) 44경기 16승 9패 232이닝ERA 4.07 WH"
         },
         {
           "board": "mitto",
@@ -78,18 +78,18 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/659846/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 39분 남음 [와토 랭킹] NC 선발 : 테일러통산 상대전적 vs SSG) 1경기 0승 1패 3.2이닝ERA 9.82 WHI"
+          "statusText": "9시간 29분 남음 [와토 랭킹] NC 선발 : 테일러통산 상대전적 vs SSG) 1경기 0승 1패 3.2이닝ERA 9.82 WHI"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "id": "659845",
-          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ 두산(+1.5) vs [H] LG :: 5/7 :: 18시 30분",
+          "title": "[🟢진행중/와토/3시간 남음] ⚾ KBO ⚾ 두산(+1.5) vs [H] LG :: 5/7 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/659845",
           "watoUrl": "https://ygosu.com/board/pan_ccy/659845/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 9분 남음 [와토 랭킹] 두산 선발 : 최민석통산 상대전적 vs LG) 1경기 0승 0패 6이닝ERA 4.50 WHIP 1."
+          "statusText": "3시간 59분 남음 [와토 랭킹] 두산 선발 : 최민석통산 상대전적 vs LG) 1경기 0승 0패 6이닝ERA 4.50 WHIP 1"
         },
         {
           "board": "mitto",
