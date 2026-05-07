@@ -1,97 +1,17 @@
 {
-  "checkedAt": "2026-05-07T02:36:05.310Z",
+  "checkedAt": "2026-05-07T02:39:52.634Z",
   "tabs": {
     "live": [],
-    "closed": [],
-    "result": [
-      {
-        "id": "659738",
-        "title": "⚽ 유로파4강 2차전 ⚽ [H]아스톤...",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659738",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659738/?s_wato=Y",
-        "tab": "result",
-        "tabName": "결과"
-      },
-      {
-        "id": "659737",
-        "title": "⚽ 유로파4강 2차전 ⚽ [H]아스톤빌라 vs 노팅엄 :: 5/8 :: 4시",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659737",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659737/?s_wato=Y",
-        "tab": "result",
-        "tabName": "결과"
-      },
-      {
-        "id": "659347",
-        "title": "🌠종족 최강전🌠우승 종족 맞추기 ::: 목요일 ::: 19시 (1)",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659347",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659347/?s_wato=Y",
-        "tab": "result",
-        "tabName": "결과"
-      },
-      {
-        "id": "659849",
-        "title": "[🟢진행중/와토/6시간 남음] ⚾ KBO ⚾ 한화(+0.5) vs [H] KIA :: 5/7 :: 18시 30분",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659849",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659849/?s_wato=Y",
-        "tab": "result",
-        "tabName": "결과"
-      },
-      {
-        "id": "659848",
-        "title": "[🟢진행중/와토/6시간 남음] ⚾ KBO ⚾ 키움(+2.5) vs [H] 삼성 :: 5/7 :: 18시 30분",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659848",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659848/?s_wato=Y",
-        "tab": "result",
-        "tabName": "결과"
-      },
-      {
-        "id": "659847",
-        "title": "[🟢진행중/와토/6시간 남음] ⚾ KBO ⚾ 롯데(+1.5) vs [H] KT :: 5/7 :: 18시 30분",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659847",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659847/?s_wato=Y",
-        "tab": "result",
-        "tabName": "결과"
-      },
-      {
-        "id": "659846",
-        "title": "[🟢진행중/와토/12시간 남음] ⚾ KBO ⚾ NC(+0.5) vs [H] SSG :: 5/7 :: 18시 30분",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659846",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659846/?s_wato=Y",
-        "tab": "result",
-        "tabName": "결과"
-      },
-      {
-        "id": "659845",
-        "title": "[🟢진행중/와토/6시간 남음] ⚾ KBO ⚾ 두산(+1.5) vs [H] LG :: 5/7 :: 18시 30분",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659845",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659845/?s_wato=Y",
-        "tab": "result",
-        "tabName": "결과"
-      },
+    "closed": [
       {
         "id": "659173",
         "title": "​🏀 NBA PO 🏀 미네소타(+8.5) vs ...",
         "articleUrl": "https://ygosu.com/board/pan_ccy/659173",
         "watoUrl": "https://ygosu.com/board/pan_ccy/659173/?s_wato=Y",
-        "tab": "result",
-        "tabName": "결과"
-      },
-      {
-        "id": "659811",
-        "title": "⚾ MLB ⚾ 피츠버그(-1.5) vs [H] 애리조나 :: 5/7 :: 10시 40분",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659811",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659811/?s_wato=Y",
-        "tab": "result",
-        "tabName": "결과"
-      },
-      {
-        "id": "659805",
-        "title": "⚾ MLB ⚾ 뉴욕메츠(-1.5) vs [H] 콜로라도 :: 5/7 :: 10시 20분",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659805",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659805/?s_wato=Y",
-        "tab": "result",
-        "tabName": "결과"
+        "tab": "closed",
+        "tabName": "마감"
       }
-    ]
+    ],
+    "result": []
   }
 }
