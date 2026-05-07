@@ -45,7 +45,7 @@ async function fetchHtml(url) {
   });
 
   if (!res.ok) {
-    throw new Error(`Fetch failed ${res.status} ${url}`);
+    throw new Error(`Fetch failed ${res.status} ${url});
   }
 
   return await res.text();
