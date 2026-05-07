@@ -1,23 +1,16 @@
 import fs from "fs";
 import * as cheerio from "cheerio";
 
-const CATEGORIES = {
-  live: {
-    name: "진행중",
-    url: "https://ygosu.com/board/pan_ccy/?s_category=C6938f1bb8fabd2.21596542"
-  },
-  closed: {
-    name: "마감",
-    url: "https://ygosu.com/board/pan_ccy/?s_category=C6938f1e977c8b5.46393728"
-  },
-  result: {
-    name: "결과",
-    url: "https://ygosu.com/board/pan_ccy/?s_category=C6833e1ff5463c0.12972472"
-  }
-};
-
-const MAX_CANDIDATES_PER_TAB = 80;
+const BOARD_URL = "https://ygosu.com/board/pan_ccy";
+const MAX_PAGES = 2;
+const MAX_CANDIDATES = 120;
 const DELAY_MS = 350;
+
+const TAB_NAMES = {
+  live: "진행중",
+  closed: "마감",
+  result: "결과"
+};
 
 const BLOCK_TITLE_KEYWORDS = [
   "📢",
@@ -28,7 +21,7 @@ const BLOCK_TITLE_KEYWORDS = [
   "대진표",
   "선점룰",
   "진출자",
-  "플레이오프 대진표",
+  "플레이오프",
   "가이드",
   "안내",
   "필독",
@@ -65,7 +58,7 @@ function shouldBlockByTitle(title) {
   return BLOCK_TITLE_KEYWORDS.some(k => t.includes(k));
 }
 
-function parseCandidates(html, tab) {
+function parseCandidatesFromList(html) {
   const $ = cheerio.load(html);
   const items = [];
 
@@ -104,16 +97,30 @@ function parseCandidates(html, tab) {
     items.push({
       id,
       title,
-      tab,
-      tabName: CATEGORIES[tab].name,
-      articleUrl: `https://ygosu.com/board/pan_ccy/${id}`,
-      watoUrl: `https://ygosu.com/board/pan_ccy/${id}/?s_wato=Y`
+      articleUrl: `${BOARD_URL}/${id}`,
+      watoUrl: `${BOARD_URL}/${id}/?s_wato=Y`
     });
   });
 
-  return Array.from(new Map(items.map(v => [v.id, v])).values()).slice(
+  return items;
+}
+
+async function collectCandidates() {
+  const all = [];
+
+  for (let page = 1; page <= MAX_PAGES; page++) {
+    const url = `${BOARD_URL}?page=${page}`;
+    console.log(`[목록] page=${page} ${url}`);
+
+    const html = await fetchHtml(url);
+    all.push(...parseCandidatesFromList(html));
+
+    await sleep(DELAY_MS);
+  }
+
+  return Array.from(new Map(all.map(v => [v.id, v])).values()).slice(
     0,
-    MAX_CANDIDATES_PER_TAB
+    MAX_CANDIDATES
   );
 }
 
@@ -138,57 +145,65 @@ function isWatoPageText(text) {
 
   const signalCount = requiredSignals.filter(k => t.includes(k)).length;
 
-  const hasBettingState =
-    t.includes("무효 처리됨") ||
-    t.includes("진행중") ||
-    t.includes("마감") ||
-    t.includes("정산") ||
-    t.includes("적중") ||
-    t.includes("미적중");
-
-  return signalCount >= 3 && hasBettingState;
+  return signalCount >= 3;
 }
 
-async function isRealWato(item) {
-  if (shouldBlockByTitle(item.title)) return false;
+function detectWatoStatus(text) {
+  const t = normalizeText(text);
+
+  if (
+    t.includes("적중") ||
+    t.includes("미적중") ||
+    t.includes("정산 완료") ||
+    t.includes("정산완료") ||
+    t.includes("결과 처리됨")
+  ) {
+    return "result";
+  }
+
+  if (
+    t.includes("진행 상태: 마감") ||
+    t.includes("진행 상태 : 마감") ||
+    t.includes("마감 처리됨") ||
+    t.includes("마감됨") ||
+    t.includes("베팅 마감")
+  ) {
+    return "closed";
+  }
+
+  if (
+    t.includes("진행 상태: 진행중") ||
+    t.includes("진행 상태 : 진행중") ||
+    t.includes("진행 상태: 진행") ||
+    t.includes("베팅 가능")
+  ) {
+    return "live";
+  }
+
+  return null;
+}
+
+async function verifyAndClassify(item) {
+  if (shouldBlockByTitle(item.title)) return null;
 
   try {
     const html = await fetchHtml(item.watoUrl);
     const text = normalizeText(html);
 
-    return isWatoPageText(text);
-  } catch (e) {
+    if (!isWatoPageText(text)) return null;
+
+    const detectedTab = detectWatoStatus(text);
+    if (!detectedTab) return null;
+
+    return {
+      ...item,
+      tab: detectedTab,
+      tabName: TAB_NAMES[detectedTab]
+    };
+  } catch {
     console.warn(`[검증실패] ${item.id} ${item.title}`);
-    return false;
+    return null;
   }
-}
-
-async function collectTab(tab) {
-  const category = CATEGORIES[tab];
-  console.log(`\n[${category.name}] 목록 수집 시작`);
-
-  const html = await fetchHtml(category.url);
-  const candidates = parseCandidates(html, tab);
-
-  console.log(`[${category.name}] 후보 ${candidates.length}개`);
-
-  const realWatos = [];
-
-  for (const item of candidates) {
-    const ok = await isRealWato(item);
-
-    if (ok) {
-      realWatos.push(item);
-      console.log(`  OK   ${item.id} ${item.title}`);
-    } else {
-      console.log(`  SKIP ${item.id} ${item.title}`);
-    }
-
-    await sleep(DELAY_MS);
-  }
-
-  console.log(`[${category.name}] 최종 ${realWatos.length}개`);
-  return realWatos;
 }
 
 async function main() {
@@ -201,8 +216,21 @@ async function main() {
     }
   };
 
-  for (const tab of Object.keys(CATEGORIES)) {
-    result.tabs[tab] = await collectTab(tab);
+  console.log("[시작] 후보 수집");
+  const candidates = await collectCandidates();
+  console.log(`[후보] ${candidates.length}개`);
+
+  for (const item of candidates) {
+    const classified = await verifyAndClassify(item);
+
+    if (classified) {
+      result.tabs[classified.tab].push(classified);
+      console.log(`OK ${classified.tabName} ${classified.id} ${classified.title}`);
+    } else {
+      console.log(`SKIP ${item.id} ${item.title}`);
+    }
+
+    await sleep(DELAY_MS);
   }
 
   fs.mkdirSync("public/data", { recursive: true });
