@@ -16,8 +16,28 @@ const CATEGORIES = {
   }
 };
 
-const MAX_CANDIDATES_PER_TAB = 50;
-const DELAY_MS = 400;
+const MAX_CANDIDATES_PER_TAB = 80;
+const DELAY_MS = 350;
+
+const BLOCK_TITLE_KEYWORDS = [
+  "📢",
+  "공지",
+  "규정",
+  "이용 규정",
+  "일정",
+  "대진표",
+  "선점룰",
+  "진출자",
+  "플레이오프 대진표",
+  "가이드",
+  "안내",
+  "필독",
+  "이벤트",
+  "업데이트",
+  "요청",
+  "문의",
+  "건의"
+];
 
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
@@ -32,15 +52,17 @@ async function fetchHtml(url) {
     }
   });
 
-  if (!res.ok) {
-    throw new Error(`Fetch failed ${res.status} ${url}`);
-  }
-
+  if (!res.ok) throw new Error(`Fetch failed ${res.status} ${url}`);
   return await res.text();
 }
 
 function normalizeText(text) {
   return String(text || "").replace(/\s+/g, " ").trim();
+}
+
+function shouldBlockByTitle(title) {
+  const t = normalizeText(title);
+  return BLOCK_TITLE_KEYWORDS.some(k => t.includes(k));
 }
 
 function parseCandidates(html, tab) {
@@ -52,17 +74,15 @@ function parseCandidates(html, tab) {
     const title = normalizeText($(el).text());
     const match = href.match(/\/board\/pan_ccy\/(\d+)/);
 
-    if (!match) return;
-    if (!title) return;
+    if (!match || !title) return;
 
     const id = match[1];
 
-    // 너무 짧은 이상값 제거
     if (id.length < 5) return;
-    if (title.length < 3) return;
+    if (title.length < 4) return;
+    if (shouldBlockByTitle(title)) return;
 
-    // 메뉴/탭/잡링크 제거
-    const badTitles = [
+    const menuTitles = [
       "전체",
       "인기",
       "와토",
@@ -70,13 +90,16 @@ function parseCandidates(html, tab) {
       "진행중",
       "마감",
       "결과",
+      "사진/영상",
+      "정보",
       "공지",
       "이벤트",
-      "즐겨찾기",
+      "관리자공지",
+      "콘텐츠 추천",
       "미네랄창고"
     ];
 
-    if (badTitles.includes(title)) return;
+    if (menuTitles.includes(title)) return;
 
     items.push({
       id,
@@ -94,25 +117,46 @@ function parseCandidates(html, tab) {
   );
 }
 
+function isWatoPageText(text) {
+  const t = normalizeText(text);
+
+  if (
+    t.includes("게시글이 존재하지 않습니다") ||
+    t.includes("삭제된 게시글") ||
+    t.includes("권한이 없습니다")
+  ) {
+    return false;
+  }
+
+  const requiredSignals = [
+    "참여현황",
+    "총 미네랄",
+    "참여연속수",
+    "마감 시각",
+    "진행 상태"
+  ];
+
+  const signalCount = requiredSignals.filter(k => t.includes(k)).length;
+
+  const hasBettingState =
+    t.includes("무효 처리됨") ||
+    t.includes("진행중") ||
+    t.includes("마감") ||
+    t.includes("정산") ||
+    t.includes("적중") ||
+    t.includes("미적중");
+
+  return signalCount >= 3 && hasBettingState;
+}
+
 async function isRealWato(item) {
+  if (shouldBlockByTitle(item.title)) return false;
+
   try {
     const html = await fetchHtml(item.watoUrl);
     const text = normalizeText(html);
 
-    const hasWatoBox =
-      text.includes("참여현황") ||
-      text.includes("총 미네랄") ||
-      text.includes("마감 시각") ||
-      text.includes("진행 상태") ||
-      text.includes("베팅") ||
-      text.includes("미네랄");
-
-    const isNotNormalArticle =
-      !text.includes("게시글이 존재하지 않습니다") &&
-      !text.includes("삭제된 게시글") &&
-      !text.includes("권한이 없습니다");
-
-    return hasWatoBox && isNotNormalArticle;
+    return isWatoPageText(text);
   } catch (e) {
     console.warn(`[검증실패] ${item.id} ${item.title}`);
     return false;
@@ -135,7 +179,7 @@ async function collectTab(tab) {
 
     if (ok) {
       realWatos.push(item);
-      console.log(`  OK  ${item.id} ${item.title}`);
+      console.log(`  OK   ${item.id} ${item.title}`);
     } else {
       console.log(`  SKIP ${item.id} ${item.title}`);
     }
