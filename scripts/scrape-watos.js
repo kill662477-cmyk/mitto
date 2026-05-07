@@ -143,20 +143,16 @@ function extractStatusText(text) {
     .trim();
 }
 
-function detectWatoStatus(text) {
-  const statusText = extractStatusText(text);
+const statusText = String(status || "").replace(/\s+/g, "");
 
-  if (!statusText) return null;
+let tab = "live";
 
-  if (
-  s.includes("진행") ||
-  s.includes("남은시간")
-) {
-  tab = "live"; }
-  if (statusText.includes("마감됨")) return "closed";
-  if (statusText.includes("종료됨")) return "result";
-
-  return null;
+if (statusText.includes("마감")) {
+  tab = "closed";
+} else if (statusText.includes("종료") || statusText.includes("결과")) {
+  tab = "result";
+} else if (statusText.includes("진행") || statusText.includes("남은시간")) {
+  tab = "live";
 }
 
 async function verifyAndClassify(item) {
