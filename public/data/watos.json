@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-07T23:00:34.027Z",
+  "checkedAt": "2026-05-07T23:10:28.500Z",
   "boards": {
     "mitto": {
       "live": [
@@ -12,32 +12,32 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/660092/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 29분 남음 [와토 랭킹] 배당 1.35미만 적특 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역"
+          "statusText": "2시간 19분 남음 [와토 랭킹] 배당 1.35미만 적특 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "id": "660411",
-          "title": "[🟢진행중/와토/3시간 남음] ⚾ MLB ⚾ 세인트루이스(+1.5) vs [H]샌디에이고 :: 5/8 :: 11시 10분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 세인트루이스(+1.5) vs [H]샌디에이고 :: 5/8 :: 11시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660411",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660411/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 9분 남음 [와토 랭킹] 세인트루이스 선발 : 매튜 리베라토어올시즌 ) 7경기 1승 1패 36.0이닝 23K ERA 4.50"
-        },
+          "statusText": "2시간 59분 남음 [와토 랭킹] 세인트루이스 선발 : 매튜 리베라토어올시즌 ) 7경기 1승 1패 36.0이닝 23K ERA 4.5"
+        }
+      ],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "id": "660406",
-          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ 탬파베이 vs [H] 보스턴 :: 5/8 :: 8시 10분",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 탬파베이 vs [H] 보스턴 :: 5/8 :: 8시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660406",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660406/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "9분 1초 남음 [와토 랭킹] 탬파베이 선발 : 그리핀 잭스올시즌 ) 13경기 1승 2패 2홀드 14.0이닝 14K ERA 5.14"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감됨 [와토 랭킹] 탬파베이 선발 : 그리핀 잭스올시즌 ) 13경기 1승 2패 2홀드 14.0이닝 14K ERA 5.14 WHIP"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -836,7 +836,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1371616/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 묵햄 방송 킬시 마감 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기"
+          "statusText": "종료됨 [와토 랭킹] 묵햄 방송 킬시 마감 new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"p"
         },
         {
           "board": "monstarz",
@@ -847,7 +847,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1371592/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추천한"
+          "statusText": "종료됨 [와토 랭킹] new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":\"W\""
         },
         {
           "board": "monstarz",
@@ -880,7 +880,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1371302/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":\"W\""
+          "statusText": "종료됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추천한"
         },
         {
           "board": "monstarz",
@@ -891,7 +891,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1371244/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 1.35미만은 제가 걸어드림 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다."
+          "statusText": "종료됨 [와토 랭킹] 1.35미만은 제가 걸어드림 new HawkEyes({\"type\":\"banner\",\"responsive\":\"N"
         },
         {
           "board": "monstarz",
@@ -902,7 +902,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1371198/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 배당 1.4미만은 제가 맞춰드림 new HawkEyes({\"type\":\"banner\",\"responsive\":"
+          "statusText": "종료됨 [와토 랭킹] 배당 1.4미만은 제가 맞춰드림 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니"
         },
         {
           "board": "monstarz",
@@ -946,7 +946,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1362792/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 경기시작시 마로 마감 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기"
+          "statusText": "종료됨 [와토 랭킹] 경기시작시 마로 마감 new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"p"
         },
         {
           "board": "monstarz",
@@ -979,7 +979,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1358485/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 랄 받을신분들은 참가하세요 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다."
+          "statusText": "종료됨 [와토 랭킹] 랄 받을신분들은 참가하세요 new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\""
         },
         {
           "board": "monstarz",
@@ -990,7 +990,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1346114/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추천한"
+          "statusText": "종료됨 [와토 랭킹] new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":\"W\""
         },
         {
           "board": "monstarz",
@@ -1012,7 +1012,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1345566/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] https://drhredgdg.github.io/game/game.html 추천인 상세 보기 비추천인 상세"
+          "statusText": "종료됨 [와토 랭킹] https://drhredgdg.github.io/game/game.html new HawkEyes({\"typ"
         },
         {
           "board": "monstarz",
@@ -1023,7 +1023,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1345556/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] https://drhredgdg.github.io/game/game.html51분꺼로함 50분마감 new Ha"
+          "statusText": "종료됨 [와토 랭킹] https://drhredgdg.github.io/game/game.html51분꺼로함 50분마감 추천인 상세"
         },
         {
           "board": "monstarz",
@@ -1034,7 +1034,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1345375/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 배당적특 X방송 시작시간 와토 정산 5분 후 마감정확히 13333시 오버 정산 추천인 상세 보기 비추천인 상세"
+          "statusText": "종료됨 [와토 랭킹] 배당적특 X방송 시작시간 와토 정산 5분 후 마감정확히 13333시 오버 정산 new HawkEyes({\"ty"
         },
         {
           "board": "monstarz",
@@ -1045,7 +1045,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1345327/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추천한"
+          "statusText": "종료됨 [와토 랭킹] new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":\"W\""
         },
         {
           "board": "monstarz",
@@ -1056,7 +1056,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1340564/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 수장중 한명 방송켤시에 종료 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다."
+          "statusText": "종료됨 [와토 랭킹] 수장중 한명 방송켤시에 종료 new HawkEyes({\"type\":\"banner\",\"responsive\":\"N"
         },
         {
           "board": "monstarz",
@@ -1067,7 +1067,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1339272/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 주양 송이 하랑 수범 먼진 Vs두두 준오 파도 마토 조이첫겜시작하면마감배당보호× 추천인 상세 보기 비추천인 상"
+          "statusText": "종료됨 [와토 랭킹] 주양 송이 하랑 수범 먼진 Vs두두 준오 파도 마토 조이첫겜시작하면마감배당보호× new HawkEyes({\"t"
         },
         {
           "board": "monstarz",
@@ -1078,7 +1078,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1334712/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 1경기 시작시 마감 new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"pl"
+          "statusText": "종료됨 [와토 랭킹] 1경기 시작시 마감 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이"
         },
         {
           "board": "monstarz",
@@ -1089,7 +1089,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1334705/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":\"W\""
+          "statusText": "종료됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추천한"
         },
         {
           "board": "monstarz",
@@ -1111,7 +1111,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1334326/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":\"W\""
+          "statusText": "종료됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추천한"
         },
         {
           "board": "monstarz",
@@ -1122,7 +1122,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1334026/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":\"W\""
+          "statusText": "종료됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추천한"
         },
         {
           "board": "monstarz",
@@ -1133,7 +1133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1331423/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":\"W\""
+          "statusText": "종료됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추천한"
         },
         {
           "board": "monstarz",
@@ -1155,7 +1155,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1328962/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추천한"
+          "statusText": "종료됨 [와토 랭킹] new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":\"W\""
         },
         {
           "board": "monstarz",
@@ -1188,7 +1188,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1326992/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 땅콩이 에결에 다박고,,, 구걸좀 할려고 비상금 꺼내왔습니다(수수료 절약) new HawkEyes({\"type"
+          "statusText": "종료됨 [와토 랭킹] 땅콩이 에결에 다박고,,, 구걸좀 할려고 비상금 꺼내왔습니다(수수료 절약) 추천인 상세 보기 비추천인 상세 보"
         },
         {
           "board": "monstarz",
@@ -1221,7 +1221,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1320282/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추천한"
+          "statusText": "종료됨 [와토 랭킹] new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":\"W\""
         },
         {
           "board": "monstarz",
@@ -1232,7 +1232,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1320218/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":\"W\""
+          "statusText": "종료됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추천한"
         },
         {
           "board": "monstarz",
@@ -1287,7 +1287,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1319068/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":\"W\""
+          "statusText": "종료됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추천한"
         },
         {
           "board": "monstarz",
@@ -1309,7 +1309,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1319051/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":\"W\""
+          "statusText": "종료됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추천한"
         },
         {
           "board": "monstarz",
@@ -1331,7 +1331,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1319023/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] ㅠ new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":\""
+          "statusText": "종료됨 [와토 랭킹] ㅠ 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추천"
         }
       ]
     }
