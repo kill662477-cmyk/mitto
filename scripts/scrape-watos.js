@@ -266,8 +266,8 @@ async function collectBoard(boardKey) {
   for (const item of candidates) {
     const classified = await verifyAndClassify(item);
 
-    if (classified) {
-      grouped[classified.tab].push(classified);
+    if (classified && grouped[classified.tab]) {
+  grouped[classified.tab].push(classified);
 
       console.log(
         "OK " +
