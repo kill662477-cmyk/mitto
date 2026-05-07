@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-07T15:50:32.517Z",
+  "checkedAt": "2026-05-07T16:30:35.062Z",
   "boards": {
     "mitto": {
       "live": [
@@ -12,7 +12,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/660091/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 9분 남음 [와토 랭킹] 배당 1.35미만 적특 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입"
+          "statusText": "6시간 29분 남음 [와토 랭킹] 배당 1.35미만 적특 new HawkEyes({\"type\":\"banner\",\"responsive"
         },
         {
           "board": "mitto",
@@ -23,7 +23,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/660092/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 39분 남음 [와토 랭킹] 배당 1.35미만 적특 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역"
+          "statusText": "8시간 59분 남음 [와토 랭킹] 배당 1.35미만 적특 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역"
         },
         {
           "board": "mitto",
@@ -34,7 +34,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/659738/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 9분 남음 [와토 랭킹] 1.35미만 적특 연장미포함1차전 0-1(노팅엄 승) 추천인 상세 보기 비추천인 상세 보기 닫기 이"
+          "statusText": "2시간 29분 남음 [와토 랭킹] 1.35미만 적특 연장미포함1차전 0-1(노팅엄 승) 추천인 상세 보기 비추천인 상세 보기 닫기"
         },
         {
           "board": "mitto",
@@ -45,7 +45,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/659737/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 9분 남음 [와토 랭킹] 배당보호X노핸디매치연장미포함1차전 0-1(노팅엄 승) 추천인 상세 보기 비추천인 상세 보기 닫기 이"
+          "statusText": "2시간 29분 남음 [와토 랭킹] 배당보호X노핸디매치연장미포함1차전 0-1(노팅엄 승) 추천인 상세 보기 비추천인 상세 보기 닫기"
         },
         {
           "board": "mitto",
@@ -105,68 +105,24 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "id": "660452",
-          "title": "[와토/진행] 🌠메프 2세트🌠 5경기 윤철팀 vs 재호팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/660452",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/660452/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로 해당경"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "660451",
-          "title": "[와토/진행] 🌠메프 2세트🌠 4경기 윤철팀 vs 재호팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/660451",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/660451/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로 해당경"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "660450",
-          "title": "[와토/진행] 🌠메프 2세트🌠 3경기 윤철팀 vs 재호팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/660450",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/660450/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로 해당경"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "660446",
-          "title": "[와토/무효] 🌠메프 1세트🌠 7경기 윤철팀 vs 재호팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/660446",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/660446/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
           "id": "660411",
-          "title": "[🟢진행중/와토/10시간 남음] ⚾ MLB ⚾ 세인트루이스(+1.5) vs [H]샌디에이고 :: 5/8 :: 11시 10분",
+          "title": "[🟢진행중/와토/9시간 남음] ⚾ MLB ⚾ 세인트루이스(+1.5) vs [H]샌디에이고 :: 5/8 :: 11시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660411",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660411/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 19분 남음 [와토 랭킹] 세인트루이스 선발 : 매튜 리베라토어올시즌 ) 7경기 1승 1패 36.0이닝 23K ERA 4."
+          "statusText": "9시간 39분 남음 [와토 랭킹] 세인트루이스 선발 : 매튜 리베라토어올시즌 ) 7경기 1승 1패 36.0이닝 23K ERA 4.5"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "id": "660406",
-          "title": "[🟢진행중/와토/7시간 남음] ⚾ MLB ⚾ 탬파베이 vs [H] 보스턴 :: 5/8 :: 8시 10분",
+          "title": "[🟢진행중/와토/6시간 남음] ⚾ MLB ⚾ 탬파베이 vs [H] 보스턴 :: 5/8 :: 8시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660406",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660406/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 19분 남음 [와토 랭킹] 탬파베이 선발 : 그리핀 잭스올시즌 ) 13경기 1승 2패 2홀드 14.0이닝 14K ERA 5."
+          "statusText": "6시간 39분 남음 [와토 랭킹] 탬파베이 선발 : 그리핀 잭스올시즌 ) 13경기 1승 2패 2홀드 14.0이닝 14K ERA 5."
         },
         {
           "board": "mitto",
@@ -177,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/660394/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 48분 남음 [와토 랭킹] 애슬레틱스 선발 : J.T. 긴올시즌 ) 8경기 0승 1패 29.1이닝 23K ERA 4.30 W"
+          "statusText": "6시간 8분 남음 [와토 랭킹] 애슬레틱스 선발 : J.T. 긴올시즌 ) 8경기 0승 1패 29.1이닝 23K ERA 4.30 WH"
         },
         {
           "board": "mitto",
@@ -188,7 +144,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/660391/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 48분 남음 [와토 랭킹] 볼티모어 선발 : 케이드 포비치올시즌 ) 3경기 1승 1패 16.1이닝 11K ERA 4.41 W"
+          "statusText": "6시간 8분 남음 [와토 랭킹] 볼티모어 선발 : 케이드 포비치올시즌 ) 3경기 1승 1패 16.1이닝 11K ERA 4.41 WH"
         },
         {
           "board": "mitto",
@@ -199,303 +155,72 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/660304/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 48분 남음 [와토 랭킹] 피츠버그 선발 : 미치 켈러올시즌 ) 7경기 3승 1패 41.0이닝 31K ERA 2.85 WHI"
+          "statusText": "3시간 8분 남음 [와토 랭킹] 피츠버그 선발 : 미치 켈러올시즌 ) 7경기 3승 1패 41.0이닝 31K ERA 2.85 WHIP"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "id": "660297",
-          "title": "[🟢진행중/와토/3시간 남음] ⚾ MLB ⚾ 뉴욕메츠(-1.5) vs [H] 콜로라도 :: 5/8 :: 4시 10분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 뉴욕메츠(-1.5) vs [H] 콜로라도 :: 5/8 :: 4시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660297",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660297/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 18분 남음 [와토 랭킹] 뉴욕 메츠 선발 : 크리스티안 스콧올시즌 ) 2경기 0승 0패 6.1이닝 9K ERA 4.26 W"
+          "statusText": "2시간 38분 남음 [와토 랭킹] 뉴욕 메츠 선발 : 크리스티안 스콧올시즌 ) 2경기 0승 0패 6.1이닝 9K ERA 4.26 W"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "id": "660291",
-          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 신시내티(+1.5) vs [H] 시카고컵스 :: 5/8 :: 3시 20분",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 신시내티(+1.5) vs [H] 시카고컵스 :: 5/8 :: 3시 20분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660291",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660291/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 28분 남음 [와토 랭킹] 신시내티 선발 : 레트 로더올시즌 ) 7경기 3승 2패 35.1이닝 26K ERA 5.09 WHI"
+          "statusText": "1시간 48분 남음 [와토 랭킹] 신시내티 선발 : 레트 로더올시즌 ) 7경기 3승 2패 35.1이닝 26K ERA 5.09 WHI"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "id": "660275",
-          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 클리블랜드 vs [H] 캔자스시티 :: 5/8 :: 3시 10분",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 클리블랜드 vs [H] 캔자스시티 :: 5/8 :: 3시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660275",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660275/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 18분 남음 [와토 랭킹] 클리블랜드 선발 : 슬레이드 셰코니올시즌 ) 7경기 1승 4패 35.2이닝 28K ERA 6.56"
+          "statusText": "1시간 38분 남음 [와토 랭킹] 클리블랜드 선발 : 슬레이드 셰코니올시즌 ) 7경기 1승 4패 35.2이닝 28K ERA 6.56"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "id": "660269",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 미네소타 vs [H] 워싱턴 :: 5/8 :: 2시 5분",
+          "title": "[🟢진행중/와토/34분 남음] ⚾ MLB ⚾ 미네소타 vs [H] 워싱턴 :: 5/8 :: 2시 5분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660269",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660269/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 13분 남음 [와토 랭킹] 미네소타 선발 : 시메온 우즈 리차드슨올시즌 ) 7경기 0승 5패 34.2이닝 17K ERA 6."
+          "statusText": "33분 34초 남음 [와토 랭킹] 미네소타 선발 : 시메온 우즈 리차드슨올시즌 ) 7경기 0승 5패 34.2이닝 17K ERA 6."
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "id": "660264",
-          "title": "[🟢진행중/와토/44분 남음] ⚾ MLB ⚾ 텍사스(+1.5) vs [H] 뉴욕양키스 :: 5/8 :: 1시 35분",
+          "title": "[🟢진행중/와토/4분 남음] ⚾ MLB ⚾ 텍사스(+1.5) vs [H] 뉴욕양키스 :: 5/8 :: 1시 35분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660264",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660264/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "43분 27초 남음 [와토 랭킹] 텍사스 선발 : 맥켄지 고어올시즌 ) 7경기 2승 2패 34.2이닝 45K ERA 4.67 WHI"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659847",
-          "title": "[🔴결과/와토/무효] ⚾ KBO ⚾ 롯데(+1.5) vs [H] KT :: 5/7 :: 18시 30분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659847",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659847/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] 롯데 선발 : 박세웅통산 상대전적 vs KT) 44경기 16승 9패 232이닝ERA 4.07 WHIP 1"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659428",
-          "title": "[와토/무효] 🌠메프 2세트🌠 9경기 윤철팀 vs 짭제팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659428",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659428/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659427",
-          "title": "[와토/무효] 🌠메프 2세트🌠 8경기 윤철팀 vs 짭제팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659427",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659427/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659397",
-          "title": "[와토/무효] ㅁㅎ",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659397",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659397/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659395",
-          "title": "[와토/무효] ㅁㅎ",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659395",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659395/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659394",
-          "title": "[와토/무효] ㅁㅎ",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659394",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659394/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659393",
-          "title": "[와토/무효] ㅁㅎ",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659393",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659393/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659392",
-          "title": "[와토/무효] ㅁㅎ",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659392",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659392/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659391",
-          "title": "[와토/무효] ㅁㅎ",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659391",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659391/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659390",
-          "title": "[와토/무효] ㅁㅎ",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659390",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659390/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659389",
-          "title": "[와토/무효] ㅁㅎ",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659389",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659389/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659388",
-          "title": "[와토/무효] ㅁㅎ",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659388",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659388/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659387",
-          "title": "[와토/무효] ㅁㅎ",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659387",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659387/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659386",
-          "title": "[와토/무효] ㅁㅎ",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659386",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659386/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659385",
-          "title": "[와토/무효] ㅁㅎ",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659385",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659385/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659384",
-          "title": "[와토/무효] ㅁㅎ",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659384",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659384/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659383",
-          "title": "[와토/무효] ㅁㅎ",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659383",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659383/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659382",
-          "title": "[와토/무효] ㅁㅎ",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659382",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659382/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659381",
-          "title": "[와토/무효] ㅁㅎ",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659381",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659381/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659380",
-          "title": "[와토/무효] ㅁㅎ",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659380",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659380/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659379",
-          "title": "[와토/무효] 💎 김민철 vs 김지성 끝장전 3경기 💎",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659379",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659379/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추"
+          "statusText": "3분 31초 남음 [와토 랭킹] 텍사스 선발 : 맥켄지 고어올시즌 ) 7경기 2승 2패 34.2이닝 45K ERA 4.67 WHIP"
         }
       ],
       "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
-          "id": "660449",
-          "title": "[와토/마감] 🌠메프 2세트🌠 2경기 택용 vs 일장",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/660449",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/660449/?s_wato=Y",
+          "id": "660452",
+          "title": "[와토/마감] 🌠메프 2세트🌠 5경기 정우 vs 재호",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/660452",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/660452/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로 해당경"
@@ -509,7 +234,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/660268/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
-          "statusText": "진행중 [와토 랭킹] 밴픽마감/배당적특X 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이"
+          "statusText": "진행중 [와토 랭킹] 밴픽마감/배당적특X new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"pl"
         },
         {
           "board": "mitto",
@@ -520,7 +245,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/660266/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
-          "statusText": "진행중 [와토 랭킹] 밴픽마감/배당적특X 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이"
+          "statusText": "진행중 [와토 랭킹] 밴픽마감/배당적특X new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"pl"
         },
         {
           "board": "mitto",
@@ -542,7 +267,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/660261/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
-          "statusText": "진행중 [와토 랭킹] 밴픽마감/배당적특X 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이"
+          "statusText": "진행중 [와토 랭킹] 밴픽마감/배당적특X new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"pl"
         },
         {
           "board": "mitto",
@@ -553,7 +278,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/660260/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
-          "statusText": "진행중 [와토 랭킹] 밴픽마감/배당적특X 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이"
+          "statusText": "진행중 [와토 랭킹] 밴픽마감/배당적특X new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"pl"
         },
         {
           "board": "mitto",
@@ -575,7 +300,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/659998/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
-          "statusText": "진행중 [와토 랭킹] 배당 적특 X밴픽 시작 시 마감 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니"
+          "statusText": "진행중 [와토 랭킹] 배당 적특 X밴픽 시작 시 마감 new HawkEyes({\"type\":\"banner\",\"responsive\":"
         },
         {
           "board": "mitto",
@@ -586,7 +311,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/659997/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
-          "statusText": "진행중 [와토 랭킹] 배당 적특 X밴픽 시작 시 마감 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니"
+          "statusText": "진행중 [와토 랭킹] 배당 적특 X밴픽 시작 시 마감 new HawkEyes({\"type\":\"banner\",\"responsive\":"
         },
         {
           "board": "mitto",
@@ -597,7 +322,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/659996/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
-          "statusText": "진행중 [와토 랭킹] 배당 적특 X1경기 밴픽 시작 시 마감 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의"
+          "statusText": "진행중 [와토 랭킹] 배당 적특 X1경기 밴픽 시작 시 마감 new HawkEyes({\"type\":\"banner\",\"responsi"
         },
         {
           "board": "mitto",
@@ -609,86 +334,42 @@
           "tab": "closed",
           "tabName": "마감",
           "statusText": "진행중 [와토 랭킹] 배당 적특 X1경기 밴픽 시작 시 마감 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659347",
-          "title": "[🔴결과/와토/종료] 🌠종족 최강전🌠우승 종족 맞추기 ::: 목요일 ::: 19시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659347",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659347/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 배당보호X19시 자동마감 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659191",
-          "title": "[🔴결과/와토/무효] 🏆LCK또또🏆 한진브리온(+4.5) vs BFX 3세트 ::: 킬핸디",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659191",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659191/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "무효 처리됨 [와토 랭킹] 밴픽마감/배당적특X 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659190",
-          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆 한진브리온(+4.5) vs BFX 2세트 ::: 킬핸디",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659190",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659190/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 밴픽마감/배당적특X 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659188",
-          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆 한진브리온(+4.5) vs BFX 1세트 ::: 킬핸디",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659188",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659188/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 밴픽마감/배당적특X 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659186",
-          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆 한진브리온 vs BFX 풀세트(B) ::: 19시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659186",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659186/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 밴픽마감/배당적특X 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659185",
-          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆 한진브리온 vs BFX 풀세트(A) ::: 19시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659185",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659185/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 밴픽마감/배당적특X 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659149",
-          "title": "[🔴결과/와토/무효] 🏆LCK또또🏆3세트 ::: DK vs KT 💥킬핸디 X💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659149",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659149/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "무효 처리됨 [와토 랭킹] 배당 적특 X밴픽 시작 시 마감 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내"
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "id": "660451",
+          "title": "[와토/종료] 🌠메프 2세트🌠 4경기 지성 vs 재호",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/660451",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/660451/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로 해당경"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "id": "660450",
+          "title": "[와토/종료] 🌠메프 2세트🌠 3경기 지성 vs 일장",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/660450",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/660450/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로 해당경"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "id": "660449",
+          "title": "[와토/종료] 🌠메프 2세트🌠 2경기 택용 vs 일장",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/660449",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/660449/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특) 한다.제목이 틀려도 그대로 해당경"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -1000,6 +681,17 @@
         {
           "board": "mitto",
           "boardName": "미또게",
+          "id": "659347",
+          "title": "[🔴결과/와토/종료] 🌠종족 최강전🌠우승 종족 맞추기 ::: 목요일 ::: 19시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/659347",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/659347/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료됨 [와토 랭킹] 배당보호X19시 자동마감 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
           "id": "659342",
           "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 클리블랜드 vs [H] 캔자스시티 :: 5/7 :: 8시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/659342",
@@ -1029,6 +721,50 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료됨 [와토 랭킹] 보스턴 선발 : 소니 그레이올시즌 ) 5경기 2승 1패 23.0이닝 13K ERA 4.30 WHIP 1.30"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "id": "659190",
+          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆 한진브리온(+4.5) vs BFX 2세트 ::: 킬핸디",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/659190",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/659190/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료됨 [와토 랭킹] 밴픽마감/배당적특X 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "id": "659188",
+          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆 한진브리온(+4.5) vs BFX 1세트 ::: 킬핸디",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/659188",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/659188/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료됨 [와토 랭킹] 밴픽마감/배당적특X new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"pl"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "id": "659186",
+          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆 한진브리온 vs BFX 풀세트(B) ::: 19시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/659186",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/659186/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료됨 [와토 랭킹] 밴픽마감/배당적특X new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"pl"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "id": "659185",
+          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆 한진브리온 vs BFX 풀세트(A) ::: 19시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/659185",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/659185/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료됨 [와토 랭킹] 밴픽마감/배당적특X new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"pl"
         },
         {
           "board": "mitto",
@@ -1110,174 +846,9 @@
       ]
     },
     "monstarz": {
-      "live": [
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1373347",
-          "title": "[또또/와토/무효] 묵햄 츠캄 나간다 안 나간다 와토 열게 ㄹㅇ",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1373347",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1373347/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] 기간은 발표 나기 전까지 ㄹㅇ; 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1367211",
-          "title": "[또또/와토/무효] 박수범 자퇴시점 스승의날 언더 오버",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1367211",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1367211/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] 과연 그는 숙제를 할것인가 new HawkEyes({\"type\":\"banner\",\"responsive\":"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1363401",
-          "title": "[와토/무효] [백만랄만 베팅 ㄱ]윤환이형 찐막 승패",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1363401",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1363401/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] 백만랄만 베팅 ㄱ맵 : 실피드 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1344432",
-          "title": "[와토/무효] 랄점",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1344432",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1344432/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1341152",
-          "title": "[와토/무효] ✨낭아가 종족 와토✨",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1341152",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1341152/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] 오늘 미정시 취소하고 추후 다시 편하게ㄱㄱ똥배당시 임의로 취소 추천인 상세 보기 비추천인 상세 보기 닫기"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1336418",
-          "title": "[와토/무효] 오늘 1억 올인하게 랄 적선좀 해주실 형님들 있으신가요.....",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1336418",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1336418/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1334674",
-          "title": "[와토/무효] 1000씩 걸어주세요 님들 다시 ㄱㄱ",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1334674",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1334674/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] 사유)와접은 아니고 바빠져서 눈팅만 할라고용 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1334670",
-          "title": "[와토/무효] 소소하지만 1억기부하고 갑니다",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1334670",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1334670/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] 눈팅 추천만 할게용 new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\","
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1331389",
-          "title": "[와토/무효] 시발련들아 약속 나가기전에 랄 좀",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1331389",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1331389/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1330042",
-          "title": "[와토/무효] 남는 랄 좀 주실분",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1330042",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1330042/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] 주신 랄은 소중한 곳에 쓰도록 하겠습니다 new HawkEyes({\"type\":\"banner\",\"resp"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1329956",
-          "title": "[와토/무효] 드루와 ㄹㅇ",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1329956",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1329956/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1328440",
-          "title": "[와토/무효] 아까 산사 두명",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1328440",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1328440/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] 솔직히 신사인지는 모르지만 크흠 new HawkEyes({\"type\":\"banner\",\"responsiv"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1322532",
-          "title": "[와토/무효] 랄점",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1322532",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1322532/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] ㄹㅇ... new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"plat"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1320210",
-          "title": "[와토/무효] 형들 ㅎㅇ 오랜만에 홈런쳤더니 기분 존나좋노 1억뿌림 ㅎ ㅎ ㅎ",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1320210",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1320210/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1319449",
-          "title": "[와토/무효] 5명만",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1319449",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1319449/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "무효 처리됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추"
-        }
-      ],
-      "closed": [
+      "live": [],
+      "closed": [],
+      "result": [
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -1285,308 +856,9 @@
           "title": "[와토/종료] 🎰도파민CK🎰 최종승리팀 맞추기🎯",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1398161",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1398161/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 배당보호 x / 1경기 시작시 마감예상 엔트리 마토 vs 나예리 / 사테 vs 윤수철 두두 vs 공다츠 / 타"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1397060",
-          "title": "[와토/무효] 🎰도파민CK🎰 최종승리팀 맞추기🎯",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1397060",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1397060/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "무효 처리됨 [와토 랭킹] 팀 확정 전까지 랄 취소 가능배당보호 x / 1경기 시작시 마감예상 엔트리 마토 vs 나예리 / 두두 v"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1394438",
-          "title": "[와토/무효] 🎯팀명 맞추기 와토🎯",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1394438",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1394438/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "무효 처리됨 [와토 랭킹] 적당히 방송보다가 마감침 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1386984",
-          "title": "[와토/종료] 🧨테란반 vs 저그반 CK 승자팀 와토🧨",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1386984",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1386984/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 배당 1.25미만 무효 1경시시작시 마감1세트 밀리 2세트 팀플 3세트 메운디예상엔트리사테vs준오동원vs윤환두"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1385190",
-          "title": "[또또/와토/종료] 🎯김윤환 asl 중계 16666 언오버🎯",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1385190",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1385190/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 배당 1.3미만 무효 / 6시 50분 마감참고사항오늘 철구 염보 중계함16강 A조 1910016강 B조 124"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1378810",
-          "title": "[와토/종료] 🔥경민이 오늘 나간다 안나간다 와토",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1378810",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1378810/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 스포시 무효김윤환 키면 대충 마감 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1371616",
-          "title": "[와토/종료] 와토)오늘 묵햄 시청자 4000 언오버",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1371616",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1371616/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 묵햄 방송 킬시 마감 new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"p"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1371147",
-          "title": "[와토/종료] 비타밍 박하악 끝장전 와토",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1371147",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1371147/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 1경기 시작시 마감 new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"pl"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1367381",
-          "title": "[와토/종료] 🎮츠암 J리그🎮 김윤환팀 VS 상대팀 최종승리팀",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1367381",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1367381/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 윤환 동원 재혁 사테 윤중vs경민 찬기 영화 깨모 수철배당적특 X베팅 후 취소불가1경기 시작시 마감 new H"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1366127",
-          "title": "[또또/와토/종료] 경민팀 vs 진묵팀 승리팀",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1366127",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1366127/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 1경기 시작시 마감 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1363286",
-          "title": "[와토/무효] ✨윤환 참치 두번째판 와토✨",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1363286",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1363286/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "무효 처리됨 [와토 랭킹] 시작시 바로 마감 new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\""
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1362792",
-          "title": "[와토/종료] ✨윤환 사테 승패 와토✨",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1362792",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1362792/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 경기시작시 마로 마감 new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"p"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1361513",
-          "title": "[와토/종료] ✨금일 이스코어 대회 김윤환 성적 와토✨",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1361513",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1361513/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 출전자 명단64강부터 시작(51명이라 인원 부족으로 일부 부전승 예상)대진표 짜여지고 첫 경기 전 마감(상황에"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1361471",
-          "title": "[와토/무효] ✨금일 이스코어 대회 김윤환 성적 와토✨",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1361471",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1361471/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "무효 처리됨 [와토 랭킹] 출전자 목록64강부터 시작(인원 부족으로 부전승 있을듯)이스코어 시작전 마감(상황에 따라 바뀔 수 있음)"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1360172",
-          "title": "[또또/와토/무효] 홍구 25 vs 16 영웅 43판째 승패(판당 통개)",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1360172",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1360172/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "무효 처리됨 [와토 랭킹] 현재 홍구 25 vs 16 영웅 42번째판 진행중게임시작시 마감 new HawkEyes({\"type\":\""
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1358556",
-          "title": "[또또/와토/종료] 배그 4:4 치킨먹기 와토",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1358556",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1358556/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 적특x시작시 마감 new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"pla"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1357370",
-          "title": "[와토/종료] ✨우리형 방송 온오프 와토갑니다✨",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1357370",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1357370/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 8시 반 이전에 마감(상황에 따라 바뀔 수 있음)마감 전에 오면 취소마감 전에 휴방 공지 쓰면 취소새벽 1시"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1345980",
-          "title": "[와토/무효] ⏰츠캄몬스타즈 MT⏰ 방송 ON 시작시간 맞추기",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1345980",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1345980/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "무효 처리됨 [와토 랭킹] 마감기준 : 12시 정산기준 : 13시00분~14시00분 14시01분~15시00분 15시01분 이후 중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1345556",
-          "title": "[와토/종료] 홀짝 와토",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1345556",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1345556/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] https://drhredgdg.github.io/game/game.html51분꺼로함 50분마감 new Ha"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1345375",
-          "title": "[와토/종료] 👀 츠캄 엠티 눈깔수 13333 U/O 👀",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1345375",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1345375/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 배당적특 X방송 시작시간 와토 정산 5분 후 마감정확히 13333시 오버 정산 추천인 상세 보기 비추천인 상세"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1339674",
-          "title": "[와토/종료] ✨낭아가 오피셜 온오프 와토✨",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1339674",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1339674/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 스포시 취소금일 오후 5시 이전 마감(상황에 따라 바뀔 수 있음)금일(화) 아닐시에도 온오프 적용 추천인 상세"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1339272",
-          "title": "[와토/종료] 서든ㄹ 와토 주양팀vs두두팀",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1339272",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1339272/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 주양 송이 하랑 수범 먼진 Vs두두 준오 파도 마토 조이첫겜시작하면마감배당보호× 추천인 상세 보기 비추천인 상"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1334712",
-          "title": "[와토/종료] 🎮 덕몽 와토 윤환팀 승리 or 패배 🎮",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1334712",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1334712/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 1경기 시작시 마감 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1334352",
-          "title": "[와토/무효] 다음판 우리형 vs 이영웅",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1334352",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1334352/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "무효 처리됨 [와토 랭킹] 시작시 마감 new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"pla"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1320814",
-          "title": "[와토/종료] 츠캄 vs 뉴캣슬 대학대전 2.4만명 업/다운",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1320814",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1320814/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 이경민 방송4월 25일 7시 마감, 방종할때까지 기준소프트콘 기준 최고 시청자 기준, 딱 2.4만명이면 업 처"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1320811",
-          "title": "[와토/종료] 츠캄 vs 뉴캣슬 대학대전 2.8만명 업/다운",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1320811",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1320811/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "종료됨 [와토 랭킹] 이경민 방송4월 25일 7시 마감, 방종할때까지 기준소프트콘 기준 최고 시청자 기준, 딱 2.8만명이면 업 처"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1320808",
-          "title": "[와토/무효] 이경민 방송 츠캄 대학대전 2.1만명 업/다운",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1320808",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1320808/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "무효 처리됨 [와토 랭킹] 4월 25일 7시 마감, 방종할때까지 기준소프트콘 기준 최고 시청자 기준, 딱 2.1만명이면 업 처리 추"
-        }
-      ],
-      "result": [
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1383718",
-          "title": "[와토/종료] 🔫🔫서든 승자팀 맞추기 와토 (정산아침에)",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1383718",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1383718/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 주양 윤환 치리 파도 먼진 낭니 흠니송이 하랑 동원 타밍 마토 찌킹 수범배당 1.3미만 무효 추천인 상세 보기"
+          "statusText": "종료됨 [와토 랭킹] 배당보호 x / 1경기 시작시 마감예상 엔트리 마토 vs 나예리 / 사테 vs 윤수철 두두 vs 공다츠 / 타"
         },
         {
           "board": "monstarz",
@@ -1597,7 +869,18 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1373499/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":\"W\""
+          "statusText": "종료됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추천한"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "id": "1371616",
+          "title": "[와토/종료] 와토)오늘 묵햄 시청자 4000 언오버",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1371616",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1371616/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료됨 [와토 랭킹] 묵햄 방송 킬시 마감 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기"
         },
         {
           "board": "monstarz",
@@ -1641,7 +924,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1371302/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":\"W\""
+          "statusText": "종료됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추천한"
         },
         {
           "board": "monstarz",
@@ -1663,194 +946,29 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1371198/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 배당 1.4미만은 제가 맞춰드림 new HawkEyes({\"type\":\"banner\",\"responsive\":"
+          "statusText": "종료됨 [와토 랭킹] 배당 1.4미만은 제가 맞춰드림 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니"
         },
         {
           "board": "monstarz",
           "boardName": "스대게",
-          "id": "1367656",
-          "title": "[와토/무효] 🎮츠암 J리그🎮 슈에",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1367656",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1367656/?s_wato=Y",
+          "id": "1371147",
+          "title": "[와토/종료] 비타밍 박하악 끝장전 와토",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1371147",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1371147/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "무효 처리됨 [와토 랭킹] 1.15미만 적특 & 베팅 후 취소불가무효 없이 진행 & 재경기 혹은 몰수경기 결과 그대로 따름경기 시작"
+          "statusText": "종료됨 [와토 랭킹] 1경기 시작시 마감 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이"
         },
         {
           "board": "monstarz",
           "boardName": "스대게",
-          "id": "1367655",
-          "title": "[와토/무효] 🎮츠암 J리그🎮 2세트 9경기",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1367655",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1367655/?s_wato=Y",
+          "id": "1366127",
+          "title": "[또또/와토/종료] 경민팀 vs 진묵팀 승리팀",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1366127",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1366127/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "무효 처리됨 [와토 랭킹] 1.15미만 적특 & 베팅 후 취소불가무효 없이 진행 & 재경기 혹은 몰수경기 결과 그대로 따름경기 시작"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1367653",
-          "title": "[와토/무효] 🎮츠암 J리그🎮 2세트 8경기",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1367653",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1367653/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "무효 처리됨 [와토 랭킹] 1.15미만 적특 & 베팅 후 취소불가무효 없이 진행 & 재경기 혹은 몰수경기 결과 그대로 따름경기 시작"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1367652",
-          "title": "[와토/무효] 🎮츠암 J리그🎮 2세트 7경기",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1367652",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1367652/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "무효 처리됨 [와토 랭킹] 1.15미만 적특 & 베팅 후 취소불가무효 없이 진행 & 재경기 혹은 몰수경기 결과 그대로 따름경기 시작"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1367651",
-          "title": "[와토/무효] 🎮츠암 J리그🎮 2세트 6경기 사테 vs 진영화 맵 : 제인도",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1367651",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1367651/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "무효 처리됨 [와토 랭킹] 1.15미만 적특 & 베팅 후 취소불가무효 없이 진행 & 재경기 혹은 몰수경기 결과 그대로 따름경기 시작"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1367650",
-          "title": "[와토/종료] 🎮츠암 J리그🎮 2세트 5경기 사테 vs 민찬기 맵 : 실피드",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1367650",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1367650/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 1.15미만 적특 & 베팅 후 취소불가무효 없이 진행 & 재경기 혹은 몰수경기 결과 그대로 따름경기 시작 15"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1367649",
-          "title": "[와토/종료] 🎮츠암 J리그🎮 2세트 4경기 사테 vs 깨모다 맵 : 애티",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1367649",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1367649/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 1.15미만 적특 & 베팅 후 취소불가무효 없이 진행 & 재경기 혹은 몰수경기 결과 그대로 따름경기 시작 15"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1367648",
-          "title": "[와토/종료] 🎮츠암 J리그🎮 2세트 3경기 김윤중 vs 깨모다 맵 : 폴스타",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1367648",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1367648/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 1.15미만 적특 & 베팅 후 취소불가무효 없이 진행 & 재경기 혹은 몰수경기 결과 그대로 따름경기 시작 15"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1367647",
-          "title": "[와토/종료] 🎮츠암 J리그🎮 2세트 2경기 김윤중 vs 이경민 맵 : 매치",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1367647",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1367647/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 1.15미만 적특 & 베팅 후 취소불가무효 없이 진행 & 재경기 혹은 몰수경기 결과 그대로 따름경기 시작 15"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1367645",
-          "title": "[와토/무효] 🎮츠암 J리그🎮 2세트 1경기 김윤중 vs 윤수철 맵 : 옥타곤",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1367645",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1367645/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "무효 처리됨 [와토 랭킹] 1.15미만 적특 & 베팅 후 취소불가무효 없이 진행 & 재경기 혹은 몰수경기 결과 그대로 따름경기 시작"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1367643",
-          "title": "[와토/무효] 🎮츠암 J리그🎮 1세트 7경기 박재혁 vs 진영화 맵 : 옥타곤",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1367643",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1367643/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "무효 처리됨 [와토 랭킹] 1.15미만 적특 & 베팅 후 취소불가무효 없이 진행 & 재경기 혹은 몰수경기 결과 그대로 따름경기 시작"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1367642",
-          "title": "[와토/종료] 🎮츠암 J리그🎮 1세트 6경기 김윤환 vs 윤수철 맵 : 폴스타",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1367642",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1367642/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 1.15미만 적특 & 베팅 후 취소불가무효 없이 진행 & 재경기 혹은 몰수경기 결과 그대로 따름경기 시작 15"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1367640",
-          "title": "[와토/종료] 🎮츠암 J리그🎮 1세트 5경기 지동원 vs 이경민 맵 : 제인도",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1367640",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1367640/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 1.15미만 적특 & 베팅 후 취소불가무효 없이 진행 & 재경기 혹은 몰수경기 결과 그대로 따름경기 시작 15"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1367639",
-          "title": "[와토/종료] 🎮츠암 J리그🎮 1세트 4경기 사테 vs 윤수철 맵 : 애티",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1367639",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1367639/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 1.15미만 적특 & 베팅 후 취소불가무효 없이 진행 & 재경기 혹은 몰수경기 결과 그대로 따름경기 시작 15"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1367637",
-          "title": "[와토/무효] 🎮츠암 J리그🎮 1세트 3경기 김윤중 vs 민찬기 맵 : 녹아웃",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1367637",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1367637/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "무효 처리됨 [와토 랭킹] 1.15미만 적특 & 베팅 후 취소불가무효 없이 진행 & 재경기 혹은 몰수경기 결과 그대로 따름경기 시작"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1367636",
-          "title": "[와토/종료] 🎮츠암 J리그🎮 1세트 2경기 박재혁 vs 진영화 맵 : 매치",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1367636",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1367636/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 1.15미만 적특 & 베팅 후 취소불가무효 없이 진행 & 재경기 혹은 몰수경기 결과 그대로 따름경기 시작 15"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1367635",
-          "title": "[와토/종료] 🎮츠암 J리그🎮 1세트 1경기 김윤환 vs 깨모 맵 : 실피드",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1367635",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1367635/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 1.15미만 적특 & 베팅 후 취소불가무효 없이 진행 & 재경기 혹은 몰수경기 결과 그대로 따름경기 시작 15"
+          "statusText": "종료됨 [와토 랭킹] 1경기 시작시 마감 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이"
         },
         {
           "board": "monstarz",
@@ -1862,6 +980,39 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료됨 [와토 랭킹] 1세트 모든조합 7/42세트 위너스3세트 최강조합5/3현제팀 히엉 윤환 마토정우팀 클템 재욱 듀듀배당보호x1세"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "id": "1362792",
+          "title": "[와토/종료] ✨윤환 사테 승패 와토✨",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1362792",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1362792/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료됨 [와토 랭킹] 경기시작시 마로 마감 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "id": "1361513",
+          "title": "[와토/종료] ✨금일 이스코어 대회 김윤환 성적 와토✨",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1361513",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1361513/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료됨 [와토 랭킹] 출전자 명단64강부터 시작(51명이라 인원 부족으로 일부 부전승 예상)대진표 짜여지고 첫 경기 전 마감(상황에"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "id": "1358556",
+          "title": "[또또/와토/종료] 배그 4:4 치킨먹기 와토",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1358556",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1358556/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료됨 [와토 랭킹] 적특x시작시 마감 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이"
         },
         {
           "board": "monstarz",
@@ -1905,7 +1056,29 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1345566/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] https://drhredgdg.github.io/game/game.html new HawkEyes({\"typ"
+          "statusText": "종료됨 [와토 랭킹] https://drhredgdg.github.io/game/game.html 추천인 상세 보기 비추천인 상세"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "id": "1345556",
+          "title": "[와토/종료] 홀짝 와토",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1345556",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1345556/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료됨 [와토 랭킹] https://drhredgdg.github.io/game/game.html51분꺼로함 50분마감 추천인 상세"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "id": "1345375",
+          "title": "[와토/종료] 👀 츠캄 엠티 눈깔수 13333 U/O 👀",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1345375",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1345375/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료됨 [와토 랭킹] 배당적특 X방송 시작시간 와토 정산 5분 후 마감정확히 13333시 오버 정산 추천인 상세 보기 비추천인 상세"
         },
         {
           "board": "monstarz",
@@ -1932,13 +1105,24 @@
         {
           "board": "monstarz",
           "boardName": "스대게",
-          "id": "1338867",
-          "title": "[와토/종료] ✨2부 서든어택 와토✨",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1338867",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1338867/?s_wato=Y",
+          "id": "1339272",
+          "title": "[와토/종료] 서든ㄹ 와토 주양팀vs두두팀",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1339272",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1339272/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 게임 시작전 베팅 종료참가자 적을시 취소한 쪽 너무 몰릴시 취소 추천인 상세 보기 비추천인 상세 보기 닫기 이"
+          "statusText": "종료됨 [와토 랭킹] 주양 송이 하랑 수범 먼진 Vs두두 준오 파도 마토 조이첫겜시작하면마감배당보호× 추천인 상세 보기 비추천인 상"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "id": "1334712",
+          "title": "[와토/종료] 🎮 덕몽 와토 윤환팀 승리 or 패배 🎮",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1334712",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1334712/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료됨 [와토 랭킹] 1경기 시작시 마감 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이"
         },
         {
           "board": "monstarz",
@@ -1949,7 +1133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1334705/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":\"W\""
+          "statusText": "종료됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추천한"
         },
         {
           "board": "monstarz",
@@ -1982,7 +1166,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1334026/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":\"W\""
+          "statusText": "종료됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추천한"
         },
         {
           "board": "monstarz",
@@ -1993,7 +1177,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1331423/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":\"W\""
+          "statusText": "종료됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추천한"
         },
         {
           "board": "monstarz",
@@ -2048,7 +1232,29 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1326992/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 땅콩이 에결에 다박고,,, 구걸좀 할려고 비상금 꺼내왔습니다(수수료 절약) new HawkEyes({\"type"
+          "statusText": "종료됨 [와토 랭킹] 땅콩이 에결에 다박고,,, 구걸좀 할려고 비상금 꺼내왔습니다(수수료 절약) 추천인 상세 보기 비추천인 상세 보"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "id": "1320814",
+          "title": "[와토/종료] 츠캄 vs 뉴캣슬 대학대전 2.4만명 업/다운",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1320814",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1320814/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료됨 [와토 랭킹] 이경민 방송4월 25일 7시 마감, 방종할때까지 기준소프트콘 기준 최고 시청자 기준, 딱 2.4만명이면 업 처"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "id": "1320811",
+          "title": "[와토/종료] 츠캄 vs 뉴캣슬 대학대전 2.8만명 업/다운",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1320811",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1320811/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료됨 [와토 랭킹] 이경민 방송4월 25일 7시 마감, 방종할때까지 기준소프트콘 기준 최고 시청자 기준, 딱 2.8만명이면 업 처"
         },
         {
           "board": "monstarz",
@@ -2059,7 +1265,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1320282/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":\"W\""
+          "statusText": "종료됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추천한"
         },
         {
           "board": "monstarz",
@@ -2125,7 +1331,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1319068/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] new HawkEyes({\"type\":\"banner\",\"responsive\":\"N\",\"platform\":\"W\""
+          "statusText": "종료됨 [와토 랭킹] 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다. 닫기 이 게시물을 비추천한"
         },
         {
           "board": "monstarz",
@@ -2158,7 +1364,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1319036/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
-          "statusText": "종료됨 [와토 랭킹] 나 8천 남아서4천만씩 ㄱㄱ new HawkEyes({\"type\":\"banner\",\"responsive\":\"N"
+          "statusText": "종료됨 [와토 랭킹] 나 8천 남아서4천만씩 ㄱㄱ 추천인 상세 보기 비추천인 상세 보기 닫기 이 게시물을 추천한 분들의 내역입니다."
         },
         {
           "board": "monstarz",
