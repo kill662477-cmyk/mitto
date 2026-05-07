@@ -4,15 +4,15 @@ import * as cheerio from "cheerio";
 const CATEGORIES = {
   live: {
     name: "진행중",
-    url: "https://ygosu.com/board/pan_ccy?sca=%EC%A7%84%ED%96%89%EC%A4%91"
+    url: "https://ygosu.com/board/pan_ccy/?s_category=C6938f1bb8fabd2.21596542"
   },
   closed: {
     name: "마감",
-    url: "https://ygosu.com/board/pan_ccy?sca=%EB%A7%88%EA%B0%90"
+    url: "https://ygosu.com/board/pan_ccy/?s_category=C6938f1e977c8b5.46393728"
   },
   result: {
     name: "결과",
-    url: "https://ygosu.com/board/pan_ccy?sca=%EA%B2%B0%EA%B3%BC"
+    url: "https://ygosu.com/board/pan_ccy/?s_category=C6833e1ff5463c0.12972472"
   }
 };
 
