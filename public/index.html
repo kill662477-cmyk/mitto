@@ -109,7 +109,7 @@
       list.innerHTML = '<div class="empty">불러오는 중...</div>';
 
       try{
-        const r = await fetch(`/data/watos.json?t=${Date.now()}`);
+        const r = await fetch("./data/watos.json?t=" + Date.now());
         const data = await r.json();
 
         const items =
