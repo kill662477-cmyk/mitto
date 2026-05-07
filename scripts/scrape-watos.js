@@ -150,17 +150,11 @@ function detectWatoStatus(text) {
     return "closed";
   }
 
-  if (
-    s.includes("종료") ||
-    s.includes("결과")
-  ) {
+  if (s.includes("종료") || s.includes("결과")) {
     return "result";
   }
 
-  if (
-    s.includes("진행") ||
-    s.includes("남은시간")
-  ) {
+  if (s.includes("진행") || s.includes("남은시간")) {
     return "live";
   }
 
