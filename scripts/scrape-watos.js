@@ -148,8 +148,8 @@ function detectWatoStatus(text) {
 
   if (!statusText) return null;
 
-  if (statusText.includes("남음"))||
-    (status.includes("진행중"))
+  if (statusText.includes("남음")||
+    status.includes("진행중"))
       return "live";
   if (statusText.includes("마감됨")) return "closed";
   if (statusText.includes("종료됨")) return "result";
