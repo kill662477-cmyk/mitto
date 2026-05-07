@@ -2,16 +2,16 @@ import fs from "fs";
 import * as cheerio from "cheerio";
 
 const BOARDS = {
-mitto: {
-name: "미또게",
-boardUrl: "https://ygosu.com/board/pan_ccy",
-listUrl: "https://ygosu.com/board/pan_ccy/?s_wato=Y"
-},
-monstarz: {
-name: "스대게",
-boardUrl: "https://ygosu.com/board/pan_monstarz",
-listUrl: "https://ygosu.com/board/pan_monstarz/?s_wato=Y"
-}
+  mitto: {
+    name: "미또게",
+    boardUrl: "https://ygosu.com/board/pan_ccy",
+    listUrl: "https://ygosu.com/board/pan_ccy/?s_wato=Y"
+  },
+  monstarz: {
+    name: "스대게",
+    boardUrl: "https://ygosu.com/board/pan_monstarz",
+    listUrl: "https://ygosu.com/board/pan_monstarz/?s_wato=Y"
+  }
 };
 
 const MAX_PAGES = 4;
@@ -19,407 +19,323 @@ const MAX_CANDIDATES = 500;
 const DELAY_MS = 350;
 
 const TAB_NAMES = {
-live: "진행중",
-closed: "마감",
-result: "결과"
+  live: "진행중",
+  closed: "마감",
+  result: "결과"
 };
 
 const BLOCK_TITLE_KEYWORDS = [
-"📢",
-"공지",
-"규정",
-"이용 규정",
-"일정",
-"대진표",
-"선점룰",
-"진출자",
-"플레이오프",
-"가이드",
-"안내",
-"필독",
-"이벤트",
-"업데이트",
-"요청",
-"문의",
-"건의"
+  "📢", "공지", "규정", "이용 규정", "일정", "대진표", "선점룰",
+  "진출자", "플레이오프", "가이드", "안내", "필독",
+  "이벤트", "업데이트", "요청", "문의", "건의"
 ];
 
 function sleep(ms) {
-return new Promise(resolve => setTimeout(resolve, ms));
+  return new Promise(function(resolve) {
+    setTimeout(resolve, ms);
+  });
 }
 
 async function fetchHtml(url) {
-const res = await fetch(url, {
-headers: {
-"user-agent":
-"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36",
-"referer": "https://ygosu.com/"
-}
-});
+  const res = await fetch(url, {
+    headers: {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36",
+      "referer": "https://ygosu.com/"
+    }
+  });
 
-if (!res.ok) {
-throw new Error("Fetch failed " + res.status + " " + url);
-}
+  if (!res.ok) {
+    throw new Error("Fetch failed " + res.status + " " + url);
+  }
 
-return await res.text();
+  return await res.text();
 }
 
 function clean(text) {
-return String(text || "")
-.replace(/ /g, " ")
-.replace(/\u00a0/g, " ")
-.replace(/\s+/g, " ")
-.trim();
+  return String(text || "")
+    .replace(/&nbsp;/g, " ")
+    .replace(/\u00a0/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 function shouldBlockByTitle(title) {
-const t = clean(title);
+  const t = clean(title);
+  return BLOCK_TITLE_KEYWORDS.some(function(keyword) {
+    return t.includes(keyword);
+  });
+}
 
-return BLOCK_TITLE_KEYWORDS.some(keyword => t.includes(keyword));
+function getBoardSlug(boardUrl) {
+  const parts = boardUrl.split("/");
+  return parts[parts.length - 1];
 }
 
 function parseCandidatesFromList(html, boardKey) {
-const board = BOARDS[boardKey];
+  const board = BOARDS[boardKey];
+  const boardSlug = getBoardSlug(board.boardUrl);
+  const selector = "a[href*='/board/" + boardSlug + "/']";
+  const re = new RegExp("/board/" + boardSlug + "/(\\d+)");
 
-const $ = cheerio.load(html);
+  const $ = cheerio.load(html);
+  const items = [];
 
-const items = [];
+  $(selector).each(function(_, el) {
+    const href = $(el).attr("href") || "";
+    const title = clean($(el).text());
+    const match = href.match(re);
 
-$(`a[href*='/board/${board.boardUrl.split("/").pop()}/']`).each((_, el) => {
-const href = $(el).attr("href") || "";
-const title = clean($(el).text());
+    if (!match || !title) return;
 
-```
-const boardSlug = board.boardUrl.split("/").pop();
+    const id = match[1];
 
-const match = href.match(
-  new RegExp(`/board/${boardSlug}/(\\d+)`)
-);
+    if (id.length < 5) return;
+    if (title.length < 4) return;
+    if (shouldBlockByTitle(title)) return;
 
-if (!match || !title) return;
+    const menuTitles = [
+      "전체", "인기", "와토", "선점", "진행중", "마감", "결과",
+      "사진/영상", "정보", "공지", "이벤트", "관리자공지",
+      "콘텐츠 추천", "미네랄창고"
+    ];
 
-const id = match[1];
+    if (menuTitles.includes(title)) return;
 
-if (id.length < 5) return;
-if (title.length < 4) return;
-if (shouldBlockByTitle(title)) return;
+    items.push({
+      board: boardKey,
+      boardName: board.name,
+      id: id,
+      title: title,
+      articleUrl: board.boardUrl + "/" + id,
+      watoUrl: board.boardUrl + "/" + id + "/?s_wato=Y"
+    });
+  });
 
-const menuTitles = [
-  "전체",
-  "인기",
-  "와토",
-  "선점",
-  "진행중",
-  "마감",
-  "결과",
-  "사진/영상",
-  "정보",
-  "공지",
-  "이벤트",
-  "관리자공지",
-  "콘텐츠 추천",
-  "미네랄창고"
-];
-
-if (menuTitles.includes(title)) return;
-
-items.push({
-  board: boardKey,
-  boardName: board.name,
-  id,
-  title,
-  articleUrl: board.boardUrl + "/" + id,
-  watoUrl: board.boardUrl + "/" + id + "/?s_wato=Y"
-});
-```
-
-});
-
-return items;
+  return items;
 }
 
 async function collectCandidates(boardKey) {
-const board = BOARDS[boardKey];
+  const board = BOARDS[boardKey];
+  const all = [];
 
-const all = [];
+  for (let page = 1; page <= MAX_PAGES; page++) {
+    const url = board.listUrl + "&page=" + page;
+    console.log("[" + board.name + "] 와토목록 page=" + page + " " + url);
 
-for (let page = 1; page <= MAX_PAGES; page++) {
-const url = board.listUrl + "&page=" + page;
+    const html = await fetchHtml(url);
+    all.push.apply(all, parseCandidatesFromList(html, boardKey));
 
-```
-console.log(
-  "[" + board.name + "] 와토목록 page=" + page + " " + url
-);
+    await sleep(DELAY_MS);
+  }
 
-const html = await fetchHtml(url);
+  const map = new Map();
 
-all.push(...parseCandidatesFromList(html, boardKey));
+  for (const item of all) {
+    map.set(item.board + "-" + item.id, item);
+  }
 
-await sleep(DELAY_MS);
-```
-
-}
-
-return Array.from(
-new Map(
-all.map(v => [v.board + "-" + v.id, v])
-).values()
-).slice(0, MAX_CANDIDATES);
+  return Array.from(map.values()).slice(0, MAX_CANDIDATES);
 }
 
 function hasWatoBox(text) {
-const t = clean(text);
+  const t = clean(text);
 
-const signals = [
-"참여현황",
-"총 미네랄",
-"마감 시각",
-"진행 상태"
-];
+  const signals = [
+    "참여현황",
+    "총 미네랄",
+    "마감 시각",
+    "진행 상태"
+  ];
 
-return signals.filter(v => t.includes(v)).length >= 3;
+  const count = signals.filter(function(signal) {
+    return t.includes(signal);
+  }).length;
+
+  return count >= 3;
 }
 
 function extractStatusText(text) {
-const t = clean(text);
+  const t = clean(text);
+  const idx = t.indexOf("진행 상태");
 
-const idx = t.indexOf("진행 상태");
+  if (idx === -1) {
+    return "";
+  }
 
-if (idx === -1) {
-return "";
+  return t
+    .slice(idx, idx + 80)
+    .replace("진행 상태", "")
+    .replace(/^[:：\s]+/, "")
+    .trim();
 }
 
-return t
-.slice(idx, idx + 80)
-.replace("진행 상태", "")
-.replace(/^[:：\s]+/, "")
-.trim();
-}
+function detectWatoStatus(statusText) {
+  const s = clean(statusText).replace(/\s+/g, "");
 
-function detectWatoStatus(text) {
-const s = clean(text).replace(/\s+/g, "");
+  if (s.includes("마감")) {
+    return "closed";
+  }
 
-if (s.includes("마감")) {
-return "closed";
-}
+  if (s.includes("종료") || s.includes("결과")) {
+    return "result";
+  }
 
-if (
-s.includes("종료") ||
-s.includes("결과")
-) {
-return "result";
-}
+  if (s.includes("진행") || s.includes("남은시간")) {
+    return "live";
+  }
 
-if (
-s.includes("진행") ||
-s.includes("남은시간")
-) {
-return "live";
-}
-
-return "live";
+  return "live";
 }
 
 async function verifyAndClassify(item) {
-if (shouldBlockByTitle(item.title)) {
-return null;
-}
+  if (shouldBlockByTitle(item.title)) {
+    return null;
+  }
 
-try {
-const html = await fetchHtml(item.watoUrl);
+  try {
+    const html = await fetchHtml(item.watoUrl);
+    const $ = cheerio.load(html);
+    const text = clean($.root().text());
 
-```
-const $ = cheerio.load(html);
+    if (!hasWatoBox(text)) {
+      return null;
+    }
 
-const text = clean($.root().text());
+    const statusText = extractStatusText(text);
+    const tab = detectWatoStatus(statusText);
 
-if (!hasWatoBox(text)) {
-  return null;
-}
-
-const statusText = extractStatusText(text);
-
-const tab = detectWatoStatus(statusText);
-
-if (!tab) {
-  console.log(
-    "상태판독실패 " +
+    return {
+      board: item.board,
+      boardName: item.boardName,
+      id: item.id,
+      title: item.title,
+      articleUrl: item.articleUrl,
+      watoUrl: item.watoUrl,
+      tab: tab,
+      tabName: TAB_NAMES[tab],
+      statusText: statusText
+    };
+  } catch (err) {
+    console.warn(
+      "[검증실패] " +
       item.boardName +
       " " +
       item.id +
+      " " +
+      item.title +
       " / " +
-      statusText +
-      " / " +
-      item.title
-  );
+      err.message
+    );
 
-  return null;
-}
-
-return {
-  ...item,
-  tab,
-  tabName: TAB_NAMES[tab],
-  statusText
-};
-```
-
-} catch (err) {
-console.warn(
-"[검증실패] " +
-item.boardName +
-" " +
-item.id +
-" " +
-item.title
-);
-
-```
-return null;
-```
-
-}
+    return null;
+  }
 }
 
 async function collectBoard(boardKey) {
-const board = BOARDS[boardKey];
+  const board = BOARDS[boardKey];
 
-const grouped = {
-live: [],
-closed: [],
-result: []
-};
+  const grouped = {
+    live: [],
+    closed: [],
+    result: []
+  };
 
-console.log("\n[" + board.name + "] 후보 수집 시작");
+  console.log("");
+  console.log("[" + board.name + "] 후보 수집 시작");
 
-const candidates = await collectCandidates(boardKey);
+  const candidates = await collectCandidates(boardKey);
 
-console.log(
-"[" + board.name + "] 후보 " + candidates.length + "개"
-);
+  console.log("[" + board.name + "] 후보 " + candidates.length + "개");
 
-for (const item of candidates) {
-const classified = await verifyAndClassify(item);
+  for (const item of candidates) {
+    const classified = await verifyAndClassify(item);
 
-```
-if (classified) {
-  grouped[classified.tab].push(classified);
+    if (classified) {
+      grouped[classified.tab].push(classified);
 
-  console.log(
-    "OK " +
-      classified.boardName +
-      " / " +
-      classified.tabName +
-      " / " +
-      classified.id +
-      " / " +
-      classified.statusText +
-      " / " +
-      classified.title
-  );
-} else {
-  console.log(
-    "SKIP " +
-      item.boardName +
-      " " +
-      item.id +
-      " " +
-      item.title
-  );
-}
+      console.log(
+        "OK " +
+        classified.boardName +
+        " / " +
+        classified.tabName +
+        " / " +
+        classified.id +
+        " / " +
+        classified.statusText +
+        " / " +
+        classified.title
+      );
+    } else {
+      console.log(
+        "SKIP " +
+        item.boardName +
+        " " +
+        item.id +
+        " " +
+        item.title
+      );
+    }
 
-await sleep(DELAY_MS);
-```
+    await sleep(DELAY_MS);
+  }
 
-}
-
-return grouped;
+  return grouped;
 }
 
 async function main() {
-const result = {
-checkedAt: new Date().toISOString(),
-boards: {
-mitto: {
-live: [],
-closed: [],
-result: []
-},
-monstarz: {
-live: [],
-closed: [],
-result: []
-}
-}
-};
+  const result = {
+    checkedAt: new Date().toISOString(),
+    boards: {
+      mitto: {
+        live: [],
+        closed: [],
+        result: []
+      },
+      monstarz: {
+        live: [],
+        closed: [],
+        result: []
+      }
+    }
+  };
 
-for (const boardKey of Object.keys(BOARDS)) {
-result.boards[boardKey] =
-await collectBoard(boardKey);
-}
+  const boardKeys = Object.keys(BOARDS);
 
-const total = Object.values(result.boards).reduce(
-(sum, board) => {
-return (
-sum +
-board.live.length +
-board.closed.length +
-board.result.length
-);
-},
-0
-);
+  for (const boardKey of boardKeys) {
+    result.boards[boardKey] = await collectBoard(boardKey);
+  }
 
-if (total === 0) {
-console.error(
-"수집 결과 0개 - 기존 watos.json 유지"
-);
+  const total = Object.values(result.boards).reduce(function(sum, board) {
+    return sum + board.live.length + board.closed.length + board.result.length;
+  }, 0);
 
-```
-process.exit(1);
-```
+  if (total === 0) {
+    console.error("수집 결과 0개 - 기존 watos.json 유지");
+    process.exit(1);
+  }
 
-}
+  fs.mkdirSync("public/data", {
+    recursive: true
+  });
 
-fs.mkdirSync("public/data", {
-recursive: true
-});
+  fs.writeFileSync(
+    "public/data/watos.json",
+    JSON.stringify(result, null, 2),
+    "utf8"
+  );
 
-fs.writeFileSync(
-"public/data/watos.json",
-JSON.stringify(result, null, 2),
-"utf8"
-);
-
-console.log("\n저장 완료: public/data/watos.json");
-console.log("전체: " + total + "개");
-console.log(
-"미또게 진행중: " +
-result.boards.mitto.live.length
-);
-console.log(
-"미또게 마감: " +
-result.boards.mitto.closed.length
-);
-console.log(
-"미또게 결과: " +
-result.boards.mitto.result.length
-);
-console.log(
-"스대게 진행중: " +
-result.boards.monstarz.live.length
-);
-console.log(
-"스대게 마감: " +
-result.boards.monstarz.closed.length
-);
-console.log(
-"스대게 결과: " +
-result.boards.monstarz.result.length
-);
+  console.log("");
+  console.log("저장 완료: public/data/watos.json");
+  console.log("전체: " + total + "개");
+  console.log("미또게 진행중: " + result.boards.mitto.live.length);
+  console.log("미또게 마감: " + result.boards.mitto.closed.length);
+  console.log("미또게 결과: " + result.boards.mitto.result.length);
+  console.log("스대게 진행중: " + result.boards.monstarz.live.length);
+  console.log("스대게 마감: " + result.boards.monstarz.closed.length);
+  console.log("스대게 결과: " + result.boards.monstarz.result.length);
 }
 
-main().catch(err => {
-console.error(err);
-process.exit(1);
+main().catch(function(err) {
+  console.error(err);
+  process.exit(1);
 });
