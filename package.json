@@ -1,0 +1,15 @@
+{
+  "name": "mitto-wato-list",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scripts/scrape-watos.js",
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
