@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-07T02:49:44.948Z",
+  "checkedAt": "2026-05-07T02:55:52.477Z",
   "tabs": {
     "live": [
       {
@@ -9,7 +9,7 @@
         "watoUrl": "https://ygosu.com/board/pan_ccy/659738/?s_wato=Y",
         "tab": "live",
         "tabName": "진행중",
-        "statusText": "16시간 10분 남음 [와토 랭킹] 1.35미만 적특 연장미포함1차전 1-1 추천인 상세 보기"
+        "statusText": "16시간 3분 남음 [와토 랭킹] 1.35미만 적특 연장미포함1차전 1-1 new HawkEye"
       },
       {
         "id": "659737",
@@ -18,16 +18,16 @@
         "watoUrl": "https://ygosu.com/board/pan_ccy/659737/?s_wato=Y",
         "tab": "live",
         "tabName": "진행중",
-        "statusText": "16시간 10분 남음 [와토 랭킹] 배당보호X노핸디매치연장미포함1차전 1-1 new HawkEy"
+        "statusText": "16시간 3분 남음 [와토 랭킹] 배당보호X노핸디매치연장미포함1차전 1-1 new HawkEye"
       },
       {
         "id": "659347",
-        "title": "🌠종족 최강전🌠우승 종족 맞추기 ::: 목요일 ::: 19시 (1)",
+        "title": "[🟢진행중/와토/7시간 남음] 🌠종족 최강전🌠우승 종족 맞추기 ::: 목요일 ::: 19시",
         "articleUrl": "https://ygosu.com/board/pan_ccy/659347",
         "watoUrl": "https://ygosu.com/board/pan_ccy/659347/?s_wato=Y",
         "tab": "live",
         "tabName": "진행중",
-        "statusText": "7시간 10분 남음 [와토 랭킹] 배당보호X19시 자동마감 추천인 상세 보기 비추천인 상세 보기"
+        "statusText": "7시간 3분 남음 [와토 랭킹] 배당보호X19시 자동마감 new HawkEyes({\"type\":"
       },
       {
         "id": "659849",
@@ -36,7 +36,7 @@
         "watoUrl": "https://ygosu.com/board/pan_ccy/659849/?s_wato=Y",
         "tab": "live",
         "tabName": "진행중",
-        "statusText": "6시간 39분 남음 [와토 랭킹] 한화 선발 : 정우주통산 상대전적 vs KIA) 5경기 1승"
+        "statusText": "6시간 33분 남음 [와토 랭킹] 한화 선발 : 정우주통산 상대전적 vs KIA) 5경기 1승"
       },
       {
         "id": "659848",
@@ -45,7 +45,7 @@
         "watoUrl": "https://ygosu.com/board/pan_ccy/659848/?s_wato=Y",
         "tab": "live",
         "tabName": "진행중",
-        "statusText": "6시간 39분 남음 [와토 랭킹] 키움 선발 : 박정훈통산 상대전적 vs 삼성) 6경기 0승 0"
+        "statusText": "6시간 33분 남음 [와토 랭킹] 키움 선발 : 박정훈통산 상대전적 vs 삼성) 6경기 0승 0"
       },
       {
         "id": "659847",
@@ -54,7 +54,7 @@
         "watoUrl": "https://ygosu.com/board/pan_ccy/659847/?s_wato=Y",
         "tab": "live",
         "tabName": "진행중",
-        "statusText": "6시간 39분 남음 [와토 랭킹] 롯데 선발 : 박세웅통산 상대전적 vs KT) 44경기 16승"
+        "statusText": "6시간 33분 남음 [와토 랭킹] 롯데 선발 : 박세웅통산 상대전적 vs KT) 44경기 16승"
       },
       {
         "id": "659846",
@@ -63,7 +63,7 @@
         "watoUrl": "https://ygosu.com/board/pan_ccy/659846/?s_wato=Y",
         "tab": "live",
         "tabName": "진행중",
-        "statusText": "12시간 9분 남음 [와토 랭킹] NC 선발 : 테일러통산 상대전적 vs SSG) 1경기 0승"
+        "statusText": "12시간 3분 남음 [와토 랭킹] NC 선발 : 테일러통산 상대전적 vs SSG) 1경기 0승"
       },
       {
         "id": "659845",
@@ -72,7 +72,7 @@
         "watoUrl": "https://ygosu.com/board/pan_ccy/659845/?s_wato=Y",
         "tab": "live",
         "tabName": "진행중",
-        "statusText": "6시간 39분 남음 [와토 랭킹] 두산 선발 : 최민석통산 상대전적 vs LG) 1경기 0승 0"
+        "statusText": "6시간 33분 남음 [와토 랭킹] 두산 선발 : 최민석통산 상대전적 vs LG) 1경기 0승 0"
       },
       {
         "id": "659811",
@@ -91,19 +91,182 @@
         "tab": "live",
         "tabName": "진행중",
         "statusText": "8분 36초 남음[나의 와토 전적] [와토 랭킹]뉴욕 메츠 선발 : 프레디 페랄타올시즌 ) 7경"
+      },
+      {
+        "id": "659721",
+        "title": "⚾ MLB ⚾ LA다저스(-1.5) vs [H] 휴스턴 :: 5/7 :: 3시 10분",
+        "articleUrl": "https://ygosu.com/board/pan_ccy/659721",
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659721/?s_wato=Y",
+        "tab": "live",
+        "tabName": "진행중",
+        "statusText": "6분 43초 남음[나의 와토 전적] [와토 랭킹]LA 다저스 선발 : 타일러 글라스노우올시즌 )"
       }
     ],
     "closed": [
       {
-        "id": "659173",
-        "title": "​🏀 NBA PO 🏀 미네소타(+8.5) vs ...",
-        "articleUrl": "https://ygosu.com/board/pan_ccy/659173",
-        "watoUrl": "https://ygosu.com/board/pan_ccy/659173/?s_wato=Y",
+        "id": "659372",
+        "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 피츠버그(-1.5) vs [H] 애리조나 :: 5/7 :: 10시 40분",
+        "articleUrl": "https://ygosu.com/board/pan_ccy/659372",
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659372/?s_wato=Y",
         "tab": "closed",
         "tabName": "마감",
-        "statusText": "마감됨 [와토 랭킹] 배당 1.35미만 적특 new HawkEyes({\"type\":\"banner"
+        "statusText": "마감됨 [와토 랭킹] 피츠버그 선발 : 폴 스킨스올시즌 ) 7경기 4승 2패 34.0이닝 39K"
+      },
+      {
+        "id": "659358",
+        "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 뉴욕메츠(-1.5) vs [H] 콜로라도 :: 5/7 :: 10시 20분",
+        "articleUrl": "https://ygosu.com/board/pan_ccy/659358",
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659358/?s_wato=Y",
+        "tab": "closed",
+        "tabName": "마감",
+        "statusText": "마감됨 [와토 랭킹] 뉴욕 메츠 선발 : 프레디 페랄타올시즌 ) 7경기 1승 3패 38.1이닝"
       }
     ],
-    "result": []
+    "result": [
+      {
+        "id": "659429",
+        "title": "[와토/종료] 🌠에이스 결정전🌠 일장 vs 현제",
+        "articleUrl": "https://ygosu.com/board/pan_ccy/659429",
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659429/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과",
+        "statusText": "종료됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특"
+      },
+      {
+        "id": "659426",
+        "title": "[와토/종료] 🌠메프 2세트🌠 7경기 윤철 vs 짭제",
+        "articleUrl": "https://ygosu.com/board/pan_ccy/659426",
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659426/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과",
+        "statusText": "종료됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특"
+      },
+      {
+        "id": "659425",
+        "title": "[와토/종료] 🌠메프 2세트🌠 6경기 윤철 vs 짭제",
+        "articleUrl": "https://ygosu.com/board/pan_ccy/659425",
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659425/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과",
+        "statusText": "종료됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특"
+      },
+      {
+        "id": "659424",
+        "title": "[와토/종료] 🌠메프 2세트🌠 5경기 홍구 vs 짭제",
+        "articleUrl": "https://ygosu.com/board/pan_ccy/659424",
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659424/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과",
+        "statusText": "종료됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특"
+      },
+      {
+        "id": "659423",
+        "title": "[와토/종료] 🌠메프 2세트🌠 4경기 홍구 vs 호선",
+        "articleUrl": "https://ygosu.com/board/pan_ccy/659423",
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659423/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과",
+        "statusText": "종료됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특"
+      },
+      {
+        "id": "659422",
+        "title": "[와토/종료] 🌠메프 2세트🌠 3경기 홍구 vs 영진",
+        "articleUrl": "https://ygosu.com/board/pan_ccy/659422",
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659422/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과",
+        "statusText": "종료됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특"
+      },
+      {
+        "id": "659421",
+        "title": "[와토/종료] 🌠메프 2세트🌠 2경기 홍구 vs 현제",
+        "articleUrl": "https://ygosu.com/board/pan_ccy/659421",
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659421/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과",
+        "statusText": "종료됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특"
+      },
+      {
+        "id": "659420",
+        "title": "[와토/종료] 🌠메프 2세트🌠 1경기 일장 vs 현제",
+        "articleUrl": "https://ygosu.com/board/pan_ccy/659420",
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659420/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과",
+        "statusText": "종료됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특"
+      },
+      {
+        "id": "659417",
+        "title": "[와토/종료] 🌠메프 1세트🌠 7경기 일장 vs 호선",
+        "articleUrl": "https://ygosu.com/board/pan_ccy/659417",
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659417/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과",
+        "statusText": "종료됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특"
+      },
+      {
+        "id": "659416",
+        "title": "[와토/종료] 🌠메프 1세트🌠 6경기 명운 vs 영진",
+        "articleUrl": "https://ygosu.com/board/pan_ccy/659416",
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659416/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과",
+        "statusText": "종료됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특"
+      },
+      {
+        "id": "659415",
+        "title": "[와토/종료] 🌠메프 1세트🌠 5경기 윤철 vs 현제",
+        "articleUrl": "https://ygosu.com/board/pan_ccy/659415",
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659415/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과",
+        "statusText": "종료됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특"
+      },
+      {
+        "id": "659414",
+        "title": "[와토/종료] 🌠메프 1세트🌠 4경기 일장 vs 영진",
+        "articleUrl": "https://ygosu.com/board/pan_ccy/659414",
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659414/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과",
+        "statusText": "종료됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특"
+      },
+      {
+        "id": "659413",
+        "title": "[와토/종료] 🌠메프 1세트🌠 3경기 명운 vs 짭제",
+        "articleUrl": "https://ygosu.com/board/pan_ccy/659413",
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659413/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과",
+        "statusText": "종료됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특"
+      },
+      {
+        "id": "659412",
+        "title": "[와토/종료] 🌠메프 1세트🌠 2경기 홍구 vs 호선",
+        "articleUrl": "https://ygosu.com/board/pan_ccy/659412",
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659412/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과",
+        "statusText": "종료됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특"
+      },
+      {
+        "id": "659411",
+        "title": "[와토/종료] 🌠메프 1세트🌠 1경기 윤철 vs 현제",
+        "articleUrl": "https://ygosu.com/board/pan_ccy/659411",
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659411/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과",
+        "statusText": "종료됨 [와토 랭킹] ✅메이저 프로리그 와토룰배당이 1.15 미만인 경기는 적중 특례 처리(적특"
+      },
+      {
+        "id": "659342",
+        "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 클리블랜드 vs [H] 캔자스시티 :: 5/7 :: 8시 40분",
+        "articleUrl": "https://ygosu.com/board/pan_ccy/659342",
+        "watoUrl": "https://ygosu.com/board/pan_ccy/659342/?s_wato=Y",
+        "tab": "result",
+        "tabName": "결과",
+        "statusText": "종료됨 [와토 랭킹] 클리블랜드 선발 : 조이 칸틸로올시즌 ) 7경기 1승 1패 34.1이닝 3"
+      }
+    ]
   }
 }
