@@ -151,33 +151,40 @@ function isWatoPageText(text) {
 function detectWatoStatus(text) {
   const t = normalizeText(text);
 
+  // "진행 상태:" 근처 문구만 잘라서 판단
+  const statusMatch = t.match(/진행 상태\s*:?\s*([^<]{0,40})/);
+  const statusText = statusMatch ? statusMatch[1] : "";
+
+  console.log("상태문구:", statusText);
+
+  // 진행중
   if (
-    t.includes("적중") ||
-    t.includes("미적중") ||
-    t.includes("정산 완료") ||
-    t.includes("정산완료") ||
-    t.includes("결과 처리됨")
+    statusText.includes("진행중") ||
+    statusText.includes("진행 중") ||
+    statusText.includes("베팅 가능")
   ) {
-    return "result";
+    return "live";
   }
 
+  // 마감
   if (
-    t.includes("진행 상태: 마감") ||
-    t.includes("진행 상태 : 마감") ||
-    t.includes("마감 처리됨") ||
-    t.includes("마감됨") ||
-    t.includes("베팅 마감")
+    statusText.includes("마감") ||
+    statusText.includes("마감됨") ||
+    statusText.includes("베팅 마감")
   ) {
     return "closed";
   }
 
+  // 결과 / 정산
   if (
-    t.includes("진행 상태: 진행중") ||
-    t.includes("진행 상태 : 진행중") ||
-    t.includes("진행 상태: 진행") ||
-    t.includes("베팅 가능")
+    statusText.includes("정산") ||
+    statusText.includes("결과") ||
+    statusText.includes("무효") ||
+    statusText.includes("처리됨") ||
+    statusText.includes("적중") ||
+    statusText.includes("미적중")
   ) {
-    return "live";
+    return "result";
   }
 
   return null;
