@@ -152,7 +152,7 @@ function detectWatoStatus(text) {
   s.includes("진행") ||
   s.includes("남은시간")
 ) {
-  tab = "live";
+  tab = "live"; }
   if (statusText.includes("마감됨")) return "closed";
   if (statusText.includes("종료됨")) return "result";
 
