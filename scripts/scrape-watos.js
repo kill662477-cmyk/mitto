@@ -331,18 +331,18 @@ async function main() {
     process.exit(1);
   }
 
-  fs.mkdirSync("public/data", {
+  fs.mkdirSync("data", {
     recursive: true
   });
 
   fs.writeFileSync(
-    "public/data/watos.json",
+    "data/watos.json",
     JSON.stringify(result, null, 2),
     "utf8"
   );
 
   console.log("");
-  console.log("저장 완료: public/data/watos.json");
+  console.log("저장 완료: data/watos.json");
   console.log("전체: " + total + "개");
   console.log("미또게 진행중: " + result.boards.mitto.live.length);
   console.log("미또게 마감: " + result.boards.mitto.closed.length);
