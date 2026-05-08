@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-08T02:40:32.115Z",
+  "checkedAt": "2026-05-08T02:50:22.808Z",
   "boards": {
     "mitto": {
       "live": [
@@ -122,17 +122,6 @@
           "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 세인트루이스(+1.5) vs [H]샌디에이고 :: 5/8 :: 11시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660411",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660411/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "660406",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 탬파베이 vs [H] 보스턴 :: 5/8 :: 8시 10분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/660406",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/660406/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -278,6 +267,17 @@
           "title": "[와토/종료] 🌠메프 1세트🌠 1경기 택용 vs 재욱",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660440",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660440/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "id": "660406",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 탬파베이 vs [H] 보스턴 :: 5/8 :: 8시 10분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/660406",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/660406/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
