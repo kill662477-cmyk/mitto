@@ -156,21 +156,20 @@ function hasWatoBox(text) {
 
 function extractStatusText(text) {
   const t = clean(text);
-  const idx = t.indexOf("진행 상태");
 
-  if (idx === -1) {
-    return "";
-  }
+  const match = t.match(
+    /진행 상태\s*[:：]?\s*(진행중|마감|종료|결과|[^ ]+\s*남음|[0-9일시간분초:\s]+남음)/i
+  );
 
-  return t
-    .slice(idx, idx + 80)
-    .replace("진행 상태", "")
-    .replace(/^[:：\s]+/, "")
-    .trim();
+  if (!match) return "";
+
+  return clean(match[1]);
 }
 
 function detectWatoStatus(statusText) {
   const s = clean(statusText).replace(/\s+/g, "");
+
+  if (!s) return null;
 
   if (
     s.includes("무효") ||
@@ -181,23 +180,25 @@ function detectWatoStatus(statusText) {
   }
 
   if (
-    s.includes("종료") ||
-    s.includes("결과")
+    s === "진행중" ||
+    s.includes("남음")
   ) {
-    return "result";
+    return "live";
   }
 
   if (
-    s.includes("마감")
+    s === "마감" ||
+    s === "마감됨"
   ) {
     return "closed";
   }
 
   if (
-    s.includes("진행중") ||
-    s.includes("남음")
+    s === "종료" ||
+    s === "결과" ||
+    s === "종료됨"
   ) {
-    return "live";
+    return "result";
   }
 
   return null;
