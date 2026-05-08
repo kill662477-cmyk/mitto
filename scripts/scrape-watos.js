@@ -111,15 +111,22 @@ function shouldBlockByTitle(title) {
   const t = clean(title);
   return BLOCK_TITLE_KEYWORDS.some(keyword => t.includes(keyword));
 }
-
+function normalizeTitleForCategory(title) {
+  return clean(title)
+    .normalize("NFKC")
+    .replace(/[𝘌𝙀𝐄𝗘𝑬𝒆𝙚]/g, "E")
+    .replace(/[𝘗𝙋𝐏𝗣𝑷𝒑𝙥]/g, "P")
+    .replace(/[𝘓𝙇𝐋𝗟𝑳𝒍𝙡]/g, "L")
+    .toUpperCase();
+}
 function detectCategory(title) {
-  const upper = clean(title).toUpperCase();
+  const upper =  normalizeTitleForCategory(title);
 
   for (const [category, keywords] of Object.entries(CATEGORY_KEYWORDS)) {
     for (const keyword of keywords) {
-      if (upper.includes(keyword.toUpperCase())) {
-        return category;
-      }
+      if (upper.includes(normalizeTitleForCategory(keyword))) {
+  return category;
+}
     }
   }
 
