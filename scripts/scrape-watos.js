@@ -114,9 +114,8 @@ function shouldBlockByTitle(title) {
 function normalizeTitleForCategory(title) {
   return clean(title)
     .normalize("NFKC")
-    .replace(/[𝘌𝙀𝐄𝗘𝑬𝒆𝙚]/g, "E")
-    .replace(/[𝘗𝙋𝐏𝗣𝑷𝒑𝙥]/g, "P")
-    .replace(/[𝘓𝙇𝐋𝗟𝑳𝒍𝙡]/g, "L")
+    .replace(/[^\p{L}\p{N}\s]/gu, " ")
+    .replace(/\s+/g, " ")
     .toUpperCase();
 }
 function detectCategory(title) {
