@@ -36,7 +36,7 @@ jobs:
 
       - name: Preserve generated JSON
         run: |
-          cp public/data/watos.json /tmp/watos.json
+          cp data/watos.json /tmp/watos.json
 
       - name: Sync latest main
         run: |
@@ -45,11 +45,11 @@ jobs:
 
       - name: Restore generated JSON
         run: |
-          mkdir -p public/data
-          cp /tmp/watos.json public/data/watos.json
+          mkdir -p data
+          cp /tmp/watos.json data/watos.json
 
       - name: Commit updated watos
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update mitto watos
-          file_pattern: public/data/watos.json
+          file_pattern: data/watos.json
