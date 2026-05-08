@@ -1,51 +1,62 @@
 {
-  "checkedAt": "2026-05-08T03:20:24.250Z",
+  "checkedAt": "2026-05-08T03:30:31.846Z",
   "boards": {
     "mitto": {
       "live": [
         {
           "board": "mitto",
           "boardName": "미또게",
+          "id": "660771",
+          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ KT(-1.5) vs [H] 키움 :: 5/8 :: 18시 30분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/660771",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/660771/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "5시간 59분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
           "id": "660770",
-          "title": "[🟢진행중/와토/6시간 남음] ⚾ KBO ⚾ KIA(+0.5) vs [H] 롯데 :: 5/8 :: 18시 30분",
+          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ KIA(+0.5) vs [H] 롯데 :: 5/8 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660770",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660770/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 9분 남음"
+          "statusText": "5시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "id": "660769",
-          "title": "[🟢진행중/와토/6시간 남음] ⚾ KBO ⚾ 삼성(-1.5) vs [H] NC :: 5/8 :: 18시 30분",
+          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ 삼성(-1.5) vs [H] NC :: 5/8 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660769",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660769/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 9분 남음"
+          "statusText": "5시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "id": "660768",
-          "title": "[🟢진행중/와토/6시간 남음] ⚾ KBO ⚾ LG(-1.5) vs [H] 한화 :: 5/8 :: 18시 30분",
+          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ LG(-1.5) vs [H] 한화 :: 5/8 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660768",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660768/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 9분 남음"
+          "statusText": "5시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "id": "660766",
-          "title": "[🟢진행중/와토/6시간 남음] ⚾ KBO ⚾ SSG(+0.5) vs [H] 두산 :: 5/8 :: 18시 30분",
+          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ SSG(+0.5) vs [H] 두산 :: 5/8 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660766",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660766/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 9분 남음"
+          "statusText": "5시간 59분 남음"
         },
         {
           "board": "mitto",
@@ -795,17 +806,6 @@
           "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ LA다저스(-1.5) vs [H] 휴스턴 :: 5/7 :: 3시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/659179",
           "watoUrl": "https://ygosu.com/board/pan_ccy/659179/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659174",
-          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 밀워키 vs [H] 세인트루이스 :: 5/7 :: 2시 15분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659174",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659174/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
