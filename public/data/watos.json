@@ -1,8 +1,30 @@
 {
-  "checkedAt": "2026-05-08T08:20:32.725Z",
+  "checkedAt": "2026-05-08T08:30:34.610Z",
   "boards": {
     "mitto": {
       "live": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "id": "660911",
+          "title": "🏀 NBA PO 🏀 뉴욕닉스 vs 필라델피아 [H] 05/09 08:00",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/660911",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/660911/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "14시간 29분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "id": "660912",
+          "title": "🏀 NBA PO 🏀 샌안토니오(-4.5) vs 미네소타 [H] 05/09 10:30",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/660912",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/660912/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "16시간 59분 남음"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -62,23 +84,23 @@
           "board": "mitto",
           "boardName": "미또게",
           "id": "660771",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ KBO ⚾ KT(-1.5) vs [H] 키움 :: 5/8 :: 18시 30분",
+          "title": "[🟢진행중/와토/59분 남음] ⚾ KBO ⚾ KT(-1.5) vs [H] 키움 :: 5/8 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660771",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660771/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 9분 남음"
+          "statusText": "59분 14초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "id": "660770",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ KBO ⚾ KIA(+0.5) vs [H] 롯데 :: 5/8 :: 18시 30분",
+          "title": "[🟢진행중/와토/59분 남음] ⚾ KBO ⚾ KIA(+0.5) vs [H] 롯데 :: 5/8 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660770",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660770/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 9분 남음"
+          "statusText": "59분 13초 남음"
         },
         {
           "board": "mitto",
@@ -89,29 +111,29 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/660769/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 9분 남음"
+          "statusText": "59분 13초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "id": "660768",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ KBO ⚾ LG(-1.5) vs [H] 한화 :: 5/8 :: 18시 30분",
+          "title": "[🟢진행중/와토/59분 남음] ⚾ KBO ⚾ LG(-1.5) vs [H] 한화 :: 5/8 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660768",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660768/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 9분 남음"
+          "statusText": "59분 12초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "id": "660766",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ KBO ⚾ SSG(+0.5) vs [H] 두산 :: 5/8 :: 18시 30분",
+          "title": "[🟢진행중/와토/59분 남음] ⚾ KBO ⚾ SSG(+0.5) vs [H] 두산 :: 5/8 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660766",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660766/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 9분 남음"
+          "statusText": "59분 11초 남음"
         },
         {
           "board": "mitto",
@@ -787,28 +809,6 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659190",
-          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆 한진브리온(+4.5) vs BFX 2세트 ::: 킬핸디",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659190",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659190/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659188",
-          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆 한진브리온(+4.5) vs BFX 1세트 ::: 킬핸디",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659188",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659188/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
@@ -821,6 +821,17 @@
           "title": "🎮이스코어🎮 이스코어토너먼트 캄몬스타즈 멤버 최종승리수 3.5 U/O (1)",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1401397",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1401397/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "id": "1402055",
+          "title": "[와토/진행] ✨스승의 날 펀딩 1등 맞추기 와토✨",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1402055",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1402055/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -1517,28 +1528,6 @@
           "title": "[와토/종료] 가질사람 ㄹㅇ",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1319068",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1319068/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1319053",
-          "title": "[와토/종료] 함센세야 사이좋게좀 지내보자 100만랄 넣어봐 그리고 나머지 2명만 좀 도와주셈",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1319053",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1319053/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "id": "1319051",
-          "title": "[또또/와토/종료] 가질사람",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1319051",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1319051/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
