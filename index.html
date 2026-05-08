@@ -4,182 +4,75 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>와토 모음</title>
+
   <style>
-    body{margin:0;background:#0b1220;color:#fff;font-family:Malgun Gothic,Arial,sans-serif}
-    .wrap{max-width:980px;margin:0 auto;padding:20px}
-    .hero{padding:20px;border-radius:18px;background:linear-gradient(135deg,#111827,#1f2937);border:1px solid rgba(255,255,255,.12);margin-bottom:14px}
-    .title{font-size:26px;font-weight:900;text-align:center}
-    .sub{text-align:center;color:#9ca3af;margin-top:8px}
-    .tabs{display:grid;gap:8px;margin:14px 0}
-    .board-tabs{grid-template-columns:repeat(2,1fr)}
-    .status-tabs{grid-template-columns:repeat(3,1fr)}
-    .tab{border:0;border-radius:12px;padding:13px;font-weight:900;cursor:pointer;background:#243244;color:#fff}
-    .tab.on{background:#2563eb}
-    .toolbar{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;color:#9ca3af;font-size:12px}
-    .refresh{border:0;border-radius:10px;padding:10px 14px;font-weight:900;cursor:pointer;background:#374151;color:#fff}
-    .list{display:grid;gap:10px}
-    .card{background:#111827;border:1px solid rgba(255,255,255,.12);border-radius:14px;padding:14px;display:flex;justify-content:space-between;gap:10px;align-items:center}
-    .card-title{font-size:15px;font-weight:800;line-height:1.45}
-    .meta{font-size:12px;color:#9ca3af;margin-top:5px}
-    .actions{display:flex;gap:6px;white-space:nowrap}
-    .open{border:0;border-radius:10px;padding:10px 14px;font-weight:900;cursor:pointer;color:#fff;text-decoration:none;font-size:13px;background:#2563eb;display:inline-block}
-    .empty{text-align:center;color:#9ca3af;padding:30px;background:#111827;border-radius:14px}
-
-    @media(max-width:640px){
-      .wrap{padding:12px}
-      .card{display:block}
-      .actions{margin-top:10px}
-      .open{width:100%;box-sizing:border-box;text-align:center}
-    }
-  </style>
-</head>
-<body>
-  <div class="wrap">
-    <div class="hero">
-      <div class="title">와토 모음</div>
-      <div class="sub">미또게 · 스대게 와토 자동 리스트</div>
-    </div>
-
-    <div class="tabs board-tabs">
-      <button id="board-mitto" class="tab on" onclick="setBoard('mitto')">미또게</button>
-      <button id="board-monstarz" class="tab" onclick="setBoard('monstarz')">스대게</button>
-    </div>
-
-    <div class="tabs status-tabs">
-      <button id="tab-live" class="tab on" onclick="setTab('live')">진행중</button>
-      <button id="tab-closed" class="tab" onclick="setTab('closed')">마감</button>
-      <button id="tab-result" class="tab" onclick="setTab('result')">결과</button>
-    </div>
-
-    <div class="toolbar">
-      <div id="checkedAt">업데이트 확인 중...</div>
-      <button class="refresh" onclick="loadWatos()">새로고침</button>
-    </div>
-
-    <div id="list" class="list">
-      <div class="empty">불러오는 중...</div>
-    </div>
-  </div>
-
-  <script>
-    let currentBoard = "mitto";
-    let currentTab = "live";
-
-    const boardNames = {
-      mitto: "미또게",
-      monstarz: "스대게"
-    };
-
-    const tabNames = {
-      live: "진행중",
-      closed: "마감",
-      result: "결과"
-    };
-
-    function setBoard(board){
-      currentBoard = board;
-      document.querySelectorAll("[id^='board-']").forEach(v => v.classList.remove("on"));
-      document.getElementById("board-" + board).classList.add("on");
-      loadWatos();
+    *{
+      box-sizing:border-box;
     }
 
-    function setTab(tab){
-      currentTab = tab;
-      document.querySelectorAll("[id^='tab-']").forEach(v => v.classList.remove("on"));
-      document.getElementById("tab-" + tab).classList.add("on");
-      loadWatos();
+    body{
+      margin:0;
+      min-height:100vh;
+      background:
+        radial-gradient(circle at top,#1e3a8a 0%,transparent 30%),
+        radial-gradient(circle at bottom right,#0f172a 0%,transparent 35%),
+        #020617;
+      color:#fff;
+      font-family:Malgun Gothic,Arial,sans-serif;
     }
 
-    async function loadWatos(){
-      const list = document.getElementById("list");
-      const checkedAt = document.getElementById("checkedAt");
-
-      list.innerHTML = '<div class="empty">불러오는 중...</div>';
-
-      try{
-      const r = await fetch("./data/watos.json?t=" + Date.now(), {
-  cache: "no-store"
-});
-
-        if(!r.ok){
-          throw new Error("watos.json fetch failed");
-        }
-
-        const data = await r.json();
-
-        const items =
-          data.boards &&
-          data.boards[currentBoard] &&
-          data.boards[currentBoard][currentTab]
-            ? data.boards[currentBoard][currentTab]
-            : [];
-
-        checkedAt.textContent = data.checkedAt
-          ? `마지막 업데이트: ${formatDate(data.checkedAt)}`
-          : "업데이트 정보 없음";
-
-        if(!items.length){
-          list.innerHTML = `<div class="empty">${boardNames[currentBoard]} ${tabNames[currentTab]} 와토 글을 찾지 못했습니다.</div>`;
-          return;
-        }
-
-        list.innerHTML = items.map(item => {
-          const betUrl = item.watoUrl || item.articleUrl || "#";
-
-          return `
-            <div class="card">
-              <div>
-                <div class="card-title">${escapeHtml(item.title)}</div>
-                <div class="meta">
-                  ${escapeHtml(item.boardName || boardNames[currentBoard])} ·
-                  ${escapeHtml(item.tabName || tabNames[currentTab])} ·
-                  #${escapeHtml(item.id)}
-                  ${item.statusText ? ` · ${escapeHtml(item.statusText)}` : ""}
-                </div>
-              </div>
-              <div class="actions">
-                <a class="open" href="${escapeAttr(betUrl)}" target="_blank" rel="noopener noreferrer">
-                  배팅하러가기
-                </a>
-              </div>
-            </div>
-          `;
-        }).join("");
-      }catch(e){
-        checkedAt.textContent = "업데이트 정보 불러오기 실패";
-        list.innerHTML = '<div class="empty">불러오기 실패</div>';
-      }
+    .wrap{
+      max-width:1100px;
+      margin:0 auto;
+      padding:18px;
     }
 
-    function escapeHtml(str){
-      return String(str || "")
-        .replaceAll("&","&amp;")
-        .replaceAll("<","&lt;")
-        .replaceAll(">","&gt;")
-        .replaceAll('"',"&quot;")
-        .replaceAll("'","&#039;");
+    .hero{
+      position:relative;
+      overflow:hidden;
+      padding:26px 22px;
+      border-radius:24px;
+      background:linear-gradient(135deg,#111827,#1e293b 55%,#1d4ed8);
+      border:1px solid rgba(255,255,255,.12);
+      margin-bottom:16px;
+      box-shadow:0 10px 40px rgba(0,0,0,.45);
     }
 
-    function escapeAttr(str){
-      return escapeHtml(str).replaceAll("`","&#096;");
+    .hero::before{
+      content:"";
+      position:absolute;
+      top:-80px;
+      right:-80px;
+      width:220px;
+      height:220px;
+      border-radius:50%;
+      background:rgba(255,255,255,.06);
     }
 
-    function formatDate(iso){
-      try{
-        const d = new Date(iso);
-        return d.toLocaleString("ko-KR", {
-          timeZone: "Asia/Seoul",
-          month: "2-digit",
-          day: "2-digit",
-          hour: "2-digit",
-          minute: "2-digit"
-        });
-      }catch(e){
-        return iso;
-      }
+    .title{
+      position:relative;
+      font-size:34px;
+      font-weight:900;
+      text-align:center;
+      letter-spacing:-1px;
     }
 
-    loadWatos();
-  </script>
-</body>
+    .sub{
+      position:relative;
+      text-align:center;
+      color:#cbd5e1;
+      margin-top:10px;
+      font-size:14px;
+    }
+
+    .tabs{
+      display:grid;
+      gap:10px;
+      margin-bottom:14px;
+    }
+
+    .board-tabs{
+      grid-template-columns:repeat(3,1fr);
+    }
+
 </html>
