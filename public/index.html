@@ -22,20 +22,14 @@
     .card-title{font-size:15px;font-weight:800;line-height:1.45}
     .meta{font-size:12px;color:#9ca3af;margin-top:5px}
     .actions{display:flex;gap:6px;white-space:nowrap}
-    .open,.origin{border:0;border-radius:10px;padding:10px 12px;font-weight:900;cursor:pointer;color:#fff;text-decoration:none;font-size:13px}
-    .open{background:#2563eb}
-    .origin{background:#374151}
-    .modal{display:none;position:fixed;inset:0;background:rgba(0,0,0,.76);z-index:9999;padding:18px}
-    .modal.on{display:block}
-    .box{max-width:880px;height:86vh;margin:0 auto;background:#fff;border-radius:16px;overflow:hidden;position:relative}
-    .close{position:absolute;right:12px;top:10px;z-index:5;background:#111827;color:#fff;border:0;border-radius:999px;padding:8px 13px;font-weight:900;cursor:pointer}
-    iframe{width:100%;height:100%;border:0}
+    .open{border:0;border-radius:10px;padding:10px 14px;font-weight:900;cursor:pointer;color:#fff;text-decoration:none;font-size:13px;background:#2563eb;display:inline-block}
     .empty{text-align:center;color:#9ca3af;padding:30px;background:#111827;border-radius:14px}
+
     @media(max-width:640px){
       .wrap{padding:12px}
       .card{display:block}
       .actions{margin-top:10px}
-      .open,.origin{flex:1;text-align:center}
+      .open{width:100%;box-sizing:border-box;text-align:center}
     }
   </style>
 </head>
@@ -64,13 +58,6 @@
 
     <div id="list" class="list">
       <div class="empty">불러오는 중...</div>
-    </div>
-  </div>
-
-  <div id="modal" class="modal" onclick="closeByBg(event)">
-    <div class="box">
-      <button class="close" onclick="closeModal()">닫기</button>
-      <iframe id="watoFrame"></iframe>
     </div>
   </div>
 
@@ -106,10 +93,18 @@
     async function loadWatos(){
       const list = document.getElementById("list");
       const checkedAt = document.getElementById("checkedAt");
+
       list.innerHTML = '<div class="empty">불러오는 중...</div>';
 
       try{
-        const r = await fetch("./data/watos.json?t=" + Date.now());
+        const r = await fetch("./data/watos.json?t=" + Date.now(), {
+          cache: "no-store"
+        });
+
+        if(!r.ok){
+          throw new Error("watos.json fetch failed");
+        }
+
         const data = await r.json();
 
         const items =
@@ -128,48 +123,32 @@
           return;
         }
 
-        list.innerHTML = items.map(item => `
-          <div class="card">
-            <div>
-              <div class="card-title">${escapeHtml(item.title)}</div>
-              <div class="meta">
-                ${escapeHtml(item.boardName || boardNames[currentBoard])} ·
-                ${escapeHtml(item.tabName || tabNames[currentTab])} ·
-                #${escapeHtml(item.id)}
-                ${item.statusText ? ` · ${escapeHtml(item.statusText)}` : ""}
+        list.innerHTML = items.map(item => {
+          const betUrl = item.watoUrl || item.articleUrl || "#";
+
+          return `
+            <div class="card">
+              <div>
+                <div class="card-title">${escapeHtml(item.title)}</div>
+                <div class="meta">
+                  ${escapeHtml(item.boardName || boardNames[currentBoard])} ·
+                  ${escapeHtml(item.tabName || tabNames[currentTab])} ·
+                  #${escapeHtml(item.id)}
+                  ${item.statusText ? ` · ${escapeHtml(item.statusText)}` : ""}
+                </div>
+              </div>
+              <div class="actions">
+                <a class="open" href="${escapeAttr(betUrl)}" target="_blank" rel="noopener noreferrer">
+                  배팅하러가기
+                </a>
               </div>
             </div>
-            <div class="actions">
-              <button class="open" onclick="openWato('${escapeAttr(item.watoUrl)}')">배팅창</button>
-              <a class="origin" href="${escapeAttr(item.articleUrl)}" target="_blank">원글</a>
-            </div>
-          </div>
-        `).join("");
+          `;
+        }).join("");
       }catch(e){
         checkedAt.textContent = "업데이트 정보 불러오기 실패";
         list.innerHTML = '<div class="empty">불러오기 실패</div>';
       }
-    }
-
-    function openWato(url){
-      const modal = document.getElementById("modal");
-      const frame = document.getElementById("watoFrame");
-
-      frame.setAttribute(
-        "srcdoc",
-        `<meta http-equiv="refresh" content="0;url=${url}">`
-      );
-
-      modal.classList.add("on");
-    }
-
-    function closeModal(){
-      document.getElementById("modal").classList.remove("on");
-      document.getElementById("watoFrame").removeAttribute("srcdoc");
-    }
-
-    function closeByBg(event){
-      if(event.target.id === "modal") closeModal();
     }
 
     function escapeHtml(str){
