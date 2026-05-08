@@ -1,8 +1,52 @@
 {
-  "checkedAt": "2026-05-08T03:10:21.145Z",
+  "checkedAt": "2026-05-08T03:20:24.250Z",
   "boards": {
     "mitto": {
       "live": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "id": "660770",
+          "title": "[🟢진행중/와토/6시간 남음] ⚾ KBO ⚾ KIA(+0.5) vs [H] 롯데 :: 5/8 :: 18시 30분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/660770",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/660770/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "6시간 9분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "id": "660769",
+          "title": "[🟢진행중/와토/6시간 남음] ⚾ KBO ⚾ 삼성(-1.5) vs [H] NC :: 5/8 :: 18시 30분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/660769",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/660769/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "6시간 9분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "id": "660768",
+          "title": "[🟢진행중/와토/6시간 남음] ⚾ KBO ⚾ LG(-1.5) vs [H] 한화 :: 5/8 :: 18시 30분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/660768",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/660768/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "6시간 9분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "id": "660766",
+          "title": "[🟢진행중/와토/6시간 남음] ⚾ KBO ⚾ SSG(+0.5) vs [H] 두산 :: 5/8 :: 18시 30분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/660766",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/660766/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "6시간 9분 남음"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -762,39 +806,6 @@
           "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 밀워키 vs [H] 세인트루이스 :: 5/7 :: 2시 15분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/659174",
           "watoUrl": "https://ygosu.com/board/pan_ccy/659174/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659173",
-          "title": "[🔴결과/와토/종료] ​🏀 NBA PO 🏀 미네소타(+8.5) vs [H]샌안토니오 05/07 10:30",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659173",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659173/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659172",
-          "title": "[🔴결과/와토/종료] ​🏀 NBA PO 🏀 필라델피아(+6.5) vs [H]뉴욕 닉스 05/07 08:00",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659172",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659172/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659171",
-          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 토론토 vs [H] 탬파베이 :: 5/7 :: 2시 10분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659171",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659171/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
