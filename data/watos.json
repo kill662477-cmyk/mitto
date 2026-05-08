@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-08T13:30:31.668Z",
+  "checkedAt": "2026-05-08T13:40:29.302Z",
   "boards": {
     "mitto": {
       "live": [
@@ -12,7 +12,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/660911/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 29분 남음"
+          "statusText": "9시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -23,7 +23,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/660912/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 59분 남음"
+          "statusText": "11시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -140,17 +140,6 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "id": "661115",
-          "title": "🔥스타또또🔥 변현제 vs 짭제동 1...",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/661115",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/661115/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
           "id": "660768",
           "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ LG(-1.5) vs [H] 한화 :: 5/8 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660768",
@@ -161,6 +150,17 @@
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "id": "661115",
+          "title": "🔥스타또또🔥 변현제 vs 짭제동 1...",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/661115",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/661115/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
