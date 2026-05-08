@@ -483,6 +483,11 @@ async function loadWatos(){
 if(currentTab === "live"){
   items.sort((a, b) => {
 
+items = items.filter(matchesCategory);
+
+if(currentTab === "live"){
+  items = [...items].sort((a, b) => {
+
     const getRemainMinutes = (text) => {
       if(!text) return 999999;
 
@@ -496,10 +501,6 @@ if(currentTab === "live"){
       if(day) total += parseInt(day[1], 10) * 1440;
       if(hour) total += parseInt(hour[1], 10) * 60;
       if(min) total += parseInt(min[1], 10);
-
-      if(total === 0 && t.includes("진행중")){
-        return 999998;
-      }
 
       return total || 999999;
     };
