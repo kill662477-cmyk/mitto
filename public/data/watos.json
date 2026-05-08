@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-08T01:40:21.288Z",
+  "checkedAt": "2026-05-08T01:50:30.779Z",
   "boards": {
     "mitto": {
       "live": [
@@ -7,12 +7,12 @@
           "board": "mitto",
           "boardName": "미또게",
           "id": "660411",
-          "title": "[🟢진행중/와토/29분 남음] ⚾ MLB ⚾ 세인트루이스(+1.5) vs [H]샌디에이고 :: 5/8 :: 11시 10분",
+          "title": "[🟢진행중/와토/19분 남음] ⚾ MLB ⚾ 세인트루이스(+1.5) vs [H]샌디에이고 :: 5/8 :: 11시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660411",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660411/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "29분 18초 남음"
+          "statusText": "19분 7초 남음"
         },
         {
           "board": "mitto",
@@ -133,17 +133,6 @@
           "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 탬파베이 vs [H] 보스턴 :: 5/8 :: 8시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660406",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660406/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "660091",
-          "title": "🏀 NBA PO 🏀 클리블랜드(+3.5) vs...",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/660091",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/660091/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -355,6 +344,17 @@
           "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 클리블랜드 vs [H] 캔자스시티 :: 5/8 :: 3시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660275",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660275/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "id": "660091",
+          "title": "🏀 NBA PO 🏀 클리블랜드(+3.5) vs...",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/660091",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/660091/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
