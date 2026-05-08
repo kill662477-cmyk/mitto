@@ -478,7 +478,35 @@ async function loadWatos(){
         ? data.boards[currentBoard][currentTab]
         : [];
 
-    items = items.filter(matchesCategory);
+    tems = items.filter(matchesCategory);
+
+if(currentTab === "live"){
+  items.sort((a, b) => {
+
+    const getRemainMinutes = (text) => {
+      if(!text) return 999999;
+
+      const t = String(text);
+      let total = 0;
+
+      const day = t.match(/(\d+)\s*일/);
+      const hour = t.match(/(\d+)\s*시간/);
+      const min = t.match(/(\d+)\s*분/);
+
+      if(day) total += parseInt(day[1], 10) * 1440;
+      if(hour) total += parseInt(hour[1], 10) * 60;
+      if(min) total += parseInt(min[1], 10);
+
+      if(total === 0 && t.includes("진행중")){
+        return 999998;
+      }
+
+      return total || 999999;
+    };
+
+    return getRemainMinutes(a.statusText) - getRemainMinutes(b.statusText);
+  });
+}
 
     checkedAt.textContent = data.checkedAt
       ? `마지막 업데이트 : ${formatDate(data.checkedAt)}`
