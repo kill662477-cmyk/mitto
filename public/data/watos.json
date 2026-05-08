@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-08T01:30:34.449Z",
+  "checkedAt": "2026-05-08T01:40:21.288Z",
   "boards": {
     "mitto": {
       "live": [
@@ -7,23 +7,12 @@
           "board": "mitto",
           "boardName": "미또게",
           "id": "660411",
-          "title": "[🟢진행중/와토/39분 남음] ⚾ MLB ⚾ 세인트루이스(+1.5) vs [H]샌디에이고 :: 5/8 :: 11시 10분",
+          "title": "[🟢진행중/와토/29분 남음] ⚾ MLB ⚾ 세인트루이스(+1.5) vs [H]샌디에이고 :: 5/8 :: 11시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660411",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660411/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "39분 3초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "659996",
-          "title": "🏆LCK또또🏆 T1 (-1.5) vs DNS 풀...",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659996",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659996/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
+          "statusText": "29분 18초 남음"
         },
         {
           "board": "mitto",
@@ -109,6 +98,17 @@
           "title": "[🟢진행중/와토/진행] 🏆LCK또또🏆 T1 (-8.5) vs DNS 1세트💥킬핸디확인💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/659997",
           "watoUrl": "https://ygosu.com/board/pan_ccy/659997/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "id": "659996",
+          "title": "[🟢진행중/와토/진행] 🏆LCK또또🏆 T1 (-1.5) vs DNS 풀세트(B) ::: 5/8 17시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/659996",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/659996/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
