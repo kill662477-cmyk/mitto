@@ -80,7 +80,7 @@ body{
 }
 
 .category-tabs{
-  grid-template-columns:repeat(6,1fr);
+  grid-template-columns:repeat(7,1fr);
 }
 
 .tab{
@@ -334,6 +334,7 @@ body{
     <button id="category-basketball" class="tab" onclick="setCategory('basketball')">농구</button>
     <button id="category-baseball" class="tab" onclick="setCategory('baseball')">야구</button>
     <button id="category-football" class="tab" onclick="setCategory('football')">축구</button>
+    <button id="category-lol" class="tab" onclick="setCategory('lol')">LOL</button>
     <button id="category-star" class="tab" onclick="setCategory('star')">스타</button>
     <button id="category-etc" class="tab" onclick="setCategory('etc')">기타</button>
   </div>
@@ -427,12 +428,13 @@ function getStatusClass(tab){
 function categoryName(category){
 
   const map = {
-    basketball:"농구",
-    baseball:"야구",
-    football:"축구",
-    star:"스타",
-    etc:"기타"
-  };
+  basketball:"농구",
+  baseball:"야구",
+  football:"축구",
+  lol:"LOL",
+  star:"스타",
+  etc:"기타"
+};
 
   return map[category] || "기타";
 }
