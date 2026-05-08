@@ -1,19 +1,8 @@
 {
-  "checkedAt": "2026-05-08T02:00:35.913Z",
+  "checkedAt": "2026-05-08T02:10:26.006Z",
   "boards": {
     "mitto": {
       "live": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "id": "660411",
-          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ 세인트루이스(+1.5) vs [H]샌디에이고 :: 5/8 :: 11시 10분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/660411",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/660411/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "9분 1초 남음"
-        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -126,6 +115,17 @@
         }
       ],
       "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "id": "660411",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 세인트루이스(+1.5) vs [H]샌디에이고 :: 5/8 :: 11시 10분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/660411",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/660411/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -351,17 +351,6 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "id": "660091",
-          "title": "🏀 NBA PO 🏀 클리블랜드(+3.5) vs...",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/660091",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/660091/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
           "id": "660269",
           "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 미네소타 vs [H] 워싱턴 :: 5/8 :: 2시 5분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660269",
@@ -377,6 +366,17 @@
           "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 텍사스(+1.5) vs [H] 뉴욕양키스 :: 5/8 :: 1시 35분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660264",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660264/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "id": "660091",
+          "title": "[🔴결과/와토/종료] 🏀 NBA PO 🏀 클리블랜드(+3.5) vs [H]디트로이트 05/08 08:00",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/660091",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/660091/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
