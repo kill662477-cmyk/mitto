@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-09T08:30:27.804Z",
+  "checkedAt": "2026-05-09T08:40:27.899Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/661163/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 59분 남음"
+          "statusText": "2시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/661165/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 29분 남음"
+          "statusText": "5시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/661378/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 59분 남음"
+          "statusText": "7시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -169,42 +169,6 @@
           "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ SSG(+0.5) vs [H] 두산 :: 5/9 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/661629",
           "watoUrl": "https://ygosu.com/board/pan_ccy/661629/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "660888",
-          "title": "🏆LCK또또🏆 KT (-1.5) vs BFX 풀...",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/660888",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/660888/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "660890",
-          "title": "[🟡마감/와토/마감] 🏆LCK또또🏆 KT (-8.5) vs BFX 1세트💥킬핸디확인💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/660890",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/660890/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "660889",
-          "title": "[🟡마감/와토/마감] 🏆LCK또또🏆 KT (-1.5) vs BFX 풀세트(B) ::: 5/9 17시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/660889",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/660889/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -430,6 +394,18 @@
         {
           "board": "mitto",
           "boardName": "미또게",
+          "category": "lol",
+          "id": "660888",
+          "title": "🏆LCK또또🏆 KT (-1.5) vs BFX 풀...",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/660888",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/660888/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
           "category": "star",
           "id": "661149",
           "title": "[와토/종료] 🌠메프 2세트🌠 2경기 영진 vs 택용",
@@ -555,6 +531,30 @@
           "title": "[🔴결과/와토/종료] 🏀 NBA PO 🏀 뉴욕닉스 vs 필라델피아 [H] 05/09 08:00",
           "articleUrl": "https://ygosu.com/board/pan_ccy/660911",
           "watoUrl": "https://ygosu.com/board/pan_ccy/660911/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "660890",
+          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆 KT (-8.5) vs BFX 1세트💥킬핸디확인💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/660890",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/660890/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "660889",
+          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆 KT (-1.5) vs BFX 풀세트(B) ::: 5/9 17시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/660889",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/660889/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -1889,7 +1889,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1567243/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 25분 남음"
+          "statusText": "2시간 16분 남음"
         }
       ],
       "closed": [],
