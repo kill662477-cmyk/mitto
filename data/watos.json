@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-09T12:30:33.879Z",
+  "checkedAt": "2026-05-09T12:42:14.522Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/662133/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 29분 남음"
+          "statusText": "6시간 17분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/662134/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 59분 남음"
+          "statusText": "11시간 47분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/661165/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 29분 남음"
+          "statusText": "1시간 17분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,31 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/661378/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 59분 남음"
+          "statusText": "3시간 47분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "662221",
+          "title": "[🟢진행중/와토/9시간 남음] ⚾ MLB ⚾ 미네소타 vs [H] 클리블랜드 :: 5/10 :: 7시 10분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/662221",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/662221/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "9시간 27분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "662215",
+          "title": "[🟢진행중/와토/7시간 남음] ⚾ MLB ⚾ 탬파베이 vs [H] 보스턴 :: 5/10 :: 5시 10분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/662215",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/662215/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "7시간 27분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/661919/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "19시간 29분 남음"
+          "statusText": "19시간 17분 남음"
         },
         {
           "board": "mitto",
@@ -169,7 +193,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/661898/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "19시간 29분 남음"
+          "statusText": "19시간 17분 남음"
         },
         {
           "board": "mitto",
@@ -181,7 +205,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/661897/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "19시간 29분 남음"
+          "statusText": "19시간 17분 남음"
         }
       ],
       "closed": [
@@ -1038,30 +1062,6 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "660264",
-          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 텍사스(+1.5) vs [H] 뉴욕양키스 :: 5/8 :: 1시 35분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/660264",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/660264/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "660261",
-          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆 KRX(+1.5) vs 젠지 풀세트(B) ::: 5/8 19시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/660261",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/660261/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
@@ -1848,7 +1848,7 @@
           "boardName": "숲게",
           "category": null,
           "id": "1569621",
-          "title": "🔥 배그동 vs 연합팀 배그 킬내기 🔥",
+          "title": "🔥 배그동 vs 연합팀 배그 킬내기 :: 팀확정🔥",
           "articleUrl": "https://ygosu.com/board/soop/1569621",
           "watoUrl": "https://ygosu.com/board/soop/1569621/?s_wato=Y",
           "tab": "live",
