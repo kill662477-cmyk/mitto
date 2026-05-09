@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-09T09:50:38.896Z",
+  "checkedAt": "2026-05-09T10:00:32.575Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,31 +13,31 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/661163/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 39분 남음"
+          "statusText": "1시간 29분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
-          "id": "661165",
-          "title": "🌍𝙀𝙋𝙇또또🌍 선덜랜드 (+0.5) vs 맨 유 ::: 5/9 ::: 23시 (1)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/661165",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/661165/?s_wato=Y",
+          "id": "662023",
+          "title": "🌍𝙀𝙋𝙇또또🌍 리버풀 (-1.5) vs 첼 시 ::: 5/9 ::: 20시30분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/662023",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/662023/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 9분 남음"
+          "statusText": "1시간 29분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "661919",
-          "title": "[🟢진행중/와토/22시간 남음] 🏆LCK또또🏆 T1(-1.5) vs DK 풀세트 ::: 5/10 17시",
+          "title": "[🟢진행중/와토/21시간 남음] 🏆LCK또또🏆 T1(-1.5) vs DK 풀세트 ::: 5/10 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/661919",
           "watoUrl": "https://ygosu.com/board/pan_ccy/661919/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "22시간 9분 남음"
+          "statusText": "21시간 59분 남음"
         },
         {
           "board": "mitto",
@@ -80,24 +80,24 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "661898",
-          "title": "[🟢진행중/와토/22시간 남음] 🏆LCK또또🏆 T1 vs DK 풀세트(B) ::: 5/10 17시",
+          "title": "[🟢진행중/와토/21시간 남음] 🏆LCK또또🏆 T1 vs DK 풀세트(B) ::: 5/10 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/661898",
           "watoUrl": "https://ygosu.com/board/pan_ccy/661898/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "22시간 9분 남음"
+          "statusText": "21시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "661897",
-          "title": "[🟢진행중/와토/22시간 남음] 🏆LCK또또🏆 T1 vs DK 풀세트(A) ::: 5/10 17시",
+          "title": "[🟢진행중/와토/21시간 남음] 🏆LCK또또🏆 T1 vs DK 풀세트(A) ::: 5/10 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/661897",
           "watoUrl": "https://ygosu.com/board/pan_ccy/661897/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "22시간 9분 남음"
+          "statusText": "21시간 59분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +109,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/661378/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 39분 남음"
+          "statusText": "6시간 29분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "661165",
+          "title": "[🟢진행중/와토/3시간 남음] 🌍𝙀𝙋𝙇또또🌍 선덜랜드 (+0.5) vs 맨 유 ::: 5/9 ::: 23시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/661165",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/661165/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "3시간 59분 남음"
         },
         {
           "board": "mitto",
@@ -1074,18 +1086,6 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "659848",
-          "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ 키움(+2.5) vs [H] 삼성 :: 5/7 :: 18시 30분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/659848",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/659848/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
@@ -1889,7 +1889,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1567243/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 5분 남음"
+          "statusText": "55분 42초 남음"
         }
       ],
       "closed": [],
