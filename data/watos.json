@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-09T11:40:35.800Z",
+  "checkedAt": "2026-05-09T11:50:21.068Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/662133/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 19분 남음"
+          "statusText": "7시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/662134/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 49분 남음"
+          "statusText": "12시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/661165/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 19분 남음"
+          "statusText": "2시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -49,19 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/661378/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 49분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "662107",
-          "title": "[🟢진행중/와토/진행] 🏆LCK또또🏆 농심 vs 한진브리온 3세트 ::: 자연빵",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/662107",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/662107/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
+          "statusText": "4시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/661919/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "20시간 19분 남음"
+          "statusText": "20시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -181,7 +169,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/661898/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "20시간 19분 남음"
+          "statusText": "20시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -193,22 +181,10 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/661897/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "20시간 19분 남음"
+          "statusText": "20시간 9분 남음"
         }
       ],
       "closed": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "662106",
-          "title": "[🟡마감/와토/마감] 🏆LCK또또🏆 농심 vs 한진브리온 2세트 ::: 자연빵",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/662106",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/662106/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -244,33 +220,21 @@
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "661014",
-          "title": "[🟡마감/와토/마감] 🏆LCK또또🏆 농심 vs 한진브리온 풀세트(B) ::: 5/9 19시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/661014",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/661014/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "661013",
-          "title": "[🟡마감/와토/마감] 🏆LCK또또🏆 농심 vs 한진브리온 풀세트(A) ::: 5/9 19시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/661013",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/661013/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "662106",
+          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆 농심 vs 한진브리온 2세트 ::: 자연빵",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/662106",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/662106/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -639,6 +603,30 @@
           "title": "[🔴결과/와토/종료] 🏆LCK또또🏆 농심(-6.5) vs 한진브리온 1세트 ::: 킬핸디",
           "articleUrl": "https://ygosu.com/board/pan_ccy/661015",
           "watoUrl": "https://ygosu.com/board/pan_ccy/661015/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "661014",
+          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆 농심 vs 한진브리온 풀세트(B) ::: 5/9 19시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/661014",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/661014/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "661013",
+          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆 농심 vs 한진브리온 풀세트(A) ::: 5/9 19시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/661013",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/661013/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
