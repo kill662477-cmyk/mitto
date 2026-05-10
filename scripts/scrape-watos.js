@@ -77,7 +77,7 @@ const CATEGORY_KEYWORDS = {
   "LOL",
   "리그오브레전드"
 ],
-  star: ["스타", "스타크래프트", "대학", "메프", "끝장전"]
+  star: ["스타", "스타크래프트", "대학", "메프", "끝장전","ASL"]
 };
 
 function sleep(ms) {
