@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-10T06:40:24.701Z",
+  "checkedAt": "2026-05-10T06:50:22.885Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/662453/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 49분 남음"
+          "statusText": "8시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/662759/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 19분 남음"
+          "statusText": "12시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/662754/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 19분 남음"
+          "statusText": "12시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -229,7 +229,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/661919/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 18분 남음"
+          "statusText": "1시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -277,7 +277,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/661898/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 18분 남음"
+          "statusText": "1시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -289,7 +289,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/661897/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 18분 남음"
+          "statusText": "1시간 8분 남음"
         }
       ],
       "closed": [
@@ -1888,7 +1888,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1572740/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 15분 남음"
+          "statusText": "2시간 6분 남음"
         }
       ],
       "closed": [],
