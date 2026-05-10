@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-10T08:50:20.801Z",
+  "checkedAt": "2026-05-10T09:02:21.568Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,31 +13,31 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/662453/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 39분 남음"
+          "statusText": "6시간 27분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "662759",
-          "title": "[🟢진행중/와토/10시간 남음] ⚽라리가⚽ [H]바르셀로나 (-1.5) vs 레알마드리드 :: 5/11 :: 4시",
+          "title": "[🟢진행중/와토/9시간 남음] ⚽라리가⚽ [H]바르셀로나 (-1.5) vs 레알마드리드 :: 5/11 :: 4시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/662759",
           "watoUrl": "https://ygosu.com/board/pan_ccy/662759/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 9분 남음"
+          "statusText": "9시간 57분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "662754",
-          "title": "[🟢진행중/와토/10시간 남음] ⚽라리가⚽ [H]바르셀로나 (-0.5) vs 레알마드리드 :: 5/11 :: 4시",
+          "title": "[🟢진행중/와토/9시간 남음] ⚽라리가⚽ [H]바르셀로나 (-0.5) vs 레알마드리드 :: 5/11 :: 4시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/662754",
           "watoUrl": "https://ygosu.com/board/pan_ccy/662754/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 9분 남음"
+          "statusText": "9시간 57분 남음"
         },
         {
           "board": "mitto",
@@ -250,7 +250,7 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "661902",
-          "title": "[🟢진행중/와토/진행] 🏆LCK또또🏆 T1(-4.5) vs DK 2세트 ::: 킬핸디",
+          "title": "[🟡마감/와토/마감] 🏆LCK또또🏆 T1(-4.5) vs DK 2세트 ::: 킬핸디",
           "articleUrl": "https://ygosu.com/board/pan_ccy/661902",
           "watoUrl": "https://ygosu.com/board/pan_ccy/661902/?s_wato=Y",
           "tab": "closed",
@@ -1883,12 +1883,12 @@
           "boardName": "숲게",
           "category": null,
           "id": "1572740",
-          "title": "[와토/1시간 남음] 🔥일요일 초초방송 시청자 7009명 언/옵:: 19시 마감🔥",
+          "title": "[와토/54분 남음] 🔥일요일 초초방송 시청자 7009명 언/옵:: 19시 마감🔥",
           "articleUrl": "https://ygosu.com/board/soop/1572740",
           "watoUrl": "https://ygosu.com/board/soop/1572740/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 6분 남음"
+          "statusText": "53분 52초 남음"
         }
       ],
       "closed": [],
