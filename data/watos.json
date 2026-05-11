@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-11T03:00:40.612Z",
+  "checkedAt": "2026-05-11T03:10:21.726Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/663602/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 59분 남음"
+          "statusText": "15시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/663603/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 59분 남음"
+          "statusText": "15시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -1900,22 +1900,22 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
+        }
+      ],
+      "closed": [],
+      "result": [
         {
           "board": "soop",
           "boardName": "숲게",
           "category": null,
           "id": "1575824",
-          "title": "[와토/5분 남음] 평소 봉순이는 방송에서 축구선수 ㅇㅇㅇ이 좋다고 종종 말했었는데",
+          "title": "[와토/종료] 평소 봉순이는 방송에서 축구선수 ㅇㅇㅇ이 좋다고 종종 말했었는데",
           "articleUrl": "https://ygosu.com/board/soop/1575824",
           "watoUrl": "https://ygosu.com/board/soop/1575824/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "5분 36초 남음"
-        }
-      ],
-      "closed": [],
-      "result": [
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
