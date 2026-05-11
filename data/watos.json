@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-11T11:00:36.024Z",
+  "checkedAt": "2026-05-11T11:10:33.903Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/664011/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 59분 남음"
+          "statusText": "12시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/664012/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 29분 남음"
+          "statusText": "15시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/663602/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 59분 남음"
+          "statusText": "7시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/663603/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 59분 남음"
+          "statusText": "7시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -110,18 +110,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "662525",
-          "title": "[🟢진행중/와토/진행] 🌠ASL 4강 A조🌠 개인전 3경기 박상현 vs 신상문 💥옥타곤💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/662525",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/662525/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
         }
       ],
       "closed": [
@@ -129,10 +117,10 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
-          "id": "662524",
-          "title": "[🟡마감/와토/마감] 🌠ASL 4강 A조🌠 개인전 2경기 박상현 vs 신상문 💥제인 도💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/662524",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/662524/?s_wato=Y",
+          "id": "662525",
+          "title": "[🟡마감/와토/마감] 🌠ASL 4강 A조🌠 개인전 3경기 박상현 vs 신상문 💥옥타곤💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/662525",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/662525/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -447,6 +435,18 @@
           "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ SSG(+0.5) vs [H] 두산 :: 5/10 :: 14시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/662600",
           "watoUrl": "https://ygosu.com/board/pan_ccy/662600/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "662524",
+          "title": "[🔴결과/와토/종료] 🌠ASL 4강 A조🌠 개인전 2경기 박상현 vs 신상문 💥제인 도💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/662524",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/662524/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
