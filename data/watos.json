@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-11T02:30:27.841Z",
+  "checkedAt": "2026-05-11T02:40:28.640Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/663602/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 29분 남음"
+          "statusText": "16시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/663603/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 29분 남음"
+          "statusText": "16시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -179,7 +179,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "663387",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 디트로이트 vs [H]캔자스시티 :: 5/11 :: 08:20",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 디트로이트 vs [H]캔자스시티 :: 5/11 :: 08:20",
           "articleUrl": "https://ygosu.com/board/pan_ccy/663387",
           "watoUrl": "https://ygosu.com/board/pan_ccy/663387/?s_wato=Y",
           "tab": "result",
@@ -1900,6 +1900,18 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1575806",
+          "title": "[와토/5분 남음] 오늘저녁 봉순이가 씨나인멤버들에게 하자고한 게임은?",
+          "articleUrl": "https://ygosu.com/board/soop/1575806",
+          "watoUrl": "https://ygosu.com/board/soop/1575806/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "5분 49초 남음"
         }
       ],
       "closed": [],
@@ -2668,18 +2680,6 @@
           "title": "[와토/종료] 똥퀴 화이트미네랄 2억 ㄱㄱ 5초마감",
           "articleUrl": "https://ygosu.com/board/soop/1494610",
           "watoUrl": "https://ygosu.com/board/soop/1494610/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1494584",
-          "title": "[와토/종료] 똥퀴 화이트미네랄 7억 빨았다 뿌린다익",
-          "articleUrl": "https://ygosu.com/board/soop/1494584",
-          "watoUrl": "https://ygosu.com/board/soop/1494584/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
