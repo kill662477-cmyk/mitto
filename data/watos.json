@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-11T07:00:39.229Z",
+  "checkedAt": "2026-05-11T07:10:25.375Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/663602/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 59분 남음"
+          "statusText": "11시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/663603/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 59분 남음"
+          "statusText": "11시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -1118,8 +1118,20 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
+          "id": "1417841",
+          "title": "[또또/와토/진행] 스승의 날 CK 펀딩 115만개 업/다운 와토",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1417841",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1417841/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
           "id": "1417783",
-          "title": "[와토/진행] 스승의날 펀딩 '110만개' 넘는다",
+          "title": "[또또/와토/진행] 스승의날 펀딩 '110만개' 넘는다",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1417783",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1417783/?s_wato=Y",
           "tab": "live",
@@ -1131,21 +1143,9 @@
           "boardName": "스대게",
           "category": null,
           "id": "1417782",
-          "title": "[와토/진행] 스승의날 펀딩 '100만개' 넘는다",
+          "title": "[또또/와토/진행] 스승의날 펀딩 '100만개' 넘는다",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1417782",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1417782/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1417780",
-          "title": "[와토/진행] 스승의날 펀딩 '90만개' 넘는다",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1417780",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1417780/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -1881,18 +1881,6 @@
           "title": "[와토/종료] 선착순 4명 100만포 뽀찌",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1320282",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1320282/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1320218",
-          "title": "[와토/종료] 다시 들어와 ㄱㄱ",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1320218",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1320218/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
