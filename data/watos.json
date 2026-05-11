@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-11T00:11:08.852Z",
+  "checkedAt": "2026-05-11T00:20:26.575Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,24 +8,24 @@
           "boardName": "미또게",
           "category": "football",
           "id": "663602",
-          "title": "🌍𝙀𝙋𝙇또또🌍 토트넘 (-0.5) vs 리 즈 ::: 5/12 ::: 4시 (1)",
+          "title": "🌍𝙀𝙋𝙇또또🌍 토트넘 (-0.5) vs 리 ...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/663602",
           "watoUrl": "https://ygosu.com/board/pan_ccy/663602/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18시간 48분 남음"
+          "statusText": "18시간 39분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "663603",
-          "title": "🌍𝙀𝙋𝙇또또🌍 토트넘 vs 리 즈 ::: 5/12 ::: 4시 (노핸디매치) (1)",
+          "title": "🌍𝙀𝙋𝙇또또🌍 토트넘 vs 리 즈 ::: ...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/663603",
           "watoUrl": "https://ygosu.com/board/pan_ccy/663603/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18시간 48분 남음"
+          "statusText": "18시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -152,18 +152,6 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "basketball",
-          "id": "663231",
-          "title": "🏀 NBA PO 🏀 샌안토니오(-4.5) vs [H]미네소타 :: 05/11 08:30",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/663231",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/663231/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
           "category": "baseball",
           "id": "663387",
           "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 디트로이트 vs [H]캔자스시티 :: 5/11 :: 08:20",
@@ -181,6 +169,18 @@
           "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 피츠버그 vs [H]샌프란시스코 :: 5/11 :: 05:05",
           "articleUrl": "https://ygosu.com/board/pan_ccy/663385",
           "watoUrl": "https://ygosu.com/board/pan_ccy/663385/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "basketball",
+          "id": "663231",
+          "title": "[🟡마감/와토/마감] 🏀 NBA PO 🏀 샌안토니오(-4.5) vs [H]미네소타 :: 05/11 08:30",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/663231",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/663231/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
