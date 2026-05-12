@@ -1,20 +1,8 @@
 {
-  "checkedAt": "2026-05-12T09:50:22.290Z",
+  "checkedAt": "2026-05-12T10:00:31.926Z",
   "boards": {
     "mitto": {
       "live": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "664501",
-          "title": "🏆EWC 예선🏆 한화 (-1.5) vs DK 풀세트 ::: 5/12 19시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/664501",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/664501/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -140,24 +128,24 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "664750",
-          "title": "[🟢진행중/와토/22시간 남음] 🏆LCK또또🏆최종 승/패 : T1 (-1.5) vs 농심 :수: 17시 BO.3 (2)",
+          "title": "[🟢진행중/와토/21시간 남음] 🏆LCK또또🏆최종 승/패 : T1 (-1.5) vs 농심 :수: 17시 BO.3 (2)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/664750",
           "watoUrl": "https://ygosu.com/board/pan_ccy/664750/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "22시간 9분 남음"
+          "statusText": "21시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "664749",
-          "title": "[🟢진행중/와토/22시간 남음] 🏆LCK또또🏆최종 승/패 : T1 (-1.5) vs 농심 :수: 17시 BO.3 (1)",
+          "title": "[🟢진행중/와토/21시간 남음] 🏆LCK또또🏆최종 승/패 : T1 (-1.5) vs 농심 :수: 17시 BO.3 (1)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/664749",
           "watoUrl": "https://ygosu.com/board/pan_ccy/664749/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "22시간 9분 남음"
+          "statusText": "21시간 59분 남음"
         },
         {
           "board": "mitto",
@@ -272,9 +260,21 @@
         {
           "board": "mitto",
           "boardName": "미또게",
+          "category": "lol",
+          "id": "664501",
+          "title": "🏆EWC 예선🏆 한화 (-1.5) vs DK 풀세트 ::: 5/12 19시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/664501",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/664501/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
           "category": "baseball",
           "id": "664728",
-          "title": "[🟢진행중/와토/마감] ⚾ KBO ⚾ NC(-0.5) vs [H] 롯데 :: 5/12 :: 18시 30분",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ NC(-0.5) vs [H] 롯데 :: 5/12 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/664728",
           "watoUrl": "https://ygosu.com/board/pan_ccy/664728/?s_wato=Y",
           "tab": "closed",
@@ -1191,42 +1191,6 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1417840",
-          "title": "[와토/진행] 스승의날 펀딩 '105만개' 넘는다",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1417840",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1417840/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1417783",
-          "title": "[또또/와토/진행] 스승의날 펀딩 '110만개' 넘는다",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1417783",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1417783/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1417782",
-          "title": "[또또/와토/진행] 스승의날 펀딩 '100만개' 넘는다",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1417782",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1417782/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
           "id": "1402055",
           "title": "[와토/진행] ✨스승의 날 펀딩 1등 맞히기 와토✨",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1402055",
@@ -1236,7 +1200,44 @@
           "statusText": "진행중"
         }
       ],
-      "closed": [],
+      "closed": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1417840",
+          "title": "[와토/마감] 스승의날 펀딩 '105만개' 넘는다",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1417840",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1417840/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1417783",
+          "title": "[또또/와토/마감] 스승의날 펀딩 '110만개' 넘는다",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1417783",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1417783/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1417782",
+          "title": "[또또/와토/마감] 스승의날 펀딩 '100만개' 넘는다",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1417782",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1417782/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        }
+      ],
       "result": [
         {
           "board": "monstarz",
@@ -1968,7 +1969,7 @@
           "boardName": "숲게",
           "category": null,
           "id": "1578358",
-          "title": "🎯🎯씨나인 영입자🎯🎯 (5)",
+          "title": "🎯🎯씨나인 영입자🎯🎯 (6)",
           "articleUrl": "https://ygosu.com/board/soop/1578358",
           "watoUrl": "https://ygosu.com/board/soop/1578358/?s_wato=Y",
           "tab": "closed",
