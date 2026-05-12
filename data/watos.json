@@ -1,8 +1,20 @@
 {
-  "checkedAt": "2026-05-12T11:40:28.383Z",
+  "checkedAt": "2026-05-12T11:50:30.516Z",
   "boards": {
     "mitto": {
       "live": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "basketball",
+          "id": "665294",
+          "title": "🏀 NBA PO 🏀 미네소타(+10.5) vs [H]샌안토니오 05/13 09:00",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/665294",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/665294/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "12시간 9분 남음"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -109,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/664750/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "20시간 19분 남음"
+          "statusText": "20시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/664749/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "20시간 19분 남음"
+          "statusText": "20시간 9분 남음"
         }
       ],
       "closed": [
@@ -1110,18 +1122,6 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "662237",
-          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 뉴욕양키스(-1.5) vs [H] 밀워키 :: 5/10 :: 8시 10분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/662237",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/662237/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
@@ -1901,46 +1901,34 @@
       ]
     },
     "soop": {
-      "live": [],
-      "closed": [
+      "live": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1581178",
+          "title": "[와토/진행] 🔥목요일 정신과상담 시청자 14000명 언/오버🔥",
+          "articleUrl": "https://ygosu.com/board/soop/1581178",
+          "watoUrl": "https://ygosu.com/board/soop/1581178/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        }
+      ],
+      "closed": [],
+      "result": [
         {
           "board": "soop",
           "boardName": "숲게",
           "category": null,
           "id": "1579595",
-          "title": "💎씨나인 들어오는사람 공개 한다 vs 안한다 💎 (6)",
+          "title": "[와토/종료] 💎씨나인 들어오는사람 공개 한다 vs 안한다 💎",
           "articleUrl": "https://ygosu.com/board/soop/1579595",
           "watoUrl": "https://ygosu.com/board/soop/1579595/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
         },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1578358",
-          "title": "🎯🎯씨나인 영입자🎯🎯 (6)",
-          "articleUrl": "https://ygosu.com/board/soop/1578358",
-          "watoUrl": "https://ygosu.com/board/soop/1578358/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1574305",
-          "title": "🔥화요일 철구형 ASL중계 시청자 26000명 언/오버:: 18:30분 마감🔥",
-          "articleUrl": "https://ygosu.com/board/soop/1574305",
-          "watoUrl": "https://ygosu.com/board/soop/1574305/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
         {
           "board": "soop",
           "boardName": "숲게",
@@ -1949,6 +1937,18 @@
           "title": "[와토/종료] 홀짝대결 ㅋㅋㅋㅋ 금액맞추면마감 3인이하는 무효",
           "articleUrl": "https://ygosu.com/board/soop/1578938",
           "watoUrl": "https://ygosu.com/board/soop/1578938/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1578358",
+          "title": "[와토/종료] 🎯🎯씨나인 영입자🎯🎯",
+          "articleUrl": "https://ygosu.com/board/soop/1578358",
+          "watoUrl": "https://ygosu.com/board/soop/1578358/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -1997,6 +1997,18 @@
           "title": "[와토/종료] 오늘저녁 봉순이가 씨나인멤버들에게 하자고한 게임은?",
           "articleUrl": "https://ygosu.com/board/soop/1575806",
           "watoUrl": "https://ygosu.com/board/soop/1575806/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1574305",
+          "title": "[와토/종료] 🔥화요일 철구형 ASL중계 시청자 26000명 언/오버:: 18:30분 마감🔥",
+          "articleUrl": "https://ygosu.com/board/soop/1574305",
+          "watoUrl": "https://ygosu.com/board/soop/1574305/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -2645,18 +2657,6 @@
           "title": "[와토/종료] 실수",
           "articleUrl": "https://ygosu.com/board/soop/1506685",
           "watoUrl": "https://ygosu.com/board/soop/1506685/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1506678",
-          "title": "[와토/종료] 애장",
-          "articleUrl": "https://ygosu.com/board/soop/1506678",
-          "watoUrl": "https://ygosu.com/board/soop/1506678/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
