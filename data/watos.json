@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-12T07:30:32.315Z",
+  "checkedAt": "2026-05-12T07:40:23.164Z",
   "boards": {
     "mitto": {
       "live": [
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/664750/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1일 29분 남음"
+          "statusText": "1일 19분 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/664749/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1일 29분 남음"
+          "statusText": "1일 19분 남음"
         },
         {
           "board": "mitto",
@@ -145,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/664728/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 59분 남음"
+          "statusText": "1시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -157,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/664727/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 59분 남음"
+          "statusText": "1시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -169,7 +169,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/664726/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 59분 남음"
+          "statusText": "1시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -181,7 +181,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/664725/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 59분 남음"
+          "statusText": "1시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -193,7 +193,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/664724/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 59분 남음"
+          "statusText": "1시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -1977,28 +1977,28 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1579595",
-          "title": "💎씨나인 들어오는사람 공개 한다 vs 안한다 💎 (6)",
-          "articleUrl": "https://ygosu.com/board/soop/1579595",
-          "watoUrl": "https://ygosu.com/board/soop/1579595/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
           "id": "1574305",
           "title": "🔥화요일 철구형 ASL중계 시청자 26000명 언/오버:: 18:30분 마감🔥",
           "articleUrl": "https://ygosu.com/board/soop/1574305",
           "watoUrl": "https://ygosu.com/board/soop/1574305/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 55분 남음"
+          "statusText": "1시간 45분 남음"
         }
       ],
       "closed": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1579595",
+          "title": "💎씨나인 들어오는사람 공개 한다 vs 안한다 💎 (6)",
+          "articleUrl": "https://ygosu.com/board/soop/1579595",
+          "watoUrl": "https://ygosu.com/board/soop/1579595/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
