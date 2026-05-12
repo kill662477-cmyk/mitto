@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-12T10:20:28.837Z",
+  "checkedAt": "2026-05-12T10:30:33.702Z",
   "boards": {
     "mitto": {
       "live": [
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/664750/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 39분 남음"
+          "statusText": "21시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/664749/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 39분 남음"
+          "statusText": "21시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -289,18 +289,6 @@
           "title": "[🟡마감/와토/마감] 🏆EWC 예선🏆 한화 (-1.5) vs DK 풀세트 ::: 5/12 19시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/664501",
           "watoUrl": "https://ygosu.com/board/pan_ccy/664501/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "664334",
-          "title": "[🟡마감/와토/마감] 🌠ASL 4강 B조🌠 개인전 1경기 : 이재호 vs 이영호 💥애티튜드💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/664334",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/664334/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -567,6 +555,18 @@
           "title": "[와토/종료] 🌠메프 1세트🌠 1경기 지성 vs 홍구",
           "articleUrl": "https://ygosu.com/board/pan_ccy/664384",
           "watoUrl": "https://ygosu.com/board/pan_ccy/664384/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "664334",
+          "title": "[🔴결과/와토/종료] 🌠ASL 4강 B조🌠 개인전 1경기 : 이재호 vs 이영호 💥애티튜드💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/664334",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/664334/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
