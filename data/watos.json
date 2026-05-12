@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-12T10:41:37.031Z",
+  "checkedAt": "2026-05-12T10:50:33.425Z",
   "boards": {
     "mitto": {
       "live": [
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/664750/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 18분 남음"
+          "statusText": "21시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/664749/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 18분 남음"
+          "statusText": "21시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -167,18 +167,6 @@
           "title": "[🟢진행중/와토/진행] 🌠ASL 4강 B조🌠 개인전 4경기 : 이재호 vs 이영호 💥폴스타💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/664337",
           "watoUrl": "https://ygosu.com/board/pan_ccy/664337/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "664336",
-          "title": "[🟢진행중/와토/진행] 🌠ASL 4강 B조🌠 개인전 3경기 : 이재호 vs 이영호 💥제인도💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/664336",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/664336/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -285,10 +273,10 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
-          "id": "664335",
-          "title": "[🟡마감/와토/마감] 🌠ASL 4강 B조🌠 개인전 2경기 : 이재호 vs 이영호 💥녹아웃💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/664335",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/664335/?s_wato=Y",
+          "id": "664336",
+          "title": "[🟢진행중/와토/진행] 🌠ASL 4강 B조🌠 개인전 3경기 : 이재호 vs 이영호 💥제인도💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/664336",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/664336/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -555,6 +543,18 @@
           "title": "[와토/종료] 🌠메프 1세트🌠 1경기 지성 vs 홍구",
           "articleUrl": "https://ygosu.com/board/pan_ccy/664384",
           "watoUrl": "https://ygosu.com/board/pan_ccy/664384/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "664335",
+          "title": "[🔴결과/와토/종료] 🌠ASL 4강 B조🌠 개인전 2경기 : 이재호 vs 이영호 💥녹아웃💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/664335",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/664335/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -1167,34 +1167,10 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1418736",
-          "title": "[와토/진행] 스승의날 펀딩 \"130만개\" 업/다운 와토",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1418736",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1418736/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
           "id": "1417841",
           "title": "[또또/와토/진행] 스승의 날 CK 펀딩 115만개 업/다운 와토",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1417841",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1417841/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1402055",
-          "title": "[와토/진행] ✨스승의 날 펀딩 1등 맞히기 와토✨",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1402055",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1402055/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -1233,6 +1209,18 @@
           "title": "[또또/와토/마감] 스승의날 펀딩 '100만개' 넘는다",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1417782",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1417782/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1402055",
+          "title": "[와토/진행] ✨스승의 날 펀딩 1등 맞히기 와토✨",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1402055",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1402055/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
