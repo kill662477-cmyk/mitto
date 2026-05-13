@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-13T00:10:24.956Z",
+  "checkedAt": "2026-05-13T00:20:22.921Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/665394/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 59분 남음"
+          "statusText": "1시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/664750/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 48분 남음"
+          "statusText": "7시간 38분 남음"
         },
         {
           "board": "mitto",
@@ -133,22 +133,10 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/664749/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 48분 남음"
+          "statusText": "7시간 38분 남음"
         }
       ],
       "closed": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "basketball",
-          "id": "665294",
-          "title": "🏀 NBA PO 🏀 미네소타(+10.5) vs [H]샌안토니오 05/13 09:00",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/665294",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/665294/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -166,7 +154,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "665392",
-          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 애리조나 vs [H]텍사스 :: 5/13 :: 09:05",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 애리조나 vs [H]텍사스 :: 5/13 :: 09:05",
           "articleUrl": "https://ygosu.com/board/pan_ccy/665392",
           "watoUrl": "https://ygosu.com/board/pan_ccy/665392/?s_wato=Y",
           "tab": "closed",
@@ -178,7 +166,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "665391",
-          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 샌디에이고 vs [H]밀워키 :: 5/13 :: 08:40",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 샌디에이고 vs [H]밀워키 :: 5/13 :: 08:40",
           "articleUrl": "https://ygosu.com/board/pan_ccy/665391",
           "watoUrl": "https://ygosu.com/board/pan_ccy/665391/?s_wato=Y",
           "tab": "closed",
@@ -253,6 +241,18 @@
           "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ LA에인절스 vs [H]클리블랜드 :: 5/13 :: 07:10",
           "articleUrl": "https://ygosu.com/board/pan_ccy/665385",
           "watoUrl": "https://ygosu.com/board/pan_ccy/665385/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "basketball",
+          "id": "665294",
+          "title": "[🟡마감/와토/마감] 🏀 NBA PO 🏀 미네소타(+10.5) vs [H]샌안토니오 05/13 09:00",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/665294",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/665294/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -1077,7 +1077,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1429164/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 17분 남음"
+          "statusText": "6시간 7분 남음"
         },
         {
           "board": "monstarz",
@@ -1865,7 +1865,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1582734/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 45분 남음"
+          "statusText": "5시간 35분 남음"
         },
         {
           "board": "soop",
