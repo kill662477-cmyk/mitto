@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-13T07:00:33.296Z",
+  "checkedAt": "2026-05-13T07:10:31.405Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/665791/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 59분 남음"
+          "statusText": "11시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/665792/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 59분 남음"
+          "statusText": "11시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/665762/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 29분 남음"
+          "statusText": "2시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/665761/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 29분 남음"
+          "statusText": "2시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/665760/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 29분 남음"
+          "statusText": "2시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/665759/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 29분 남음"
+          "statusText": "2시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/665758/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 29분 남음"
+          "statusText": "2시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -188,24 +188,24 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "664750",
-          "title": "[🟢진행중/와토/59분 남음] 🏆LCK또또🏆최종 승/패 : T1 (-1.5) vs 농심 :수: 17시 BO.3 (2)",
+          "title": "[🟢진행중/와토/49분 남음] 🏆LCK또또🏆최종 승/패 : T1 (-1.5) vs 농심 :수: 17시 BO.3 (2)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/664750",
           "watoUrl": "https://ygosu.com/board/pan_ccy/664750/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "58분 22초 남음"
+          "statusText": "48분 28초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "664749",
-          "title": "[🟢진행중/와토/59분 남음] 🏆LCK또또🏆최종 승/패 : T1 (-1.5) vs 농심 :수: 17시 BO.3 (1)",
+          "title": "[🟢진행중/와토/49분 남음] 🏆LCK또또🏆최종 승/패 : T1 (-1.5) vs 농심 :수: 17시 BO.3 (1)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/664749",
           "watoUrl": "https://ygosu.com/board/pan_ccy/664749/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "58분 21초 남음"
+          "statusText": "48분 27초 남음"
         }
       ],
       "closed": [],
@@ -1862,18 +1862,6 @@
           "title": "🔥목요일 정신과상담 시청자 14000명 언/오버🔥 (5)",
           "articleUrl": "https://ygosu.com/board/soop/1581178",
           "watoUrl": "https://ygosu.com/board/soop/1581178/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1583621",
-          "title": "[와토/진행] 🔥스타부 자퇴자 맞추기🔥",
-          "articleUrl": "https://ygosu.com/board/soop/1583621",
-          "watoUrl": "https://ygosu.com/board/soop/1583621/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
