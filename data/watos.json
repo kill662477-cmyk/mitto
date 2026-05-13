@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-13T09:30:28.503Z",
+  "checkedAt": "2026-05-13T09:40:32.917Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/665791/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 29분 남음"
+          "statusText": "9시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/665792/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 29분 남음"
+          "statusText": "9시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -145,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/665932/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "22시간 29분 남음"
+          "statusText": "22시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -157,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/665931/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "22시간 29분 남음"
+          "statusText": "22시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -226,7 +226,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "665762",
-          "title": "[🟢진행중/와토/마감] ⚾ KBO ⚾ NC(-0.5) vs [H] 롯데 :: 5/13 :: 18시 30분",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ NC(-0.5) vs [H] 롯데 :: 5/13 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/665762",
           "watoUrl": "https://ygosu.com/board/pan_ccy/665762/?s_wato=Y",
           "tab": "closed",
@@ -238,7 +238,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "665761",
-          "title": "[🟢진행중/와토/마감] ⚾ KBO ⚾ 두산(+0.5) vs [H] KIA :: 5/13 :: 18시 30분",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 두산(+0.5) vs [H] KIA :: 5/13 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/665761",
           "watoUrl": "https://ygosu.com/board/pan_ccy/665761/?s_wato=Y",
           "tab": "closed",
@@ -250,7 +250,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "665760",
-          "title": "[🟢진행중/와토/마감] ⚾ KBO ⚾ SSG(+0.5) vs [H] KT :: 5/13 :: 18시 30분",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ SSG(+0.5) vs [H] KT :: 5/13 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/665760",
           "watoUrl": "https://ygosu.com/board/pan_ccy/665760/?s_wato=Y",
           "tab": "closed",
@@ -262,7 +262,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "665759",
-          "title": "[🟢진행중/와토/마감] ⚾ KBO ⚾ 한화(-2.5) vs [H] 키움 :: 5/13 :: 18시 30분",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 한화(-2.5) vs [H] 키움 :: 5/13 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/665759",
           "watoUrl": "https://ygosu.com/board/pan_ccy/665759/?s_wato=Y",
           "tab": "closed",
@@ -274,7 +274,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "665758",
-          "title": "[🟢진행중/와토/마감] ⚾ KBO ⚾ 삼성(+0.5) vs [H] LG :: 5/13 :: 18시 30분",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 삼성(+0.5) vs [H] LG :: 5/13 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/665758",
           "watoUrl": "https://ygosu.com/board/pan_ccy/665758/?s_wato=Y",
           "tab": "closed",
@@ -1112,7 +1112,7 @@
           "boardName": "스대게",
           "category": null,
           "id": "1429164",
-          "title": "🎮스승의날 CK 총펀딩🎮 185만개 언/오버",
+          "title": "[와토/종료] 🎮스승의날 CK 총펀딩🎮 185만개 언/오버",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1429164",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1429164/?s_wato=Y",
           "tab": "result",
@@ -1835,6 +1835,18 @@
           "title": "[와토/종료] 드루와 다시",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1329958",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1329958/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1328962",
+          "title": "[또또/와토/종료] 오늘 6억 날렸습니다 천사형님들...",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1328962",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1328962/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
