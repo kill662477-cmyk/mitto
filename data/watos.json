@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-15T00:10:27.254Z",
+  "checkedAt": "2026-05-15T00:20:27.344Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/667306/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18시간 49분 남음"
+          "statusText": "18시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/667307/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18시간 49분 남음"
+          "statusText": "18시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/667299/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 49분 남음"
+          "statusText": "9시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/666855/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 59분 남음"
+          "statusText": "1시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -157,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/666774/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 48분 남음"
+          "statusText": "7시간 38분 남음"
         },
         {
           "board": "mitto",
@@ -169,7 +169,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/666772/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 48분 남음"
+          "statusText": "7시간 38분 남음"
         },
         {
           "board": "mitto",
@@ -181,7 +181,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/666771/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 48분 남음"
+          "statusText": "7시간 38분 남음"
         }
       ],
       "closed": [
@@ -190,7 +190,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "666854",
-          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 캔자스시티 vs [H]시카고W :: 5/15 :: 08:40",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 캔자스시티 vs [H]시카고W :: 5/15 :: 08:40",
           "articleUrl": "https://ygosu.com/board/pan_ccy/666854",
           "watoUrl": "https://ygosu.com/board/pan_ccy/666854/?s_wato=Y",
           "tab": "closed",
@@ -202,7 +202,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "666853",
-          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 시카고컵스 vs [H]애틀랜타 :: 5/15 :: 08:15",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 시카고컵스 vs [H]애틀랜타 :: 5/15 :: 08:15",
           "articleUrl": "https://ygosu.com/board/pan_ccy/666853",
           "watoUrl": "https://ygosu.com/board/pan_ccy/666853/?s_wato=Y",
           "tab": "closed",
