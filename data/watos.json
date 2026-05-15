@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-15T13:10:32.357Z",
+  "checkedAt": "2026-05-15T13:20:23.077Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/667795/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 49분 남음"
+          "statusText": "9시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/667797/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 29분 남음"
+          "statusText": "12시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/667306/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 49분 남음"
+          "statusText": "5시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -49,43 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/667307/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 49분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "667837",
-          "title": "[🟢진행중/와토/진행] 🌠준메프 2세트 승리🌠 유영진팀 vs 김정우팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/667837",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/667837/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "667836",
-          "title": "[🟢진행중/와토/진행] 🌠준메프 1세트 승리🌠 유영진팀 vs 김정우팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/667836",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/667836/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "667835",
-          "title": "[🟢진행중/와토/진행] 🌠준메프 최종 승리팀🌠 유영진팀 vs 김정우팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/667835",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/667835/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
+          "statusText": "5시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/667826/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 29분 남음"
+          "statusText": "12시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/667825/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 29분 남음"
+          "statusText": "12시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -121,19 +85,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/667824/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 27분 남음"
+          "statusText": "12시간 17분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "667823",
-          "title": "[🟢진행중/와토/11시간 남음] ⚾ MLB ⚾ 캔자스시티 vs [H]세인트루이스 :: 5/16 :: 09:15",
+          "title": "[🟢진행중/와토/10시간 남음] ⚾ MLB ⚾ 캔자스시티 vs [H]세인트루이스 :: 5/16 :: 09:15",
           "articleUrl": "https://ygosu.com/board/pan_ccy/667823",
           "watoUrl": "https://ygosu.com/board/pan_ccy/667823/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 4분 남음"
+          "statusText": "10시간 54분 남음"
         },
         {
           "board": "mitto",
@@ -145,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/667822/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 59분 남음"
+          "statusText": "10시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -157,31 +121,31 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/667821/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 29분 남음"
+          "statusText": "10시간 19분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "667820",
-          "title": "[🟢진행중/와토/10시간 남음] ⚾ MLB ⚾ 뉴욕양키스(-1.5) vs [H]뉴욕메츠 :: 5/16 :: 08:15",
+          "title": "[🟢진행중/와토/9시간 남음] ⚾ MLB ⚾ 뉴욕양키스(-1.5) vs [H]뉴욕메츠 :: 5/16 :: 08:15",
           "articleUrl": "https://ygosu.com/board/pan_ccy/667820",
           "watoUrl": "https://ygosu.com/board/pan_ccy/667820/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 4분 남음"
+          "statusText": "9시간 54분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "667819",
-          "title": "[🟢진행중/와토/10시간 남음] ⚾ MLB ⚾ 보스턴 vs [H]애틀랜타 :: 5/16 :: 08:15",
+          "title": "[🟢진행중/와토/9시간 남음] ⚾ MLB ⚾ 보스턴 vs [H]애틀랜타 :: 5/16 :: 08:15",
           "articleUrl": "https://ygosu.com/board/pan_ccy/667819",
           "watoUrl": "https://ygosu.com/board/pan_ccy/667819/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 4분 남음"
+          "statusText": "9시간 54분 남음"
         },
         {
           "board": "mitto",
@@ -193,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/667817/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 34분 남음"
+          "statusText": "9시간 24분 남음"
         },
         {
           "board": "mitto",
@@ -205,7 +169,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/667816/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 29분 남음"
+          "statusText": "9시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -236,7 +200,7 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "667522",
-          "title": "[와토/진행] 🏆LCK또또🏆1세트 ::: BNK vs 농심💥노핸디💥",
+          "title": "🏆LCK또또🏆1세트 ::: BNK vs 농심...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/667522",
           "watoUrl": "https://ygosu.com/board/pan_ccy/667522/?s_wato=Y",
           "tab": "live",
@@ -248,7 +212,7 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "667520",
-          "title": "[🟢진행중/와토/진행] 🏆LCK또또🏆최종 승/패 : BFX vs 농심 :토: 19시 BO.3 (2)",
+          "title": "🏆LCK또또🏆최종 승/패 : BFX vs ...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/667520",
           "watoUrl": "https://ygosu.com/board/pan_ccy/667520/?s_wato=Y",
           "tab": "live",
@@ -260,7 +224,7 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "667519",
-          "title": "[🟢진행중/와토/진행] 🏆LCK또또🏆최종 승/패 : BFX vs 농심 :토: 19시 BO.3 (1)",
+          "title": "🏆LCK또또🏆최종 승/패 : BFX vs ...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/667519",
           "watoUrl": "https://ygosu.com/board/pan_ccy/667519/?s_wato=Y",
           "tab": "live",
@@ -272,7 +236,7 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "667518",
-          "title": "[와토/진행] 🏆LCK또또🏆3세트 ::: 젠지 vs T1💥노핸디💥",
+          "title": "🏆LCK또또🏆3세트 ::: 젠지 vs T1...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/667518",
           "watoUrl": "https://ygosu.com/board/pan_ccy/667518/?s_wato=Y",
           "tab": "live",
@@ -284,7 +248,7 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "667516",
-          "title": "[와토/진행] 🏆LCK또또🏆2세트 ::: 젠지 vs T1💥노핸디💥",
+          "title": "🏆LCK또또🏆2세트 ::: 젠지 vs T1...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/667516",
           "watoUrl": "https://ygosu.com/board/pan_ccy/667516/?s_wato=Y",
           "tab": "live",
@@ -296,7 +260,7 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "667513",
-          "title": "[와토/진행] 🏆LCK또또🏆1세트 ::: 젠지 vs T1💥노핸디💥",
+          "title": "🏆LCK또또🏆1세트 ::: 젠지 vs T1...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/667513",
           "watoUrl": "https://ygosu.com/board/pan_ccy/667513/?s_wato=Y",
           "tab": "live",
@@ -308,47 +272,71 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "667512",
-          "title": "[🟢진행중/와토/18시간 남음] 🏆LCK또또🏆최종 승/패 : 젠지(-1.5) vs T1 :토: 17시 BO.3 (2)",
+          "title": "🏆LCK또또🏆최종 승/패 : 젠지(-1....",
           "articleUrl": "https://ygosu.com/board/pan_ccy/667512",
           "watoUrl": "https://ygosu.com/board/pan_ccy/667512/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18시간 48분 남음"
+          "statusText": "18시간 39분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "667511",
-          "title": "[🟢진행중/와토/18시간 남음] 🏆LCK또또🏆최종 승/패 : 젠지(-1.5) vs T1 :토: 17시 BO.3 (1)",
+          "title": "🏆LCK또또🏆최종 승/패 : 젠지(-1....",
           "articleUrl": "https://ygosu.com/board/pan_ccy/667511",
           "watoUrl": "https://ygosu.com/board/pan_ccy/667511/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18시간 48분 남음"
+          "statusText": "18시간 39분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "667510",
-          "title": "[🟢진행중/와토/18시간 남음] 🏆LCK또또🏆최종 승/패 : 젠지 vs T1 :토: 17시 BO.3 (노핸디매치)",
+          "title": "🏆LCK또또🏆최종 승/패 : 젠지 vs ...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/667510",
           "watoUrl": "https://ygosu.com/board/pan_ccy/667510/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18시간 48분 남음"
+          "statusText": "18시간 38분 남음"
         }
       ],
       "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "baseball",
-          "id": "667331",
-          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ LG(-1.5) vs [H] SSG :: 5/15 :: 18시 30분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/667331",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/667331/?s_wato=Y",
+          "category": "star",
+          "id": "667837",
+          "title": "[🟡마감/와토/마감] 🌠준메프 2세트 승리🌠 유영진팀 vs 김정우팀",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/667837",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/667837/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "667836",
+          "title": "🌠준메프 1세트 승리🌠 유영진팀 v...",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/667836",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/667836/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "667835",
+          "title": "[🟡마감/와토/마감] 🌠준메프 최종 승리팀🌠 유영진팀 vs 김정우팀",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/667835",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/667835/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -357,10 +345,10 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
-          "id": "667330",
-          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 롯데(+0.5) vs [H] 두산 :: 5/15 :: 18시 30분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/667330",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/667330/?s_wato=Y",
+          "id": "667331",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ LG(-1.5) vs [H] SSG :: 5/15 :: 18시 30분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/667331",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/667331/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -399,6 +387,18 @@
           "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ 한화(+0.5) vs [H] KT :: 5/15 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/667332",
           "watoUrl": "https://ygosu.com/board/pan_ccy/667332/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "667330",
+          "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ 롯데(+0.5) vs [H] 두산 :: 5/15 :: 18시 30분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/667330",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/667330/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -1732,7 +1732,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1588648/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "19시간 16분 남음"
+          "statusText": "19시간 6분 남음"
         },
         {
           "board": "soop",
@@ -1744,7 +1744,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1587162/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18시간 46분 남음"
+          "statusText": "18시간 36분 남음"
         }
       ],
       "closed": [],
