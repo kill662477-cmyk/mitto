@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-15T12:20:25.431Z",
+  "checkedAt": "2026-05-15T12:30:27.731Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/667795/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 39분 남음"
+          "statusText": "10시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/667797/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 19분 남음"
+          "statusText": "13시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/667306/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 39분 남음"
+          "statusText": "6시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/667307/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 39분 남음"
+          "statusText": "6시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -157,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/667512/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "19시간 39분 남음"
+          "statusText": "19시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -169,7 +169,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/667511/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "19시간 39분 남음"
+          "statusText": "19시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -181,7 +181,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/667510/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "19시간 39분 남음"
+          "statusText": "19시간 29분 남음"
         }
       ],
       "closed": [
@@ -905,7 +905,7 @@
           "boardName": "스대게",
           "category": null,
           "id": "1446532",
-          "title": "부종 ck 김윤환 팀 vs 지동원 팀 (6)",
+          "title": "부종 ck 김윤환 팀 vs 지동원 팀 (7)",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1446532",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1446532/?s_wato=Y",
           "tab": "closed",
@@ -1720,7 +1720,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1588648/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "20시간 6분 남음"
+          "statusText": "19시간 56분 남음"
         },
         {
           "board": "soop",
@@ -1732,7 +1732,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1587162/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "19시간 36분 남음"
+          "statusText": "19시간 26분 남음"
         }
       ],
       "closed": [],
