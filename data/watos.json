@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-17T18:00:30.173Z",
+  "checkedAt": "2026-05-17T18:14:16.917Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/669779/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 59분 남음"
+          "statusText": "5시간 45분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/670408/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 14분 남음"
+          "statusText": "1시간 37초 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/670417/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 14분 남음"
+          "statusText": "1시간 36초 남음"
         },
         {
           "board": "mitto",
@@ -145,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/670109/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 59분 남음"
+          "statusText": "13시간 45분 남음"
         },
         {
           "board": "mitto",
@@ -157,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/670108/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 59분 남음"
+          "statusText": "13시간 45분 남음"
         },
         {
           "board": "mitto",
@@ -169,46 +169,46 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/669805/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 19분 남음"
+          "statusText": "5시간 5분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "669804",
-          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ LA다저스(-1.5) vs [H]LA에인절스 :: 5/18 :: 05:07",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ LA다저스(-1.5) vs [H]LA에인절스 :: 5/18 :: 05:07",
           "articleUrl": "https://ygosu.com/board/pan_ccy/669804",
           "watoUrl": "https://ygosu.com/board/pan_ccy/669804/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 6분 남음"
+          "statusText": "1시간 52분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "669803",
-          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 샌프란시스코 vs [H]애슬레틱스 :: 5/18 :: 05:05",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 샌프란시스코 vs [H]애슬레틱스 :: 5/18 :: 05:05",
           "articleUrl": "https://ygosu.com/board/pan_ccy/669803",
           "watoUrl": "https://ygosu.com/board/pan_ccy/669803/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 4분 남음"
-        },
+          "statusText": "1시간 50분 남음"
+        }
+      ],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "669802",
-          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ 시카고컵스 vs [H]시카고W :: 5/18 :: 03:10",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 시카고컵스 vs [H]시카고W :: 5/18 :: 03:10",
           "articleUrl": "https://ygosu.com/board/pan_ccy/669802",
           "watoUrl": "https://ygosu.com/board/pan_ccy/669802/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "9분 7초 남음"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -1840,7 +1840,8 @@
       ]
     },
     "soop": {
-      "live": [
+      "live": [],
+      "closed": [
         {
           "board": "soop",
           "boardName": "숲게",
@@ -1849,12 +1850,11 @@
           "title": "🕹철구 짜미 롤듀오 승패 와토🕹 (5)",
           "articleUrl": "https://ygosu.com/board/soop/1599615",
           "watoUrl": "https://ygosu.com/board/soop/1599615/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         }
       ],
-      "closed": [],
       "result": [
         {
           "board": "soop",
