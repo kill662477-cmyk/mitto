@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-17T22:33:14.569Z",
+  "checkedAt": "2026-05-17T22:40:21.525Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/669779/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 26분 남음"
+          "statusText": "1시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/670109/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 26분 남음"
+          "statusText": "9시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -133,19 +133,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/670108/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 26분 남음"
+          "statusText": "9시간 19분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "669805",
-          "title": "[🟢진행중/와토/46분 남음] ⚾ MLB ⚾ 샌디에이고 vs [H]시애틀 :: 5/18 :: 08:20",
+          "title": "[🟢진행중/와토/39분 남음] ⚾ MLB ⚾ 샌디에이고 vs [H]시애틀 :: 5/18 :: 08:20",
           "articleUrl": "https://ygosu.com/board/pan_ccy/669805",
           "watoUrl": "https://ygosu.com/board/pan_ccy/669805/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "46분 27초 남음"
+          "statusText": "39분 21초 남음"
         }
       ],
       "closed": [
