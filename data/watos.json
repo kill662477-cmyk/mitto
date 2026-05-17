@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-17T09:20:22.959Z",
+  "checkedAt": "2026-05-17T09:30:28.173Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/669086/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 9분 남음"
+          "statusText": "1시간 59분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/669090/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 39분 남음"
+          "statusText": "4시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/669089/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 39분 남음"
+          "statusText": "4시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/669088/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 39분 남음"
+          "statusText": "4시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -145,18 +145,6 @@
           "title": "🏆LCK또또🏆최종 승/패 : 한화 vs ...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/668270",
           "watoUrl": "https://ygosu.com/board/pan_ccy/668270/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "668273",
-          "title": "[🟡마감/와토/마감] 🏆LCK또또🏆2세트 ::: 한화 (-6.5) vs KT💥킬핸디확인💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/668273",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/668273/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -363,6 +351,18 @@
           "title": "[🔴결과/와토/종료] 🏆롤CK또또🏆 김민교 vs 클템 최종승리 ::: 팀확정",
           "articleUrl": "https://ygosu.com/board/pan_ccy/668741",
           "watoUrl": "https://ygosu.com/board/pan_ccy/668741/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "668273",
+          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆2세트 ::: 한화 (-6.5) vs KT💥킬핸디확인💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/668273",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/668273/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -827,7 +827,8 @@
     },
     "monstarz": {
       "live": [],
-      "closed": [
+      "closed": [],
+      "result": [
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -836,12 +837,10 @@
           "title": "🎯 7-8티어 대회 먼진 성적 와토 🎯 (6)",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1453500",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1453500/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -1606,18 +1605,6 @@
           "title": "[와토/종료] 날이 좋네요 기부금 받습니다..",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1334702",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1334702/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1334326",
-          "title": "[또또/와토/종료] 큰형 vs 이영웅 이번판 50분에 마감",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1334326",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1334326/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
