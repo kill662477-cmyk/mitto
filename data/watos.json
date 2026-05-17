@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-17T14:10:26.811Z",
+  "checkedAt": "2026-05-17T14:20:23.317Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/669779/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 49분 남음"
+          "statusText": "9시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -32,12 +32,12 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "669805",
-          "title": "[🟢진행중/와토/9시간 남음] ⚾ MLB ⚾ 샌디에이고 vs [H]시애틀 :: 5/18 :: 08:20",
+          "title": "[🟢진행중/와토/8시간 남음] ⚾ MLB ⚾ 샌디에이고 vs [H]시애틀 :: 5/18 :: 08:20",
           "articleUrl": "https://ygosu.com/board/pan_ccy/669805",
           "watoUrl": "https://ygosu.com/board/pan_ccy/669805/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 9분 남음"
+          "statusText": "8시간 59분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/669804/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 56분 남음"
+          "statusText": "5시간 46분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/669803/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 54분 남음"
+          "statusText": "5시간 44분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/669802/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 59분 남음"
+          "statusText": "3시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/669800/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 29분 남음"
+          "statusText": "3시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/669799/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 29분 남음"
+          "statusText": "3시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/669798/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 24분 남음"
+          "statusText": "3시간 14분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/669797/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 24분 남음"
+          "statusText": "3시간 14분 남음"
         },
         {
           "board": "mitto",
@@ -133,19 +133,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/669796/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 24분 남음"
+          "statusText": "3시간 14분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "669795",
-          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 마이애미 vs [H]탬파베이 :: 5/18 :: 01:15",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 마이애미 vs [H]탬파베이 :: 5/18 :: 01:15",
           "articleUrl": "https://ygosu.com/board/pan_ccy/669795",
           "watoUrl": "https://ygosu.com/board/pan_ccy/669795/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 4분 남음"
+          "statusText": "1시간 54분 남음"
         }
       ],
       "closed": [
@@ -1797,6 +1797,18 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
+          "id": "1599042",
+          "title": "💎 10창CK 마예준 vs 병하 💎 폴리포이드",
+          "articleUrl": "https://ygosu.com/board/soop/1599042",
+          "watoUrl": "https://ygosu.com/board/soop/1599042/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
           "id": "1598842",
           "title": "10창CK 디임 vs 박듀듀 💎 라데온",
           "articleUrl": "https://ygosu.com/board/soop/1598842",
@@ -2573,18 +2585,6 @@
           "title": "[와토/종료] 다시",
           "articleUrl": "https://ygosu.com/board/soop/1520087",
           "watoUrl": "https://ygosu.com/board/soop/1520087/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1519142",
-          "title": "[와토/종료] 💎 철구 vs 재성 💎",
-          "articleUrl": "https://ygosu.com/board/soop/1519142",
-          "watoUrl": "https://ygosu.com/board/soop/1519142/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
