@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-18T10:00:37.985Z",
+  "checkedAt": "2026-05-18T10:20:42.409Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,67 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/670553/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 59분 남음"
+          "statusText": "8시간 39분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "670837",
+          "title": "[와토/진행] 🏆EWC예선🏆 한화생명(-9.5) vs 브리온 3세트 ::: 킬핸디",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/670837",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/670837/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "670836",
+          "title": "[와토/진행] 🏆EWC예선🏆 한화생명(-9.5) vs 브리온 2세트 ::: 킬핸디",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/670836",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/670836/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "670835",
+          "title": "[와토/진행] 🏆EWC예선🏆 한화생명(-9.5) vs 브리온 1세트 ::: 킬핸디",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/670835",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/670835/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "670832",
+          "title": "[🟢진행중/와토/진행] 🏆EWC예선🏆 한화생명(-1.5) vs 브리온 풀세트(B) ::: 5/19 17시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/670832",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/670832/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "670831",
+          "title": "[🟢진행중/와토/진행] 🏆EWC예선🏆 한화생명(-1.5) vs 브리온 풀세트(A) ::: 5/19 17시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/670831",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/670831/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
         },
         {
           "board": "mitto",
@@ -38,45 +98,46 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
+        }
+      ],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "670115",
-          "title": "[🟢진행중/와토/진행] 🏆EWC 예선🏆1세트 ::: DNS (+6.5) vs 농심 💥킬핸디확인💥",
+          "title": "[🟡마감/와토/마감] 🏆EWC 예선🏆1세트 ::: DNS (+6.5) vs 농심 💥킬핸디확인💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/670115",
           "watoUrl": "https://ygosu.com/board/pan_ccy/670115/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "670114",
-          "title": "[🟢진행중/와토/진행] 🏆EWC 예선🏆최종 승/패 :DNS vs 농심 :앞경기 종료 후 BO.3 (2)",
+          "title": "[🟡마감/와토/마감] 🏆EWC 예선🏆최종 승/패 :DNS vs 농심 :앞경기 종료 후 BO.3 (2)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/670114",
           "watoUrl": "https://ygosu.com/board/pan_ccy/670114/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "670113",
-          "title": "[🟢진행중/와토/진행] 🏆EWC 예선🏆최종 승/패 :DNS vs 농심 :앞경기 종료 후 BO.3 (1)",
+          "title": "[🟡마감/와토/마감] 🏆EWC 예선🏆최종 승/패 :DNS vs 농심 :앞경기 종료 후 BO.3 (1)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/670113",
           "watoUrl": "https://ygosu.com/board/pan_ccy/670113/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         }
       ],
-      "closed": [],
       "result": [
         {
           "board": "mitto",
@@ -938,54 +999,6 @@
           "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 보스턴 vs [H]애틀랜타 :: 5/16 :: 08:15",
           "articleUrl": "https://ygosu.com/board/pan_ccy/667819",
           "watoUrl": "https://ygosu.com/board/pan_ccy/667819/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "667817",
-          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 볼티모어 vs [H]워싱턴 :: 5/16 :: 07:45",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/667817",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/667817/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "667816",
-          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 필라델피아 vs [H]피츠버그 :: 5/16 :: 07:40",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/667816",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/667816/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "basketball",
-          "id": "667797",
-          "title": "[🔴결과/와토/종료] ​🏀 NBA PO 🏀 샌안토니오(-5.5) vs [H]미네소타 05/16 10:40",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/667797",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/667797/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "basketball",
-          "id": "667795",
-          "title": "[🔴결과/와토/종료] ​🏀 NBA PO 🏀 디트로이트(+4.5) vs [H]클리블랜드 05/16 08:00",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/667795",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/667795/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
