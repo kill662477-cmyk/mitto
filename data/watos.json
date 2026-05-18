@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-18T08:30:26.969Z",
+  "checkedAt": "2026-05-18T08:40:25.287Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/670553/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 29분 남음"
+          "statusText": "10시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -1853,21 +1853,22 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
+        }
+      ],
+      "closed": [
         {
           "board": "soop",
           "boardName": "숲게",
           "category": null,
           "id": "1600350",
-          "title": "[와토/진행] 💎 철구 vs 상대 미정 💎",
+          "title": "[와토/마감] 💎 철구 vs 서지수 💎 라데온",
           "articleUrl": "https://ygosu.com/board/soop/1600350",
           "watoUrl": "https://ygosu.com/board/soop/1600350/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         }
       ],
-      "closed": [],
       "result": [
         {
           "board": "soop",
