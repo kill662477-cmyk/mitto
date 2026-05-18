@@ -1,20 +1,8 @@
 {
-  "checkedAt": "2026-05-17T23:50:21.172Z",
+  "checkedAt": "2026-05-18T00:00:30.101Z",
   "boards": {
     "mitto": {
       "live": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "basketball",
-          "id": "669779",
-          "title": "🏀 NBA PO 🏀 클리블랜드(+4.5) vs [H]디트로이트 05/18 09:00 (1)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/669779",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/669779/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "9분 36초 남음"
-        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -116,27 +104,39 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "670109",
-          "title": "[🟢진행중/와토/8시간 남음] 🏆EWC 예선🏆최종 승/패 :KT (-1.5) vs 브리온 :월:17시 BO.3 (2)",
+          "title": "[🟢진행중/와토/7시간 남음] 🏆EWC 예선🏆최종 승/패 :KT (-1.5) vs 브리온 :월:17시 BO.3 (2)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/670109",
           "watoUrl": "https://ygosu.com/board/pan_ccy/670109/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 9분 남음"
+          "statusText": "7시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "670108",
-          "title": "[🟢진행중/와토/8시간 남음] 🏆EWC 예선🏆최종 승/패 :KT (-1.5) vs 브리온 :월:17시 BO.3 (1)",
+          "title": "[🟢진행중/와토/7시간 남음] 🏆EWC 예선🏆최종 승/패 :KT (-1.5) vs 브리온 :월:17시 BO.3 (1)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/670108",
           "watoUrl": "https://ygosu.com/board/pan_ccy/670108/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 9분 남음"
+          "statusText": "7시간 59분 남음"
         }
       ],
       "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "basketball",
+          "id": "669779",
+          "title": "🏀 NBA PO 🏀 클리블랜드(+4.5) vs [H]디트로이트 05/18 09:00 (1)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/669779",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/669779/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
