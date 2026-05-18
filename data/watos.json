@@ -1,8 +1,20 @@
 {
-  "checkedAt": "2026-05-18T02:50:23.262Z",
+  "checkedAt": "2026-05-18T03:00:31.883Z",
   "boards": {
     "mitto": {
       "live": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "670553",
+          "title": "🌍𝙀𝙋𝙇 또또🌍 [H]아스날 (-2.5) vs 번 리 :: 5/19 :: 4시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/670553",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/670553/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "15시간 59분 남음"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -104,40 +116,27 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "670109",
-          "title": "[🟢진행중/와토/5시간 남음] 🏆EWC 예선🏆최종 승/패 :KT (-1.5) vs 브리온 :월:17시 BO.3 (2)",
+          "title": "[🟢진행중/와토/4시간 남음] 🏆EWC 예선🏆최종 승/패 :KT (-1.5) vs 브리온 :월:17시 BO.3 (2)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/670109",
           "watoUrl": "https://ygosu.com/board/pan_ccy/670109/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 9분 남음"
+          "statusText": "4시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "670108",
-          "title": "[🟢진행중/와토/5시간 남음] 🏆EWC 예선🏆최종 승/패 :KT (-1.5) vs 브리온 :월:17시 BO.3 (1)",
+          "title": "[🟢진행중/와토/4시간 남음] 🏆EWC 예선🏆최종 승/패 :KT (-1.5) vs 브리온 :월:17시 BO.3 (1)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/670108",
           "watoUrl": "https://ygosu.com/board/pan_ccy/670108/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 9분 남음"
+          "statusText": "4시간 59분 남음"
         }
       ],
-      "closed": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "basketball",
-          "id": "669779",
-          "title": "🏀 NBA PO 🏀 클리블랜드(+4.5) vs...",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/669779",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/669779/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
+      "closed": [],
       "result": [
         {
           "board": "mitto",
@@ -291,6 +290,18 @@
           "title": "[🔴결과/와토/종료] 🏆롤CK또또🏆 김민교 vs 클템 최종승리 ::: 팀확정",
           "articleUrl": "https://ygosu.com/board/pan_ccy/669780",
           "watoUrl": "https://ygosu.com/board/pan_ccy/669780/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "basketball",
+          "id": "669779",
+          "title": "🏀 NBA PO 🏀 클리블랜드(+4.5) vs...",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/669779",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/669779/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -999,18 +1010,6 @@
           "title": "[🔴결과/와토/종료] 🏆LCK또또🏆2세트 ::: BNK vs 농심💥노핸디💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/667523",
           "watoUrl": "https://ygosu.com/board/pan_ccy/667523/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "667522",
-          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆1세트 ::: BNK vs 농심💥노핸디💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/667522",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/667522/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -1846,7 +1845,7 @@
           "boardName": "숲게",
           "category": null,
           "id": "1599784",
-          "title": "🔥철구 화요일방송 시청자 10009명 언/오버🔥 (1)",
+          "title": "🔥철구 화요일방송 시청자 10009명 언/오버🔥 (2)",
           "articleUrl": "https://ygosu.com/board/soop/1599784",
           "watoUrl": "https://ygosu.com/board/soop/1599784/?s_wato=Y",
           "tab": "live",
