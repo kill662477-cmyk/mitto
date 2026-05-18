@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-18T00:50:21.961Z",
+  "checkedAt": "2026-05-18T01:00:31.063Z",
   "boards": {
     "mitto": {
       "live": [
@@ -104,35 +104,35 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "670109",
-          "title": "[🟢진행중/와토/7시간 남음] 🏆EWC 예선🏆최종 승/패 :KT (-1.5) vs 브리온 :월:17시 BO.3 (2)",
+          "title": "[🟢진행중/와토/6시간 남음] 🏆EWC 예선🏆최종 승/패 :KT (-1.5) vs 브리온 :월:17시 BO.3 (2)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/670109",
           "watoUrl": "https://ygosu.com/board/pan_ccy/670109/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 9분 남음"
+          "statusText": "6시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "670108",
-          "title": "[🟢진행중/와토/7시간 남음] 🏆EWC 예선🏆최종 승/패 :KT (-1.5) vs 브리온 :월:17시 BO.3 (1)",
+          "title": "[🟢진행중/와토/6시간 남음] 🏆EWC 예선🏆최종 승/패 :KT (-1.5) vs 브리온 :월:17시 BO.3 (1)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/670108",
           "watoUrl": "https://ygosu.com/board/pan_ccy/670108/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 9분 남음"
+          "statusText": "6시간 59분 남음"
         }
       ],
       "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "basketball",
-          "id": "669779",
-          "title": "🏀 NBA PO 🏀 클리블랜드(+4.5) vs [H]디트로이트 05/18 09:00 (1)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/669779",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/669779/?s_wato=Y",
+          "category": "baseball",
+          "id": "669805",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 샌디에이고 vs [H]시애틀 :: 5/18 :: 08:20",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/669805",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/669805/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -140,11 +140,11 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "baseball",
-          "id": "669805",
-          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 샌디에이고 vs [H]시애틀 :: 5/18 :: 08:20",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/669805",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/669805/?s_wato=Y",
+          "category": "basketball",
+          "id": "669779",
+          "title": "[🟡마감/와토/마감] 🏀 NBA PO 🏀 클리블랜드(+4.5) vs [H]디트로이트 05/18 09:00",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/669779",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/669779/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -168,7 +168,7 @@
           "boardName": "미또게",
           "category": "football",
           "id": "670408",
-          "title": "⚽라리가 최종전⚽ [H]바르셀로나 ...",
+          "title": "[🔴결과/와토/종료] ⚽라리가 최종전⚽ [H]바르셀로나 (-1.5) vs 레알베티스 : 5/18 : 4시15분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/670408",
           "watoUrl": "https://ygosu.com/board/pan_ccy/670408/?s_wato=Y",
           "tab": "result",
