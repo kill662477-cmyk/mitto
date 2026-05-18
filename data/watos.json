@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-18T06:20:22.398Z",
+  "checkedAt": "2026-05-18T06:30:26.498Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/670553/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 39분 남음"
+          "statusText": "12시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/670559/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 39분 남음"
+          "statusText": "1시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/670108/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 39분 남음"
+          "statusText": "1시간 29분 남음"
         }
       ],
       "closed": [],
@@ -1005,7 +1005,20 @@
       ]
     },
     "monstarz": {
-      "live": [],
+      "live": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1459716",
+          "title": "🎮대학대전🎮 캄몬스타즈 VS MB대 최종승리팀 05.20 1경기시작시 마감",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1459716",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1459716/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        }
+      ],
       "closed": [],
       "result": [
         {
