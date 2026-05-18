@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-18T08:50:23.865Z",
+  "checkedAt": "2026-05-18T09:00:32.421Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/670553/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 9분 남음"
+          "statusText": "9시간 59분 남음"
         },
         {
           "board": "mitto",
@@ -86,7 +86,9 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
+        }
+      ],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -95,12 +97,11 @@
           "title": "[🟢진행중/와토/진행] 🏆EWC 예선🏆2세트 ::: KT (-7.5) vs 브리온 💥킬핸디확인💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/670111",
           "watoUrl": "https://ygosu.com/board/pan_ccy/670111/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         }
       ],
-      "closed": [],
       "result": [
         {
           "board": "mitto",
@@ -1854,21 +1855,20 @@
           "statusText": "진행중"
         }
       ],
-      "closed": [
+      "closed": [],
+      "result": [
         {
           "board": "soop",
           "boardName": "숲게",
           "category": null,
           "id": "1600350",
-          "title": "[와토/마감] 💎 철구 vs 서지수 💎 라데온",
+          "title": "[와토/종료] 💎 철구 vs 서지수 💎 라데온",
           "articleUrl": "https://ygosu.com/board/soop/1600350",
           "watoUrl": "https://ygosu.com/board/soop/1600350/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
