@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-19T11:31:58.988Z",
+  "checkedAt": "2026-05-19T11:40:28.691Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/671750/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 27분 남음"
+          "statusText": "12시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/671341/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 57분 남음"
+          "statusText": "6시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/671342/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 27분 남음"
+          "statusText": "7시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -145,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/671450/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "20시간 27분 남음"
+          "statusText": "20시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -157,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/671449/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "20시간 27분 남음"
+          "statusText": "20시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -1035,18 +1035,6 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1463532",
-          "title": "⚔스대게컵 8강 3경기⚔ 암드래곤7 vs 츠암종 (1)",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1463532",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1463532/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
           "id": "1459716",
           "title": "🎮대학대전🎮 캄몬스타즈 VS MB대 최종승리팀 05.20 1경기시작시 마감 (3)",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1459716",
@@ -1164,7 +1152,20 @@
           "statusText": "진행중"
         }
       ],
-      "closed": [],
+      "closed": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1463532",
+          "title": "⚔스대게컵 8강 3경기⚔ 암드래곤7 vs 츠암종 (1)",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1463532",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1463532/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        }
+      ],
       "result": [
         {
           "board": "monstarz",
