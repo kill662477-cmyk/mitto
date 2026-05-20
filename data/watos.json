@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-20T08:00:35.384Z",
+  "checkedAt": "2026-05-20T08:10:29.579Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/672107/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 59분 남음"
+          "statusText": "10시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,67 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/672108/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 59분 남음"
+          "statusText": "10시간 49분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "672430",
+          "title": "[와토/진행] 🏆LCK또또🏆 BFX(+9.5) vs 한화생명 3세트 ::: 킬핸디",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/672430",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/672430/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "672429",
+          "title": "[와토/진행] 🏆LCK또또🏆 BFX(+9.5) vs 한화생명 2세트 ::: 킬핸디",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/672429",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/672429/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "672428",
+          "title": "[와토/진행] 🏆LCK또또🏆 BFX(+9.5) vs 한화생명 1세트 ::: 킬핸디",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/672428",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/672428/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "672425",
+          "title": "[🟢진행중/와토/23시간 남음] 🏆LCK또또🏆 BFX(+1.5) vs 한화생명 풀세트(B) ::: 5/21 17시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/672425",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/672425/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "23시간 49분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "672424",
+          "title": "[🟢진행중/와토/23시간 남음] 🏆LCK또또🏆 BFX(+1.5) vs 한화생명 풀세트(A) ::: 5/21 17시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/672424",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/672424/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "23시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/672402/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 29분 남음"
+          "statusText": "1시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/672250/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 29분 남음"
+          "statusText": "1시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -915,54 +975,6 @@
           "title": "[🔴결과/와토/종료] 🏆EWC예선🏆 한화생명(-1.5) vs 브리온 풀세트(A) ::: 5/19 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/670831",
           "watoUrl": "https://ygosu.com/board/pan_ccy/670831/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "670559",
-          "title": "[🔴결과/와토/종료] 🏆EWC 예선🏆최종 승/패 :KT (-1.5) vs 브리온 :월:17시 BO.3 (2)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/670559",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/670559/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "670553",
-          "title": "[🔴결과/와토/종료] 🌍𝙀𝙋𝙇 또또🌍 [H]아스날 (-2.5) vs 번 리 :: 5/19 :: 4시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/670553",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/670553/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "670417",
-          "title": "[🔴결과/와토/종료] ⚽라리가 최종전⚽ [H]바르셀로나 (-2.5) vs 레알베티스 : 5/18 : 4시15분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/670417",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/670417/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "670408",
-          "title": "[🔴결과/와토/종료] ⚽라리가 최종전⚽ [H]바르셀로나 (-1.5) vs 레알베티스 : 5/18 : 4시15분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/670408",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/670408/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
