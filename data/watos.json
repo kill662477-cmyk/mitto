@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-20T01:40:25.933Z",
+  "checkedAt": "2026-05-20T01:51:24.880Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/672107/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "17시간 19분 남음"
+          "statusText": "17시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/672108/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "17시간 19분 남음"
+          "statusText": "17시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/671450/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 18분 남음"
+          "statusText": "6시간 7분 남음"
         },
         {
           "board": "mitto",
@@ -145,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/671449/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 18분 남음"
+          "statusText": "6시간 7분 남음"
         }
       ],
       "closed": [
@@ -166,7 +166,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "671968",
-          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 샌프란시스코 vs [H] 애리조나 :: 5/20 :: 10시 40분",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 샌프란시스코 vs [H] 애리조나 :: 5/20 :: 10시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/671968",
           "watoUrl": "https://ygosu.com/board/pan_ccy/671968/?s_wato=Y",
           "tab": "closed",
