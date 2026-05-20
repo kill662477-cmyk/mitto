@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-20T01:51:24.880Z",
+  "checkedAt": "2026-05-20T02:00:31.199Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/672107/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "17시간 8분 남음"
+          "statusText": "16시간 59분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/672108/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "17시간 8분 남음"
+          "statusText": "16시간 59분 남음"
         },
         {
           "board": "mitto",
@@ -128,24 +128,24 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "671450",
-          "title": "[🟢진행중/와토/6시간 남음] 🏆LCK또또🏆 T1(-1.5) vs KRX 풀세트(B) ::: 5/20 17시",
+          "title": "[🟢진행중/와토/5시간 남음] 🏆LCK또또🏆 T1(-1.5) vs KRX 풀세트(B) ::: 5/20 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/671450",
           "watoUrl": "https://ygosu.com/board/pan_ccy/671450/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 7분 남음"
+          "statusText": "5시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "671449",
-          "title": "[🟢진행중/와토/6시간 남음] 🏆LCK또또🏆 T1(-1.5) vs KRX 풀세트(A) ::: 5/20 17시",
+          "title": "[🟢진행중/와토/5시간 남음] 🏆LCK또또🏆 T1(-1.5) vs KRX 풀세트(A) ::: 5/20 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/671449",
           "watoUrl": "https://ygosu.com/board/pan_ccy/671449/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 7분 남음"
+          "statusText": "5시간 58분 남음"
         }
       ],
       "closed": [
@@ -236,18 +236,6 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "baseball",
-          "id": "671932",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 뉴욕메츠(-1.5) vs [H] 워싱턴 :: 5/20 :: 7시 45분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/671932",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/671932/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
           "category": "basketball",
           "id": "671750",
           "title": "[🟡마감/와토/마감] ​🏀 NBA CPF 🏀 클리블랜드(+7.5) vs [H]뉴욕 닉스 05/20 09:00",
@@ -267,6 +255,18 @@
           "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 신시내티 vs [H] 필라델피아 :: 5/20 :: 7시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/672017",
           "watoUrl": "https://ygosu.com/board/pan_ccy/672017/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "671932",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 뉴욕메츠(-1.5) vs [H] 워싱턴 :: 5/20 :: 7시 45분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/671932",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/671932/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
