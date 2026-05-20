@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-20T23:42:21.414Z",
+  "checkedAt": "2026-05-20T23:50:25.464Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/672751/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "47분 36초 남음"
+          "statusText": "39분 31초 남음"
         },
         {
           "board": "mitto",
@@ -85,31 +85,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/672722/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 54분 남음"
+          "statusText": "1시간 46분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "672721",
-          "title": "[🟢진행중/와토/57분 남음] ⚾ MLB ⚾ LA다저스(-1.5) vs [H] 샌디에이고 :: 5/21 :: 9시 40분",
+          "title": "[🟢진행중/와토/49분 남음] ⚾ MLB ⚾ LA다저스(-1.5) vs [H] 샌디에이고 :: 5/21 :: 9시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/672721",
           "watoUrl": "https://ygosu.com/board/pan_ccy/672721/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "56분 48초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "672719",
-          "title": "[🟢진행중/와토/2분 남음] ⚾ MLB ⚾ 피츠버그 vs [H] 세인트루이스 :: 5/21 :: 8시 45분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/672719",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/672719/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "1분 47초 남음"
+          "statusText": "48분 45초 남음"
         },
         {
           "board": "mitto",
@@ -157,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/672425/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 16분 남음"
+          "statusText": "8시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -169,10 +157,22 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/672424/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 16분 남음"
+          "statusText": "8시간 8분 남음"
         }
       ],
       "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "672719",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 피츠버그 vs [H] 세인트루이스 :: 5/21 :: 8시 45분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/672719",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/672719/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
