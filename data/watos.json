@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-21T17:20:28.428Z",
+  "checkedAt": "2026-05-21T17:30:34.020Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,40 +13,16 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/673719/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 39분 남음"
+          "statusText": "6시간 29분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
           "id": "674224",
-          "title": "[와토/진행] 🌠에이스 결정전🌠 재호팀 vs 짭제팀",
+          "title": "[와토/진행] 🌠에이스 결정전🌠 재호 vs 명운",
           "articleUrl": "https://ygosu.com/board/pan_ccy/674224",
           "watoUrl": "https://ygosu.com/board/pan_ccy/674224/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "674223",
-          "title": "[와토/진행] 🌠메프 2세트🌠 9경기 재호팀 vs 짭제팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/674223",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/674223/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "674222",
-          "title": "[와토/진행] 🌠메프 2세트🌠 8경기 재호팀 vs 짭제팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/674222",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/674222/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -157,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/673700/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "14시간 38분 남음"
+          "statusText": "14시간 28분 남음"
         },
         {
           "board": "mitto",
@@ -169,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/673699/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "14시간 38분 남음"
+          "statusText": "14시간 28분 남음"
         },
         {
           "board": "mitto",
@@ -181,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/673584/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 18분 남음"
+          "statusText": "8시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -193,7 +169,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/673581/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 16분 남음"
+          "statusText": "8시간 6분 남음"
         },
         {
           "board": "mitto",
@@ -205,7 +181,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/673580/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 43분 남음"
+          "statusText": "5시간 33분 남음"
         },
         {
           "board": "mitto",
@@ -217,7 +193,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/673576/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 18분 남음"
+          "statusText": "5시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -229,22 +205,10 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/673575/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 43분 남음"
+          "statusText": "2시간 33분 남음"
         }
       ],
       "closed": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "674221",
-          "title": "[와토/마감] 🌠메프 2세트🌠 7경기 재호 vs 현제",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/674221",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/674221/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -271,6 +235,18 @@
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "674221",
+          "title": "[와토/종료] 🌠메프 2세트🌠 7경기 재호 vs 현제",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/674221",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/674221/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -1983,7 +1959,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1614275/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 35분 남음"
+          "statusText": "11시간 25분 남음"
         },
         {
           "board": "soop",
