@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-21T00:50:25.901Z",
+  "checkedAt": "2026-05-21T01:00:43.444Z",
   "boards": {
     "mitto": {
       "live": [
@@ -68,12 +68,12 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "672722",
-          "title": "[🟢진행중/와토/47분 남음] ⚾ MLB ⚾ 애슬레틱스 vs [H] LA에인절스 :: 5/21 :: 10시 38분",
+          "title": "[🟢진행중/와토/37분 남음] ⚾ MLB ⚾ 애슬레틱스 vs [H] LA에인절스 :: 5/21 :: 10시 38분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/672722",
           "watoUrl": "https://ygosu.com/board/pan_ccy/672722/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "46분 46초 남음"
+          "statusText": "36분 30초 남음"
         },
         {
           "board": "mitto",
@@ -116,24 +116,24 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "672425",
-          "title": "[🟢진행중/와토/7시간 남음] 🏆LCK또또🏆 BFX(+1.5) vs 한화생명 풀세트(B) ::: 5/21 17시",
+          "title": "[🟢진행중/와토/6시간 남음] 🏆LCK또또🏆 BFX(+1.5) vs 한화생명 풀세트(B) ::: 5/21 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/672425",
           "watoUrl": "https://ygosu.com/board/pan_ccy/672425/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 8분 남음"
+          "statusText": "6시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "672424",
-          "title": "[🟢진행중/와토/7시간 남음] 🏆LCK또또🏆 BFX(+1.5) vs 한화생명 풀세트(A) ::: 5/21 17시",
+          "title": "[🟢진행중/와토/6시간 남음] 🏆LCK또또🏆 BFX(+1.5) vs 한화생명 풀세트(A) ::: 5/21 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/672424",
           "watoUrl": "https://ygosu.com/board/pan_ccy/672424/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 8분 남음"
+          "statusText": "6시간 58분 남음"
         }
       ],
       "closed": [
@@ -154,7 +154,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "672721",
-          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ LA다저스(-1.5) vs [H] 샌디에이고 :: 5/21 :: 9시 40분",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ LA다저스(-1.5) vs [H] 샌디에이고 :: 5/21 :: 9시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/672721",
           "watoUrl": "https://ygosu.com/board/pan_ccy/672721/?s_wato=Y",
           "tab": "closed",
