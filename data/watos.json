@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-22T00:30:27.604Z",
+  "checkedAt": "2026-05-22T00:40:25.125Z",
   "boards": {
     "mitto": {
       "live": [
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/673700/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 28분 남음"
+          "statusText": "7시간 18분 남음"
         },
         {
           "board": "mitto",
@@ -121,31 +121,31 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/673699/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 28분 남음"
+          "statusText": "7시간 18분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "673584",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 콜로라도(+1.5) vs [H] 애리조나 :: 5/22 :: 10시 40분",
+          "title": "[🟢진행중/와토/59분 남음] ⚾ MLB ⚾ 콜로라도(+1.5) vs [H] 애리조나 :: 5/22 :: 10시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/673584",
           "watoUrl": "https://ygosu.com/board/pan_ccy/673584/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 8분 남음"
+          "statusText": "58분 40초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "673581",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 애슬레틱스 vs [H] LA에인절스 :: 5/22 :: 10시 38분",
+          "title": "[🟢진행중/와토/57분 남음] ⚾ MLB ⚾ 애슬레틱스 vs [H] LA에인절스 :: 5/22 :: 10시 38분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/673581",
           "watoUrl": "https://ygosu.com/board/pan_ccy/673581/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 6분 남음"
+          "statusText": "56분 39초 남음"
         }
       ],
       "closed": [
@@ -372,7 +372,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "673575",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 뉴욕메츠 vs [H] 워싱턴 :: 5/22 :: 5시 5분",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 뉴욕메츠 vs [H] 워싱턴 :: 5/22 :: 5시 5분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/673575",
           "watoUrl": "https://ygosu.com/board/pan_ccy/673575/?s_wato=Y",
           "tab": "result",
@@ -1959,7 +1959,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1614275/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 25분 남음"
+          "statusText": "4시간 15분 남음"
         },
         {
           "board": "soop",
