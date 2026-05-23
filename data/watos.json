@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-23T08:10:26.721Z",
+  "checkedAt": "2026-05-23T08:20:24.371Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/675419/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 19분 남음"
+          "statusText": "10시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/675647/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "23시간 49분 남음"
+          "statusText": "23시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/675646/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "23시간 49분 남음"
+          "statusText": "23시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -2008,42 +2008,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1612452",
-          "title": "💎💎 씨나인 2회차 1:1 데스매치 기여도 1등 멤버 맞추기 💎💎 (2)",
-          "articleUrl": "https://ygosu.com/board/soop/1612452",
-          "watoUrl": "https://ygosu.com/board/soop/1612452/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1612440",
-          "title": "💎💎 씨나인 2회차 1:1 데스매치 444만 언더/오버 💎💎 (1)",
-          "articleUrl": "https://ygosu.com/board/soop/1612440",
-          "watoUrl": "https://ygosu.com/board/soop/1612440/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1617345",
-          "title": "[와토/진행] 💎 씨나인 엑셀 2회차 족플 333333개 언오버 💎",
-          "articleUrl": "https://ygosu.com/board/soop/1617345",
-          "watoUrl": "https://ygosu.com/board/soop/1617345/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
         }
       ],
       "closed": [
@@ -2055,6 +2019,30 @@
           "title": "🔥내일 철구형 플레이어 VS 노플레이어:: 18시 마감🔥",
           "articleUrl": "https://ygosu.com/board/soop/1615149",
           "watoUrl": "https://ygosu.com/board/soop/1615149/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1612452",
+          "title": "💎💎 씨나인 2회차 1:1 데스매치 기여도 1등 멤버 맞추기 💎💎 (2)",
+          "articleUrl": "https://ygosu.com/board/soop/1612452",
+          "watoUrl": "https://ygosu.com/board/soop/1612452/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1612440",
+          "title": "💎💎 씨나인 2회차 1:1 데스매치 444만 언더/오버 💎💎 (1)",
+          "articleUrl": "https://ygosu.com/board/soop/1612440",
+          "watoUrl": "https://ygosu.com/board/soop/1612440/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
