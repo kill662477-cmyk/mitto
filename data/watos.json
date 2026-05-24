@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-24T23:20:24.950Z",
+  "checkedAt": "2026-05-24T23:30:31.721Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/677447/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "39분 32초 남음"
+          "statusText": "29분 25초 남음"
         },
         {
           "board": "mitto",
@@ -145,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/677220/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 39분 남음"
+          "statusText": "7시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -157,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/677219/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 39분 남음"
+          "statusText": "7시간 29분 남음"
         }
       ],
       "closed": [
@@ -166,21 +166,9 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "676914",
-          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 텍사스 vs [H] LA에인절스 :: 5/25 :: 8시 20분",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 텍사스 vs [H] LA에인절스 :: 5/25 :: 8시 20분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/676914",
           "watoUrl": "https://ygosu.com/board/pan_ccy/676914/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "676908",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 애슬레틱스(+1.5) vs [H] 샌디에이고 :: 5/25 :: 5시 10분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/676908",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/676908/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -193,18 +181,6 @@
           "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 워싱턴(+1.5) vs [H] 애틀랜타 :: 5/25 :: 5시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/676864",
           "watoUrl": "https://ygosu.com/board/pan_ccy/676864/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "676861",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 시카고W vs [H] 샌프란시스코 :: 5/25 :: 5시 5분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/676861",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/676861/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -327,6 +303,30 @@
           "title": "[🔴결과/와토/종료] 🏆스타대전 개인전🏆1경기 ::: 강덕구 vs 백갑숙 (녹아웃)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/677132",
           "watoUrl": "https://ygosu.com/board/pan_ccy/677132/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "676908",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 애슬레틱스(+1.5) vs [H] 샌디에이고 :: 5/25 :: 5시 10분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/676908",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/676908/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "676861",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 시카고W vs [H] 샌프란시스코 :: 5/25 :: 5시 5분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/676861",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/676861/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -2056,7 +2056,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1624785/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 35분 남음"
+          "statusText": "6시간 25분 남음"
         }
       ],
       "closed": [],
