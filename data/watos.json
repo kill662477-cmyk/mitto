@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-24T14:50:26.487Z",
+  "checkedAt": "2026-05-24T15:00:32.712Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,16 +13,16 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/677447/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 9분 남음"
+          "statusText": "8시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
-          "id": "677665",
-          "title": "[🟢진행중/와토/진행] 🏆스타대전 개인전🏆 2세트 ::: 김봉준 vs 기뉴다",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/677665",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/677665/?s_wato=Y",
+          "id": "677677",
+          "title": "[🟢진행중/와토/진행] 🏆스타대전🏆3세트 ::: 한둬얼 vs 밍또얌",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/677677",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/677677/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -31,22 +31,10 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
-          "id": "677663",
-          "title": "[🟢진행중/와토/진행] 🏆스타대전 개인전🏆 1세트 ::: 김봉준 vs 기뉴다",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/677663",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/677663/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "677662",
-          "title": "[🟢진행중/와토/진행] 🏆스타대전🏆최종 승패 ::: 김봉준 vs 기뉴다 BO.3",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/677662",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/677662/?s_wato=Y",
+          "id": "677675",
+          "title": "[🟢진행중/와토/진행] 🏆스타대전🏆2세트 ::: 김민철 vs 박성균",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/677675",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/677675/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -176,24 +164,24 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "677220",
-          "title": "[🟢진행중/와토/16시간 남음] 🏆EWC예선🏆 DK (+1.5) vs T1 풀세트 (B) :: 5/25 16시 BO.5",
+          "title": "[🟢진행중/와토/15시간 남음] 🏆EWC예선🏆 DK (+1.5) vs T1 풀세트 (B) :: 5/25 16시 BO.5",
           "articleUrl": "https://ygosu.com/board/pan_ccy/677220",
           "watoUrl": "https://ygosu.com/board/pan_ccy/677220/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 9분 남음"
+          "statusText": "15시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "677219",
-          "title": "[🟢진행중/와토/16시간 남음] 🏆EWC예선🏆 DK (+1.5) vs T1 풀세트 (A) :: 5/25 16시 BO.5",
+          "title": "[🟢진행중/와토/15시간 남음] 🏆EWC예선🏆 DK (+1.5) vs T1 풀세트 (A) :: 5/25 16시 BO.5",
           "articleUrl": "https://ygosu.com/board/pan_ccy/677219",
           "watoUrl": "https://ygosu.com/board/pan_ccy/677219/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 9분 남음"
+          "statusText": "15시간 59분 남음"
         },
         {
           "board": "mitto",
@@ -229,7 +217,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/676914/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 28분 남음"
+          "statusText": "8시간 18분 남음"
         },
         {
           "board": "mitto",
@@ -241,7 +229,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/676908/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 18분 남음"
+          "statusText": "5시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -253,7 +241,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/676864/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 18분 남음"
+          "statusText": "5시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -265,7 +253,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/676861/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 13분 남음"
+          "statusText": "5시간 3분 남음"
         },
         {
           "board": "mitto",
@@ -277,7 +265,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/676856/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 28분 남음"
+          "statusText": "3시간 18분 남음"
         },
         {
           "board": "mitto",
@@ -289,7 +277,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/676851/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 18분 남음"
+          "statusText": "3시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -301,7 +289,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/676846/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 48분 남음"
+          "statusText": "2시간 38분 남음"
         },
         {
           "board": "mitto",
@@ -313,7 +301,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/676834/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 43분 남음"
+          "statusText": "2시간 33분 남음"
         },
         {
           "board": "mitto",
@@ -325,7 +313,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/676783/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 43분 남음"
+          "statusText": "2시간 33분 남음"
         },
         {
           "board": "mitto",
@@ -337,94 +325,107 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/676779/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 43분 남음"
+          "statusText": "1시간 33분 남음"
+        }
+      ],
+      "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "677662",
+          "title": "[🟢진행중/와토/마감] 🏆스타대전🏆최종 승패::: 무창클럽 vs 뉴캣슬 BO.3",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/677662",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/677662/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "676636",
-          "title": "[🟢진행중/와토/9분 남음] 🌍𝙀𝙋𝙇 최종전🌍 웨스트햄 (-0.5) vs 리 즈 : 5/25 : 00시00분",
+          "title": "[🟢진행중/와토/마감] 🌍𝙀𝙋𝙇 최종전🌍 웨스트햄 (-0.5) vs 리 즈 : 5/25 : 00시00분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/676636",
           "watoUrl": "https://ygosu.com/board/pan_ccy/676636/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 37초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "676511",
-          "title": "[🟢진행중/와토/9분 남음] 🌍𝙀𝙋𝙇 최종전🌍 리버풀 (-0.5) vs 브렌트포드 : 5/25 : 00시00분",
+          "title": "[🟢진행중/와토/마감] 🌍𝙀𝙋𝙇 최종전🌍 리버풀 (-0.5) vs 브렌트포드 : 5/25 : 00시00분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/676511",
           "watoUrl": "https://ygosu.com/board/pan_ccy/676511/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 31초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "676510",
-          "title": "[🟢진행중/와토/9분 남음] 🌍𝙀𝙋𝙇 최종전🌍 맨시티 (-1.5) vs 아스톤 빌라 : 5/25 : 00시00",
+          "title": "[🟢진행중/와토/마감] 🌍𝙀𝙋𝙇 최종전🌍 맨시티 (-1.5) vs 아스톤 빌라 : 5/25 : 00시00",
           "articleUrl": "https://ygosu.com/board/pan_ccy/676510",
           "watoUrl": "https://ygosu.com/board/pan_ccy/676510/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 30초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "676509",
-          "title": "[🟢진행중/와토/9분 남음] 🌍𝙀𝙋𝙇 최종전🌍 브라이튼 (-0.5) vs 맨 유 : 5/25 : 00시00분",
+          "title": "[🟢진행중/와토/마감] 🌍𝙀𝙋𝙇 최종전🌍 브라이튼 (-0.5) vs 맨 유 : 5/25 : 00시00분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/676509",
           "watoUrl": "https://ygosu.com/board/pan_ccy/676509/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 29초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "676508",
-          "title": "[🟢진행중/와토/9분 남음] 🌍𝙀𝙋𝙇 최종전🌍 토트넘 (-0.5) vs 에버튼 : 5/25 : 00시00분",
+          "title": "[🟢진행중/와토/마감] 🌍𝙀𝙋𝙇 최종전🌍 토트넘 (-0.5) vs 에버튼 : 5/25 : 00시00분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/676508",
           "watoUrl": "https://ygosu.com/board/pan_ccy/676508/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 28초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "676507",
-          "title": "[🟢진행중/와토/9분 남음] 🌍𝙀𝙋𝙇 최종전🌍 C.팰리스 (+0.5) vs 아스날 : 5/25 : 00시00분",
+          "title": "[🟢진행중/와토/마감] 🌍𝙀𝙋𝙇 최종전🌍 C.팰리스 (+0.5) vs 아스날 : 5/25 : 00시00분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/676507",
           "watoUrl": "https://ygosu.com/board/pan_ccy/676507/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 27초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "676506",
-          "title": "[🟢진행중/와토/9분 남음] 🌍𝙀𝙋𝙇 최종전🌍 선덜랜드 (+0.5) vs 첼 시 : 5/25 : 00시00분",
+          "title": "[🟢진행중/와토/마감] 🌍𝙀𝙋𝙇 최종전🌍 선덜랜드 (+0.5) vs 첼 시 : 5/25 : 00시00분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/676506",
           "watoUrl": "https://ygosu.com/board/pan_ccy/676506/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 27초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         }
       ],
-      "closed": [],
       "result": [
         {
           "board": "mitto",
@@ -478,42 +479,6 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
-          "id": "677134",
-          "title": "[🔴결과/와토/종료] 🏆스타대전 개인전🏆3경기 ::: 김민철 vs 박성균 (실피드)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/677134",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/677134/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "677133",
-          "title": "[🔴결과/와토/종료] 🏆스타대전 개인전🏆2경기 ::: 김봉준 vs 기뉴다 (폴리)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/677133",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/677133/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "677132",
-          "title": "[🔴결과/와토/종료] 🏆스타대전 개인전🏆1경기 ::: 강덕구 vs 백갑숙 (녹아웃)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/677132",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/677132/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
           "id": "675479",
           "title": "🏆스타대전 모음🏆무창클럽 vs 뉴...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/675479",
@@ -542,6 +507,42 @@
           "title": "🏆LCK또또🏆 DNS(+1.5) vs 젠지 풀...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/675646",
           "watoUrl": "https://ygosu.com/board/pan_ccy/675646/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "677134",
+          "title": "[🔴결과/와토/종료] 🏆스타대전 개인전🏆3경기 ::: 김민철 vs 박성균 (실피드)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/677134",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/677134/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "677133",
+          "title": "[🔴결과/와토/종료] 🏆스타대전 개인전🏆2경기 ::: 김봉준 vs 기뉴다 (폴리)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/677133",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/677133/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "677132",
+          "title": "[🔴결과/와토/종료] 🏆스타대전 개인전🏆1경기 ::: 강덕구 vs 백갑숙 (녹아웃)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/677132",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/677132/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -1070,30 +1071,6 @@
           "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ NC(+0.5) vs [H] KT :: 5/23 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/675433",
           "watoUrl": "https://ygosu.com/board/pan_ccy/675433/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "675419",
-          "title": "[🔴결과/와토/종료] ⚽DFB포칼 결승⚽ 바이에른뮌헨 (-1.5) vs 슈튜트가르트 : 5/24 : 3시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/675419",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/675419/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "675392",
-          "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ 키움(+1.5) vs [H] LG :: 5/23 :: 14시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/675392",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/675392/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
