@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-25T02:50:28.608Z",
+  "checkedAt": "2026-05-25T03:00:32.758Z",
   "boards": {
     "mitto": {
       "live": [
@@ -128,40 +128,27 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "677220",
-          "title": "[🟢진행중/와토/4시간 남음] 🏆EWC예선🏆 DK (+1.5) vs T1 풀세트 (B) :: 5/25 16시 BO.5",
+          "title": "[🟢진행중/와토/3시간 남음] 🏆EWC예선🏆 DK (+1.5) vs T1 풀세트 (B) :: 5/25 16시 BO.5",
           "articleUrl": "https://ygosu.com/board/pan_ccy/677220",
           "watoUrl": "https://ygosu.com/board/pan_ccy/677220/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 9분 남음"
+          "statusText": "3시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "677219",
-          "title": "[🟢진행중/와토/4시간 남음] 🏆EWC예선🏆 DK (+1.5) vs T1 풀세트 (A) :: 5/25 16시 BO.5",
+          "title": "[🟢진행중/와토/3시간 남음] 🏆EWC예선🏆 DK (+1.5) vs T1 풀세트 (A) :: 5/25 16시 BO.5",
           "articleUrl": "https://ygosu.com/board/pan_ccy/677219",
           "watoUrl": "https://ygosu.com/board/pan_ccy/677219/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 9분 남음"
+          "statusText": "3시간 59분 남음"
         }
       ],
-      "closed": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "basketball",
-          "id": "677447",
-          "title": "[🟡마감/와토/마감] 🏀 NBA CPF 🏀 오클라호마 vs [H]산안토니오 05/25 09:00",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/677447",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/677447/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
+      "closed": [],
       "result": [
         {
           "board": "mitto",
@@ -195,6 +182,18 @@
           "title": "[🔴결과/와토/종료] 🏆스타대전🏆최종 승패::: 무창클럽 vs 뉴캣슬 BO.3",
           "articleUrl": "https://ygosu.com/board/pan_ccy/677662",
           "watoUrl": "https://ygosu.com/board/pan_ccy/677662/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "basketball",
+          "id": "677447",
+          "title": "[🔴결과/와토/종료] 🏀 NBA CPF 🏀 오클라호마 vs [H]산안토니오 05/25 09:00",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/677447",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/677447/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -2051,12 +2050,12 @@
           "boardName": "숲게",
           "category": null,
           "id": "1624785",
-          "title": "🔥힐링촌캉스 시청자 7009명 언/오버:: 15시 마감🔥 (2)",
+          "title": "🔥힐링촌캉스 시청자 7009명 언/오버:: 15시 마감🔥 (3)",
           "articleUrl": "https://ygosu.com/board/soop/1624785",
           "watoUrl": "https://ygosu.com/board/soop/1624785/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 5분 남음"
+          "statusText": "2시간 55분 남음"
         }
       ],
       "closed": [],
