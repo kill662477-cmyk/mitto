@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-25T05:00:50.656Z",
+  "checkedAt": "2026-05-25T05:10:26.550Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/677928/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 59분 남음"
+          "statusText": "6시간 49분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "677919",
+          "title": "🎰25일 15시 🎰 올킬이의 서민정책랄 211만 언더 or 오버 (1)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/677919",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/677919/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "48분 28초 남음"
         },
         {
           "board": "mitto",
@@ -25,19 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/677920/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 58분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "677919",
-          "title": "[🟢진행중/와토/58분 남음] 🎰25일 15시 🎰 올킬이의 서민정책랄 211만 언더 or 오버",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/677919",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/677919/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "58분 3초 남음"
+          "statusText": "1시간 48분 남음"
         },
         {
           "board": "mitto",
@@ -169,7 +169,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/677220/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 58분 남음"
+          "statusText": "1시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -181,10 +181,11 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/677219/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 58분 남음"
+          "statusText": "1시간 49분 남음"
         }
       ],
-      "closed": [
+      "closed": [],
+      "result": [
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -193,12 +194,10 @@
           "title": "🎰25일 14시 🎰 올킬이의 서민정책...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/677918",
           "watoUrl": "https://ygosu.com/board/pan_ccy/677918/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -2068,7 +2067,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1624785/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "55분 27초 남음"
+          "statusText": "45분 40초 남음"
         }
       ],
       "closed": [],
