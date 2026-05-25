@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-25T09:30:28.823Z",
+  "checkedAt": "2026-05-25T09:40:28.224Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/677928/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 29분 남음"
+          "statusText": "2시간 19분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "678122",
+          "title": "[🟢진행중/와토/7시간 남음] ⚾ MLB ⚾ 텍사스 vs [H] LA에인절스 :: 5/26 :: 2시 35분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/678122",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/678122/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "7시간 54분 남음"
         },
         {
           "board": "mitto",
@@ -1023,18 +1035,6 @@
           "title": "[🔴결과/와토/종료] 🌠𝐀𝐒𝐋 결승🌠 최종 승패 : 박상현 (+1.5) vs 이영호 : BO.7 (A)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/675505",
           "watoUrl": "https://ygosu.com/board/pan_ccy/675505/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "675479",
-          "title": "[🔴결과/와토/종료] 🏆스타대전 모음🏆무창클럽 vs 뉴캣슬 ::: BO.9 :::",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/675479",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/675479/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
