@@ -1,20 +1,8 @@
 {
-  "checkedAt": "2026-05-25T11:50:25.023Z",
+  "checkedAt": "2026-05-25T12:00:34.681Z",
   "boards": {
     "mitto": {
       "live": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "677928",
-          "title": "🌠스타 끝장전🌠 장윤철 vs 임홍규 :: 월요일 :: 21시 :: BO.9 (2)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/677928",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/677928/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "9분 29초 남음"
-        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -25,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/678249/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 44분 남음"
+          "statusText": "5시간 34분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/678183/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 49분 남음"
+          "statusText": "13시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/678177/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 19분 남음"
+          "statusText": "13시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/678170/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 16분 남음"
+          "statusText": "11시간 6분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/678163/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 14분 남음"
+          "statusText": "11시간 4분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/678159/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 49분 남음"
+          "statusText": "10시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/678146/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 14분 남음"
+          "statusText": "9시간 4분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/678144/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 19분 남음"
+          "statusText": "8시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/678139/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 49분 남음"
+          "statusText": "7시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/678128/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 19분 남음"
+          "statusText": "6시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -161,6 +149,18 @@
         }
       ],
       "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "677928",
+          "title": "🌠스타 끝장전🌠 장윤철 vs 임홍규 :: 월요일 :: 21시 :: BO.9 (2)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/677928",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/677928/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -1133,18 +1133,6 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1489884",
-          "title": "[와토/마감] 🇰🇷🇨🇳 흠참범 한중전 - 1경기 지동원 vs 미후t 옥타곤",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1489884",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1489884/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
           "id": "1488648",
           "title": "[와토/마감] 🇰🇷🇨🇳 흠참범 한중전 승부예측",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1488648",
@@ -1155,6 +1143,18 @@
         }
       ],
       "result": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1489884",
+          "title": "[와토/종료] 🇰🇷🇨🇳 흠참범 한중전 - 1경기 지동원 vs 미후t 옥타곤",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1489884",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1489884/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
