@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-25T05:50:24.852Z",
+  "checkedAt": "2026-05-25T06:00:33.027Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,31 +13,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/677928/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 9분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "677919",
-          "title": "🎰25일 15시 🎰 올킬이의 서민정책랄 211만 언더 or 오버 (1)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/677919",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/677919/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 28초 남음"
+          "statusText": "5시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
           "id": "677920",
-          "title": "[🟢진행중/와토/1시간 남음] 🎰25일 16시 🎰 올킬이의 서민정책랄 211만 언더 or 오버",
+          "title": "🎰25일 16시 🎰 올킬이의 서민정책랄 211만 언더 or 오버 (1)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/677920",
           "watoUrl": "https://ygosu.com/board/pan_ccy/677920/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 8분 남음"
+          "statusText": "58분 21초 남음"
         },
         {
           "board": "mitto",
@@ -164,27 +152,40 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "677220",
-          "title": "[🟢진행중/와토/1시간 남음] 🏆EWC예선🏆 DK (+1.5) vs T1 풀세트 (B) :: 5/25 16시 BO.5",
+          "title": "[🟢진행중/와토/59분 남음] 🏆EWC예선🏆 DK (+1.5) vs T1 풀세트 (B) :: 5/25 16시 BO.5",
           "articleUrl": "https://ygosu.com/board/pan_ccy/677220",
           "watoUrl": "https://ygosu.com/board/pan_ccy/677220/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 9분 남음"
+          "statusText": "58분 59초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "677219",
-          "title": "[🟢진행중/와토/1시간 남음] 🏆EWC예선🏆 DK (+1.5) vs T1 풀세트 (A) :: 5/25 16시 BO.5",
+          "title": "[🟢진행중/와토/59분 남음] 🏆EWC예선🏆 DK (+1.5) vs T1 풀세트 (A) :: 5/25 16시 BO.5",
           "articleUrl": "https://ygosu.com/board/pan_ccy/677219",
           "watoUrl": "https://ygosu.com/board/pan_ccy/677219/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 9분 남음"
+          "statusText": "58분 58초 남음"
         }
       ],
-      "closed": [],
+      "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "677919",
+          "title": "[🟢진행중/와토/마감] 🎰25일 15시 🎰 올킬이의 서민정책랄 211만 언더 or 오버",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/677919",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/677919/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        }
+      ],
       "result": [
         {
           "board": "mitto",
@@ -2056,7 +2057,9 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
+        }
+      ],
+      "closed": [
         {
           "board": "soop",
           "boardName": "숲게",
@@ -2065,12 +2068,11 @@
           "title": "🔥힐링 촌캉스 시청자 7009명 언/오버:: 15시 마감🔥 (3)",
           "articleUrl": "https://ygosu.com/board/soop/1624785",
           "watoUrl": "https://ygosu.com/board/soop/1624785/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "5분 15초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         }
       ],
-      "closed": [],
       "result": [
         {
           "board": "soop",
