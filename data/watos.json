@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-25T09:40:28.224Z",
+  "checkedAt": "2026-05-25T09:50:25.622Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,43 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/677928/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 19분 남음"
+          "statusText": "2시간 9분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "678144",
+          "title": "[🟢진행중/와토/10시간 남음] ⚾ MLB ⚾ 신시내티 vs [H] 뉴욕메츠 :: 5/26 :: 5시 10분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/678144",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/678144/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "10시간 19분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "678139",
+          "title": "[🟢진행중/와토/9시간 남음] ⚾ MLB ⚾ 뉴욕양키스(-1.5) vs [H] 캔자스시티 :: 5/26 :: 4시 40분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/678139",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/678139/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "9시간 49분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "678128",
+          "title": "[🟢진행중/와토/8시간 남음] ⚾ MLB ⚾ 미네소타 vs [H] 시카고W :: 5/26 :: 3시 10분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/678128",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/678128/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "8시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/678122/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 54분 남음"
+          "statusText": "7시간 44분 남음"
         },
         {
           "board": "mitto",
@@ -113,18 +149,6 @@
         }
       ],
       "closed": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "677223",
-          "title": "[🟡마감/와토/마감] 🏆EWC예선🏆 DK (+6.5) vs T1 3세트💥킬핸디확인💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/677223",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/677223/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -231,6 +255,18 @@
           "title": "[🔴결과/와토/종료] 🏀 NBA CPF 🏀 오클라호마 vs [H]산안토니오 05/25 09:00",
           "articleUrl": "https://ygosu.com/board/pan_ccy/677447",
           "watoUrl": "https://ygosu.com/board/pan_ccy/677447/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "677223",
+          "title": "[🔴결과/와토/종료] 🏆EWC예선🏆 DK (+6.5) vs T1 3세트💥킬핸디확인💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/677223",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/677223/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -999,42 +1035,6 @@
           "title": "[🔴결과/와토/종료] 🌠𝐀𝐒𝐋 결승🌠 최종 승패 : 박상현 (+2.5) vs 이영호 : BO.7 (A)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/675508",
           "watoUrl": "https://ygosu.com/board/pan_ccy/675508/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "675507",
-          "title": "[🔴결과/와토/종료] 🌠𝐀𝐒𝐋 결승🌠 최종 승패 : 박상현 (+1.5) vs 이영호 : BO.7 (C)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/675507",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/675507/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "675506",
-          "title": "[🔴결과/와토/종료] 🌠𝐀𝐒𝐋 결승🌠 최종 승패 : 박상현 (+1.5) vs 이영호 : BO.7 (B)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/675506",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/675506/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "675505",
-          "title": "[🔴결과/와토/종료] 🌠𝐀𝐒𝐋 결승🌠 최종 승패 : 박상현 (+1.5) vs 이영호 : BO.7 (A)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/675505",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/675505/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
