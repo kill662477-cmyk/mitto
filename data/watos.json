@@ -1,8 +1,32 @@
 {
-  "checkedAt": "2026-05-26T10:30:32.949Z",
+  "checkedAt": "2026-05-26T12:50:30.093Z",
   "boards": {
     "mitto": {
       "live": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "basketball",
+          "id": "678862",
+          "title": "🏀 NBA CPF 🏀 샌안토니오(+5.5) vs [H]오클라호마 05/27 09:30",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/678862",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/678862/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "11시간 39분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "678869",
+          "title": "🌠중장전🌠 1세트 : 변현제 vs 이영웅 22시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/678869",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/678869/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -104,89 +128,76 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "678782",
-          "title": "[🟢진행중/와토/21시간 남음] 🏆LCK또또🏆최종 승/패 : 젠지 (-1.5) vs 한화 :수: 17시 BO.3",
+          "title": "[🟢진행중/와토/19시간 남음] 🏆LCK또또🏆최종 승/패 : 젠지 (-1.5) vs 한화 :수: 17시 BO.3",
           "articleUrl": "https://ygosu.com/board/pan_ccy/678782",
           "watoUrl": "https://ygosu.com/board/pan_ccy/678782/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 29분 남음"
+          "statusText": "19시간 9분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "678781",
-          "title": "[🟢진행중/와토/21시간 남음] 🏆LCK또또🏆최종 승/패 : 젠지 vs 한화 ::: 수 ::: 17시 BO.3 (B)",
+          "title": "[🟢진행중/와토/19시간 남음] 🏆LCK또또🏆최종 승/패 : 젠지 vs 한화 ::: 수 ::: 17시 BO.3 (B)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/678781",
           "watoUrl": "https://ygosu.com/board/pan_ccy/678781/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 29분 남음"
+          "statusText": "19시간 9분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "678780",
-          "title": "[🟢진행중/와토/21시간 남음] 🏆LCK또또🏆최종 승/패 : 젠지 vs 한화 ::: 수 ::: 17시 BO.3 (A)",
+          "title": "[🟢진행중/와토/19시간 남음] 🏆LCK또또🏆최종 승/패 : 젠지 vs 한화 ::: 수 ::: 17시 BO.3 (A)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/678780",
           "watoUrl": "https://ygosu.com/board/pan_ccy/678780/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 29분 남음"
+          "statusText": "19시간 9분 남음"
         }
       ],
-      "closed": [
+      "closed": [],
+      "result": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "678584",
-          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ LG(-1.5) vs [H] 롯데 :: 5/26 :: 18시 30분",
+          "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ LG(-1.5) vs [H] 롯데 :: 5/26 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/678584",
           "watoUrl": "https://ygosu.com/board/pan_ccy/678584/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "678583",
-          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 한화(-1.5) vs [H] NC :: 5/26 :: 18시 30분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/678583",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/678583/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "678581",
-          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ KIA(-0.5) vs [H] 키움 :: 5/26 :: 18시 30분",
+          "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ KIA(-0.5) vs [H] 키움 :: 5/26 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/678581",
           "watoUrl": "https://ygosu.com/board/pan_ccy/678581/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "678580",
-          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ KT(-1.5) vs [H] 두산 :: 5/26 :: 18시 30분",
+          "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ KT(-1.5) vs [H] 두산 :: 5/26 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/678580",
           "watoUrl": "https://ygosu.com/board/pan_ccy/678580/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -983,7 +994,32 @@
     },
     "monstarz": {
       "live": [],
-      "closed": [],
+      "closed": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1495338",
+          "title": "🍅 마토 23PL 1승 여부 🍅",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1495338",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1495338/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1495313",
+          "title": "[와토/마감] 🍅 토마토 23PL 승부예측 🍅",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1495313",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1495313/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        }
+      ],
       "result": [
         {
           "board": "monstarz",
@@ -1972,7 +2008,20 @@
       ]
     },
     "soop": {
-      "live": [],
+      "live": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1628907",
+          "title": "💎씨나인 팀전 여왕팀(-15만개) vs 공주팀 승리팀 맞추기💎",
+          "articleUrl": "https://ygosu.com/board/soop/1628907",
+          "watoUrl": "https://ygosu.com/board/soop/1628907/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        }
+      ],
       "closed": [],
       "result": [
         {
@@ -2787,18 +2836,6 @@
           "title": "[와토/종료] 🔥씨나인 엑셀 계급전 2차 950만 언/오버🔥",
           "articleUrl": "https://ygosu.com/board/soop/1544953",
           "watoUrl": "https://ygosu.com/board/soop/1544953/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1534352",
-          "title": "[와토/종료] 💎 씨나인 엑셀 계급전 여왕 맞추기:: 17:40분 마감 💎",
-          "articleUrl": "https://ygosu.com/board/soop/1534352",
-          "watoUrl": "https://ygosu.com/board/soop/1534352/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
