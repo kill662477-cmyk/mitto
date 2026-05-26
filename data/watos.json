@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-26T02:10:25.220Z",
+  "checkedAt": "2026-05-26T02:20:30.125Z",
   "boards": {
     "mitto": {
       "live": [
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/678331/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 49분 남음"
+          "statusText": "4시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/678330/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 49분 남음"
+          "statusText": "4시간 39분 남음"
         }
       ],
       "closed": [
@@ -124,18 +124,6 @@
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "678170",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 마이애미 vs [H] 토론토 :: 5/26 :: 8시 7분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/678170",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/678170/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
         }
       ],
       "result": [
@@ -147,6 +135,18 @@
           "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 시카고컵스 vs [H] 피츠버그 :: 5/26 :: 2시 35분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/678249",
           "watoUrl": "https://ygosu.com/board/pan_ccy/678249/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "678170",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 마이애미 vs [H] 토론토 :: 5/26 :: 8시 7분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/678170",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/678170/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -1978,12 +1978,12 @@
           "boardName": "숲게",
           "category": null,
           "id": "1625729",
-          "title": "🔥화요일 혜루 요리컨테츠 시청자 8500명 언/오버🔥 (1)",
+          "title": "🔥혜루 요리컨테츠 시청자 8500명 언/오버:: 14시 마감🔥 (1)",
           "articleUrl": "https://ygosu.com/board/soop/1625729",
           "watoUrl": "https://ygosu.com/board/soop/1625729/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "진행중"
+          "statusText": "2시간 36분 남음"
         }
       ],
       "closed": [],
