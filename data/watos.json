@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-26T08:50:26.196Z",
+  "checkedAt": "2026-05-26T09:00:37.357Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,60 +8,60 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "678584",
-          "title": "[🟢진행중/와토/39분 남음] ⚾ KBO ⚾ LG(-1.5) vs [H] 롯데 :: 5/26 :: 18시 30분",
+          "title": "[🟢진행중/와토/29분 남음] ⚾ KBO ⚾ LG(-1.5) vs [H] 롯데 :: 5/26 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/678584",
           "watoUrl": "https://ygosu.com/board/pan_ccy/678584/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "39분 28초 남음"
+          "statusText": "29분 17초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "678583",
-          "title": "[🟢진행중/와토/39분 남음] ⚾ KBO ⚾ 한화(-1.5) vs [H] NC :: 5/26 :: 18시 30분",
+          "title": "[🟢진행중/와토/29분 남음] ⚾ KBO ⚾ 한화(-1.5) vs [H] NC :: 5/26 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/678583",
           "watoUrl": "https://ygosu.com/board/pan_ccy/678583/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "39분 27초 남음"
+          "statusText": "29분 17초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "678582",
-          "title": "[🟢진행중/와토/39분 남음] ⚾ KBO ⚾ 삼성(-1.5) vs [H] SSG :: 5/26 :: 18시 30분",
+          "title": "[🟢진행중/와토/29분 남음] ⚾ KBO ⚾ 삼성(-1.5) vs [H] SSG :: 5/26 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/678582",
           "watoUrl": "https://ygosu.com/board/pan_ccy/678582/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "39분 26초 남음"
+          "statusText": "29분 16초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "678581",
-          "title": "[🟢진행중/와토/39분 남음] ⚾ KBO ⚾ KIA(-0.5) vs [H] 키움 :: 5/26 :: 18시 30분",
+          "title": "[🟢진행중/와토/29분 남음] ⚾ KBO ⚾ KIA(-0.5) vs [H] 키움 :: 5/26 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/678581",
           "watoUrl": "https://ygosu.com/board/pan_ccy/678581/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "39분 25초 남음"
+          "statusText": "29분 15초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "678580",
-          "title": "[🟢진행중/와토/39분 남음] ⚾ KBO ⚾ KT(-1.5) vs [H] 두산 :: 5/26 :: 18시 30분",
+          "title": "[🟢진행중/와토/29분 남음] ⚾ KBO ⚾ KT(-1.5) vs [H] 두산 :: 5/26 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/678580",
           "watoUrl": "https://ygosu.com/board/pan_ccy/678580/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "39분 24초 남음"
+          "statusText": "29분 14초 남음"
         },
         {
           "board": "mitto",
@@ -86,21 +86,21 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
+        }
+      ],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "678419",
-          "title": "[🟢진행중/와토/진행] 🏆EWC예선🏆 DK(+7.5) vs 한화 3세트 ::: 킬핸디",
+          "title": "[🟡마감/와토/마감] 🏆EWC예선🏆 DK(+7.5) vs 한화 3세트 ::: 킬핸디",
           "articleUrl": "https://ygosu.com/board/pan_ccy/678419",
           "watoUrl": "https://ygosu.com/board/pan_ccy/678419/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -216,7 +216,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "678163",
-          "title": "⚾ MLB ⚾ 휴스턴 vs [H] 텍사스 :...",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 휴스턴 vs [H] 텍사스 :: 5/26 :: 8시 5분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/678163",
           "watoUrl": "https://ygosu.com/board/pan_ccy/678163/?s_wato=Y",
           "tab": "result",
