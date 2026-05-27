@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-27T10:40:27.203Z",
+  "checkedAt": "2026-05-27T10:50:30.840Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/679174/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 19분 남음"
+          "statusText": "8시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/679292/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 19분 남음"
+          "statusText": "21시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/679291/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 19분 남음"
+          "statusText": "21시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -1008,6 +1008,18 @@
     "monstarz": {
       "live": [],
       "closed": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1499456",
+          "title": "🎮이스코어 지동원 vs 장민철 단판 (1)",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1499456",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1499456/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -2017,18 +2029,6 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1371198",
-          "title": "[와토/종료] 비타밍 vs 박하악 2경기",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1371198",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1371198/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
@@ -2045,21 +2045,21 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
+        }
+      ],
+      "closed": [
         {
           "board": "soop",
           "boardName": "숲게",
           "category": null,
           "id": "1631275",
-          "title": "[와토/진행] 💎씨나인 스타 중간점검 모리 vs 귀요민정 💎",
+          "title": "💎씨나인 스타 중간점검 모리 vs 귀요민정 💎",
           "articleUrl": "https://ygosu.com/board/soop/1631275",
           "watoUrl": "https://ygosu.com/board/soop/1631275/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
