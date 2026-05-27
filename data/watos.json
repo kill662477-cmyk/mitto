@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-27T13:10:32.213Z",
+  "checkedAt": "2026-05-27T13:20:32.217Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/679174/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 49분 남음"
+          "statusText": "5시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/679556/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 59분 남음"
+          "statusText": "12시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/679555/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 29분 남음"
+          "statusText": "10시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/679554/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 59분 남음"
+          "statusText": "9시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/679553/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 34분 남음"
+          "statusText": "9시간 24분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/679552/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 29분 남음"
+          "statusText": "9시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/679551/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 59분 남음"
+          "statusText": "6시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/679550/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 34분 남음"
+          "statusText": "6시간 24분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/679549/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 54분 남음"
+          "statusText": "5시간 44분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/679548/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 29분 남음"
+          "statusText": "4시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/679547/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 56분 남음"
+          "statusText": "3시간 46분 남음"
         },
         {
           "board": "mitto",
@@ -253,7 +253,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/679292/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18시간 49분 남음"
+          "statusText": "18시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -265,7 +265,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/679291/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18시간 49분 남음"
+          "statusText": "18시간 39분 남음"
         }
       ],
       "closed": [
@@ -1023,18 +1023,6 @@
           "title": "[🔴결과/와토/종료] 🏆EWC예선🏆 NS (+1.5) vs 한화 풀세트 (B) :: 5/25 19시 BO.3",
           "articleUrl": "https://ygosu.com/board/pan_ccy/677363",
           "watoUrl": "https://ygosu.com/board/pan_ccy/677363/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "677362",
-          "title": "[🔴결과/와토/종료] 🏆EWC예선🏆 NS (+1.5) vs 한화 풀세트 (A) :: 5/25 19시 BO.3",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/677362",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/677362/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -2061,6 +2049,18 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
+          "id": "1632410",
+          "title": "💎스타 미니대전 씨나인 vs JSA 최종승리💎 (1)",
+          "articleUrl": "https://ygosu.com/board/soop/1632410",
+          "watoUrl": "https://ygosu.com/board/soop/1632410/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
           "id": "1628907",
           "title": "💎 씨나인 팀전 여왕팀 (-15만개) VS 공주팀 💎 (2)",
           "articleUrl": "https://ygosu.com/board/soop/1628907",
@@ -2077,7 +2077,7 @@
           "boardName": "숲게",
           "category": null,
           "id": "1632100",
-          "title": "💎씨나인 스타 중간점검 졈니 vs 찌킹 💎 (2)",
+          "title": "[와토/종료] 💎씨나인 스타 중간점검 졈니 vs 찌킹 💎",
           "articleUrl": "https://ygosu.com/board/soop/1632100",
           "watoUrl": "https://ygosu.com/board/soop/1632100/?s_wato=Y",
           "tab": "result",
