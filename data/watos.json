@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-27T11:00:37.332Z",
+  "checkedAt": "2026-05-27T11:10:28.426Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/679174/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 59분 남음"
+          "statusText": "7시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/679292/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "20시간 59분 남음"
+          "statusText": "20시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/679291/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "20시간 59분 남음"
+          "statusText": "20시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -1007,18 +1007,19 @@
     },
     "monstarz": {
       "live": [],
-      "closed": [
+      "closed": [],
+      "result": [
         {
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
           "id": "1499456",
-          "title": "🎮이스코어 지동원 vs 장민철 단판 (1)",
+          "title": "🎮이스코어 지동원 vs 장민철 단판 (2)",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1499456",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1499456/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
         },
         {
           "board": "monstarz",
@@ -1028,12 +1029,10 @@
           "title": "🎮 이스코어 잭드컵 흠참범 총승리수 3.5 U/O 🎮 (3)",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1498639",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1498639/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -2052,10 +2051,10 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1631275",
-          "title": "💎씨나인 스타 중간점검 모리 vs 귀요민정 💎",
-          "articleUrl": "https://ygosu.com/board/soop/1631275",
-          "watoUrl": "https://ygosu.com/board/soop/1631275/?s_wato=Y",
+          "id": "1631383",
+          "title": "💎씨나인 스타 중간점검 효짱 vs 지우리 💎 2경기",
+          "articleUrl": "https://ygosu.com/board/soop/1631383",
+          "watoUrl": "https://ygosu.com/board/soop/1631383/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -2074,6 +2073,18 @@
         }
       ],
       "result": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1631275",
+          "title": "[와토/종료] 💎씨나인 스타 중간점검 모리 vs 귀요민정 💎",
+          "articleUrl": "https://ygosu.com/board/soop/1631275",
+          "watoUrl": "https://ygosu.com/board/soop/1631275/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
@@ -2886,18 +2897,6 @@
           "title": "[와토/종료] 💎족짜미 시장야방 15555명 언오버 💎",
           "articleUrl": "https://ygosu.com/board/soop/1546159",
           "watoUrl": "https://ygosu.com/board/soop/1546159/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1545616",
-          "title": "[와토/종료] 🔥철구 일요일방송 시청자 10009명 언/오버:: 12시 마감🔥",
-          "articleUrl": "https://ygosu.com/board/soop/1545616",
-          "watoUrl": "https://ygosu.com/board/soop/1545616/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
