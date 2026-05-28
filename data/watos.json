@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-28T11:50:27.870Z",
+  "checkedAt": "2026-05-28T12:00:37.281Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/680063/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 39분 남음"
+          "statusText": "12시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/680057/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 14분 남음"
+          "statusText": "12시간 4분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/680056/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 49분 남음"
+          "statusText": "10시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/680055/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 44분 남음"
+          "statusText": "10시간 34분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/680054/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 19분 남음"
+          "statusText": "8시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/680053/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 19분 남음"
+          "statusText": "6시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -145,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/680052/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 19분 남음"
+          "statusText": "5시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -188,24 +188,24 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "679973",
-          "title": "[🟢진행중/와토/20시간 남음] 🏆LCK또또🏆최종 승/패:DK (-1.5) vs KRX :금: 17시 BO.3 (B)",
+          "title": "[🟢진행중/와토/19시간 남음] 🏆LCK또또🏆최종 승/패:DK (-1.5) vs KRX :금: 17시 BO.3 (B)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/679973",
           "watoUrl": "https://ygosu.com/board/pan_ccy/679973/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "20시간 9분 남음"
+          "statusText": "19시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "679972",
-          "title": "[🟢진행중/와토/20시간 남음] 🏆LCK또또🏆최종 승/패:DK (-1.5) vs KRX :금: 17시 BO.3 (A)",
+          "title": "[🟢진행중/와토/19시간 남음] 🏆LCK또또🏆최종 승/패:DK (-1.5) vs KRX :금: 17시 BO.3 (A)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/679972",
           "watoUrl": "https://ygosu.com/board/pan_ccy/679972/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "20시간 9분 남음"
+          "statusText": "19시간 59분 남음"
         },
         {
           "board": "mitto",
@@ -2225,18 +2225,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1636747",
-          "title": "[와토/진행] 🎮효짱 vs 려원 개인전 3경기승패 와토🎮",
-          "articleUrl": "https://ygosu.com/board/soop/1636747",
-          "watoUrl": "https://ygosu.com/board/soop/1636747/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
         }
       ],
       "closed": [
@@ -2244,10 +2232,10 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1636746",
-          "title": "🎮오리꿍 vs 엄보리 개인전 2경기 승패 와토🎮 (3)",
-          "articleUrl": "https://ygosu.com/board/soop/1636746",
-          "watoUrl": "https://ygosu.com/board/soop/1636746/?s_wato=Y",
+          "id": "1636747",
+          "title": "🎮효짱 vs 려원 개인전 3경기승패 와토🎮",
+          "articleUrl": "https://ygosu.com/board/soop/1636747",
+          "watoUrl": "https://ygosu.com/board/soop/1636747/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -2266,6 +2254,18 @@
         }
       ],
       "result": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1636746",
+          "title": "[와토/종료] 🎮오리꿍 vs 엄보리 개인전 2경기 승패 와토🎮",
+          "articleUrl": "https://ygosu.com/board/soop/1636746",
+          "watoUrl": "https://ygosu.com/board/soop/1636746/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
