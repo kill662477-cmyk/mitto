@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-27T23:50:29.758Z",
+  "checkedAt": "2026-05-28T00:00:38.335Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,12 +8,12 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "679556",
-          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 콜로라도(+2.5) vs [H]LA다저스 :: 5/28 :: 11:10",
+          "title": "⚾ MLB ⚾ 콜로라도(+2.5) vs [H]L...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/679556",
           "watoUrl": "https://ygosu.com/board/pan_ccy/679556/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 19분 남음"
+          "statusText": "2시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -128,24 +128,24 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "679292",
-          "title": "[🟢진행중/와토/8시간 남음] 🏆LCK또또🏆최종 승/패:DNS (+1.5) vs 농심 :목: 19시 BO.3 (B)",
+          "title": "[🟢진행중/와토/7시간 남음] 🏆LCK또또🏆최종 승/패:DNS (+1.5) vs 농심 :목: 19시 BO.3 (B)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/679292",
           "watoUrl": "https://ygosu.com/board/pan_ccy/679292/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 9분 남음"
+          "statusText": "7시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "679291",
-          "title": "[🟢진행중/와토/8시간 남음] 🏆LCK또또🏆최종 승/패:DNS (+1.5) vs 농심 :목: 19시 BO.3 (A)",
+          "title": "[🟢진행중/와토/7시간 남음] 🏆LCK또또🏆최종 승/패:DNS (+1.5) vs 농심 :목: 19시 BO.3 (A)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/679291",
           "watoUrl": "https://ygosu.com/board/pan_ccy/679291/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 9분 남음"
+          "statusText": "7시간 59분 남음"
         }
       ],
       "closed": [
@@ -2063,24 +2063,24 @@
           "boardName": "숲게",
           "category": null,
           "id": "1634664",
-          "title": "🔥철구 목요일방송 시청자 15000명 언/오버🔥",
+          "title": "🔥철구 목요일방송 시청자 13000명 언/오버:: 14:30분 마감🔥",
           "articleUrl": "https://ygosu.com/board/soop/1634664",
           "watoUrl": "https://ygosu.com/board/soop/1634664/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 36분 남음"
+          "statusText": "5시간 26분 남음"
         },
         {
           "board": "soop",
           "boardName": "숲게",
           "category": null,
           "id": "1634244",
-          "title": "♿효짱 vs 지우리 퇴학고사 승리자 맞추기 와토♿ (10)",
+          "title": "♿효짱 vs 지우리 퇴학고사 승리자 맞추기 와토♿ (11)",
           "articleUrl": "https://ygosu.com/board/soop/1634244",
           "watoUrl": "https://ygosu.com/board/soop/1634244/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 6분 남음"
+          "statusText": "7시간 56분 남음"
         },
         {
           "board": "soop",
@@ -2093,6 +2093,18 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1634682",
+          "title": "[와토/1분 남음] 👿세트카 09:05 [1set 18.5 언옵]😈1.73미만 적특🔥서울",
+          "articleUrl": "https://ygosu.com/board/soop/1634682",
+          "watoUrl": "https://ygosu.com/board/soop/1634682/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "1분 남음"
         }
       ],
       "closed": [],
@@ -2957,18 +2969,6 @@
           "title": "[와토/종료] 🛑혜루 2주년 방송에 범프리카 온다 vs 안온다 와토🛑",
           "articleUrl": "https://ygosu.com/board/soop/1559671",
           "watoUrl": "https://ygosu.com/board/soop/1559671/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1557886",
-          "title": "[와토/종료] 🔥목요일 철구형 갠방한다 VS 안한다:: 1시 마감🔥",
-          "articleUrl": "https://ygosu.com/board/soop/1557886",
-          "watoUrl": "https://ygosu.com/board/soop/1557886/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
