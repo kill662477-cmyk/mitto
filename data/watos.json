@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-29T01:20:28.717Z",
+  "checkedAt": "2026-05-29T01:30:29.952Z",
   "boards": {
     "mitto": {
       "live": [
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/679973/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 39분 남음"
+          "statusText": "6시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/679972/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 39분 남음"
+          "statusText": "6시간 29분 남음"
         }
       ],
       "closed": [
@@ -2128,7 +2128,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1634633/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1일 7시간 남음"
+          "statusText": "1일 6시간 남음"
         },
         {
           "board": "soop",
