@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-29T10:50:24.643Z",
+  "checkedAt": "2026-05-29T11:00:36.572Z",
   "boards": {
     "mitto": {
       "live": [
@@ -56,24 +56,24 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "680683",
-          "title": "[🟢진행중/와토/21시간 남음] 🏆LCK또또🏆최종 승/패: KT(-1.5) vs DN수퍼스 :토:17시 BO.3 (B)",
+          "title": "[🟢진행중/와토/20시간 남음] 🏆LCK또또🏆최종 승/패: KT(-1.5) vs DN수퍼스 :토:17시 BO.3 (B)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/680683",
           "watoUrl": "https://ygosu.com/board/pan_ccy/680683/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 9분 남음"
+          "statusText": "20시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "680682",
-          "title": "[🟢진행중/와토/21시간 남음] 🏆LCK또또🏆최종 승/패: KT(-1.5) vs DN수퍼스 :토:17시 BO.3 (A)",
+          "title": "[🟢진행중/와토/20시간 남음] 🏆LCK또또🏆최종 승/패: KT(-1.5) vs DN수퍼스 :토:17시 BO.3 (A)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/680682",
           "watoUrl": "https://ygosu.com/board/pan_ccy/680682/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 9분 남음"
+          "statusText": "20시간 59분 남음"
         },
         {
           "board": "mitto",
@@ -1108,7 +1108,7 @@
           "boardName": "스대게",
           "category": null,
           "id": "1506640",
-          "title": "🎮 비타밍 vs 밍가 7경기 🎮",
+          "title": "🎮 비타밍 vs 밍가 에결 녹아웃 🎮",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1506640",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1506640/?s_wato=Y",
           "tab": "live",
@@ -1128,21 +1128,21 @@
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
-        },
+        }
+      ],
+      "result": [
         {
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
           "id": "1506638",
-          "title": "[와토/마감] 🎮 비타밍 vs 밍가 6경기 🎮",
+          "title": "[와토/종료] 🎮 비타밍 vs 밍가 6경기 🎮",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1506638",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1506638/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -2165,7 +2165,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1634633/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 36분 남음"
+          "statusText": "21시간 25분 남음"
         },
         {
           "board": "soop",
