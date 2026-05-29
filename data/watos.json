@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-29T01:50:25.839Z",
+  "checkedAt": "2026-05-29T02:00:47.112Z",
   "boards": {
     "mitto": {
       "live": [
@@ -104,24 +104,24 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "679973",
-          "title": "[🟢진행중/와토/6시간 남음] 🏆LCK또또🏆최종 승/패:DK (-1.5) vs KRX :금: 17시 BO.3 (B)",
+          "title": "[🟢진행중/와토/5시간 남음] 🏆LCK또또🏆최종 승/패:DK (-1.5) vs KRX :금: 17시 BO.3 (B)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/679973",
           "watoUrl": "https://ygosu.com/board/pan_ccy/679973/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 9분 남음"
+          "statusText": "5시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "679972",
-          "title": "[🟢진행중/와토/6시간 남음] 🏆LCK또또🏆최종 승/패:DK (-1.5) vs KRX :금: 17시 BO.3 (A)",
+          "title": "[🟢진행중/와토/5시간 남음] 🏆LCK또또🏆최종 승/패:DK (-1.5) vs KRX :금: 17시 BO.3 (A)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/679972",
           "watoUrl": "https://ygosu.com/board/pan_ccy/679972/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 9분 남음"
+          "statusText": "5시간 58분 남음"
         }
       ],
       "closed": [
@@ -148,21 +148,21 @@
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
-        },
+        }
+      ],
+      "result": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "680056",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 시카고컵스 vs [H]피츠버그 :: 5/29 :: 07:40",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 시카고컵스 vs [H]피츠버그 :: 5/29 :: 07:40",
           "articleUrl": "https://ygosu.com/board/pan_ccy/680056",
           "watoUrl": "https://ygosu.com/board/pan_ccy/680056/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -2147,7 +2147,7 @@
           "boardName": "숲게",
           "category": null,
           "id": "1638245",
-          "title": "[와토/진행] 🔥🔥 스타부 영입생 맞추기 🔥🔥",
+          "title": "[와토/진행] 🔥🔥 스타부 영입 맞추기 🔥🔥",
           "articleUrl": "https://ygosu.com/board/soop/1638245",
           "watoUrl": "https://ygosu.com/board/soop/1638245/?s_wato=Y",
           "tab": "live",
