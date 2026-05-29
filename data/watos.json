@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-29T10:10:28.863Z",
+  "checkedAt": "2026-05-29T10:20:30.642Z",
   "boards": {
     "mitto": {
       "live": [
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/680683/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 49분 남음"
+          "statusText": "21시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/680682/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 49분 남음"
+          "statusText": "21시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -1107,18 +1107,6 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1506527",
-          "title": "🎮 비타밍 vs 밍가 4경기 🎮 (4)",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1506527",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1506527/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
           "id": "1506640",
           "title": "[와토/진행] 🎮 비타밍 vs 밍가 7경기 🎮",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1506640",
@@ -1153,6 +1141,18 @@
         }
       ],
       "closed": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1506527",
+          "title": "🎮 비타밍 vs 밍가 4경기 🎮 (4)",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1506527",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1506527/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -2165,7 +2165,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1634633/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "22시간 16분 남음"
+          "statusText": "22시간 6분 남음"
         },
         {
           "board": "soop",
