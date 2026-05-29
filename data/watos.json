@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-29T11:10:26.980Z",
+  "checkedAt": "2026-05-29T11:20:29.201Z",
   "boards": {
     "mitto": {
       "live": [
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/680683/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "20시간 49분 남음"
+          "statusText": "20시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/680682/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "20시간 49분 남음"
+          "statusText": "20시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -1127,33 +1127,20 @@
     },
     "monstarz": {
       "live": [],
-      "closed": [
+      "closed": [],
+      "result": [
         {
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
           "id": "1506640",
-          "title": "🎮 비타밍 vs 밍가 에결 녹아웃 🎮",
+          "title": "[와토/종료] 🎮 비타밍 vs 밍가 에결 녹아웃 🎮",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1506640",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1506640/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
         },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1504798",
-          "title": "🎮 비타밍 vs 밍가 끝장전 승부예측 🎮 (2)",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1504798",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1504798/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -1186,6 +1173,18 @@
           "title": "[와토/종료] 🎮 비타밍 vs 밍가 4경기 🎮",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1506527",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1506527/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1504798",
+          "title": "[와토/종료] 🎮 비타밍 vs 밍가 끝장전 승부예측 🎮",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1504798",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1504798/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -2188,7 +2187,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1634633/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 16분 남음"
+          "statusText": "21시간 6분 남음"
         },
         {
           "board": "soop",
