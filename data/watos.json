@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-30T11:10:25.954Z",
+  "checkedAt": "2026-05-30T11:20:24.986Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,67 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/681409/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 49분 남음"
+          "statusText": "13시간 39분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "681540",
+          "title": "[와토/진행] 🏆LCK또또🏆3세트 ::: 농심 (+6.5) vs DK 💥킬핸디확인💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/681540",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/681540/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "681539",
+          "title": "[와토/진행] 🏆LCK또또🏆2세트 ::: 농심 (+6.5) vs DK 💥킬핸디확인💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/681539",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/681539/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "681538",
+          "title": "[와토/진행] 🏆LCK또또🏆1세트 ::: 농심 (+6.5) vs DK 💥킬핸디확인💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/681538",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/681538/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "681537",
+          "title": "[🟢진행중/와토/진행] 🏆LCK또또🏆최종 승/패: 농심 (+1.5) vs DK :일: 19시 BO.3 (B)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/681537",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/681537/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "681536",
+          "title": "[🟢진행중/와토/진행] 🏆LCK또또🏆최종 승/패: 농심 (+1.5) vs DK :일: 19시 BO.3 (A)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/681536",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/681536/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
         },
         {
           "board": "mitto",
@@ -61,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/681359/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "20시간 49분 남음"
+          "statusText": "20시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/681358/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "20시간 49분 남음"
+          "statusText": "20시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/681152/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 49분 남음"
+          "statusText": "4시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +169,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/681151/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 49분 남음"
+          "statusText": "4시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +181,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/681150/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 49분 남음"
+          "statusText": "4시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -131,18 +191,6 @@
           "title": "[🟢진행중/와토/진행] 🏆LCK또또🏆3세트 ::: BNK(+8.5) vs T1 💥킬핸디확인💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/680792",
           "watoUrl": "https://ygosu.com/board/pan_ccy/680792/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "680791",
-          "title": "[🟢진행중/와토/진행] 🏆LCK또또🏆2세트 ::: BNK(+8.5) vs T1 💥킬핸디확인💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/680791",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/680791/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -181,6 +229,18 @@
           "title": "⚾ KBO ⚾ KT(-1.5) vs [H] 키움 :...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/681218",
           "watoUrl": "https://ygosu.com/board/pan_ccy/681218/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "680791",
+          "title": "[🟡마감/와토/마감] 🏆LCK또또🏆2세트 ::: BNK(+8.5) vs T1 💥킬핸디확인💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/680791",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/680791/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -1023,66 +1083,6 @@
           "title": "[🔴결과/와토/종료] 🏆LCK또또🏆최종 승/패: KT (+1.5) vs T1 :목: 19시 BO.3 (A)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/679538",
           "watoUrl": "https://ygosu.com/board/pan_ccy/679538/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "679296",
-          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆3세트 ::: DNS (+8.5) vs 농심 💥킬핸디확인💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/679296",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/679296/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "679295",
-          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆2세트 ::: DNS (+8.5) vs 농심 💥킬핸디확인💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/679295",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/679295/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "679293",
-          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆1세트 ::: DNS (+8.5) vs 농심 💥킬핸디확인💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/679293",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/679293/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "679292",
-          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆최종 승/패:DNS (+1.5) vs 농심 :목: 17시 BO.3 (B)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/679292",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/679292/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "679291",
-          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆최종 승/패:DNS (+1.5) vs 농심 :목: 17시 BO.3 (A)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/679291",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/679291/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
