@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-31T07:40:26.558Z",
+  "checkedAt": "2026-05-31T07:50:26.735Z",
   "boards": {
     "mitto": {
       "live": [
@@ -104,24 +104,24 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "681359",
-          "title": "[🟢진행중/와토/19분 남음] 🏆LCK또또🏆최종 승/패:브리온 (+1.5) vs 한화 :일: 17시 BO.3 (B)",
+          "title": "[🟢진행중/와토/9분 남음] 🏆LCK또또🏆최종 승/패:브리온 (+1.5) vs 한화 :일: 17시 BO.3 (B)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/681359",
           "watoUrl": "https://ygosu.com/board/pan_ccy/681359/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18분 46초 남음"
+          "statusText": "8분 48초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "681358",
-          "title": "[🟢진행중/와토/19분 남음] 🏆LCK또또🏆최종 승/패:브리온 (+1.5) vs 한화 :일: 17시 BO.3 (A)",
+          "title": "[🟢진행중/와토/9분 남음] 🏆LCK또또🏆최종 승/패:브리온 (+1.5) vs 한화 :일: 17시 BO.3 (A)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/681358",
           "watoUrl": "https://ygosu.com/board/pan_ccy/681358/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18분 44초 남음"
+          "statusText": "8분 47초 남음"
         }
       ],
       "closed": [
@@ -153,18 +153,6 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
-          "id": "682040",
-          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ SSG(+1.5) vs [H] 한화 :: 5/31 :: 14시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/682040",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/682040/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
           "id": "682039",
           "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ KT(-1.5) vs [H] 키움 :: 5/31 :: 14시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/682039",
@@ -187,6 +175,18 @@
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "682040",
+          "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ SSG(+1.5) vs [H] 한화 :: 5/31 :: 14시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/682040",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/682040/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -1114,18 +1114,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1509561",
-          "title": "[와토/진행] 🌠 노스타워즈 수술대 vs 엠비대 🌠 16:00",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1509561",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1509561/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
         }
       ],
       "closed": [
@@ -1137,6 +1125,18 @@
           "title": "[와토/마감] 🌠노스타워즈 뉴캣슬 vs 흑카데미 🌠 16:00",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1509563",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1509563/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1509561",
+          "title": "[와토/마감] 🌠 노스타워즈 수술대 vs 엠비대 🌠 16:00",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1509561",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1509561/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
