@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-31T14:40:26.580Z",
+  "checkedAt": "2026-05-31T14:50:40.636Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/682320/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 39분 남음"
+          "statusText": "8시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/682316/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 29분 남음"
+          "statusText": "5시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/682309/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 24분 남음"
+          "statusText": "5시간 14분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/682307/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 29분 남음"
+          "statusText": "4시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/682303/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 54분 남음"
+          "statusText": "3시간 44분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/682294/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 59분 남음"
+          "statusText": "2시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/682292/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 59분 남음"
+          "statusText": "2시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/682289/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 59분 남음"
+          "statusText": "2시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/682287/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 54분 남음"
+          "statusText": "2시간 44분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/682286/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 34분 남음"
+          "statusText": "1시간 24분 남음"
         }
       ],
       "closed": [],
@@ -1086,6 +1086,78 @@
           "title": "⭐​스타워즈 캄몬 최종성적 예측⭐​ (10)",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1508555",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1508555/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1513070",
+          "title": "[와토/진행] 🌠스타워즈 캄몬 VS JSA 🌠 6경기",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513070",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513070/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1513068",
+          "title": "[와토/진행] 🌠스타워즈 캄몬 VS JSA 🌠 5경기",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513068",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513068/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1513067",
+          "title": "[와토/진행] 🌠스타워즈 캄몬 VS JSA 🌠 4경기",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513067",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513067/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1513066",
+          "title": "[와토/진행] 🌠스타워즈 캄몬 VS JSA 🌠 3경기",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513066",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513066/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1513065",
+          "title": "[와토/진행] 🌠스타워즈 캄몬 VS JSA 🌠 2경기",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513065",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513065/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1513062",
+          "title": "[와토/진행] 🌠스타워즈 캄몬 VS JSA 🌠 1경기",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513062",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513062/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -2073,54 +2145,6 @@
           "title": "[또또/와토/종료] h리그 윤환팀vs경민팀 승리팀",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1425883",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1425883/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1417841",
-          "title": "[또또/와토/종료] 스승의 날 CK 펀딩 115만개 업/다운 와토",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1417841",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1417841/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1417840",
-          "title": "[와토/종료] 스승의날 펀딩 '105만개' 넘는다",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1417840",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1417840/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1417783",
-          "title": "[또또/와토/종료] 스승의날 펀딩 '110만개' 넘는다",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1417783",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1417783/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1417782",
-          "title": "[또또/와토/종료] 스승의날 펀딩 '100만개' 넘는다",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1417782",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1417782/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
