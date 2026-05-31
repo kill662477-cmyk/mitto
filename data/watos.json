@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-31T05:50:26.640Z",
+  "checkedAt": "2026-05-31T06:00:35.104Z",
   "boards": {
     "mitto": {
       "live": [
@@ -104,24 +104,24 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "681359",
-          "title": "[🟢진행중/와토/2시간 남음] 🏆LCK또또🏆최종 승/패:브리온 (+1.5) vs 한화 :일: 17시 BO.3 (B)",
+          "title": "[🟢진행중/와토/1시간 남음] 🏆LCK또또🏆최종 승/패:브리온 (+1.5) vs 한화 :일: 17시 BO.3 (B)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/681359",
           "watoUrl": "https://ygosu.com/board/pan_ccy/681359/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 8분 남음"
+          "statusText": "1시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "681358",
-          "title": "[🟢진행중/와토/2시간 남음] 🏆LCK또또🏆최종 승/패:브리온 (+1.5) vs 한화 :일: 17시 BO.3 (A)",
+          "title": "[🟢진행중/와토/1시간 남음] 🏆LCK또또🏆최종 승/패:브리온 (+1.5) vs 한화 :일: 17시 BO.3 (A)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/681358",
           "watoUrl": "https://ygosu.com/board/pan_ccy/681358/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 8분 남음"
+          "statusText": "1시간 58분 남음"
         }
       ],
       "closed": [
@@ -2152,7 +2152,19 @@
           "watoUrl": "https://ygosu.com/board/soop/1638245/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 6분 남음"
+          "statusText": "56분 2초 남음"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1645618",
+          "title": "[와토/진행] 💎철구형 방송시간 2시간 언더 vs 오버💎",
+          "articleUrl": "https://ygosu.com/board/soop/1645618",
+          "watoUrl": "https://ygosu.com/board/soop/1645618/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
         }
       ],
       "closed": [
@@ -3066,18 +3078,6 @@
           "title": "[와토/종료] 홀짝대결 ㅋㅋㅋㅋㅋ 금액 대충 맞으면 마감 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ3인이하무효 ㅋㅋㅋㅋㅋㅋ",
           "articleUrl": "https://ygosu.com/board/soop/1584410",
           "watoUrl": "https://ygosu.com/board/soop/1584410/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1582734",
-          "title": "[와토/종료] 🔥철구 수요일방송 시청자 7500명 언/오버:: 15시 마감🔥",
-          "articleUrl": "https://ygosu.com/board/soop/1582734",
-          "watoUrl": "https://ygosu.com/board/soop/1582734/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
