@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-31T19:20:24.267Z",
+  "checkedAt": "2026-05-31T19:30:29.014Z",
   "boards": {
     "mitto": {
       "live": [
@@ -37,31 +37,31 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/682320/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 59분 남음"
+          "statusText": "3시간 49분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "682316",
-          "title": "[🟢진행중/와토/49분 남음] ⚾ MLB ⚾ 필라델피아(+1.5) vs [H] LA다저스 :: 6/1 :: 5시 10분",
+          "title": "[🟢진행중/와토/39분 남음] ⚾ MLB ⚾ 필라델피아(+1.5) vs [H] LA다저스 :: 6/1 :: 5시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/682316",
           "watoUrl": "https://ygosu.com/board/pan_ccy/682316/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "49분 30초 남음"
+          "statusText": "39분 25초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "682309",
-          "title": "[🟢진행중/와토/44분 남음] ⚾ MLB ⚾ 뉴욕양키스(-1.5) vs [H] 애슬레틱스 :: 6/1 :: 5시 5분",
+          "title": "[🟢진행중/와토/34분 남음] ⚾ MLB ⚾ 뉴욕양키스(-1.5) vs [H] 애슬레틱스 :: 6/1 :: 5시 5분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/682309",
           "watoUrl": "https://ygosu.com/board/pan_ccy/682309/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "44분 29초 남음"
+          "statusText": "34분 24초 남음"
         }
       ],
       "closed": [
