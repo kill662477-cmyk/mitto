@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-31T08:00:36.956Z",
+  "checkedAt": "2026-05-31T08:10:24.912Z",
   "boards": {
     "mitto": {
       "live": [
@@ -117,18 +117,6 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
-          "id": "682039",
-          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ KT(-1.5) vs [H] 키움 :: 5/31 :: 14시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/682039",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/682039/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
           "id": "682038",
           "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ KIA(+0.5) vs [H] LG :: 5/31 :: 14시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/682038",
@@ -183,6 +171,18 @@
           "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ SSG(+1.5) vs [H] 한화 :: 5/31 :: 14시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/682040",
           "watoUrl": "https://ygosu.com/board/pan_ccy/682040/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "682039",
+          "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ KT(-1.5) vs [H] 키움 :: 5/31 :: 14시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/682039",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/682039/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -2143,6 +2143,18 @@
     },
     "soop": {
       "live": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1646433",
+          "title": "[와토/진행] 💎스타워즈 4강 씨나인 vs 케이대 최종승리💎",
+          "articleUrl": "https://ygosu.com/board/soop/1646433",
+          "watoUrl": "https://ygosu.com/board/soop/1646433/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
