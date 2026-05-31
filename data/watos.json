@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-31T07:50:26.735Z",
+  "checkedAt": "2026-05-31T08:00:36.956Z",
   "boards": {
     "mitto": {
       "live": [
@@ -86,42 +86,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "681360",
-          "title": "[🟢진행중/와토/진행] 🏆LCK또또🏆1세트 ::: 브리온 (+10.5) vs 한화 💥킬핸디확인💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/681360",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/681360/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "681359",
-          "title": "[🟢진행중/와토/9분 남음] 🏆LCK또또🏆최종 승/패:브리온 (+1.5) vs 한화 :일: 17시 BO.3 (B)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/681359",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/681359/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 48초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "681358",
-          "title": "[🟢진행중/와토/9분 남음] 🏆LCK또또🏆최종 승/패:브리온 (+1.5) vs 한화 :일: 17시 BO.3 (A)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/681358",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/681358/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 47초 남음"
         }
       ],
       "closed": [
@@ -169,6 +133,42 @@
           "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ KIA(+0.5) vs [H] LG :: 5/31 :: 14시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/682038",
           "watoUrl": "https://ygosu.com/board/pan_ccy/682038/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "681360",
+          "title": "[🟡마감/와토/마감] 🏆LCK또또🏆1세트 ::: 브리온 (+10.5) vs 한화 💥킬핸디확인💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/681360",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/681360/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "681359",
+          "title": "[🟡마감/와토/마감] 🏆LCK또또🏆최종 승/패:브리온 (+1.5) vs 한화 :일: 17시 BO.3 (B)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/681359",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/681359/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "681358",
+          "title": "[🟡마감/와토/마감] 🏆LCK또또🏆최종 승/패:브리온 (+1.5) vs 한화 :일: 17시 BO.3 (A)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/681358",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/681358/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -2148,7 +2148,7 @@
           "boardName": "숲게",
           "category": null,
           "id": "1645810",
-          "title": "[와토/진행] 🔥철구 월요일방송 시청자 23000명 언/오버🔥",
+          "title": "[와토/진행] 🔥철구 월요일방송 시청자 25000명 언/오버🔥",
           "articleUrl": "https://ygosu.com/board/soop/1645810",
           "watoUrl": "https://ygosu.com/board/soop/1645810/?s_wato=Y",
           "tab": "live",
