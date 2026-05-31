@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-31T08:30:30.954Z",
+  "checkedAt": "2026-05-31T08:40:24.075Z",
   "boards": {
     "mitto": {
       "live": [
@@ -92,30 +92,6 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "baseball",
-          "id": "682038",
-          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ KIA(+0.5) vs [H] LG :: 5/31 :: 14시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/682038",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/682038/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "681360",
-          "title": "[🟡마감/와토/마감] 🏆LCK또또🏆1세트 ::: 브리온 (+10.5) vs 한화 💥킬핸디확인💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/681360",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/681360/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
           "category": "lol",
           "id": "681359",
           "title": "[🟡마감/와토/마감] 🏆LCK또또🏆최종 승/패:브리온 (+1.5) vs 한화 :일: 17시 BO.3 (B)",
@@ -183,6 +159,18 @@
           "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ KT(-1.5) vs [H] 키움 :: 5/31 :: 14시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/682039",
           "watoUrl": "https://ygosu.com/board/pan_ccy/682039/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "682038",
+          "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ KIA(+0.5) vs [H] LG :: 5/31 :: 14시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/682038",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/682038/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -363,6 +351,18 @@
           "title": "[🔴결과/와토/종료] ☯A매치 또또☯ 대한민국(-2.5) vs 트리니다드토바고 :일: AM 10시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/681409",
           "watoUrl": "https://ygosu.com/board/pan_ccy/681409/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "681360",
+          "title": "[🟡마감/와토/마감] 🏆LCK또또🏆1세트 ::: 브리온 (+10.5) vs 한화 💥킬핸디확인💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/681360",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/681360/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
