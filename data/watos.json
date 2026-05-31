@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-31T08:10:24.912Z",
+  "checkedAt": "2026-05-31T08:20:25.812Z",
   "boards": {
     "mitto": {
       "live": [
@@ -93,30 +93,6 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
-          "id": "682042",
-          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 롯데(-0.5) vs [H] NC :: 5/31 :: 14시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/682042",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/682042/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "682041",
-          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 두산(+0.5) vs [H] 삼성 :: 5/31 :: 14시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/682041",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/682041/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
           "id": "682038",
           "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ KIA(+0.5) vs [H] LG :: 5/31 :: 14시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/682038",
@@ -163,6 +139,30 @@
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "682042",
+          "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ 롯데(-0.5) vs [H] NC :: 5/31 :: 14시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/682042",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/682042/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "682041",
+          "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ 두산(+0.5) vs [H] 삼성 :: 5/31 :: 14시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/682041",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/682041/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
