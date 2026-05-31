@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-31T22:20:24.343Z",
+  "checkedAt": "2026-05-31T22:30:30.288Z",
   "boards": {
     "mitto": {
       "live": [
@@ -32,12 +32,12 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "682320",
-          "title": "[🟢진행중/와토/59분 남음] ⚾ MLB ⚾ 시카고컵스 vs [H] 세인트루이스 :: 6/1 :: 8시 20분",
+          "title": "[🟢진행중/와토/49분 남음] ⚾ MLB ⚾ 시카고컵스 vs [H] 세인트루이스 :: 6/1 :: 8시 20분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/682320",
           "watoUrl": "https://ygosu.com/board/pan_ccy/682320/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "59분 31초 남음"
+          "statusText": "49분 25초 남음"
         }
       ],
       "closed": [
@@ -1072,12 +1072,12 @@
           "boardName": "스대게",
           "category": null,
           "id": "1513660",
-          "title": "✨[스타워즈] 캄몬스타즈가 승리할 팀은? (3)",
+          "title": "✨[스타워즈] 캄몬스타즈가 승리할 팀은? (11)",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1513660",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1513660/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 37분 남음"
+          "statusText": "9시간 27분 남음"
         },
         {
           "board": "monstarz",
