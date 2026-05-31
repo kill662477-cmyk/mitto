@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-31T11:40:25.004Z",
+  "checkedAt": "2026-05-31T11:50:27.163Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/682320/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 39분 남음"
+          "statusText": "11시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/682316/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 29분 남음"
+          "statusText": "8시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/682309/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 24분 남음"
+          "statusText": "8시간 14분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/682307/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 29분 남음"
+          "statusText": "7시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/682303/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 54분 남음"
+          "statusText": "6시간 44분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/682294/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 59분 남음"
+          "statusText": "5시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/682292/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 59분 남음"
+          "statusText": "5시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/682289/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 59분 남음"
+          "statusText": "5시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/682287/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 54분 남음"
+          "statusText": "5시간 44분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/682286/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 34분 남음"
+          "statusText": "4시간 24분 남음"
         }
       ],
       "closed": [],
@@ -383,7 +383,7 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "681537",
-          "title": "[🔴결과/와토/종료중] 🏆LCK또또🏆최종 승/패: 농심 (+1.5) vs DK :일: 19시 BO.3 (B)",
+          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆최종 승/패: 농심 (+1.5) vs DK :일: 19시 BO.3 (B)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/681537",
           "watoUrl": "https://ygosu.com/board/pan_ccy/681537/?s_wato=Y",
           "tab": "result",
@@ -1180,18 +1180,6 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1512392",
-          "title": "[와토/마감] 🌠수술대 vs 흑카데미 1경기 기나 vs 뚜미 라데온🌠",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1512392",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1512392/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
           "id": "1509565",
           "title": "[와토/마감] 🌠노스타워즈 결승 수술대 vs 흑카데미 🌠",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1509565",
@@ -1202,6 +1190,18 @@
         }
       ],
       "result": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1512392",
+          "title": "[와토/종료] 🌠수술대 vs 흑카데미 1경기 기나 vs 뚜미 라데온🌠",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1512392",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1512392/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
