@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-31T07:10:26.667Z",
+  "checkedAt": "2026-05-31T07:20:24.628Z",
   "boards": {
     "mitto": {
       "live": [
@@ -104,24 +104,24 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "681359",
-          "title": "[🟢진행중/와토/49분 남음] 🏆LCK또또🏆최종 승/패:브리온 (+1.5) vs 한화 :일: 17시 BO.3 (B)",
+          "title": "[🟢진행중/와토/39분 남음] 🏆LCK또또🏆최종 승/패:브리온 (+1.5) vs 한화 :일: 17시 BO.3 (B)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/681359",
           "watoUrl": "https://ygosu.com/board/pan_ccy/681359/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "48분 48초 남음"
+          "statusText": "38분 47초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "681358",
-          "title": "[🟢진행중/와토/49분 남음] 🏆LCK또또🏆최종 승/패:브리온 (+1.5) vs 한화 :일: 17시 BO.3 (A)",
+          "title": "[🟢진행중/와토/39분 남음] 🏆LCK또또🏆최종 승/패:브리온 (+1.5) vs 한화 :일: 17시 BO.3 (A)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/681358",
           "watoUrl": "https://ygosu.com/board/pan_ccy/681358/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "48분 47초 남음"
+          "statusText": "38분 47초 남음"
         }
       ],
       "closed": [
@@ -2172,18 +2172,6 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1638245",
-          "title": "🔥🔥 스타부 영입 맞추기:: 16시 마감 🔥🔥 (2)",
-          "articleUrl": "https://ygosu.com/board/soop/1638245",
-          "watoUrl": "https://ygosu.com/board/soop/1638245/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
           "id": "1635595",
           "title": "[와토/마감] ♿효짱 vs 지우리 퇴학고사 4경기♿",
           "articleUrl": "https://ygosu.com/board/soop/1635595",
@@ -2198,10 +2186,10 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1635428",
-          "title": "🔥🔥 씨나인 엑셀 3회차 팀전 시청자 6666명 언/오버🔥🔥 (1)",
-          "articleUrl": "https://ygosu.com/board/soop/1635428",
-          "watoUrl": "https://ygosu.com/board/soop/1635428/?s_wato=Y",
+          "id": "1644166",
+          "title": "[와토/종료] 👿세트카 03:35 [1set 18.5 언옵]😈1.73미만 적특🔥베이징",
+          "articleUrl": "https://ygosu.com/board/soop/1644166",
+          "watoUrl": "https://ygosu.com/board/soop/1644166/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -2210,10 +2198,10 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1644166",
-          "title": "[와토/종료] 👿세트카 03:35 [1set 18.5 언옵]😈1.73미만 적특🔥베이징",
-          "articleUrl": "https://ygosu.com/board/soop/1644166",
-          "watoUrl": "https://ygosu.com/board/soop/1644166/?s_wato=Y",
+          "id": "1638245",
+          "title": "[와토/종료] 🔥🔥 스타부 영입 맞추기:: 16시 마감 🔥🔥",
+          "articleUrl": "https://ygosu.com/board/soop/1638245",
+          "watoUrl": "https://ygosu.com/board/soop/1638245/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -2370,6 +2358,18 @@
           "title": "[와토/종료] 🔥🔥 씨나인 엑셀 3회차 팀전 기여도 1등 멤버 맞추기🔥🔥",
           "articleUrl": "https://ygosu.com/board/soop/1635450",
           "watoUrl": "https://ygosu.com/board/soop/1635450/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1635428",
+          "title": "[와토/종료] 🔥🔥 씨나인 엑셀 3회차 팀전 시청자 6666명 언/오버🔥🔥",
+          "articleUrl": "https://ygosu.com/board/soop/1635428",
+          "watoUrl": "https://ygosu.com/board/soop/1635428/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
