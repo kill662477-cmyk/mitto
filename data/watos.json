@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-31T08:40:24.075Z",
+  "checkedAt": "2026-05-31T08:50:25.553Z",
   "boards": {
     "mitto": {
       "live": [
@@ -360,7 +360,7 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "681360",
-          "title": "[🟡마감/와토/마감] 🏆LCK또또🏆1세트 ::: 브리온 (+10.5) vs 한화 💥킬핸디확인💥",
+          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆1세트 ::: 브리온 (+10.5) vs 한화 💥킬핸디확인💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/681360",
           "watoUrl": "https://ygosu.com/board/pan_ccy/681360/?s_wato=Y",
           "tab": "result",
@@ -2147,10 +2147,10 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1646433",
-          "title": "[와토/진행] 💎스타워즈 4강 씨나인 vs 케이대 최종승리💎",
-          "articleUrl": "https://ygosu.com/board/soop/1646433",
-          "watoUrl": "https://ygosu.com/board/soop/1646433/?s_wato=Y",
+          "id": "1645810",
+          "title": "🔥철구 월요일방송 시청자 25000명 언/오버🔥",
+          "articleUrl": "https://ygosu.com/board/soop/1645810",
+          "watoUrl": "https://ygosu.com/board/soop/1645810/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -2159,10 +2159,10 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1645810",
-          "title": "[와토/진행] 🔥철구 월요일방송 시청자 25000명 언/오버🔥",
-          "articleUrl": "https://ygosu.com/board/soop/1645810",
-          "watoUrl": "https://ygosu.com/board/soop/1645810/?s_wato=Y",
+          "id": "1646433",
+          "title": "[와토/진행] 💎스타워즈 4강 씨나인 vs 케이대 최종승리💎",
+          "articleUrl": "https://ygosu.com/board/soop/1646433",
+          "watoUrl": "https://ygosu.com/board/soop/1646433/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
