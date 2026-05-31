@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-05-31T22:00:36.535Z",
+  "checkedAt": "2026-05-31T22:12:06.257Z",
   "boards": {
     "mitto": {
       "live": [
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/682320/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 19분 남음"
+          "statusText": "1시간 7분 남음"
         }
       ],
       "closed": [
@@ -1067,6 +1067,18 @@
     },
     "monstarz": {
       "live": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1513660",
+          "title": "✨[스타워즈] 캄몬스타즈가 승리할 팀은? (3)",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513660",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513660/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "9시간 46분 남음"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -2158,18 +2170,6 @@
           "title": "[와토/종료] 🎮스승의날 CK 총펀딩🎮 185만개 언/오버",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1429164",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1429164/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1427835",
-          "title": "[또또/와토/종료] 랜피엘 승리팀와토 ㄱㄱ",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1427835",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1427835/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
