@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-01T07:20:26.392Z",
+  "checkedAt": "2026-06-01T07:30:33.692Z",
   "boards": {
     "mitto": {
       "live": [
@@ -2170,10 +2170,82 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
+          "id": "1649040",
+          "title": "💎스타워즈 4강 1경기 씨나인 vs 케이대💎 (2)",
+          "articleUrl": "https://ygosu.com/board/soop/1649040",
+          "watoUrl": "https://ygosu.com/board/soop/1649040/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
           "id": "1646433",
           "title": "💎스타워즈 4강 씨나인 vs 케이대 최종승리💎 (5)",
           "articleUrl": "https://ygosu.com/board/soop/1646433",
           "watoUrl": "https://ygosu.com/board/soop/1646433/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1649081",
+          "title": "[와토/진행] 💎스타워즈 4강 6경기 씨나인 vs 케이대💎",
+          "articleUrl": "https://ygosu.com/board/soop/1649081",
+          "watoUrl": "https://ygosu.com/board/soop/1649081/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1649079",
+          "title": "[와토/진행] 💎스타워즈 4강 5경기 씨나인 vs 케이대💎",
+          "articleUrl": "https://ygosu.com/board/soop/1649079",
+          "watoUrl": "https://ygosu.com/board/soop/1649079/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1649062",
+          "title": "[와토/진행] 💎스타워즈 4강 4경기 씨나인 vs 케이대💎",
+          "articleUrl": "https://ygosu.com/board/soop/1649062",
+          "watoUrl": "https://ygosu.com/board/soop/1649062/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1649053",
+          "title": "[와토/진행] 💎스타워즈 4강 3경기 씨나인 vs 케이대💎",
+          "articleUrl": "https://ygosu.com/board/soop/1649053",
+          "watoUrl": "https://ygosu.com/board/soop/1649053/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1649049",
+          "title": "[와토/진행] 💎스타워즈 4강 2경기 씨나인 vs 케이대💎",
+          "articleUrl": "https://ygosu.com/board/soop/1649049",
+          "watoUrl": "https://ygosu.com/board/soop/1649049/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -3078,42 +3150,6 @@
           "title": "[와토/종료] 🎯🎯금일 철구형 24시간 한다 안한다🎯🎯",
           "articleUrl": "https://ygosu.com/board/soop/1595189",
           "watoUrl": "https://ygosu.com/board/soop/1595189/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1588648",
-          "title": "[와토/종료] 💎 씨나인 엑셀 1회차 580만개 언/오버💎",
-          "articleUrl": "https://ygosu.com/board/soop/1588648",
-          "watoUrl": "https://ygosu.com/board/soop/1588648/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1587965",
-          "title": "[와토/종료] 🎯🎯씨나인 스타부 영입🎯🎯",
-          "articleUrl": "https://ygosu.com/board/soop/1587965",
-          "watoUrl": "https://ygosu.com/board/soop/1587965/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1587665",
-          "title": "[와토/종료] 🔥철구 금요일방송 시청자 10009명 언/오버:: 16시 마감🔥",
-          "articleUrl": "https://ygosu.com/board/soop/1587665",
-          "watoUrl": "https://ygosu.com/board/soop/1587665/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
