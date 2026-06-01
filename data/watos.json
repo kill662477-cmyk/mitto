@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-01T09:50:27.696Z",
+  "checkedAt": "2026-06-01T10:00:39.949Z",
   "boards": {
     "mitto": {
       "live": [
@@ -1066,81 +1066,8 @@
       ]
     },
     "monstarz": {
-      "live": [
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1513076",
-          "title": "[와토/진행] 🌠스타워즈 캄몬 VS JSA 🌠 에결",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513076",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513076/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1513075",
-          "title": "[와토/진행] 🌠스타워즈 캄몬 VS JSA 🌠8경기 비타밍 vs 김무아 폴리포이드",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513075",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513075/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1513073",
-          "title": "[와토/진행] 🌠스타워즈 캄몬 VS JSA 🌠7경기 먼진 vs 모비 녹아웃",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513073",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513073/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1513070",
-          "title": "[와토/진행] 🌠스타워즈 캄몬 VS JSA 🌠6경기 토마토 vs 라미 녹아웃",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513070",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513070/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        }
-      ],
+      "live": [],
       "closed": [
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1512857",
-          "title": "🎮스타워즈🎮 캄몬스타즈 VS JSA 최종승리팀 06.01 1경기시작시 마감",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1512857",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1512857/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1513068",
-          "title": "[와토/마감] 🌠스타워즈 캄몬 VS JSA 🌠5경기 아리송이 vs 쟈닌 폴리포이드",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513068",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513068/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -1159,10 +1086,34 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
+          "id": "1512857",
+          "title": "🎮스타워즈🎮 캄몬스타즈 VS JSA 최종승리팀 06.01 1경기시작시 마감",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1512857",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1512857/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
           "id": "1513309",
           "title": "[또또/와토/종료] 배성흠 vs 딸기모찌_",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1513309",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1513309/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1513068",
+          "title": "[와토/종료] 🌠스타워즈 캄몬 VS JSA 🌠5경기 아리송이 vs 쟈닌 폴리포이드",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513068",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513068/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -2171,10 +2122,10 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1649079",
-          "title": "💎스타워즈 4강 5경기 나무늘봉순Z vs 슬돌이P💎 (1)",
-          "articleUrl": "https://ygosu.com/board/soop/1649079",
-          "watoUrl": "https://ygosu.com/board/soop/1649079/?s_wato=Y",
+          "id": "1649081",
+          "title": "💎스타워즈 4강 6경기 김택용P vs 장윤철P💎 (3)",
+          "articleUrl": "https://ygosu.com/board/soop/1649081",
+          "watoUrl": "https://ygosu.com/board/soop/1649081/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -2202,18 +2153,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1649081",
-          "title": "[와토/진행] 💎스타워즈 4강 6경기 김택용P vs 장윤철P💎",
-          "articleUrl": "https://ygosu.com/board/soop/1649081",
-          "watoUrl": "https://ygosu.com/board/soop/1649081/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
         }
       ],
       "closed": [
@@ -2225,6 +2164,18 @@
           "title": "💎스타워즈 4강 씨나인 vs 케이대 최종승리💎 (5)",
           "articleUrl": "https://ygosu.com/board/soop/1646433",
           "watoUrl": "https://ygosu.com/board/soop/1646433/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1649079",
+          "title": "[와토/마감] 💎스타워즈 4강 5경기 나무늘봉순Z vs 슬돌이P💎",
+          "articleUrl": "https://ygosu.com/board/soop/1649079",
+          "watoUrl": "https://ygosu.com/board/soop/1649079/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
