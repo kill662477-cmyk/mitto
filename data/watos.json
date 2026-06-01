@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-01T06:50:25.532Z",
+  "checkedAt": "2026-06-01T07:00:35.813Z",
   "boards": {
     "mitto": {
       "live": [
@@ -1082,18 +1082,6 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1508555",
-          "title": "⭐​스타워즈 캄몬 최종성적 예측⭐​ (18)",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1508555",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1508555/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
           "id": "1513076",
           "title": "[와토/진행] 🌠스타워즈 캄몬 VS JSA 🌠 에결",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1513076",
@@ -1199,7 +1187,20 @@
           "statusText": "진행중"
         }
       ],
-      "closed": [],
+      "closed": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1508555",
+          "title": "[또또/와토/마감] ⭐​스타워즈 캄몬 최종성적 예측⭐​",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1508555",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1508555/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        }
+      ],
       "result": [
         {
           "board": "monstarz",
@@ -2176,7 +2177,9 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
+        }
+      ],
+      "closed": [
         {
           "board": "soop",
           "boardName": "숲게",
@@ -2185,12 +2188,10 @@
           "title": "🔥철구 월요일방송 시청자 25000명 언/오버:: 16시 마감🔥 (2)",
           "articleUrl": "https://ygosu.com/board/soop/1645810",
           "watoUrl": "https://ygosu.com/board/soop/1645810/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "6분 15초 남음"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
