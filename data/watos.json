@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-01T09:10:30.865Z",
+  "checkedAt": "2026-06-01T09:20:30.270Z",
   "boards": {
     "mitto": {
       "live": [
@@ -1126,18 +1126,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1513067",
-          "title": "[와토/진행] 🌠스타워즈 캄몬 VS JSA 🌠4경기 지두두 vs 소심 라데온",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513067",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513067/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
         }
       ],
       "closed": [
@@ -1157,10 +1145,10 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1513066",
-          "title": "[와토/마감] 🌠스타워즈 캄몬 VS JSA 🌠3경기 임조이 vs 엄보리 라데온",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513066",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513066/?s_wato=Y",
+          "id": "1513067",
+          "title": "[와토/마감] 🌠스타워즈 캄몬 VS JSA 🌠4경기 지두두 vs 소심 라데온",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513067",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513067/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -1187,6 +1175,18 @@
           "title": "[또또/와토/종료] 배성흠 vs 딸기모찌_",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1513309",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1513309/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1513066",
+          "title": "[와토/종료] 🌠스타워즈 캄몬 VS JSA 🌠3경기 임조이 vs 엄보리 라데온",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513066",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513066/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -2171,10 +2171,10 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1649053",
-          "title": "💎스타워즈 4강 3경기 효짱 vs 박하악💎 (1)",
-          "articleUrl": "https://ygosu.com/board/soop/1649053",
-          "watoUrl": "https://ygosu.com/board/soop/1649053/?s_wato=Y",
+          "id": "1649062",
+          "title": "💎스타워즈 4강 4경기 졈니 vs 구루미💎 (1)",
+          "articleUrl": "https://ygosu.com/board/soop/1649062",
+          "watoUrl": "https://ygosu.com/board/soop/1649062/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -2214,18 +2214,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1649062",
-          "title": "[와토/진행] 💎스타워즈 4강 4경기 졈니 vs 구루미💎",
-          "articleUrl": "https://ygosu.com/board/soop/1649062",
-          "watoUrl": "https://ygosu.com/board/soop/1649062/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
         }
       ],
       "closed": [
@@ -2257,10 +2245,10 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1649049",
-          "title": "[와토/마감] 💎스타워즈 4강 2경기 남수댕 vs 내가먼지💎",
-          "articleUrl": "https://ygosu.com/board/soop/1649049",
-          "watoUrl": "https://ygosu.com/board/soop/1649049/?s_wato=Y",
+          "id": "1649053",
+          "title": "[와토/마감] 💎스타워즈 4강 3경기 효짱 vs 박하악💎",
+          "articleUrl": "https://ygosu.com/board/soop/1649053",
+          "watoUrl": "https://ygosu.com/board/soop/1649053/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -2279,6 +2267,18 @@
         }
       ],
       "result": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1649049",
+          "title": "[와토/종료] 💎스타워즈 4강 2경기 남수댕 vs 내가먼지💎",
+          "articleUrl": "https://ygosu.com/board/soop/1649049",
+          "watoUrl": "https://ygosu.com/board/soop/1649049/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
