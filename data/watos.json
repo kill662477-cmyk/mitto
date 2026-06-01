@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-01T19:00:37.213Z",
+  "checkedAt": "2026-06-01T19:10:29.192Z",
   "boards": {
     "mitto": {
       "live": [
@@ -145,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683136/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 39분 남음"
+          "statusText": "6시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -157,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683133/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 39분 남음"
+          "statusText": "6시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -169,7 +169,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683132/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 37분 남음"
+          "statusText": "6시간 27분 남음"
         },
         {
           "board": "mitto",
@@ -181,7 +181,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683127/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 44분 남음"
+          "statusText": "4시간 34분 남음"
         },
         {
           "board": "mitto",
@@ -193,7 +193,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683125/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 39분 남음"
+          "statusText": "4시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -205,19 +205,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683123/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 39분 남음"
+          "statusText": "4시간 29분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "683121",
-          "title": "[🟢진행중/와토/4시간 남음] ⚾ MLB ⚾ 캔자스시티(+1.5) vs [H] 신시내티 :: 6/2 :: 8시 10분",
+          "title": "[🟢진행중/와토/3시간 남음] ⚾ MLB ⚾ 캔자스시티(+1.5) vs [H] 신시내티 :: 6/2 :: 8시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/683121",
           "watoUrl": "https://ygosu.com/board/pan_ccy/683121/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 9분 남음"
+          "statusText": "3시간 59분 남음"
         },
         {
           "board": "mitto",
@@ -229,7 +229,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683116/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 44분 남음"
+          "statusText": "3시간 34분 남음"
         },
         {
           "board": "mitto",
@@ -241,7 +241,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683109/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 39분 남음"
+          "statusText": "3시간 29분 남음"
         }
       ],
       "closed": [],
@@ -2210,7 +2210,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1653176/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 56분 남음"
+          "statusText": "9시간 46분 남음"
         },
         {
           "board": "soop",
@@ -2234,7 +2234,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1652342/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "14시간 56분 남음"
+          "statusText": "14시간 46분 남음"
         },
         {
           "board": "soop",
@@ -2246,7 +2246,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1652413/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 55분 남음"
+          "statusText": "9시간 46분 남음"
         }
       ],
       "closed": [
