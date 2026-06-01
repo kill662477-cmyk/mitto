@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-01T07:30:33.692Z",
+  "checkedAt": "2026-06-01T07:50:25.387Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,7 +8,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "682584",
-          "title": "🏆스타워즈 최종 승/패🏆『 씨나인 vs 케이대 』17시 BO.9 💥엔트리 확정💥 (5)",
+          "title": "🏆스타워즈 최종 승/패🏆『 씨나인 vs 케이대 』17시 BO.9 💥엔트리 확정💥 (6)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/682584",
           "watoUrl": "https://ygosu.com/board/pan_ccy/682584/?s_wato=Y",
           "tab": "live",
@@ -20,7 +20,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "682583",
-          "title": "🏆스타워즈 최종 승/패🏆『 JSA vs...",
+          "title": "🏆스타워즈 최종 승/패🏆『 JSA vs 캄몬스타즈 』17시 BO.9 💥엔트리 확정💥 (5)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/682583",
           "watoUrl": "https://ygosu.com/board/pan_ccy/682583/?s_wato=Y",
           "tab": "live",
@@ -2194,6 +2194,18 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
+          "id": "1649125",
+          "title": "[와토/진행] 💎스타워즈 4강 7경기 씨나인 vs 케이대💎",
+          "articleUrl": "https://ygosu.com/board/soop/1649125",
+          "watoUrl": "https://ygosu.com/board/soop/1649125/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
           "id": "1649081",
           "title": "[와토/진행] 💎스타워즈 4강 6경기 씨나인 vs 케이대💎",
           "articleUrl": "https://ygosu.com/board/soop/1649081",
@@ -3138,18 +3150,6 @@
           "title": "[와토/종료] 🎯🎯금일 철구형 오프닝 시청자 앞자리 맞추기🎯🎯",
           "articleUrl": "https://ygosu.com/board/soop/1595311",
           "watoUrl": "https://ygosu.com/board/soop/1595311/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1595189",
-          "title": "[와토/종료] 🎯🎯금일 철구형 24시간 한다 안한다🎯🎯",
-          "articleUrl": "https://ygosu.com/board/soop/1595189",
-          "watoUrl": "https://ygosu.com/board/soop/1595189/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
