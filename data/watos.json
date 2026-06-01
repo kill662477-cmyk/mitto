@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-01T10:30:32.529Z",
+  "checkedAt": "2026-06-01T10:40:26.678Z",
   "boards": {
     "mitto": {
       "live": [],
@@ -1072,6 +1072,150 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
+          "id": "1512857",
+          "title": "🎮스타워즈🎮 캄몬스타즈 VS JSA 최종승리팀 06.01 1경기시작시 마감",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1512857",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1512857/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1513309",
+          "title": "[또또/와토/종료] 배성흠 vs 딸기모찌_",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513309",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513309/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1513068",
+          "title": "[와토/종료] 🌠스타워즈 캄몬 VS JSA 🌠5경기 아리송이 vs 쟈닌 폴리포이드",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513068",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513068/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1513067",
+          "title": "[와토/종료] 🌠스타워즈 캄몬 VS JSA 🌠4경기 지두두 vs 소심 라데온",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513067",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513067/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1513066",
+          "title": "[와토/종료] 🌠스타워즈 캄몬 VS JSA 🌠3경기 임조이 vs 엄보리 라데온",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513066",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513066/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1513065",
+          "title": "[와토/종료] 🌠스타워즈 캄몬 VS JSA 🌠2경기 진땅콩 vs 백원이야 폴리포이드",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513065",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513065/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1513062",
+          "title": "[와토/종료] 🌠스타워즈 캄몬 VS JSA 🌠1경기 찌킹 vs 나린 녹아웃",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513062",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513062/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1512414",
+          "title": "[와토/종료] 🌠수술대 vs 흑카데미 7경기 주서리 vs 유이 라데온 🌠",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1512414",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1512414/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1512411",
+          "title": "[와토/종료] 🌠수술대 vs 흑카데미 6경기 핑핑 vs 선정은 폴리포이드 🌠",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1512411",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1512411/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1512410",
+          "title": "[와토/종료] 🌠수술대 vs 흑카데미 5경기 밥새 vs 경콩 폴리포이드 🌠",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1512410",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1512410/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1512409",
+          "title": "[와토/종료] 🌠수술대 vs 흑카데미 4경기 아링 vs 갱이다 라데온 🌠",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1512409",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1512409/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1512407",
+          "title": "[와토/종료] 🌠수술대 vs 흑카데미 3경기 깨림 vs 링가 녹아웃 🌠",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1512407",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1512407/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
           "id": "1512405",
           "title": "[와토/종료] 🌠수술대 vs 흑카데미 2경기 밍가 vs 메옹 녹아웃 🌠",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1512405",
@@ -1971,45 +2115,8 @@
       ]
     },
     "soop": {
-      "live": [
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1649913",
-          "title": "[와토/진행] 💎스타워즈 4강 8경기 씨나인 vs 케이대💎",
-          "articleUrl": "https://ygosu.com/board/soop/1649913",
-          "watoUrl": "https://ygosu.com/board/soop/1649913/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        }
-      ],
+      "live": [],
       "closed": [
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1649125",
-          "title": "💎스타워즈 4강 7경기 유승곤T vs 홍덕P💎 (1)",
-          "articleUrl": "https://ygosu.com/board/soop/1649125",
-          "watoUrl": "https://ygosu.com/board/soop/1649125/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1646433",
-          "title": "💎스타워즈 4강 씨나인 vs 케이대 최종승리💎 (5)",
-          "articleUrl": "https://ygosu.com/board/soop/1646433",
-          "watoUrl": "https://ygosu.com/board/soop/1646433/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
         {
           "board": "soop",
           "boardName": "숲게",
@@ -2024,6 +2131,18 @@
         }
       ],
       "result": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1649125",
+          "title": "[와토/종료] 💎스타워즈 4강 7경기 유승곤T vs 홍덕P💎",
+          "articleUrl": "https://ygosu.com/board/soop/1649125",
+          "watoUrl": "https://ygosu.com/board/soop/1649125/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
@@ -2128,6 +2247,18 @@
           "title": "[와토/종료] 👿세트카 01:35 [1set 18.5 언옵]😈1.73미만 적특🔥베이징",
           "articleUrl": "https://ygosu.com/board/soop/1648319",
           "watoUrl": "https://ygosu.com/board/soop/1648319/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1646433",
+          "title": "[와토/종료] 💎스타워즈 4강 씨나인 vs 케이대 최종승리💎",
+          "articleUrl": "https://ygosu.com/board/soop/1646433",
+          "watoUrl": "https://ygosu.com/board/soop/1646433/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
