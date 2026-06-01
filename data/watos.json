@@ -1,22 +1,21 @@
 {
-  "checkedAt": "2026-06-01T10:00:39.949Z",
+  "checkedAt": "2026-06-01T10:10:30.753Z",
   "boards": {
     "mitto": {
-      "live": [
+      "live": [],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
           "id": "682789",
-          "title": "💎스타워즈또또💎김택용 vs 장윤철 ::: 6세트",
+          "title": "[🟡마감/와토/마감] 💎스타워즈또또💎김택용 vs 장윤철 ::: 6세트",
           "articleUrl": "https://ygosu.com/board/pan_ccy/682789",
           "watoUrl": "https://ygosu.com/board/pan_ccy/682789/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -28,21 +27,21 @@
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
-        },
+        }
+      ],
+      "result": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
           "id": "682583",
-          "title": "[🟡마감/와토/마감] 🏆스타워즈 최종 승/패🏆『 JSA vs 캄몬스타즈 』17시 BO.9 💥엔트리 확정💥",
+          "title": "[🔴결과/와토/종료] 🏆스타워즈 최종 승/패🏆『 JSA vs 캄몬스타즈 』17시 BO.9 💥엔트리 확정💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/682583",
           "watoUrl": "https://ygosu.com/board/pan_ccy/682583/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -1067,20 +1066,7 @@
     },
     "monstarz": {
       "live": [],
-      "closed": [
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1508555",
-          "title": "[또또/와토/마감] ⭐​스타워즈 캄몬 최종성적 예측⭐​",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1508555",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1508555/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
+      "closed": [],
       "result": [
         {
           "board": "monstarz",
@@ -1294,6 +1280,18 @@
           "title": "[와토/종료] 🌠 노스타워즈 수술대 vs 엠비대 🌠 16:00",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1509561",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1509561/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1508555",
+          "title": "[또또/와토/종료] ⭐​스타워즈 캄몬 최종성적 예측⭐​",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1508555",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1508555/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -2122,10 +2120,10 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1649081",
-          "title": "💎스타워즈 4강 6경기 김택용P vs 장윤철P💎 (3)",
-          "articleUrl": "https://ygosu.com/board/soop/1649081",
-          "watoUrl": "https://ygosu.com/board/soop/1649081/?s_wato=Y",
+          "id": "1649125",
+          "title": "💎스타워즈 4강 7경기 유승곤T vs 홍덕P💎 (1)",
+          "articleUrl": "https://ygosu.com/board/soop/1649125",
+          "watoUrl": "https://ygosu.com/board/soop/1649125/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -2138,18 +2136,6 @@
           "title": "[와토/진행] 💎스타워즈 4강 8경기 씨나인 vs 케이대💎",
           "articleUrl": "https://ygosu.com/board/soop/1649913",
           "watoUrl": "https://ygosu.com/board/soop/1649913/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1649125",
-          "title": "[와토/진행] 💎스타워즈 4강 7경기 유승곤T vs 홍덕P💎",
-          "articleUrl": "https://ygosu.com/board/soop/1649125",
-          "watoUrl": "https://ygosu.com/board/soop/1649125/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -2172,10 +2158,10 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1649079",
-          "title": "[와토/마감] 💎스타워즈 4강 5경기 나무늘봉순Z vs 슬돌이P💎",
-          "articleUrl": "https://ygosu.com/board/soop/1649079",
-          "watoUrl": "https://ygosu.com/board/soop/1649079/?s_wato=Y",
+          "id": "1649081",
+          "title": "[와토/마감] 💎스타워즈 4강 6경기 김택용P vs 장윤철P💎",
+          "articleUrl": "https://ygosu.com/board/soop/1649081",
+          "watoUrl": "https://ygosu.com/board/soop/1649081/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -2194,6 +2180,18 @@
         }
       ],
       "result": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1649079",
+          "title": "[와토/종료] 💎스타워즈 4강 5경기 나무늘봉순Z vs 슬돌이P💎",
+          "articleUrl": "https://ygosu.com/board/soop/1649079",
+          "watoUrl": "https://ygosu.com/board/soop/1649079/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
