@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-01T13:40:32.366Z",
+  "checkedAt": "2026-06-01T13:50:32.272Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683136/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 59분 남음"
+          "statusText": "11시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683133/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 59분 남음"
+          "statusText": "11시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -37,19 +37,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683132/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 57분 남음"
+          "statusText": "11시간 47분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "683127",
-          "title": "[🟢진행중/와토/10시간 남음] ⚾ MLB ⚾ 텍사스 vs [H] 세인트루이스 :: 6/2 :: 8시 45분",
+          "title": "[🟢진행중/와토/9시간 남음] ⚾ MLB ⚾ 텍사스 vs [H] 세인트루이스 :: 6/2 :: 8시 45분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/683127",
           "watoUrl": "https://ygosu.com/board/pan_ccy/683127/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 4분 남음"
+          "statusText": "9시간 54분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683125/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 59분 남음"
+          "statusText": "9시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683123/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 59분 남음"
+          "statusText": "9시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -85,19 +85,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683121/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 29분 남음"
+          "statusText": "9시간 19분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "683116",
-          "title": "[🟢진행중/와토/9시간 남음] ⚾ MLB ⚾ 마이애미 vs [H] 워싱턴 :: 6/2 :: 7시 45분",
+          "title": "[🟢진행중/와토/8시간 남음] ⚾ MLB ⚾ 마이애미 vs [H] 워싱턴 :: 6/2 :: 7시 45분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/683116",
           "watoUrl": "https://ygosu.com/board/pan_ccy/683116/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 4분 남음"
+          "statusText": "8시간 54분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683109/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 59분 남음"
+          "statusText": "8시간 49분 남음"
         }
       ],
       "closed": [],
@@ -1700,6 +1700,246 @@
           "title": "[와토/종료] [찐막] 저글링레이스 0210 마감",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1486766",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1486766/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1486718",
+          "title": "[와토/종료] [마지막] 저글링 레이스 0155 마감",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1486718",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1486718/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1486683",
+          "title": "[와토/종료] 저글링레이스 0145 마감",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1486683",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1486683/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1486638",
+          "title": "[와토/종료] 저글링 레이스 0135 마감",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1486638",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1486638/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1483861",
+          "title": "[와토/종료] 🎯 랜능크 범인찾기빵 7/4🎯",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1483861",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1483861/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1482790",
+          "title": "[와토/종료] 🎯 랜피엘 승자팀 예측 와토 🎯",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1482790",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1482790/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1480712",
+          "title": "[와토/종료] 🎯 금일 이스코어 대회 김윤환 성적🎯",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1480712",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1480712/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1479415",
+          "title": "[와토/종료] 🔫배그 킬내기 8:8 와토🔫",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1479415",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1479415/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1463806",
+          "title": "[와토/종료] ⚔스대게컵 결승전 3경기⚔ 털애기 vs 티어니",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1463806",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1463806/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1463797",
+          "title": "[와토/종료] ⚔스대게컵 결승전 2경기⚔ 털애기 vs 티어니",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1463797",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1463797/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1463783",
+          "title": "[와토/종료] ⚔스대게컵 결승전 1경기⚔ 털애기 vs 티어니",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1463783",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1463783/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1463691",
+          "title": "[와토/종료] ⚔스대게컵 4강 2경기⚔ 암드래곤7 vs 티어니",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1463691",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1463691/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1463689",
+          "title": "[와토/종료] ⚔스대게컵 4강 1경기⚔ 털애기 vs 김윤환의검",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1463689",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1463689/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1463534",
+          "title": "[와토/종료] ⚔스대게컵 8강 4경기⚔ 괴물들아 vs 티어니",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1463534",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1463534/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1463532",
+          "title": "[와토/종료] ⚔스대게컵 8강 3경기⚔ 암드래곤7 vs 츠암종",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1463532",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1463532/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1463531",
+          "title": "[와토/종료] ⚔스대게컵 8강 2경기⚔ 마레치 vs 김윤환의검",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1463531",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1463531/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1463524",
+          "title": "[또또/와토/종료] ⚔스대게컵 8강 1경기⚔ 대함민국 vs 털애기",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1463524",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1463524/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1463425",
+          "title": "[와토/종료] 🎮 캄몬스타즈 VS MB대 🎮 에결 주하랑 vs 오하얀 라데온",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1463425",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1463425/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1463423",
+          "title": "[와토/종료] 🎮 캄몬스타즈 VS MB대 🎮 8경기 아리송이 vs 정다닝 녹아웃",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1463423",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1463423/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1463420",
+          "title": "[와토/종료] 🎮 캄몬스타즈 VS MB대 🎮 7경기 진땅콩 vs 권아온 폴리포이드",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1463420",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1463420/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1463419",
+          "title": "[와토/종료] 🎮 캄몬스타즈 VS MB대 🎮 6경기 지두두 vs 구보라 라데온",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1463419",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1463419/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
