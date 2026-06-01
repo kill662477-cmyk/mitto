@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-01T01:20:28.997Z",
+  "checkedAt": "2026-06-01T01:30:29.380Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,7 +8,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "682584",
-          "title": "🏆스타워즈 최종 승/패🏆『 씨나인...",
+          "title": "🏆스타워즈 최종 승/패🏆『 씨나인 vs 케이대 』 ::: 월요일 ::: 17시 BO.9 (1)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/682584",
           "watoUrl": "https://ygosu.com/board/pan_ccy/682584/?s_wato=Y",
           "tab": "live",
@@ -20,12 +20,24 @@
           "boardName": "미또게",
           "category": "star",
           "id": "682583",
-          "title": "🏆스타워즈 최종 승/패🏆『 JSA vs 캄몬스타즈 』:: 월요일 :: 17시 BO.9",
+          "title": "🏆스타워즈 최종 승/패🏆『 JSA vs...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/682583",
           "watoUrl": "https://ygosu.com/board/pan_ccy/682583/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "682605",
+          "title": "⚾ MLB ⚾ 토론토 vs [H] 볼티모어...",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/682605",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/682605/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "9분 40초 남음"
         }
       ],
       "closed": [
