@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-01T11:10:26.139Z",
+  "checkedAt": "2026-06-01T11:20:26.968Z",
   "boards": {
     "mitto": {
       "live": [
@@ -32,7 +32,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "682970",
-          "title": "[🟢진행중/와토/진행] 🏆스타워즈 결승 개인전🏆7경기 : 냥수 vs 쟈닌 : (녹)",
+          "title": "[🟢진행중/와토/진행] 🏆스타워즈 결승 개인전🏆7경기 : 냥수디 vs 쟈닌 : (녹)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/682970",
           "watoUrl": "https://ygosu.com/board/pan_ccy/682970/?s_wato=Y",
           "tab": "live",
@@ -86,21 +86,21 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
+        }
+      ],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
           "id": "682964",
-          "title": "[🟢진행중/와토/진행] 🏆스타워즈 결승 개인전🏆2경기 : 연또 vs 백원이야 :(폴)",
+          "title": "[🟡마감/와토/마감] 🏆스타워즈 결승 개인전🏆2경기 : 연또 vs 백원이야 :(폴)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/682964",
           "watoUrl": "https://ygosu.com/board/pan_ccy/682964/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
