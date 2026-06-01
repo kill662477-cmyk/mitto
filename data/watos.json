@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-01T11:20:26.968Z",
+  "checkedAt": "2026-06-01T11:30:32.588Z",
   "boards": {
     "mitto": {
       "live": [
@@ -74,18 +74,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "682965",
-          "title": "[🟢진행중/와토/진행] 🏆스타워즈 결승 개인전🏆3경기 : 박하악 vs 엄보리 :(폴)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/682965",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/682965/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
         }
       ],
       "closed": [
@@ -93,10 +81,10 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
-          "id": "682964",
-          "title": "[🟡마감/와토/마감] 🏆스타워즈 결승 개인전🏆2경기 : 연또 vs 백원이야 :(폴)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/682964",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/682964/?s_wato=Y",
+          "id": "682965",
+          "title": "[🟡마감/와토/마감] 🏆스타워즈 결승 개인전🏆3경기 : 박하악 vs 엄보리 :(폴)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/682965",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/682965/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -115,6 +103,18 @@
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "682964",
+          "title": "[🔴결과/와토/종료] 🏆스타워즈 결승 개인전🏆2경기 : 연또 vs 백원이야 :(폴)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/682964",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/682964/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
