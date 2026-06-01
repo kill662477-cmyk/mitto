@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-01T08:30:31.264Z",
+  "checkedAt": "2026-06-01T08:40:30.104Z",
   "boards": {
     "mitto": {
       "live": [],
@@ -1149,18 +1149,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1513065",
-          "title": "[와토/진행] 🌠스타워즈 캄몬 VS JSA 🌠2경기 진땅콩 vs 백원이야 폴리포이드",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513065",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513065/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
         }
       ],
       "closed": [
@@ -1180,10 +1168,10 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1513062",
-          "title": "[와토/마감] 🌠스타워즈 캄몬 VS JSA 🌠1경기 찌킹 vs 나린 녹아웃",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513062",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513062/?s_wato=Y",
+          "id": "1513065",
+          "title": "[와토/진행] 🌠스타워즈 캄몬 VS JSA 🌠2경기 진땅콩 vs 백원이야 폴리포이드",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513065",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513065/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -1210,6 +1198,18 @@
           "title": "[또또/와토/종료] 배성흠 vs 딸기모찌_",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1513309",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1513309/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1513062",
+          "title": "[와토/종료] 🌠스타워즈 캄몬 VS JSA 🌠1경기 찌킹 vs 나린 녹아웃",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1513062",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1513062/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
