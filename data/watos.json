@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-01T09:30:32.861Z",
+  "checkedAt": "2026-06-01T09:40:31.502Z",
   "boards": {
     "mitto": {
       "live": [
@@ -2171,10 +2171,22 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1649062",
-          "title": "💎스타워즈 4강 4경기 졈니P vs 구루미Z💎 (1)",
-          "articleUrl": "https://ygosu.com/board/soop/1649062",
-          "watoUrl": "https://ygosu.com/board/soop/1649062/?s_wato=Y",
+          "id": "1649079",
+          "title": "💎스타워즈 4강 5경기 나무늘봉순Z vs 슬돌이P💎 (1)",
+          "articleUrl": "https://ygosu.com/board/soop/1649079",
+          "watoUrl": "https://ygosu.com/board/soop/1649079/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1649913",
+          "title": "[와토/진행] 💎스타워즈 4강 8경기 씨나인 vs 케이대💎",
+          "articleUrl": "https://ygosu.com/board/soop/1649913",
+          "watoUrl": "https://ygosu.com/board/soop/1649913/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -2202,18 +2214,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1649079",
-          "title": "[와토/진행] 💎스타워즈 4강 5경기 나무늘봉순Z vs 슬돌이P💎",
-          "articleUrl": "https://ygosu.com/board/soop/1649079",
-          "watoUrl": "https://ygosu.com/board/soop/1649079/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
         }
       ],
       "closed": [
@@ -2233,10 +2233,10 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1645810",
-          "title": "🔥철구 월요일방송 시청자 25000명 언/오버:: 16시 마감🔥 (2)",
-          "articleUrl": "https://ygosu.com/board/soop/1645810",
-          "watoUrl": "https://ygosu.com/board/soop/1645810/?s_wato=Y",
+          "id": "1649062",
+          "title": "[와토/마감] 💎스타워즈 4강 4경기 졈니P vs 구루미Z💎",
+          "articleUrl": "https://ygosu.com/board/soop/1649062",
+          "watoUrl": "https://ygosu.com/board/soop/1649062/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -2323,6 +2323,18 @@
           "title": "[와토/종료] 👿세트카 01:35 [1set 18.5 언옵]😈1.73미만 적특🔥베이징",
           "articleUrl": "https://ygosu.com/board/soop/1648319",
           "watoUrl": "https://ygosu.com/board/soop/1648319/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1645810",
+          "title": "[와토/종료] 🔥철구 월요일방송 시청자 25000명 언/오버:: 16시 마감🔥",
+          "articleUrl": "https://ygosu.com/board/soop/1645810",
+          "watoUrl": "https://ygosu.com/board/soop/1645810/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
