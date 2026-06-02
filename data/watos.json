@@ -1,8 +1,32 @@
 {
-  "checkedAt": "2026-06-02T13:20:32.060Z",
+  "checkedAt": "2026-06-02T13:30:35.660Z",
   "boards": {
     "mitto": {
       "live": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "683757",
+          "title": "[🟢진행중/와토/9시간 남음] ⚾ MLB ⚾ 클리블랜드(+1.5) vs [H] 뉴욕양키스 :: 6/3 :: 8시 5분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/683757",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/683757/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "9시간 34분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "683754",
+          "title": "[🟢진행중/와토/9시간 남음] ⚾ MLB ⚾ 볼티모어 vs [H] 보스턴 :: 6/3 :: 7시 45분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/683754",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/683754/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "9시간 14분 남음"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -13,22 +37,10 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683751/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 19분 남음"
+          "statusText": "9시간 9분 남음"
         }
       ],
       "closed": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "683730",
-          "title": "[와토/마감] 🌠스타 중장전🌠 2세트 : 이제동 vs 변현제",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/683730",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/683730/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -43,6 +55,18 @@
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "683730",
+          "title": "[와토/마감] 🌠스타 중장전🌠 2세트 : 이제동 vs 변현제",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/683730",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/683730/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -1023,30 +1047,6 @@
           "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ 두산(+1.5) vs [H] 삼성 :: 5/30 :: 14시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/681196",
           "watoUrl": "https://ygosu.com/board/pan_ccy/681196/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "681156",
-          "title": "[🔴결과/와토/종료] 🏆롤CK또또🏆 김민교 vs 깐숙 5세트 ::: 에결",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/681156",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/681156/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "681152",
-          "title": "[🔴결과/와토/종료] 💎챔스 결승전💎파리생제르망 (-0.5) vs 아스날 ::: 5/31 ::: 1시 (A)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/681152",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/681152/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
