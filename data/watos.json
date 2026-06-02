@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-02T12:30:36.854Z",
+  "checkedAt": "2026-06-02T12:40:30.055Z",
   "boards": {
     "mitto": {
       "live": [
@@ -124,45 +124,45 @@
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
-        },
+        }
+      ],
+      "result": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "683488",
-          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ LG(-1.5) vs [H] KT :: 6/2 :: 18시 30분",
+          "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ LG(-1.5) vs [H] KT :: 6/2 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/683488",
           "watoUrl": "https://ygosu.com/board/pan_ccy/683488/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "683487",
-          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 키움(+0.5) vs [H] SSG :: 6/2 :: 18시 30분",
+          "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ 키움(+0.5) vs [H] SSG :: 6/2 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/683487",
           "watoUrl": "https://ygosu.com/board/pan_ccy/683487/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "683486",
-          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 한화(+0.5) vs [H] 두산 :: 6/2 :: 18시 30분",
+          "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ 한화(+0.5) vs [H] 두산 :: 6/2 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/683486",
           "watoUrl": "https://ygosu.com/board/pan_ccy/683486/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
