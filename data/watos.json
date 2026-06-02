@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-02T02:40:25.977Z",
+  "checkedAt": "2026-06-02T02:50:25.273Z",
   "boards": {
     "mitto": {
       "live": [
@@ -30,6 +30,18 @@
         {
           "board": "mitto",
           "boardName": "미또게",
+          "category": "etc",
+          "id": "683495",
+          "title": "⚽ A매치 ⚽ [H]크로아티아 vs 벨기에 ::: 6/3 ::: 01시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/683495",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/683495/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "13시간 9분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
           "category": "baseball",
           "id": "683490",
           "title": "[🟢진행중/와토/6시간 남음] ⚾ KBO ⚾ 롯데(+1.5) vs [H] KIA :: 6/2 :: 18시 30분",
@@ -37,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683490/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 49분 남음"
+          "statusText": "6시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683489/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 49분 남음"
+          "statusText": "6시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683488/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 49분 남음"
+          "statusText": "6시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683487/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 49분 남음"
+          "statusText": "6시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683486/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 49분 남음"
+          "statusText": "6시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -1131,18 +1143,6 @@
           "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 애리조나 vs [H]시애틀 :: 5/30 :: 11:10",
           "articleUrl": "https://ygosu.com/board/pan_ccy/680829",
           "watoUrl": "https://ygosu.com/board/pan_ccy/680829/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "680828",
-          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 뉴욕양키스(-1.5) vs [H]애슬레틱스 :: 5/30 :: 10:40",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/680828",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/680828/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -2206,12 +2206,12 @@
           "boardName": "숲게",
           "category": null,
           "id": "1652413",
-          "title": "🔥 씨나인 X 츠캄 나락전 시청자 30000명 언/옵 🔥 (1)",
+          "title": "🔥 씨나인 X 츠캄 나락전 시청자 30000명 언/옵 🔥 (2)",
           "articleUrl": "https://ygosu.com/board/soop/1652413",
           "watoUrl": "https://ygosu.com/board/soop/1652413/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 16분 남음"
+          "statusText": "2시간 6분 남음"
         },
         {
           "board": "soop",
@@ -2235,7 +2235,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1653176/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 16분 남음"
+          "statusText": "2시간 6분 남음"
         },
         {
           "board": "soop",
@@ -2259,7 +2259,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1652342/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 16분 남음"
+          "statusText": "7시간 6분 남음"
         },
         {
           "board": "soop",
