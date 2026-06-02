@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-02T16:10:35.802Z",
+  "checkedAt": "2026-06-02T16:20:33.503Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683777/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 29분 남음"
+          "statusText": "9시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683776/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 59분 남음"
+          "statusText": "7시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683773/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 54분 남음"
+          "statusText": "7시간 44분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683767/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 34분 남음"
+          "statusText": "7시간 24분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683765/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 29분 남음"
+          "statusText": "7시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -73,19 +73,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683764/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 29분 남음"
+          "statusText": "7시간 19분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "683761",
-          "title": "[🟢진행중/와토/7시간 남음] ⚾ MLB ⚾ 토론토 vs [H] 애틀랜타 :: 6/3 :: 8시 15분",
+          "title": "[🟢진행중/와토/6시간 남음] ⚾ MLB ⚾ 토론토 vs [H] 애틀랜타 :: 6/3 :: 8시 15분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/683761",
           "watoUrl": "https://ygosu.com/board/pan_ccy/683761/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 4분 남음"
+          "statusText": "6시간 54분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683757/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 54분 남음"
+          "statusText": "6시간 44분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683754/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 34분 남음"
+          "statusText": "6시간 24분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683751/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 29분 남음"
+          "statusText": "6시간 19분 남음"
         }
       ],
       "closed": [],
@@ -2134,18 +2134,6 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1654196",
-          "title": "🔥 배그킬내기 철남킴오 VS 연합팀 🔥 (5)",
-          "articleUrl": "https://ygosu.com/board/soop/1654196",
-          "watoUrl": "https://ygosu.com/board/soop/1654196/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
           "id": "1635595",
           "title": "[와토/마감] ♿효짱 vs 지우리 퇴학고사 4경기♿",
           "articleUrl": "https://ygosu.com/board/soop/1635595",
@@ -2236,6 +2224,18 @@
           "title": "[와토/종료] 💎나락전 1경기 디임 vs 지두두💎",
           "articleUrl": "https://ygosu.com/board/soop/1655452",
           "watoUrl": "https://ygosu.com/board/soop/1655452/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1654196",
+          "title": "[와토/종료] 🔥 배그킬내기 철남킴오 VS 연합팀 🔥",
+          "articleUrl": "https://ygosu.com/board/soop/1654196",
+          "watoUrl": "https://ygosu.com/board/soop/1654196/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
