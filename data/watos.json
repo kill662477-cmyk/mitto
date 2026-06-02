@@ -1,79 +1,19 @@
 {
-  "checkedAt": "2026-06-02T13:10:37.768Z",
+  "checkedAt": "2026-06-02T13:20:32.060Z",
   "boards": {
     "mitto": {
       "live": [
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "star",
-          "id": "683735",
-          "title": "[🟢진행중/와토/진행] 🌠스타 중장전🌠 7세트 : 이제동 vs 변현제",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/683735",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/683735/?s_wato=Y",
+          "category": "baseball",
+          "id": "683751",
+          "title": "[🟢진행중/와토/9시간 남음] ⚾ MLB ⚾ 샌디에이고 vs [H] 필라델피아 :: 6/3 :: 7시 40분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/683751",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/683751/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "683734",
-          "title": "[🟢진행중/와토/진행] 🌠스타 중장전🌠 6세트 : 이제동 vs 변현제",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/683734",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/683734/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "683733",
-          "title": "[🟢진행중/와토/진행] 🌠스타 중장전🌠 5세트 : 이제동 vs 변현제",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/683733",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/683733/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "683732",
-          "title": "[🟢진행중/와토/진행] 🌠스타 중장전🌠 4세트 : 이제동 vs 변현제",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/683732",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/683732/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "683731",
-          "title": "[🟢진행중/와토/진행] 🌠스타 중장전🌠 3세트 : 이제동 vs 변현제",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/683731",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/683731/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "683730",
-          "title": "[🟢진행중/와토/진행] 🌠스타 중장전🌠 2세트 : 이제동 vs 변현제",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/683730",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/683730/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
+          "statusText": "9시간 19분 남음"
         }
       ],
       "closed": [
@@ -81,10 +21,10 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
-          "id": "683729",
-          "title": "[🟡마감/와토/마감] 🌠스타 중장전🌠 1세트 : 이제동 vs 변현제",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/683729",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/683729/?s_wato=Y",
+          "id": "683730",
+          "title": "[와토/마감] 🌠스타 중장전🌠 2세트 : 이제동 vs 변현제",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/683730",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/683730/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -103,6 +43,18 @@
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "683729",
+          "title": "[🔴결과/와토/종료] 🌠스타 중장전🌠 1세트 : 이제동 vs 변현제",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/683729",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/683729/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -1095,18 +1047,6 @@
           "title": "[🔴결과/와토/종료] 💎챔스 결승전💎파리생제르망 (-0.5) vs 아스날 ::: 5/31 ::: 1시 (A)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/681152",
           "watoUrl": "https://ygosu.com/board/pan_ccy/681152/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "681151",
-          "title": "[🔴결과/와토/종료] 💎챔스 결승전💎파리생제르망 (-0.5) vs 아스날 ::: 5/31 ::: 1시 (B)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/681151",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/681151/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
