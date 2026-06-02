@@ -1,20 +1,8 @@
 {
-  "checkedAt": "2026-06-02T13:00:45.321Z",
+  "checkedAt": "2026-06-02T13:10:37.768Z",
   "boards": {
     "mitto": {
       "live": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "683728",
-          "title": "🌠스타 중장전🌠 최종 승/패 : 이제동 vs 변현제 ::: BO.7 ::: 22시 (1)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/683728",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/683728/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -86,21 +74,34 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
+        }
+      ],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
           "id": "683729",
-          "title": "[🟢진행중/와토/진행] 🌠스타 중장전🌠 1세트 : 이제동 vs 변현제",
+          "title": "[🟡마감/와토/마감] 🌠스타 중장전🌠 1세트 : 이제동 vs 변현제",
           "articleUrl": "https://ygosu.com/board/pan_ccy/683729",
           "watoUrl": "https://ygosu.com/board/pan_ccy/683729/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "683728",
+          "title": "[🟡마감/와토/마감] 🌠스타 중장전🌠 최종 승/패 : 이제동 vs 변현제 ::: BO.7 ::: 22시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/683728",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/683728/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         }
       ],
-      "closed": [],
       "result": [
         {
           "board": "mitto",
