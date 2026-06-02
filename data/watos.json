@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-02T01:50:25.335Z",
+  "checkedAt": "2026-06-02T02:03:01.672Z",
   "boards": {
     "mitto": {
       "live": [
@@ -208,18 +208,32 @@
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
-        },
+        }
+      ],
+      "result": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "683121",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 캔자스시티(+1.5) vs [H] 신시내티 :: 6/2 :: 8시 10분",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 캔자스시티(+1.5) vs [H] 신시내티 :: 6/2 :: 8시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/683121",
           "watoUrl": "https://ygosu.com/board/pan_ccy/683121/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "683116",
+          "title": "⚾ MLB ⚾ 마이애미 vs [H] 워싱턴...",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/683116",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/683116/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
         },
         {
           "board": "mitto",
@@ -229,20 +243,6 @@
           "title": "⚾ MLB ⚾ 디트로이트(+1.5) vs [H...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/683109",
           "watoUrl": "https://ygosu.com/board/pan_ccy/683109/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "683116",
-          "title": "⚾ MLB ⚾ 마이애미 vs [H] 워싱턴...",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/683116",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/683116/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -2199,7 +2199,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1652413/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 6분 남음"
+          "statusText": "2시간 53분 남음"
         },
         {
           "board": "soop",
@@ -2223,14 +2223,14 @@
           "watoUrl": "https://ygosu.com/board/soop/1653176/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 6분 남음"
+          "statusText": "2시간 53분 남음"
         },
         {
           "board": "soop",
           "boardName": "숲게",
           "category": null,
           "id": "1652644",
-          "title": "🔥 오조은 갯벌 온다 VS 안온다 🔥 (3)",
+          "title": "🔥 오조은 갯벌 온다 VS 안온다 🔥 (5)",
           "articleUrl": "https://ygosu.com/board/soop/1652644",
           "watoUrl": "https://ygosu.com/board/soop/1652644/?s_wato=Y",
           "tab": "live",
@@ -2247,7 +2247,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1652342/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 6분 남음"
+          "statusText": "7시간 53분 남음"
         },
         {
           "board": "soop",
