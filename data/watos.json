@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-02T10:50:33.141Z",
+  "checkedAt": "2026-06-02T11:00:42.483Z",
   "boards": {
     "mitto": {
       "live": [],
@@ -143,7 +143,7 @@
           "boardName": "미또게",
           "category": "etc",
           "id": "683243",
-          "title": "🏆나락전 개인전🏆2경기: 요닝 vs ...",
+          "title": "[🔴결과/와토/종료] 🏆나락전 개인전🏆2경기: 요닝 vs 토마토",
           "articleUrl": "https://ygosu.com/board/pan_ccy/683243",
           "watoUrl": "https://ygosu.com/board/pan_ccy/683243/?s_wato=Y",
           "tab": "result",
@@ -2168,18 +2168,6 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1652342",
-          "title": "🔥철남킴오 시청자 25000명 언/옵:: 20시 마감🔥 (2)",
-          "articleUrl": "https://ygosu.com/board/soop/1652342",
-          "watoUrl": "https://ygosu.com/board/soop/1652342/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "6분 11초 남음"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
           "id": "1654196",
           "title": "🔥 배그킬내기 철남킴오 VS 연합팀 🔥 (5)",
           "articleUrl": "https://ygosu.com/board/soop/1654196",
@@ -2198,6 +2186,18 @@
           "title": "🎯🎯 모효 생존 여부 와토 🎯🎯 (3)",
           "articleUrl": "https://ygosu.com/board/soop/1653176",
           "watoUrl": "https://ygosu.com/board/soop/1653176/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1652342",
+          "title": "🔥철남킴오 시청자 25000명 언/옵:: 20시 마감🔥 (2)",
+          "articleUrl": "https://ygosu.com/board/soop/1652342",
+          "watoUrl": "https://ygosu.com/board/soop/1652342/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
