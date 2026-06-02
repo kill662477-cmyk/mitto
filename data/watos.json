@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-02T10:00:44.060Z",
+  "checkedAt": "2026-06-02T10:10:31.782Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683495/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 59분 남음"
+          "statusText": "5시간 49분 남음"
         }
       ],
       "closed": [
@@ -76,18 +76,6 @@
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "683245",
-          "title": "🏆나락전 개인전🏆7경기: 졈니 vs ...",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/683245",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/683245/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
         }
       ],
       "result": [
@@ -135,6 +123,18 @@
           "title": "🏆나락전 개인전🏆6경기: 남수댕 v...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/683246",
           "watoUrl": "https://ygosu.com/board/pan_ccy/683246/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "683245",
+          "title": "🏆나락전 개인전🏆7경기: 졈니 vs ...",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/683245",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/683245/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -2187,7 +2187,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1652342/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "56분 6초 남음"
+          "statusText": "46분 17초 남음"
         },
         {
           "board": "soop",
@@ -2203,30 +2203,6 @@
         }
       ],
       "closed": [
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1655509",
-          "title": "💎나락전 7경기 졈니 vs 찌킹💎 (1)",
-          "articleUrl": "https://ygosu.com/board/soop/1655509",
-          "watoUrl": "https://ygosu.com/board/soop/1655509/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1651513",
-          "title": "💎스타 갯벌 나락전 씨나인 vs 캄몬 최종승리💎 (4)",
-          "articleUrl": "https://ygosu.com/board/soop/1651513",
-          "watoUrl": "https://ygosu.com/board/soop/1651513/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
         {
           "board": "soop",
           "boardName": "숲게",
@@ -2253,6 +2229,30 @@
         }
       ],
       "result": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1651513",
+          "title": "💎스타 갯벌 나락전 씨나인 vs 캄몬 최종승리💎 (4)",
+          "articleUrl": "https://ygosu.com/board/soop/1651513",
+          "watoUrl": "https://ygosu.com/board/soop/1651513/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1655509",
+          "title": "[와토/종료] 💎나락전 7경기 졈니 vs 찌킹💎",
+          "articleUrl": "https://ygosu.com/board/soop/1655509",
+          "watoUrl": "https://ygosu.com/board/soop/1655509/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
