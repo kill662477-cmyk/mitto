@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-02T23:50:41.251Z",
+  "checkedAt": "2026-06-03T00:00:36.043Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,19 +13,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683777/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 49분 남음"
+          "statusText": "1시간 39분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "683776",
-          "title": "[🟢진행중/와토/19분 남음] ⚾ MLB ⚾ 피츠버그 vs [H] 휴스턴 :: 6/3 :: 9시 10분",
+          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ 피츠버그 vs [H] 휴스턴 :: 6/3 :: 9시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/683776",
           "watoUrl": "https://ygosu.com/board/pan_ccy/683776/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "19분 15초 남음"
+          "statusText": "9분 20초 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683773/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "14분 14초 남음"
+          "statusText": "4분 19초 남음"
         }
       ],
       "closed": [
@@ -46,7 +46,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "683767",
-          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 텍사스 vs [H] 세인트루이스 :: 6/3 :: 8시 45분",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 텍사스 vs [H] 세인트루이스 :: 6/3 :: 8시 45분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/683767",
           "watoUrl": "https://ygosu.com/board/pan_ccy/683767/?s_wato=Y",
           "tab": "closed",
@@ -58,7 +58,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "683765",
-          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 시카고W vs [H] 미네소타 :: 6/3 :: 8시 40분",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 시카고W vs [H] 미네소타 :: 6/3 :: 8시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/683765",
           "watoUrl": "https://ygosu.com/board/pan_ccy/683765/?s_wato=Y",
           "tab": "closed",
