@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-03T09:20:29.448Z",
+  "checkedAt": "2026-06-03T09:30:35.689Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684066/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 39분 남음"
+          "statusText": "15시간 29분 남음"
         }
       ],
       "closed": [
@@ -2128,19 +2128,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1658913/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "36분 5초 남음"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1657979",
-          "title": "🔥 씨나인 골빈벨 시청자 14000명 언/옵:: 18:30분 마감 🔥 (6)",
-          "articleUrl": "https://ygosu.com/board/soop/1657979",
-          "watoUrl": "https://ygosu.com/board/soop/1657979/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "6분 5초 남음"
+          "statusText": "25분 58초 남음"
         },
         {
           "board": "soop",
@@ -2156,6 +2144,18 @@
         }
       ],
       "closed": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1657979",
+          "title": "🔥 씨나인 골빈벨 시청자 14000명 언/옵:: 18:30분 마감 🔥 (6)",
+          "articleUrl": "https://ygosu.com/board/soop/1657979",
+          "watoUrl": "https://ygosu.com/board/soop/1657979/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
