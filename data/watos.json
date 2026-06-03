@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-03T08:10:31.897Z",
+  "checkedAt": "2026-06-03T08:20:29.966Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684066/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 49분 남음"
+          "statusText": "16시간 39분 남음"
         }
       ],
       "closed": [
@@ -1066,7 +1066,20 @@
       ]
     },
     "monstarz": {
-      "live": [],
+      "live": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1534070",
+          "title": "🌠 스타합숙소 꼴찌 예측 🌠",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1534070",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1534070/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        }
+      ],
       "closed": [],
       "result": [
         {
@@ -2100,18 +2113,6 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1429164",
-          "title": "[와토/종료] 🎮스승의날 CK 총펀딩🎮 185만개 언/오버",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1429164",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1429164/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
@@ -2127,7 +2128,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1658913/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 46분 남음"
+          "statusText": "1시간 36분 남음"
         },
         {
           "board": "soop",
@@ -2139,7 +2140,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1657979/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 16분 남음"
+          "statusText": "1시간 5분 남음"
         },
         {
           "board": "soop",
