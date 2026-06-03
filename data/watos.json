@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-03T10:40:32.329Z",
+  "checkedAt": "2026-06-03T10:50:30.497Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,31 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684066/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "14시간 19분 남음"
+          "statusText": "14시간 9분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "684170",
+          "title": "[🟢진행중/와토/6시간 남음] ⚾ MLB ⚾ 시카고W vs [H] 미네소타 :: 6/2 :: 2시 40분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/684170",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/684170/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "6시간 49분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "684169",
+          "title": "[🟢진행중/와토/6시간 남음] ⚾ MLB ⚾ 마이애미 vs [H] 워싱턴 :: 6/4 :: 2시 5분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/684169",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/684169/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "6시간 14분 남음"
         }
       ],
       "closed": [
@@ -1047,18 +1071,6 @@
           "title": "[🔴결과/와토/종료] 🏆LCK또또🏆최종 승/패: 농심 (+1.5) vs DK :일: 19시 BO.3 (A)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/681536",
           "watoUrl": "https://ygosu.com/board/pan_ccy/681536/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "681409",
-          "title": "[🔴결과/와토/종료] ☯A매치 또또☯ 대한민국(-2.5) vs 트리니다드토바고 :일: AM 10시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/681409",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/681409/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
