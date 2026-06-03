@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-03T01:10:31.257Z",
+  "checkedAt": "2026-06-03T01:20:27.255Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,12 +8,12 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "683777",
-          "title": "[🟢진행중/와토/29분 남음] ⚾ MLB ⚾ LA다저스 vs [H] 애리조나 :: 6/3 :: 10시 40분",
+          "title": "[🟢진행중/와토/19분 남음] ⚾ MLB ⚾ LA다저스 vs [H] 애리조나 :: 6/3 :: 10시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/683777",
           "watoUrl": "https://ygosu.com/board/pan_ccy/683777/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "29분 26초 남음"
+          "statusText": "19분 30초 남음"
         }
       ],
       "closed": [
@@ -34,7 +34,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "683773",
-          "title": "⚾ MLB ⚾ 애슬레틱스 vs [H] 시카...",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 애슬레틱스 vs [H] 시카고컵스 :: 6/3 :: 9시 5분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/683773",
           "watoUrl": "https://ygosu.com/board/pan_ccy/683773/?s_wato=Y",
           "tab": "closed",
@@ -70,7 +70,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "683764",
-          "title": "⚾ MLB ⚾ 샌프란시스코(+1.5) vs ...",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 샌프란시스코(+1.5) vs [H] 밀워키 :: 6/3 :: 8시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/683764",
           "watoUrl": "https://ygosu.com/board/pan_ccy/683764/?s_wato=Y",
           "tab": "closed",
@@ -2121,10 +2121,10 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1657979",
-          "title": "🔥 씨나인 골빈벨 시청자 14000명 언/옵 🔥 (6)",
-          "articleUrl": "https://ygosu.com/board/soop/1657979",
-          "watoUrl": "https://ygosu.com/board/soop/1657979/?s_wato=Y",
+          "id": "1658913",
+          "title": "💎 엑셀부 VS 스타부 골빈벨 승리팀 맞추기💎",
+          "articleUrl": "https://ygosu.com/board/soop/1658913",
+          "watoUrl": "https://ygosu.com/board/soop/1658913/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -2133,10 +2133,10 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1658913",
-          "title": "[와토/진행] 💎 엑셀부 VS 스타부 골빈벨 승리팀 맞추기💎",
-          "articleUrl": "https://ygosu.com/board/soop/1658913",
-          "watoUrl": "https://ygosu.com/board/soop/1658913/?s_wato=Y",
+          "id": "1657979",
+          "title": "🔥 씨나인 골빈벨 시청자 14000명 언/옵 🔥 (6)",
+          "articleUrl": "https://ygosu.com/board/soop/1657979",
+          "watoUrl": "https://ygosu.com/board/soop/1657979/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
