@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-03T07:50:28.601Z",
+  "checkedAt": "2026-06-03T08:00:36.711Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,70 +13,71 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684066/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "17시간 9분 남음"
-        },
+          "statusText": "16시간 59분 남음"
+        }
+      ],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "684065",
-          "title": "[🟢진행중/와토/9분 남음] ⚾ KBO ⚾ 롯데(+0.5) vs [H] KIA :: 6/3 :: 17시",
+          "title": "[🟢진행중/와토/마감] ⚾ KBO ⚾ 롯데(+0.5) vs [H] KIA :: 6/3 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684065",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684065/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "9분 27초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "684064",
-          "title": "[🟢진행중/와토/9분 남음] ⚾ KBO ⚾ NC(+1.5) vs [H] 삼성 :: 6/3 :: 17시",
+          "title": "[🟢진행중/와토/마감] ⚾ KBO ⚾ NC(+1.5) vs [H] 삼성 :: 6/3 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684064",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684064/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "9분 26초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "684063",
-          "title": "[🟢진행중/와토/9분 남음] ⚾ KBO ⚾ LG(+0.5) vs [H] KT :: 6/3 :: 17시",
+          "title": "[🟢진행중/와토/마감] ⚾ KBO ⚾ LG(+0.5) vs [H] KT :: 6/3 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684063",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684063/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "9분 25초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "684062",
-          "title": "[🟢진행중/와토/9분 남음] ⚾ KBO ⚾ 키움(-0.5) vs [H] SSG :: 6/3 :: 17시",
+          "title": "[🟢진행중/와토/마감] ⚾ KBO ⚾ 키움(-0.5) vs [H] SSG :: 6/3 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684062",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684062/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "9분 24초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "684061",
-          "title": "[🟢진행중/와토/9분 남음] ⚾ KBO ⚾ 한화(-1.5) vs [H] 두산 :: 6/3 :: 17시",
+          "title": "[🟢진행중/와토/마감] ⚾ KBO ⚾ 한화(-1.5) vs [H] 두산 :: 6/3 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684061",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684061/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "9분 23초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         }
       ],
-      "closed": [],
       "result": [
         {
           "board": "mitto",
@@ -2121,24 +2122,24 @@
           "boardName": "숲게",
           "category": null,
           "id": "1658913",
-          "title": "💎 엑셀부 VS 스타부 골빈벨 승리팀 맞추기 💎",
+          "title": "💎 엑셀부 VS 스타부 골빈벨 승리팀 맞추기:: 19시 마감 💎",
           "articleUrl": "https://ygosu.com/board/soop/1658913",
           "watoUrl": "https://ygosu.com/board/soop/1658913/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "진행중"
+          "statusText": "1시간 55분 남음"
         },
         {
           "board": "soop",
           "boardName": "숲게",
           "category": null,
           "id": "1657979",
-          "title": "🔥 씨나인 골빈벨 시청자 14000명 언/옵 🔥 (6)",
+          "title": "🔥 씨나인 골빈벨 시청자 14000명 언/옵:: 18:30분 마감 🔥 (6)",
           "articleUrl": "https://ygosu.com/board/soop/1657979",
           "watoUrl": "https://ygosu.com/board/soop/1657979/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "진행중"
+          "statusText": "1시간 25분 남음"
         },
         {
           "board": "soop",
