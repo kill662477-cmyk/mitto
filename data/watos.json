@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-03T02:30:31.955Z",
+  "checkedAt": "2026-06-03T02:40:28.072Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684066/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "22시간 29분 남음"
+          "statusText": "22시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684065/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 29분 남음"
+          "statusText": "5시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684064/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 29분 남음"
+          "statusText": "5시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684063/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 29분 남음"
+          "statusText": "5시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684062/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 29분 남음"
+          "statusText": "5시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684061/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 29분 남음"
+          "statusText": "5시간 19분 남음"
         }
       ],
       "closed": [
@@ -105,58 +105,10 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
-          "id": "683773",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 애슬레틱스 vs [H] 시카고컵스 :: 6/3 :: 9시 5분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/683773",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/683773/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
           "id": "683767",
           "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 텍사스 vs [H] 세인트루이스 :: 6/3 :: 8시 45분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/683767",
           "watoUrl": "https://ygosu.com/board/pan_ccy/683767/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "683765",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 시카고W vs [H] 미네소타 :: 6/3 :: 8시 40분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/683765",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/683765/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "683764",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 샌프란시스코(+1.5) vs [H] 밀워키 :: 6/3 :: 8시 40분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/683764",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/683764/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "683757",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 클리블랜드(+1.5) vs [H] 뉴욕양키스 :: 6/3 :: 8시 5분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/683757",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/683757/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -167,10 +119,58 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
+          "id": "683773",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 애슬레틱스 vs [H] 시카고컵스 :: 6/3 :: 9시 5분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/683773",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/683773/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "683765",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 시카고W vs [H] 미네소타 :: 6/3 :: 8시 40분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/683765",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/683765/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "683764",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 샌프란시스코(+1.5) vs [H] 밀워키 :: 6/3 :: 8시 40분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/683764",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/683764/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
           "id": "683761",
           "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 토론토 vs [H] 애틀랜타 :: 6/3 :: 8시 15분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/683761",
           "watoUrl": "https://ygosu.com/board/pan_ccy/683761/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "683757",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 클리블랜드(+1.5) vs [H] 뉴욕양키스 :: 6/3 :: 8시 5분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/683757",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/683757/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
