@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-03T00:00:36.043Z",
+  "checkedAt": "2026-06-03T00:10:29.851Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,19 +13,21 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/683777/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 39분 남음"
-        },
+          "statusText": "1시간 29분 남음"
+        }
+      ],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "683776",
-          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ 피츠버그 vs [H] 휴스턴 :: 6/3 :: 9시 10분",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 피츠버그 vs [H] 휴스턴 :: 6/3 :: 9시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/683776",
           "watoUrl": "https://ygosu.com/board/pan_ccy/683776/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "9분 20초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
@@ -35,12 +37,10 @@
           "title": "⚾ MLB ⚾ 애슬레틱스 vs [H] 시카...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/683773",
           "watoUrl": "https://ygosu.com/board/pan_ccy/683773/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "4분 19초 남음"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
