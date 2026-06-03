@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-03T02:20:31.068Z",
+  "checkedAt": "2026-06-03T02:30:31.955Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684066/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "22시간 39분 남음"
+          "statusText": "22시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684065/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 39분 남음"
+          "statusText": "5시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684064/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 39분 남음"
+          "statusText": "5시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684063/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 39분 남음"
+          "statusText": "5시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684062/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 39분 남음"
+          "statusText": "5시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684061/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 39분 남음"
+          "statusText": "5시간 29분 남음"
         }
       ],
       "closed": [
@@ -2140,18 +2140,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1658992",
-          "title": "[와토/6분 남음] 👿세트카 11:30 [1set 18.5 언옵]😈1.73미만 적특🔥베이징",
-          "articleUrl": "https://ygosu.com/board/soop/1658992",
-          "watoUrl": "https://ygosu.com/board/soop/1658992/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "6분 11초 남음"
         }
       ],
       "closed": [
@@ -2169,6 +2157,18 @@
         }
       ],
       "result": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1658992",
+          "title": "[와토/종료] 👿세트카 11:30 [1set 18.5 언옵]😈1.73미만 적특🔥베이징",
+          "articleUrl": "https://ygosu.com/board/soop/1658992",
+          "watoUrl": "https://ygosu.com/board/soop/1658992/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
