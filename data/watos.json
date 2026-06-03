@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-03T05:50:27.773Z",
+  "checkedAt": "2026-06-03T06:00:36.535Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,67 +13,67 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684066/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "19시간 9분 남음"
+          "statusText": "18시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "684065",
-          "title": "[🟢진행중/와토/2시간 남음] ⚾ KBO ⚾ 롯데(+0.5) vs [H] KIA :: 6/3 :: 17시",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ KBO ⚾ 롯데(+0.5) vs [H] KIA :: 6/3 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684065",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684065/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 9분 남음"
+          "statusText": "1시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "684064",
-          "title": "[🟢진행중/와토/2시간 남음] ⚾ KBO ⚾ NC(+1.5) vs [H] 삼성 :: 6/3 :: 17시",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ KBO ⚾ NC(+1.5) vs [H] 삼성 :: 6/3 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684064",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684064/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 9분 남음"
+          "statusText": "1시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "684063",
-          "title": "[🟢진행중/와토/2시간 남음] ⚾ KBO ⚾ LG(+0.5) vs [H] KT :: 6/3 :: 17시",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ KBO ⚾ LG(+0.5) vs [H] KT :: 6/3 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684063",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684063/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 9분 남음"
+          "statusText": "1시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "684062",
-          "title": "[🟢진행중/와토/2시간 남음] ⚾ KBO ⚾ 키움(-0.5) vs [H] SSG :: 6/3 :: 17시",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ KBO ⚾ 키움(-0.5) vs [H] SSG :: 6/3 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684062",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684062/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 9분 남음"
+          "statusText": "1시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "684061",
-          "title": "[🟢진행중/와토/2시간 남음] ⚾ KBO ⚾ 한화(-1.5) vs [H] 두산 :: 6/3 :: 17시",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ KBO ⚾ 한화(-1.5) vs [H] 두산 :: 6/3 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684061",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684061/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 9분 남음"
+          "statusText": "1시간 59분 남음"
         }
       ],
       "closed": [],
@@ -2120,18 +2120,6 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1659260",
-          "title": "🔥철구 수요일방송 시청자 10009명 언/오버🔥",
-          "articleUrl": "https://ygosu.com/board/soop/1659260",
-          "watoUrl": "https://ygosu.com/board/soop/1659260/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "6분 17초 남음"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
           "id": "1658913",
           "title": "💎 엑셀부 VS 스타부 골빈벨 승리팀 맞추기 💎",
           "articleUrl": "https://ygosu.com/board/soop/1658913",
@@ -2154,6 +2142,18 @@
         }
       ],
       "closed": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1659260",
+          "title": "🔥철구 수요일방송 시청자 10009명 언/오버🔥 (1)",
+          "articleUrl": "https://ygosu.com/board/soop/1659260",
+          "watoUrl": "https://ygosu.com/board/soop/1659260/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
