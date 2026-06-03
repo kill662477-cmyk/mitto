@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-03T09:40:29.560Z",
+  "checkedAt": "2026-06-03T09:50:30.744Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684066/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 19분 남음"
+          "statusText": "15시간 9분 남음"
         }
       ],
       "closed": [
@@ -1071,18 +1071,6 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1534070",
-          "title": "🌠 스타합숙소 꼴찌 예측 🌠",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1534070",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1534070/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
           "id": "1534939",
           "title": "[와토/진행] 🎮 두찌조콩 미니대전 🎮",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1534939",
@@ -1090,21 +1078,34 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
+        }
+      ],
+      "closed": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1534070",
+          "title": "🌠 스타합숙소 꼴찌 예측 🌠",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1534070",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1534070/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
           "id": "1534300",
-          "title": "[와토/진행] 🌠 스타합숙소 찌조 vs 두콩🌠",
+          "title": "[와토/마감] 🌠 스타합숙소 찌조 vs 두콩🌠",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1534300",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1534300/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         }
       ],
-      "closed": [],
       "result": [
         {
           "board": "monstarz",
@@ -2128,7 +2129,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1658913/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15분 58초 남음"
+          "statusText": "6분 1초 남음"
         },
         {
           "board": "soop",
