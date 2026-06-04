@@ -1,22 +1,21 @@
 {
-  "checkedAt": "2026-06-04T01:30:31.423Z",
+  "checkedAt": "2026-06-04T01:43:49.753Z",
   "boards": {
     "mitto": {
-      "live": [
+      "live": [],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "684239",
-          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ LA다저스(-1.5) vs [H] 애리조나 :: 6/4 :: 10시 40분",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ LA다저스(-1.5) vs [H] 애리조나 :: 6/4 :: 10시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684239",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684239/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "9분 24초 남음"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -2151,7 +2150,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1659684/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 25분 남음"
+          "statusText": "6시간 12분 남음"
         }
       ],
       "closed": [
