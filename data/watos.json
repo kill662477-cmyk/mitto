@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-04T00:40:28.341Z",
+  "checkedAt": "2026-06-04T00:50:27.257Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,19 +13,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684066/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "19분 28초 남음"
+          "statusText": "9분 29초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "684239",
-          "title": "[🟢진행중/와토/59분 남음] ⚾ MLB ⚾ LA다저스(-1.5) vs [H] 애리조나 :: 6/4 :: 10시 40분",
+          "title": "[🟢진행중/와토/49분 남음] ⚾ MLB ⚾ LA다저스(-1.5) vs [H] 애리조나 :: 6/4 :: 10시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684239",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684239/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "59분 27초 남음"
+          "statusText": "49분 28초 남음"
         }
       ],
       "closed": [
@@ -2122,13 +2122,37 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
+          "id": "1662086",
+          "title": "🔥🔥 씨나인 엑셀 계급전 공주 맞추기 🔥🔥 (1)",
+          "articleUrl": "https://ygosu.com/board/soop/1662086",
+          "watoUrl": "https://ygosu.com/board/soop/1662086/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1662084",
+          "title": "🔥🔥 씨나인 엑셀 계급전 700만 언/오버🔥🔥 (1)",
+          "articleUrl": "https://ygosu.com/board/soop/1662084",
+          "watoUrl": "https://ygosu.com/board/soop/1662084/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
           "id": "1659684",
           "title": "🔥철구 목요일 시청자 27000명 언/옵:: 17시 마감🔥 (1)",
           "articleUrl": "https://ygosu.com/board/soop/1659684",
           "watoUrl": "https://ygosu.com/board/soop/1659684/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 16분 남음"
+          "statusText": "7시간 6분 남음"
         }
       ],
       "closed": [
@@ -3162,18 +3186,6 @@
           "title": "[와토/종료] 홀짝대결 ㅋㅋㅋㅋ 금액맞추면마감 3인이하는 무효 ㅌㅋㅋ",
           "articleUrl": "https://ygosu.com/board/soop/1616889",
           "watoUrl": "https://ygosu.com/board/soop/1616889/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1616361",
-          "title": "[와토/종료] 🔥철구 일요일방송 시청자 30009명 언/오버:: 12시 마감🔥",
-          "articleUrl": "https://ygosu.com/board/soop/1616361",
-          "watoUrl": "https://ygosu.com/board/soop/1616361/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
