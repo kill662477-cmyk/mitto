@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-04T13:50:30.699Z",
+  "checkedAt": "2026-06-04T14:00:44.233Z",
   "boards": {
     "mitto": {
       "live": [
@@ -186,18 +186,6 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "star",
-          "id": "684764",
-          "title": "[와토/진행] 🌠준메프 1세트🌠 2경기: 일장 vs 정우",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/684764",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/684764/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
           "category": "baseball",
           "id": "684718",
           "title": "[🟢진행중/와토/11시간 남음] ⚾ MLB ⚾ LA다저스(-1.5) vs [H] 애리조나 :: 6/5 :: 10시 40분",
@@ -205,7 +193,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684718/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 49분 남음"
+          "statusText": "11시간 38분 남음"
         },
         {
           "board": "mitto",
@@ -217,7 +205,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684717/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 19분 남음"
+          "statusText": "10시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -229,7 +217,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684716/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 14분 남음"
+          "statusText": "10시간 3분 남음"
         },
         {
           "board": "mitto",
@@ -241,7 +229,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684714/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 49분 남음"
+          "statusText": "9시간 38분 남음"
         },
         {
           "board": "mitto",
@@ -253,7 +241,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684713/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 24분 남음"
+          "statusText": "9시간 13분 남음"
         },
         {
           "board": "mitto",
@@ -265,7 +253,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684705/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 19분 남음"
+          "statusText": "4시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -277,7 +265,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684704/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 44분 남음"
+          "statusText": "3시간 33분 남음"
         },
         {
           "board": "mitto",
@@ -289,7 +277,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684703/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 44분 남음"
+          "statusText": "3시간 33분 남음"
         },
         {
           "board": "mitto",
@@ -301,7 +289,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684702/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 13분 남음"
+          "statusText": "3시간 3분 남음"
         }
       ],
       "closed": [
@@ -309,28 +297,28 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
-          "id": "684762",
-          "title": "[와토/마감] 🌠준메프 1세트🌠 1경기: 지성 vs 현제",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/684762",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/684762/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "684607",
-          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 한화(+0.5) vs [H] 두산 :: 6/4 :: 18시 30분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/684607",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/684607/?s_wato=Y",
+          "id": "684764",
+          "title": "[와토/마감] 🌠준메프 1세트🌠 2경기: 일장 vs 정우",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/684764",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/684764/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "684762",
+          "title": "[와토/종료] 🌠준메프 1세트🌠 1경기: 지성 vs 현제",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/684762",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/684762/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -363,6 +351,18 @@
           "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ LG(-0.5) vs [H] KT :: 6/4 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684608",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684608/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "684607",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 한화(+0.5) vs [H] 두산 :: 6/4 :: 18시 30분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/684607",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/684607/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -2140,19 +2140,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1662102/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1일 18시간 남음"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1662086",
-          "title": "🔥🔥 씨나인 엑셀 계급전 공주 맞추기 🔥🔥 (2)",
-          "articleUrl": "https://ygosu.com/board/soop/1662086",
-          "watoUrl": "https://ygosu.com/board/soop/1662086/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
+          "statusText": "1일 17시간 남음"
         },
         {
           "board": "soop",
@@ -2162,6 +2150,30 @@
           "title": "🔥🔥 씨나인 엑셀 계급전 700만 언/오버🔥🔥 (2)",
           "articleUrl": "https://ygosu.com/board/soop/1662084",
           "watoUrl": "https://ygosu.com/board/soop/1662084/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1664900",
+          "title": "[와토/진행] 🔥🔥 씨나인 엑셀 계급전 귀족 맞추기 🔥🔥",
+          "articleUrl": "https://ygosu.com/board/soop/1664900",
+          "watoUrl": "https://ygosu.com/board/soop/1664900/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1662086",
+          "title": "[와토/진행] 🔥🔥 씨나인 엑셀 계급전 공주 맞추기 🔥🔥",
+          "articleUrl": "https://ygosu.com/board/soop/1662086",
+          "watoUrl": "https://ygosu.com/board/soop/1662086/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -3186,18 +3198,6 @@
           "title": "[와토/종료] 👿세트카 04:45 [1set 18.5 언옵]😈1.73미만 적특🔥프라하",
           "articleUrl": "https://ygosu.com/board/soop/1627273",
           "watoUrl": "https://ygosu.com/board/soop/1627273/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1625729",
-          "title": "[와토/종료] 🔥혜루 요리컨테츠 시청자 8500명 언/오버:: 14시 마감🔥",
-          "articleUrl": "https://ygosu.com/board/soop/1625729",
-          "watoUrl": "https://ygosu.com/board/soop/1625729/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
