@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-04T12:50:33.813Z",
+  "checkedAt": "2026-06-04T13:00:42.827Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684718/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 49분 남음"
+          "statusText": "12시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684717/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 19분 남음"
+          "statusText": "11시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684716/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 14분 남음"
+          "statusText": "11시간 4분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684714/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 49분 남음"
+          "statusText": "10시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684713/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 24분 남음"
+          "statusText": "10시간 14분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684705/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 19분 남음"
+          "statusText": "5시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684704/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 44분 남음"
+          "statusText": "4시간 34분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684703/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 44분 남음"
+          "statusText": "4시간 34분 남음"
         },
         {
           "board": "mitto",
@@ -109,22 +109,10 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684702/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 14분 남음"
+          "statusText": "4시간 4분 남음"
         }
       ],
       "closed": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "684608",
-          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ LG(-0.5) vs [H] KT :: 6/4 :: 18시 30분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/684608",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/684608/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -171,6 +159,18 @@
           "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ NC(+1.5) vs [H] 삼성 :: 6/4 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684609",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684609/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "684608",
+          "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ LG(-0.5) vs [H] KT :: 6/4 :: 18시 30분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/684608",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/684608/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -2128,7 +2128,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1662102/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1일 19시간 남음"
+          "statusText": "1일 18시간 남음"
         },
         {
           "board": "soop",
