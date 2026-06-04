@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-04T01:10:30.938Z",
+  "checkedAt": "2026-06-04T01:20:28.306Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,12 +8,12 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "684239",
-          "title": "[🟢진행중/와토/29분 남음] ⚾ MLB ⚾ LA다저스(-1.5) vs [H] 애리조나 :: 6/4 :: 10시 40분",
+          "title": "[🟢진행중/와토/19분 남음] ⚾ MLB ⚾ LA다저스(-1.5) vs [H] 애리조나 :: 6/4 :: 10시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684239",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684239/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "29분 25초 남음"
+          "statusText": "19분 28초 남음"
         }
       ],
       "closed": [
@@ -1079,7 +1079,8 @@
     },
     "monstarz": {
       "live": [],
-      "closed": [
+      "closed": [],
+      "result": [
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -1088,24 +1089,10 @@
           "title": "🌠 스타합숙소 꼴찌 예측 🌠",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1534070",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1534070/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
         },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1534300",
-          "title": "[와토/마감] 🌠 스타합숙소 찌조 vs 두콩🌠",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1534300",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1534300/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -2123,7 +2110,7 @@
           "boardName": "숲게",
           "category": null,
           "id": "1662086",
-          "title": "🔥🔥 씨나인 엑셀 계급전 공주 맞추기 🔥🔥 (1)",
+          "title": "🔥🔥 씨나인 엑셀 계급전 공주 맞추기 🔥🔥 (2)",
           "articleUrl": "https://ygosu.com/board/soop/1662086",
           "watoUrl": "https://ygosu.com/board/soop/1662086/?s_wato=Y",
           "tab": "live",
@@ -2135,7 +2122,7 @@
           "boardName": "숲게",
           "category": null,
           "id": "1662084",
-          "title": "🔥🔥 씨나인 엑셀 계급전 700만 언/오버🔥🔥 (1)",
+          "title": "🔥🔥 씨나인 엑셀 계급전 700만 언/오버🔥🔥 (2)",
           "articleUrl": "https://ygosu.com/board/soop/1662084",
           "watoUrl": "https://ygosu.com/board/soop/1662084/?s_wato=Y",
           "tab": "live",
@@ -2152,7 +2139,19 @@
           "watoUrl": "https://ygosu.com/board/soop/1659684/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 46분 남음"
+          "statusText": "6시간 36분 남음"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1662102",
+          "title": "[와토/2일 남음] 💎 씨나인 엑셀 계급전 시청자 6000명 언/옵 💎",
+          "articleUrl": "https://ygosu.com/board/soop/1662102",
+          "watoUrl": "https://ygosu.com/board/soop/1662102/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "2일 6시간 남음"
         }
       ],
       "closed": [
@@ -3174,18 +3173,6 @@
           "title": "[와토/종료] 🔥힐링 촌캉스 시청자 7009명 언/오버:: 15시 마감🔥",
           "articleUrl": "https://ygosu.com/board/soop/1624785",
           "watoUrl": "https://ygosu.com/board/soop/1624785/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1616889",
-          "title": "[와토/종료] 홀짝대결 ㅋㅋㅋㅋ 금액맞추면마감 3인이하는 무효 ㅌㅋㅋ",
-          "articleUrl": "https://ygosu.com/board/soop/1616889",
-          "watoUrl": "https://ygosu.com/board/soop/1616889/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
