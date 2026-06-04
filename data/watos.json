@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-04T04:20:29.346Z",
+  "checkedAt": "2026-06-04T04:30:34.647Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,60 +8,60 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "684610",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ 롯데(+0.5) vs [H] KIA :: 6/4 :: 18시 30분",
+          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ 롯데(+0.5) vs [H] KIA :: 6/4 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684610",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684610/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 9분 남음"
+          "statusText": "4시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "684609",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ NC(+1.5) vs [H] 삼성 :: 6/4 :: 18시 30분",
+          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ NC(+1.5) vs [H] 삼성 :: 6/4 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684609",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684609/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 9분 남음"
+          "statusText": "4시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "684608",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ LG(-0.5) vs [H] KT :: 6/4 :: 18시 30분",
+          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ LG(-0.5) vs [H] KT :: 6/4 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684608",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684608/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 9분 남음"
+          "statusText": "4시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "684607",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ 한화(+0.5) vs [H] 두산 :: 6/4 :: 18시 30분",
+          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ 한화(+0.5) vs [H] 두산 :: 6/4 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684607",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684607/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 9분 남음"
+          "statusText": "4시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "684604",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ 키움(+1.5) vs [H] SSG :: 6/4 :: 18시 30분",
+          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ 키움(+1.5) vs [H] SSG :: 6/4 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684604",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684604/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 9분 남음"
+          "statusText": "4시간 59분 남음"
         }
       ],
       "closed": [
@@ -2164,7 +2164,19 @@
           "watoUrl": "https://ygosu.com/board/soop/1659684/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 36분 남음"
+          "statusText": "3시간 26분 남음"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1662231",
+          "title": "[와토/진행] 💎킴성태 여친찾기 성공 vs 실패💎",
+          "articleUrl": "https://ygosu.com/board/soop/1662231",
+          "watoUrl": "https://ygosu.com/board/soop/1662231/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
         }
       ],
       "closed": [
