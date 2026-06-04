@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-04T20:30:32.666Z",
+  "checkedAt": "2026-06-04T20:40:30.739Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,12 +8,12 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "684718",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ MLB ⚾ LA다저스(-1.5) vs [H] 애리조나 :: 6/5 :: 10시 40분",
+          "title": "[🟢진행중/와토/4시간 남음] ⚾ MLB ⚾ LA다저스(-1.5) vs [H] 애리조나 :: 6/5 :: 10시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684718",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684718/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 9분 남음"
+          "statusText": "4시간 59분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684717/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 39분 남음"
+          "statusText": "3시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -37,19 +37,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684716/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 34분 남음"
+          "statusText": "3시간 24분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "684714",
-          "title": "[🟢진행중/와토/3시간 남음] ⚾ MLB ⚾ 캔자스시티 vs [H] 미네소타 :: 6/5 :: 8시 40분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 캔자스시티 vs [H] 미네소타 :: 6/5 :: 8시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684714",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684714/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 9분 남음"
+          "statusText": "2시간 59분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/684713/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 44분 남음"
+          "statusText": "2시간 34분 남음"
         }
       ],
       "closed": [
