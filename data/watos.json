@@ -1,8 +1,9 @@
 {
-  "checkedAt": "2026-06-05T01:30:33.312Z",
+  "checkedAt": "2026-06-05T01:40:27.381Z",
   "boards": {
     "mitto": {
-      "live": [
+      "live": [],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -11,12 +12,10 @@
           "title": "⚾ MLB ⚾ LA다저스(-1.5) vs [H] ...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/684718",
           "watoUrl": "https://ygosu.com/board/pan_ccy/684718/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "9분 8초 남음"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -1072,7 +1071,7 @@
           "boardName": "스대게",
           "category": null,
           "id": "1543598",
-          "title": "🍋 오 늘 합숙 3번째 탈출자 맞추기 🍋 (9)",
+          "title": "🍋 오 늘 합숙 3번째 탈출자 맞추기 🍋 (10)",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1543598",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1543598/?s_wato=Y",
           "tab": "live",
