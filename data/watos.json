@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-05T05:20:28.257Z",
+  "checkedAt": "2026-06-05T05:30:33.350Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,12 +8,12 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "685066",
-          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ 한화(-1.5) vs [H] 롯데 :: 6/5 :: 18시 30분",
+          "title": "[🟢진행중/와토/3시간 남음] ⚾ KBO ⚾ 한화(-1.5) vs [H] 롯데 :: 6/5 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685066",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685066/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 9분 남음"
+          "statusText": "3시간 59분 남음"
         },
         {
           "board": "mitto",
@@ -25,43 +25,43 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685065/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 9분 남음"
+          "statusText": "3시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "685064",
-          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ 삼성(+0.5) vs [H] KIA :: 6/5 :: 18시 30분",
+          "title": "[🟢진행중/와토/3시간 남음] ⚾ KBO ⚾ 삼성(+0.5) vs [H] KIA :: 6/5 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685064",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685064/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 9분 남음"
+          "statusText": "3시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "685063",
-          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ KT(+0.5) vs [H] SSG :: 6/5 :: 18시 30분",
+          "title": "[🟢진행중/와토/3시간 남음] ⚾ KBO ⚾ KT(+0.5) vs [H] SSG :: 6/5 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685063",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685063/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 9분 남음"
+          "statusText": "3시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "685062",
-          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ 키움(+0.5) vs [H] 두산 :: 6/5 :: 18시 30분",
+          "title": "[🟢진행중/와토/3시간 남음] ⚾ KBO ⚾ 키움(+0.5) vs [H] 두산 :: 6/5 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685062",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685062/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 9분 남음"
+          "statusText": "3시간 59분 남음"
         }
       ],
       "closed": [],
