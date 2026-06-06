@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-06T10:10:26.892Z",
+  "checkedAt": "2026-06-06T10:25:27.612Z",
   "boards": {
     "mitto": {
       "live": [
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685873/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 49분 남음"
+          "statusText": "21시간 34분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685872/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 49분 남음"
+          "statusText": "21시간 34분 남음"
         },
         {
           "board": "mitto",
@@ -49,31 +49,31 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685871/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 49분 남음"
+          "statusText": "21시간 34분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "685734",
-          "title": "[🟢진행중/와토/8시간 남음] ⚾ MLB ⚾ 샌프란시스코(+1.5) vs [H] 시카고컵스 :: 6/7 :: 3시 20분",
+          "title": "[🟢진행중/와토/7시간 남음] ⚾ MLB ⚾ 샌프란시스코(+1.5) vs [H] 시카고컵스 :: 6/7 :: 3시 20분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685734",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685734/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 9분 남음"
+          "statusText": "7시간 54분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "685732",
-          "title": "[🟢진행중/와토/8시간 남음] ⚾ MLB ⚾ 신시내티 vs [H] 세인트루이스 :: 6/7 :: 3시 15분",
+          "title": "[🟢진행중/와토/7시간 남음] ⚾ MLB ⚾ 신시내티 vs [H] 세인트루이스 :: 6/7 :: 3시 15분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685732",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685732/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 4분 남음"
+          "statusText": "7시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -145,54 +145,6 @@
           "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 키움(-0.5) vs [H] 두산 :: 6/6 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685526",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685526/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "685162",
-          "title": "[🟡마감/와토/마감] 🏆MSI 선발전🏆3세트 ::: DK (-7.5) vs 브리온 💥킬핸디확인💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/685162",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/685162/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "685159",
-          "title": "[🟡마감/와토/마감] 🏆MSI선발전🏆최종 승/패: DK (-2.5) vs 브리온 :토: 17시 BO5",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/685159",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/685159/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "685158",
-          "title": "[🟡마감/와토/마감] 🏆MSI선발전🏆최종 승/패: DK(-1.5) vs 브리온 :토: 17시 BO5 (B)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/685158",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/685158/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "685157",
-          "title": "[🟡마감/와토/마감] 🏆MSI선발전🏆최종 승/패: DK(-1.5) vs 브리온 :토: 17시 BO5 (A)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/685157",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/685157/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -359,6 +311,18 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
+          "id": "685162",
+          "title": "[🔴결과/와토/종료] 🏆MSI 선발전🏆3세트 ::: DK (-7.5) vs 브리온 💥킬핸디확인💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/685162",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/685162/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
           "id": "685161",
           "title": "[🔴결과/와토/종료] 🏆MSI 선발전🏆2세트 ::: DK (-7.5) vs 브리온 💥킬핸디확인💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685161",
@@ -375,6 +339,42 @@
           "title": "[🔴결과/와토/종료] 🏆MSI 선발전🏆1세트 ::: DK (-7.5) vs 브리온 💥킬핸디확인💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685160",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685160/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "685159",
+          "title": "[🔴결과/와토/종료] 🏆MSI선발전🏆최종 승/패: DK (-2.5) vs 브리온 :토: 17시 BO5",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/685159",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/685159/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "685158",
+          "title": "[🔴결과/와토/종료] 🏆MSI선발전🏆최종 승/패: DK(-1.5) vs 브리온 :토: 17시 BO5 (B)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/685158",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/685158/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "685157",
+          "title": "[🔴결과/와토/종료] 🏆MSI선발전🏆최종 승/패: DK(-1.5) vs 브리온 :토: 17시 BO5 (A)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/685157",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/685157/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -1185,7 +1185,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1548580/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 47분 남음"
+          "statusText": "16시간 32분 남음"
         },
         {
           "board": "monstarz",
@@ -2189,7 +2189,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1669493/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "45분 57초 남음"
+          "statusText": "31분 17초 남음"
         },
         {
           "board": "soop",
