@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-06T11:00:35.786Z",
+  "checkedAt": "2026-06-06T11:10:26.552Z",
   "boards": {
     "mitto": {
       "live": [
@@ -7,10 +7,10 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
-          "id": "685867",
-          "title": "🏆상교 롤랜드🏆1세트 ::: 민교팀 vs 상호팀 :💥팀 확정💥 (1)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/685867",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/685867/?s_wato=Y",
+          "id": "685915",
+          "title": "🏆상교 롤랜드🏆2세트 ::: 민교팀 vs 상호팀 💥1세트 끝나고 팀 나옴💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/685915",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/685915/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685873/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "20시간 59분 남음"
+          "statusText": "20시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685872/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "20시간 59분 남음"
+          "statusText": "20시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685871/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "20시간 59분 남음"
+          "statusText": "20시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685734/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 19분 남음"
+          "statusText": "7시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685732/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 14분 남음"
+          "statusText": "7시간 4분 남음"
         },
         {
           "board": "mitto",
@@ -101,6 +101,18 @@
         }
       ],
       "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "685867",
+          "title": "[🟡마감/와토/마감] 🏆상교 롤랜드🏆1세트 ::: 민교팀 vs 상호팀 :💥팀 확정💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/685867",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/685867/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -1146,18 +1158,6 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "684063",
-          "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ LG(+0.5) vs [H] KT :: 6/3 :: 17시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/684063",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/684063/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
@@ -1185,7 +1185,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1548580/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 57분 남음"
+          "statusText": "15시간 47분 남음"
         },
         {
           "board": "monstarz",
