@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-06T09:10:27.069Z",
+  "checkedAt": "2026-06-06T09:20:28.047Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,24 +8,24 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "685734",
-          "title": "[🟢진행중/와토/9시간 남음] ⚾ MLB ⚾ 샌프란시스코(+1.5) vs [H] 시카고컵스 :: 6/7 :: 3시 20분",
+          "title": "[🟢진행중/와토/8시간 남음] ⚾ MLB ⚾ 샌프란시스코(+1.5) vs [H] 시카고컵스 :: 6/7 :: 3시 20분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685734",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685734/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 9분 남음"
+          "statusText": "8시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "685732",
-          "title": "[🟢진행중/와토/9시간 남음] ⚾ MLB ⚾ 신시내티 vs [H] 세인트루이스 :: 6/7 :: 3시 15분",
+          "title": "[🟢진행중/와토/8시간 남음] ⚾ MLB ⚾ 신시내티 vs [H] 세인트루이스 :: 6/7 :: 3시 15분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685732",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685732/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 4분 남음"
+          "statusText": "8시간 54분 남음"
         },
         {
           "board": "mitto",
@@ -1173,7 +1173,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1548580/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "17시간 47분 남음"
+          "statusText": "17시간 37분 남음"
         },
         {
           "board": "monstarz",
@@ -2195,6 +2195,18 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
+          "id": "1669493",
+          "title": "🔥 씨나인 엑셀 계급전 공주 맞추기:: 20시 마감 🔥",
+          "articleUrl": "https://ygosu.com/board/soop/1669493",
+          "watoUrl": "https://ygosu.com/board/soop/1669493/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "1시간 36분 남음"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
           "id": "1667813",
           "title": "💎 씨나인 학생회장 당선자 맞추기 💎 (2)",
           "articleUrl": "https://ygosu.com/board/soop/1667813",
@@ -3211,18 +3223,6 @@
           "title": "[와토/종료] 👿세트카 02:40 [1set 18.5 언옵]😈1.73미만 적특🔥유럽",
           "articleUrl": "https://ygosu.com/board/soop/1629486",
           "watoUrl": "https://ygosu.com/board/soop/1629486/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1629221",
-          "title": "[와토/종료] 🎯🎯수요일 철구 방송 시청자 언/옵 12999🎯🎯",
-          "articleUrl": "https://ygosu.com/board/soop/1629221",
-          "watoUrl": "https://ygosu.com/board/soop/1629221/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
