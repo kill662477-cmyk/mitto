@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-06T16:10:32.505Z",
+  "checkedAt": "2026-06-06T16:18:15.446Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/686016/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 59분 남음"
+          "statusText": "9시간 51분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/686013/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 59분 남음"
+          "statusText": "9시간 51분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/686010/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 24분 남음"
+          "statusText": "7시간 16분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/686008/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 24분 남음"
+          "statusText": "7시간 16분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/686006/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 59분 남음"
+          "statusText": "3시간 51분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/686004/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 59분 남음"
+          "statusText": "3시간 51분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/686002/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 54분 남음"
+          "statusText": "3시간 46분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685999/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 56분 남음"
+          "statusText": "2시간 48분 남음"
         },
         {
           "board": "mitto",
@@ -169,7 +169,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685873/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 48분 남음"
+          "statusText": "15시간 40분 남음"
         },
         {
           "board": "mitto",
@@ -181,7 +181,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685872/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 48분 남음"
+          "statusText": "15시간 40분 남음"
         },
         {
           "board": "mitto",
@@ -193,7 +193,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685871/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 48분 남음"
+          "statusText": "15시간 40분 남음"
         },
         {
           "board": "mitto",
@@ -205,19 +205,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685734/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 8분 남음"
+          "statusText": "2시간 49초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "685732",
-          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 신시내티 vs [H] 세인트루이스 :: 6/7 :: 3시 15분",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 신시내티 vs [H] 세인트루이스 :: 6/7 :: 3시 15분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685732",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685732/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 3분 남음"
+          "statusText": "1시간 55분 남음"
         }
       ],
       "closed": [],
@@ -1082,13 +1082,37 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
+          "id": "1552033",
+          "title": "[와토/진행] 🎮 쌍너스 치리 조이 8강 승부예측 🎮 6/7 7시",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1552033",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1552033/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1552022",
+          "title": "[와토/진행] 🍊 쌍너스 먼진 땅콩 8강 승부예측🍊 6/7 5시",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1552022",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1552022/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
           "id": "1548580",
           "title": "[또또/와토/10시간 남음] 지옥의 합숙 방송시간 100시간",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1548580",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1548580/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 47분 남음"
+          "statusText": "10시간 39분 남음"
         },
         {
           "board": "monstarz",
@@ -2062,30 +2086,6 @@
           "title": "[와토/종료] ⚔스대게컵 결승전 3경기⚔ 털애기 vs 티어니",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1463806",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1463806/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1463797",
-          "title": "[와토/종료] ⚔스대게컵 결승전 2경기⚔ 털애기 vs 티어니",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1463797",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1463797/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1463783",
-          "title": "[와토/종료] ⚔스대게컵 결승전 1경기⚔ 털애기 vs 티어니",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1463783",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1463783/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
