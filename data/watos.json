@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-06T09:40:26.412Z",
+  "checkedAt": "2026-06-06T09:50:27.815Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685734/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 39분 남음"
+          "statusText": "8시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685732/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 34분 남음"
+          "statusText": "8시간 24분 남음"
         },
         {
           "board": "mitto",
@@ -47,18 +47,6 @@
           "title": "[🟢진행중/와토/진행] 🏆MSI 선발전🏆4세트 ::: DK (-7.5) vs 브리온 💥킬핸디확인💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685163",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685163/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "685162",
-          "title": "[🟢진행중/와토/진행] 🏆MSI 선발전🏆3세트 ::: DK (-7.5) vs 브리온 💥킬핸디확인💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/685162",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/685162/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -109,6 +97,18 @@
           "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 키움(-0.5) vs [H] 두산 :: 6/6 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685526",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685526/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "685162",
+          "title": "[🟢진행중/와토/진행] 🏆MSI 선발전🏆3세트 ::: DK (-7.5) vs 브리온 💥킬핸디확인💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/685162",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/685162/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -1167,13 +1167,25 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
+          "id": "1549854",
+          "title": "[와토/진행] 🎮캄몬 미니대전 🎮승패 와토",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1549854",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1549854/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
           "id": "1548580",
           "title": "[또또/와토/17시간 남음] 지옥의 합숙 방송시간 100시간",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1548580",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1548580/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "17시간 17분 남음"
+          "statusText": "17시간 7분 남음"
         },
         {
           "board": "monstarz",
@@ -2162,18 +2174,6 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1463420",
-          "title": "[와토/종료] 🎮 캄몬스타즈 VS MB대 🎮 7경기 진땅콩 vs 권아온 폴리포이드",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1463420",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1463420/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
@@ -2189,7 +2189,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1669493/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 16분 남음"
+          "statusText": "1시간 6분 남음"
         },
         {
           "board": "soop",
