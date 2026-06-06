@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-06T10:25:27.612Z",
+  "checkedAt": "2026-06-06T10:30:34.605Z",
   "boards": {
     "mitto": {
       "live": [
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685873/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 34분 남음"
+          "statusText": "21시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685872/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 34분 남음"
+          "statusText": "21시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685871/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 34분 남음"
+          "statusText": "21시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685734/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 54분 남음"
+          "statusText": "7시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685732/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 49분 남음"
+          "statusText": "7시간 44분 남음"
         },
         {
           "board": "mitto",
@@ -1185,7 +1185,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1548580/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 32분 남음"
+          "statusText": "16시간 27분 남음"
         },
         {
           "board": "monstarz",
@@ -2179,18 +2179,6 @@
     },
     "soop": {
       "live": [
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1669493",
-          "title": "🔥 씨나인 엑셀 계급전 공주 맞추기:: 20시 마감 🔥 (2)",
-          "articleUrl": "https://ygosu.com/board/soop/1669493",
-          "watoUrl": "https://ygosu.com/board/soop/1669493/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "31분 17초 남음"
-        },
         {
           "board": "soop",
           "boardName": "숲게",
@@ -3211,6 +3199,18 @@
           "title": "[와토/종료] 👿세트카 02:40 [1set 18.5 언옵]😈1.73미만 적특🔥유럽",
           "articleUrl": "https://ygosu.com/board/soop/1629486",
           "watoUrl": "https://ygosu.com/board/soop/1629486/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1629221",
+          "title": "[와토/종료] 🎯🎯수요일 철구 방송 시청자 언/옵 12999🎯🎯",
+          "articleUrl": "https://ygosu.com/board/soop/1629221",
+          "watoUrl": "https://ygosu.com/board/soop/1629221/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
