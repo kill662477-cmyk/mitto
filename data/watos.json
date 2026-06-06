@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-06T08:00:34.930Z",
+  "checkedAt": "2026-06-06T08:13:44.529Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685734/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 19분 남음"
+          "statusText": "10시간 6분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685732/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 14분 남음"
+          "statusText": "10시간 1분 남음"
         },
         {
           "board": "mitto",
@@ -74,18 +74,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "685160",
-          "title": "[🟢진행중/와토/진행] 🏆MSI 선발전🏆1세트 ::: DK (-7.5) vs 브리온 💥킬핸디확인💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/685160",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/685160/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
         }
       ],
       "closed": [
@@ -94,7 +82,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "685529",
-          "title": "[🟢진행중/와토/마감] ⚾ KBO ⚾ 한화(-1.5) vs [H] 롯데 :: 6/6 :: 17시",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 한화(-1.5) vs [H] 롯데 :: 6/6 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685529",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685529/?s_wato=Y",
           "tab": "closed",
@@ -106,7 +94,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "685528",
-          "title": "[🟢진행중/와토/마감] ⚾ KBO ⚾ LG(-1.5) vs [H] NC :: 6/6 :: 17시",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ LG(-1.5) vs [H] NC :: 6/6 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685528",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685528/?s_wato=Y",
           "tab": "closed",
@@ -118,7 +106,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "685527",
-          "title": "[🟢진행중/와토/마감] ⚾ KBO ⚾ 삼성(+0.5) vs [H] KIA :: 6/6 :: 17시",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 삼성(+0.5) vs [H] KIA :: 6/6 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685527",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685527/?s_wato=Y",
           "tab": "closed",
@@ -130,7 +118,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "685526",
-          "title": "[🟢진행중/와토/마감] ⚾ KBO ⚾ 키움(-0.5) vs [H] 두산 :: 6/6 :: 17시",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 키움(-0.5) vs [H] 두산 :: 6/6 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685526",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685526/?s_wato=Y",
           "tab": "closed",
@@ -153,8 +141,20 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
+          "id": "685160",
+          "title": "[🟡마감/와토/마감] 🏆MSI 선발전🏆1세트 ::: DK (-7.5) vs 브리온 💥킬핸디확인💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/685160",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/685160/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
           "id": "685159",
-          "title": "[🟢진행중/와토/마감] 🏆MSI선발전🏆최종 승/패: DK (-2.5) vs 브리온 :토: 17시 BO5",
+          "title": "[🟡마감/와토/마감] 🏆MSI선발전🏆최종 승/패: DK (-2.5) vs 브리온 :토: 17시 BO5",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685159",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685159/?s_wato=Y",
           "tab": "closed",
@@ -166,7 +166,7 @@
           "boardName": "미또게",
           "category": "etc",
           "id": "685158",
-          "title": "[🟢진행중/와토/마감] 🏆MSI선발전🏆최종 승/패: DK(-1.5) vs 브리온 :토: 17시 BO5 (B)",
+          "title": "[🟡마감/와토/마감] 🏆MSI선발전🏆최종 승/패: DK(-1.5) vs 브리온 :토: 17시 BO5 (B)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685158",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685158/?s_wato=Y",
           "tab": "closed",
@@ -178,7 +178,7 @@
           "boardName": "미또게",
           "category": "etc",
           "id": "685157",
-          "title": "[🟢진행중/와토/마감] 🏆MSI선발전🏆최종 승/패: DK(-1.5) vs 브리온 :토: 17시 BO5 (A)",
+          "title": "[🟡마감/와토/마감] 🏆MSI선발전🏆최종 승/패: DK(-1.5) vs 브리온 :토: 17시 BO5 (A)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685157",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685157/?s_wato=Y",
           "tab": "closed",
@@ -1173,7 +1173,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1548580/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18시간 57분 남음"
+          "statusText": "18시간 44분 남음"
         },
         {
           "board": "monstarz",
@@ -2201,19 +2201,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1666438/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "55분 55초 남음"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1662084",
-          "title": "🔥🔥 씨나인 엑셀 계급전 700만 언/오버🔥🔥 (3)",
-          "articleUrl": "https://ygosu.com/board/soop/1662084",
-          "watoUrl": "https://ygosu.com/board/soop/1662084/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
+          "statusText": "43분 3초 남음"
         },
         {
           "board": "soop",
@@ -2237,6 +2225,18 @@
           "title": "💎 씨나인 엑셀 계급전 시청자수 6000명 언/옵 💎 (2)",
           "articleUrl": "https://ygosu.com/board/soop/1662102",
           "watoUrl": "https://ygosu.com/board/soop/1662102/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1662084",
+          "title": "🔥🔥 씨나인 엑셀 계급전 700만 언/오버🔥🔥 (3)",
+          "articleUrl": "https://ygosu.com/board/soop/1662084",
+          "watoUrl": "https://ygosu.com/board/soop/1662084/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
