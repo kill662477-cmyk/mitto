@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-06T09:20:28.047Z",
+  "checkedAt": "2026-06-06T09:30:30.665Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685734/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 59분 남음"
+          "statusText": "8시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/685732/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 54분 남음"
+          "statusText": "8시간 44분 남음"
         },
         {
           "board": "mitto",
@@ -1173,7 +1173,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1548580/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "17시간 37분 남음"
+          "statusText": "17시간 27분 남음"
         },
         {
           "board": "monstarz",
@@ -1197,18 +1197,6 @@
           "title": "🔔26.06.06 점중이 온다 vs 안온다 🔔 (2)",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1548606",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1548606/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1548572",
-          "title": "[와토/마감] 🥈토스반 + 주양,타밍 2번째 탈출자 맞추기🥈",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1548572",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1548572/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -2196,12 +2184,12 @@
           "boardName": "숲게",
           "category": null,
           "id": "1669493",
-          "title": "🔥 씨나인 엑셀 계급전 공주 맞추기:: 20시 마감 🔥",
+          "title": "🔥 씨나인 엑셀 계급전 공주 맞추기:: 20시 마감 🔥 (2)",
           "articleUrl": "https://ygosu.com/board/soop/1669493",
           "watoUrl": "https://ygosu.com/board/soop/1669493/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 36분 남음"
+          "statusText": "1시간 25분 남음"
         },
         {
           "board": "soop",
