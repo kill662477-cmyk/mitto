@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-07T10:10:29.659Z",
+  "checkedAt": "2026-06-07T10:20:29.517Z",
   "boards": {
     "mitto": {
       "live": [
@@ -2065,18 +2065,6 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1676983",
-          "title": "💎철기록 철구 vs 기뉴다💎 단판 라데온",
-          "articleUrl": "https://ygosu.com/board/soop/1676983",
-          "watoUrl": "https://ygosu.com/board/soop/1676983/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
           "id": "1635595",
           "title": "[와토/마감] ♿효짱 vs 지우리 퇴학고사 4경기♿",
           "articleUrl": "https://ygosu.com/board/soop/1635595",
@@ -2087,6 +2075,18 @@
         }
       ],
       "result": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1676983",
+          "title": "[와토/종료] 💎철기록 철구 vs 기뉴다💎 단판 라데온",
+          "articleUrl": "https://ygosu.com/board/soop/1676983",
+          "watoUrl": "https://ygosu.com/board/soop/1676983/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
