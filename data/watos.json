@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-07T23:20:25.794Z",
+  "checkedAt": "2026-06-07T23:30:33.648Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,27 +8,15 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "686645",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 샌프란시스코 vs [H]시카고컵스 :: 6/8 :: 09:30",
+          "title": "[🟢진행중/와토/59분 남음] ⚾ MLB ⚾ 샌프란시스코 vs [H]시카고컵스 :: 6/8 :: 09:30",
           "articleUrl": "https://ygosu.com/board/pan_ccy/686645",
           "watoUrl": "https://ygosu.com/board/pan_ccy/686645/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 9분 남음"
+          "statusText": "59분 9초 남음"
         }
       ],
       "closed": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "686644",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 뉴욕메츠 vs [H]샌디에이고 :: 6/8 :: 05:10",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/686644",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/686644/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -231,6 +219,18 @@
           "title": "[와토/종료] 🌠메프 1세트🌠 1경기: 일장 vs 기석",
           "articleUrl": "https://ygosu.com/board/pan_ccy/686649",
           "watoUrl": "https://ygosu.com/board/pan_ccy/686649/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "686644",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 뉴욕메츠 vs [H]샌디에이고 :: 6/8 :: 05:10",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/686644",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/686644/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
