@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-07T08:30:33.009Z",
+  "checkedAt": "2026-06-07T08:40:27.154Z",
   "boards": {
     "mitto": {
       "live": [
@@ -109,18 +109,6 @@
           "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 키움(+1.5) vs [H] 두산 :: 6/7 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/686296",
           "watoUrl": "https://ygosu.com/board/pan_ccy/686296/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "685953",
-          "title": "[🟡마감/와토/마감] 🏆MSI선발전🏆 KT vs DK 1세트 :::",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/685953",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/685953/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -255,6 +243,18 @@
           "title": "[🔴결과/와토/종료] 🏆롤CK또또🏆 김민교 vs 이상호 최종승리 ::: 3판2선",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685988",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685988/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "685953",
+          "title": "[🔴결과/와토/종료] 🏆MSI선발전🏆 KT vs DK 1세트 :::",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/685953",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/685953/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -1083,18 +1083,6 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1552022",
-          "title": "🍊 쌍너스 먼진 땅콩 8강 승부예측 🍊 6/7 5시",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1552022",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1552022/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
           "id": "1545475",
           "title": "[또또/와토/진행] 🎮미니대전 개인전🎮7세트",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1545475",
@@ -1105,6 +1093,18 @@
         }
       ],
       "closed": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1552022",
+          "title": "🍊 쌍너스 먼진 땅콩 8강 승부예측 🍊 6/7 5시",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1552022",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1552022/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
