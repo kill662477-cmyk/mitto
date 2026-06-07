@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-07T09:10:26.885Z",
+  "checkedAt": "2026-06-07T09:20:28.226Z",
   "boards": {
     "mitto": {
       "live": [
@@ -1083,18 +1083,6 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1554237",
-          "title": "[와토/진행] 🎯 먼진 vs 막현",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1554237",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1554237/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
           "id": "1545475",
           "title": "[또또/와토/진행] 🎮미니대전 개인전🎮7세트",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1545475",
@@ -1113,6 +1101,18 @@
           "title": "🍊 쌍너스 먼진 땅콩 8강 승부예측 🍊 6/7 5시",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1552022",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1552022/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1554237",
+          "title": "[와토/마감] 🎯 먼진 vs 막현",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1554237",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1554237/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -2106,18 +2106,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1676693",
-          "title": "[와토/진행] 💎철기록 철구 vs 기뉴다💎 5경기 폴리",
-          "articleUrl": "https://ygosu.com/board/soop/1676693",
-          "watoUrl": "https://ygosu.com/board/soop/1676693/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
         }
       ],
       "closed": [
@@ -2137,10 +2125,10 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1676691",
-          "title": "[와토/마감] 💎철기록 철구 vs 기뉴다💎 4경기 녹아",
-          "articleUrl": "https://ygosu.com/board/soop/1676691",
-          "watoUrl": "https://ygosu.com/board/soop/1676691/?s_wato=Y",
+          "id": "1676693",
+          "title": "[와토/마감] 💎철기록 철구 vs 기뉴다💎 5경기 폴리",
+          "articleUrl": "https://ygosu.com/board/soop/1676693",
+          "watoUrl": "https://ygosu.com/board/soop/1676693/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -2179,6 +2167,18 @@
           "title": "🎯🎯 금일 철구형 방송 시청자 언/옵 8999 🎯🎯 (1)",
           "articleUrl": "https://ygosu.com/board/soop/1675671",
           "watoUrl": "https://ygosu.com/board/soop/1675671/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1676691",
+          "title": "[와토/종료] 💎철기록 철구 vs 기뉴다💎 4경기 녹아",
+          "articleUrl": "https://ygosu.com/board/soop/1676691",
+          "watoUrl": "https://ygosu.com/board/soop/1676691/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
