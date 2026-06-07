@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-07T10:00:37.406Z",
+  "checkedAt": "2026-06-07T10:10:29.659Z",
   "boards": {
     "mitto": {
       "live": [
@@ -1078,18 +1078,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1545475",
-          "title": "[또또/와토/진행] 🎮미니대전 개인전🎮7세트",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1545475",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1545475/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
         }
       ],
       "closed": [
@@ -1113,18 +1101,6 @@
           "title": "[또또/와토/마감] 지옥의 합숙 방송시간 100시간",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1548580",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1548580/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1545472",
-          "title": "[또또/와토/마감] 🎮미니대전 개인전🎮6세트",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1545472",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1545472/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
