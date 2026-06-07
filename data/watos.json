@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-07T09:40:29.902Z",
+  "checkedAt": "2026-06-07T09:52:56.979Z",
   "boards": {
     "mitto": {
       "live": [
@@ -23,18 +23,6 @@
           "title": "[🟢진행중/와토/진행] 🏆MSI선발전🏆 KT vs DK 4세트 :::",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685956",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685956/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "685955",
-          "title": "[🟢진행중/와토/진행] 🏆MSI선발전🏆 KT vs DK 3세트 :::",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/685955",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/685955/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -97,6 +85,18 @@
           "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 키움(+1.5) vs [H] 두산 :: 6/7 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/686296",
           "watoUrl": "https://ygosu.com/board/pan_ccy/686296/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "685955",
+          "title": "[🟡마감/와토/마감] 🏆MSI선발전🏆 KT vs DK 3세트 :::",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/685955",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/685955/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -1109,18 +1109,6 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1554237",
-          "title": "[와토/마감] 🎯 먼진 vs 막현",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1554237",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1554237/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
           "id": "1548580",
           "title": "[또또/와토/마감] 지옥의 합숙 방송시간 100시간",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1548580",
@@ -1143,6 +1131,18 @@
         }
       ],
       "result": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1554237",
+          "title": "[와토/종료] 🎯 먼진 vs 막현",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1554237",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1554237/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -2075,18 +2075,6 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1676983",
-          "title": "💎철기록 철구 vs 기뉴다💎 단판",
-          "articleUrl": "https://ygosu.com/board/soop/1676983",
-          "watoUrl": "https://ygosu.com/board/soop/1676983/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
           "id": "1667813",
           "title": "💎 씨나인 학생회장 당선자 맞추기 💎 (3)",
           "articleUrl": "https://ygosu.com/board/soop/1667813",
@@ -2097,6 +2085,18 @@
         }
       ],
       "closed": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1676983",
+          "title": "💎철기록 철구 vs 기뉴다💎 단판 라데온",
+          "articleUrl": "https://ygosu.com/board/soop/1676983",
+          "watoUrl": "https://ygosu.com/board/soop/1676983/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
