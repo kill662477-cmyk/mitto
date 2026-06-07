@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-07T13:10:30.182Z",
+  "checkedAt": "2026-06-07T13:20:41.676Z",
   "boards": {
     "mitto": {
       "live": [
@@ -128,7 +128,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "686655",
-          "title": "[와토/진행] 🌠메프 1세트🌠 7경기: 재호팀 vs 현제팀",
+          "title": "[와토/진행] 🌠메프 1세트🌠 7경기: 재호 vs 성대",
           "articleUrl": "https://ygosu.com/board/pan_ccy/686655",
           "watoUrl": "https://ygosu.com/board/pan_ccy/686655/?s_wato=Y",
           "tab": "live",
@@ -145,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/686645/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 19분 남음"
+          "statusText": "11시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -157,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/686644/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 59분 남음"
+          "statusText": "6시간 48분 남음"
         },
         {
           "board": "mitto",
@@ -169,7 +169,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/686643/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 59분 남음"
+          "statusText": "6시간 48분 남음"
         },
         {
           "board": "mitto",
@@ -181,7 +181,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/686642/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 59분 남음"
+          "statusText": "5시간 48분 남음"
         },
         {
           "board": "mitto",
@@ -193,7 +193,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/686641/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 24분 남음"
+          "statusText": "5시간 13분 남음"
         },
         {
           "board": "mitto",
@@ -205,7 +205,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/686640/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 29분 남음"
+          "statusText": "4시간 18분 남음"
         },
         {
           "board": "mitto",
@@ -217,7 +217,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/686639/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 29분 남음"
+          "statusText": "4시간 18분 남음"
         },
         {
           "board": "mitto",
@@ -229,7 +229,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/686638/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 26분 남음"
+          "statusText": "4시간 15분 남음"
         },
         {
           "board": "mitto",
@@ -241,7 +241,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/686637/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 23분 남음"
+          "statusText": "4시간 13분 남음"
         },
         {
           "board": "mitto",
@@ -253,24 +253,23 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/686636/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 23분 남음"
+          "statusText": "4시간 13분 남음"
         }
       ],
-      "closed": [
+      "closed": [],
+      "result": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
           "id": "686654",
-          "title": "[와토/마감] 🌠메프 1세트🌠 6경기: 지성 vs 명운",
+          "title": "[와토/종료] 🌠메프 1세트🌠 6경기: 지성 vs 명운",
           "articleUrl": "https://ygosu.com/board/pan_ccy/686654",
           "watoUrl": "https://ygosu.com/board/pan_ccy/686654/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -1109,34 +1108,10 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1554813",
-          "title": "🎮캄몬 미니대전 🎮승패 와토 (3)",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1554813",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1554813/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
           "id": "1552033",
-          "title": "🎮 쌍너스 치리 조이 8강 승부예측 🎮 6/7 7시",
+          "title": "[와토/마감] 🎮 쌍너스 치리 조이 8강 승부예측 🎮 6/7 7시",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1552033",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1552033/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1554831",
-          "title": "[또또/와토/마감] 🎮캄몬 미니대전 🎮개인전4세트 비타밍vs연블비",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1554831",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1554831/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -1147,10 +1122,10 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1552022",
-          "title": "🍊 쌍너스 먼진 땅콩 8강 승부예측 🍊 6/7 5시",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1552022",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1552022/?s_wato=Y",
+          "id": "1554831",
+          "title": "[또또/와토/종료] 🎮캄몬 미니대전 🎮개인전4세트 비타밍vs연블비",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1554831",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1554831/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -1195,6 +1170,18 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
+          "id": "1554813",
+          "title": "[또또/와토/종료] 🎮캄몬 미니대전 🎮승패 와토",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1554813",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1554813/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
           "id": "1554237",
           "title": "[와토/종료] 🎯 먼진 vs 막현",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1554237",
@@ -1223,6 +1210,18 @@
           "title": "[또또/와토/종료] 스대게 밀리 1억랄빵))))) 지두검 vs 랑애",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1553533",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1553533/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1552022",
+          "title": "[와토/종료] 🍊 쌍너스 먼진 땅콩 8강 승부예측 🍊 6/7 5시",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1552022",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1552022/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
