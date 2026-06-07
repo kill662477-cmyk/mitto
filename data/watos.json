@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-07T10:20:29.517Z",
+  "checkedAt": "2026-06-07T10:30:34.197Z",
   "boards": {
     "mitto": {
       "live": [
@@ -1092,18 +1092,6 @@
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1548580",
-          "title": "[또또/와토/마감] 지옥의 합숙 방송시간 100시간",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1548580",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1548580/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
         }
       ],
       "result": [
@@ -1259,6 +1247,18 @@
           "title": "[와토/종료] 🔔26.06.06 점중이 온다 vs 안온다 🔔",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1548606",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1548606/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1548580",
+          "title": "[또또/와토/종료중] 지옥의 합숙 방송시간 100시간",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1548580",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1548580/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
