@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-07T08:20:29.214Z",
+  "checkedAt": "2026-06-07T08:30:33.009Z",
   "boards": {
     "mitto": {
       "live": [
@@ -2087,22 +2087,10 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1676708",
-          "title": "💎철기록 철구(+1.5) vs 기뉴다 최종승리💎핸디 (2)",
-          "articleUrl": "https://ygosu.com/board/soop/1676708",
-          "watoUrl": "https://ygosu.com/board/soop/1676708/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1676687",
-          "title": "💎철기록 철구 vs 기뉴다💎 1경기",
-          "articleUrl": "https://ygosu.com/board/soop/1676687",
-          "watoUrl": "https://ygosu.com/board/soop/1676687/?s_wato=Y",
+          "id": "1676689",
+          "title": "💎철기록 철구 vs 기뉴다💎 2경기 폴리",
+          "articleUrl": "https://ygosu.com/board/soop/1676689",
+          "watoUrl": "https://ygosu.com/board/soop/1676689/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -2124,7 +2112,7 @@
           "boardName": "숲게",
           "category": null,
           "id": "1676696",
-          "title": "[와토/진행] 💎철기록 철구 vs 기뉴다💎 7경기",
+          "title": "[와토/진행] 💎철기록 철구 vs 기뉴다💎 7경기 라데",
           "articleUrl": "https://ygosu.com/board/soop/1676696",
           "watoUrl": "https://ygosu.com/board/soop/1676696/?s_wato=Y",
           "tab": "live",
@@ -2136,7 +2124,7 @@
           "boardName": "숲게",
           "category": null,
           "id": "1676695",
-          "title": "[와토/진행] 💎철기록 철구 vs 기뉴다💎 6경기",
+          "title": "[와토/진행] 💎철기록 철구 vs 기뉴다💎 6경기 실피",
           "articleUrl": "https://ygosu.com/board/soop/1676695",
           "watoUrl": "https://ygosu.com/board/soop/1676695/?s_wato=Y",
           "tab": "live",
@@ -2148,7 +2136,7 @@
           "boardName": "숲게",
           "category": null,
           "id": "1676693",
-          "title": "[와토/진행] 💎철기록 철구 vs 기뉴다💎 5경기",
+          "title": "[와토/진행] 💎철기록 철구 vs 기뉴다💎 5경기 폴리",
           "articleUrl": "https://ygosu.com/board/soop/1676693",
           "watoUrl": "https://ygosu.com/board/soop/1676693/?s_wato=Y",
           "tab": "live",
@@ -2160,7 +2148,7 @@
           "boardName": "숲게",
           "category": null,
           "id": "1676691",
-          "title": "[와토/진행] 💎철기록 철구 vs 기뉴다💎 4경기",
+          "title": "[와토/진행] 💎철기록 철구 vs 기뉴다💎 4경기 녹아",
           "articleUrl": "https://ygosu.com/board/soop/1676691",
           "watoUrl": "https://ygosu.com/board/soop/1676691/?s_wato=Y",
           "tab": "live",
@@ -2172,21 +2160,9 @@
           "boardName": "숲게",
           "category": null,
           "id": "1676690",
-          "title": "[와토/진행] 💎철기록 철구 vs 기뉴다💎 3경기",
+          "title": "[와토/진행] 💎철기록 철구 vs 기뉴다💎 3경기 라데온",
           "articleUrl": "https://ygosu.com/board/soop/1676690",
           "watoUrl": "https://ygosu.com/board/soop/1676690/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1676689",
-          "title": "[와토/진행] 💎철기록 철구 vs 기뉴다💎 2경기",
-          "articleUrl": "https://ygosu.com/board/soop/1676689",
-          "watoUrl": "https://ygosu.com/board/soop/1676689/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -2197,10 +2173,22 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1675671",
-          "title": "🎯🎯 금일 철구형 방송 시청자 언/옵 8999 🎯🎯 (1)",
-          "articleUrl": "https://ygosu.com/board/soop/1675671",
-          "watoUrl": "https://ygosu.com/board/soop/1675671/?s_wato=Y",
+          "id": "1676708",
+          "title": "[와토/마감] 💎철기록 철구(+1.5) vs 기뉴다 최종승리💎핸디",
+          "articleUrl": "https://ygosu.com/board/soop/1676708",
+          "watoUrl": "https://ygosu.com/board/soop/1676708/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1676687",
+          "title": "[와토/마감] 💎철기록 철구 vs 기뉴다💎 1경기 녹아웃",
+          "articleUrl": "https://ygosu.com/board/soop/1676687",
+          "watoUrl": "https://ygosu.com/board/soop/1676687/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -2219,6 +2207,18 @@
         }
       ],
       "result": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1675671",
+          "title": "🎯🎯 금일 철구형 방송 시청자 언/옵 8999 🎯🎯 (1)",
+          "articleUrl": "https://ygosu.com/board/soop/1675671",
+          "watoUrl": "https://ygosu.com/board/soop/1675671/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
