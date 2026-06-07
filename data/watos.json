@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-07T10:30:34.197Z",
+  "checkedAt": "2026-06-07T10:40:32.461Z",
   "boards": {
     "mitto": {
       "live": [
@@ -69,34 +69,10 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
-          "id": "686297",
-          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ KT(-0.5) vs [H] SSG :: 6/7 :: 17시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/686297",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/686297/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
           "id": "686296",
           "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 키움(+1.5) vs [H] 두산 :: 6/7 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/686296",
           "watoUrl": "https://ygosu.com/board/pan_ccy/686296/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "685955",
-          "title": "[🟡마감/와토/마감] 🏆MSI선발전🏆 KT vs DK 3세트 :::",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/685955",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/685955/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -127,6 +103,18 @@
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "686297",
+          "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ KT(-0.5) vs [H] SSG :: 6/7 :: 17시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/686297",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/686297/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -219,6 +207,18 @@
           "title": "[🔴결과/와토/종료] 🏆롤CK또또🏆 김민교 vs 이상호 최종승리 ::: 3판2선",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685988",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685988/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "685955",
+          "title": "[🔴결과/와토/종료] 🏆MSI선발전🏆 KT vs DK 3세트 :::",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/685955",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/685955/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -1256,7 +1256,7 @@
           "boardName": "스대게",
           "category": null,
           "id": "1548580",
-          "title": "[또또/와토/종료중] 지옥의 합숙 방송시간 100시간",
+          "title": "[또또/와토/종료] 지옥의 합숙 방송시간 100시간",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1548580",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1548580/?s_wato=Y",
           "tab": "result",
