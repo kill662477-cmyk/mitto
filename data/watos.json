@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-07T08:50:29.866Z",
+  "checkedAt": "2026-06-07T09:00:37.346Z",
   "boards": {
     "mitto": {
       "live": [
@@ -35,18 +35,6 @@
           "title": "[🟢진행중/와토/진행] 🏆MSI선발전🏆 KT vs DK 3세트 :::",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685955",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685955/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "685954",
-          "title": "[🟢진행중/와토/진행] 🏆MSI선발전🏆 KT vs DK 2세트 :::",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/685954",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/685954/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -109,6 +97,18 @@
           "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 키움(+1.5) vs [H] 두산 :: 6/7 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/686296",
           "watoUrl": "https://ygosu.com/board/pan_ccy/686296/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "685954",
+          "title": "[🟡마감/와토/마감] 🏆MSI선발전🏆 KT vs DK 2세트 :::",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/685954",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/685954/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -2063,18 +2063,6 @@
           "title": "[와토/종료] 🎯 랜피엘 승자팀 예측 와토 🎯",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1482790",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1482790/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1480712",
-          "title": "[와토/종료] 🎯 금일 이스코어 대회 김윤환 성적🎯",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1480712",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1480712/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
