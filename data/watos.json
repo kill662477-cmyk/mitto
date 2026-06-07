@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-07T09:30:32.436Z",
+  "checkedAt": "2026-06-07T09:40:29.902Z",
   "boards": {
     "mitto": {
       "live": [
@@ -97,30 +97,6 @@
           "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 키움(+1.5) vs [H] 두산 :: 6/7 :: 17시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/686296",
           "watoUrl": "https://ygosu.com/board/pan_ccy/686296/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "685954",
-          "title": "[🟡마감/와토/마감] 🏆MSI선발전🏆 KT vs DK 2세트 :::",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/685954",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/685954/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "685873",
-          "title": "[🟡마감/와토/마감] 🏆MSI선발전🏆 KT(-1.5) vs DK 풀세트 ::: 6/7 17시 BO5",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/685873",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/685873/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -243,6 +219,18 @@
           "title": "[🔴결과/와토/종료] 🏆롤CK또또🏆 김민교 vs 이상호 최종승리 ::: 3판2선",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685988",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685988/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "685954",
+          "title": "[🔴결과/와토/종료] 🏆MSI선발전🏆 KT vs DK 2세트 :::",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/685954",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/685954/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -387,6 +375,18 @@
           "title": "[와토/종료] 🌠메프 1세트🌠 2경기: 정우 vs 현제",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685935",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685935/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "685873",
+          "title": "[🔴결과/와토/종료] 🏆MSI선발전🏆 KT(-1.5) vs DK 풀세트 ::: 6/7 17시 BO5",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/685873",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/685873/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -2075,6 +2075,18 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
+          "id": "1676983",
+          "title": "💎철기록 철구 vs 기뉴다💎 단판",
+          "articleUrl": "https://ygosu.com/board/soop/1676983",
+          "watoUrl": "https://ygosu.com/board/soop/1676983/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
           "id": "1667813",
           "title": "💎 씨나인 학생회장 당선자 맞추기 💎 (3)",
           "articleUrl": "https://ygosu.com/board/soop/1667813",
@@ -2082,57 +2094,9 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1676696",
-          "title": "[와토/진행] 💎철기록 철구 vs 기뉴다💎 7경기 라데",
-          "articleUrl": "https://ygosu.com/board/soop/1676696",
-          "watoUrl": "https://ygosu.com/board/soop/1676696/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1676695",
-          "title": "[와토/진행] 💎철기록 철구 vs 기뉴다💎 6경기 실피",
-          "articleUrl": "https://ygosu.com/board/soop/1676695",
-          "watoUrl": "https://ygosu.com/board/soop/1676695/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
         }
       ],
       "closed": [
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1676693",
-          "title": "💎철기록 철구 vs 기뉴다💎 5경기 폴리",
-          "articleUrl": "https://ygosu.com/board/soop/1676693",
-          "watoUrl": "https://ygosu.com/board/soop/1676693/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1676708",
-          "title": "[와토/마감] 💎철기록 철구(+1.5) vs 기뉴다 최종승리💎핸디",
-          "articleUrl": "https://ygosu.com/board/soop/1676708",
-          "watoUrl": "https://ygosu.com/board/soop/1676708/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
         {
           "board": "soop",
           "boardName": "숲게",
@@ -2147,6 +2111,30 @@
         }
       ],
       "result": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1676708",
+          "title": "[와토/종료] 💎철기록 철구(+1.5) vs 기뉴다 최종승리💎핸디",
+          "articleUrl": "https://ygosu.com/board/soop/1676708",
+          "watoUrl": "https://ygosu.com/board/soop/1676708/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1676693",
+          "title": "[와토/종료] 💎철기록 철구 vs 기뉴다💎 5경기 폴리",
+          "articleUrl": "https://ygosu.com/board/soop/1676693",
+          "watoUrl": "https://ygosu.com/board/soop/1676693/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
@@ -3055,18 +3043,6 @@
           "title": "[와토/종료] 💎스타 대학대전 효짱P vs 려원T💎 4경기 폴리",
           "articleUrl": "https://ygosu.com/board/soop/1632567",
           "watoUrl": "https://ygosu.com/board/soop/1632567/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1632560",
-          "title": "[와토/종료] 💎스타 대학대전 모리T vs 엄보리P💎 3경기 녹아",
-          "articleUrl": "https://ygosu.com/board/soop/1632560",
-          "watoUrl": "https://ygosu.com/board/soop/1632560/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
