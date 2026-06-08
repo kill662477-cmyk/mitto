@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-08T00:00:38.236Z",
+  "checkedAt": "2026-06-08T00:10:28.169Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,28 +8,15 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "686645",
-          "title": "[🟢진행중/와토/29분 남음] ⚾ MLB ⚾ 샌프란시스코 vs [H]시카고컵스 :: 6/8 :: 09:30",
+          "title": "[🟢진행중/와토/19분 남음] ⚾ MLB ⚾ 샌프란시스코 vs [H]시카고컵스 :: 6/8 :: 09:30",
           "articleUrl": "https://ygosu.com/board/pan_ccy/686645",
           "watoUrl": "https://ygosu.com/board/pan_ccy/686645/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "29분 4초 남음"
+          "statusText": "19분 14초 남음"
         }
       ],
-      "closed": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "686643",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ LA에인절스(+1.5) vs [H]LA다저스 :: 6/8 :: 05:10",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/686643",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/686643/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
+      "closed": [],
       "result": [
         {
           "board": "mitto",
@@ -231,6 +218,18 @@
           "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 뉴욕메츠 vs [H]샌디에이고 :: 6/8 :: 05:10",
           "articleUrl": "https://ygosu.com/board/pan_ccy/686644",
           "watoUrl": "https://ygosu.com/board/pan_ccy/686644/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "686643",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ LA에인절스(+1.5) vs [H]LA다저스 :: 6/8 :: 05:10",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/686643",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/686643/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
