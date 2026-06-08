@@ -1,22 +1,22 @@
 {
-  "checkedAt": "2026-06-08T03:30:30.979Z",
+  "checkedAt": "2026-06-08T03:40:28.268Z",
   "boards": {
     "mitto": {
-      "live": [],
-      "closed": [
+      "live": [
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "baseball",
-          "id": "686645",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 샌프란시스코 vs [H]시카고컵스 :: 6/8 :: 09:30",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/686645",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/686645/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
+          "category": "etc",
+          "id": "687183",
+          "title": "[🟢진행중/와토/5시간 남음] 🏆MSI선발전🏆 BLG(-1.5) vs AL 풀세트 ::: 6/8 18시 BO5",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/687183",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/687183/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "5시간 19분 남음"
         }
       ],
+      "closed": [],
       "result": [
         {
           "board": "mitto",
@@ -206,6 +206,18 @@
           "title": "[와토/종료] 🌠메프 1세트🌠 1경기: 일장 vs 기석",
           "articleUrl": "https://ygosu.com/board/pan_ccy/686649",
           "watoUrl": "https://ygosu.com/board/pan_ccy/686649/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "686645",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 샌프란시스코 vs [H]시카고컵스 :: 6/8 :: 09:30",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/686645",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/686645/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -1070,18 +1082,6 @@
           "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ 키움(+0.5) vs [H] 두산 :: 6/5 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/685062",
           "watoUrl": "https://ygosu.com/board/pan_ccy/685062/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "684780",
-          "title": "[와토/종료] 🌠에이스 결정전🌠 지성 vs 태수 (제인도)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/684780",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/684780/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
