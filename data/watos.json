@@ -1,8 +1,21 @@
 {
-  "checkedAt": "2026-06-08T09:40:31.723Z",
+  "checkedAt": "2026-06-08T09:50:50.216Z",
   "boards": {
     "mitto": {
-      "live": [],
+      "live": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "687290",
+          "title": "🌠스타 끝장전🌠 장윤철 vs 이재호 :: 화요일 :: 21시 :: BO.9",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/687290",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/687290/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "1일 2시간 남음"
+        }
+      ],
       "closed": [
         {
           "board": "mitto",
@@ -1073,36 +1086,12 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "685062",
-          "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ 키움(+0.5) vs [H] 두산 :: 6/5 :: 18시 30분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/685062",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/685062/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
     "monstarz": {
       "live": [],
       "closed": [
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1555766",
-          "title": "🎮쌍너스 4강 치조팀 승부예측 🎮 6/8 5시 (1)",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1555766",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1555766/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -1117,6 +1106,18 @@
         }
       ],
       "result": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1555766",
+          "title": "🎮쌍너스 4강 치조팀 승부예측 🎮 6/8 5시 (1)",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1555766",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1555766/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -2067,7 +2068,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1679091/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18시간 16분 남음"
+          "statusText": "18시간 5분 남음"
         },
         {
           "board": "soop",
