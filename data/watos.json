@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-09T23:40:29.037Z",
+  "checkedAt": "2026-06-09T23:50:28.122Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,12 +8,12 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "687979",
-          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 워싱턴 vs [H]샌프란시스코 :: 6/10 :: 10:45",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 워싱턴 vs [H]샌프란시스코 :: 6/10 :: 10:45",
           "articleUrl": "https://ygosu.com/board/pan_ccy/687979",
           "watoUrl": "https://ygosu.com/board/pan_ccy/687979/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 4분 남음"
+          "statusText": "1시간 54분 남음"
         },
         {
           "board": "mitto",
@@ -25,19 +25,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/687978/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 59분 남음"
+          "statusText": "1시간 49분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "687977",
-          "title": "[🟢진행중/와토/59분 남음] ⚾ MLB ⚾ 시카고컵스(-1.5) vs [H]콜로라도 :: 6/10 :: 09:40",
+          "title": "[🟢진행중/와토/49분 남음] ⚾ MLB ⚾ 시카고컵스(-1.5) vs [H]콜로라도 :: 6/10 :: 09:40",
           "articleUrl": "https://ygosu.com/board/pan_ccy/687977",
           "watoUrl": "https://ygosu.com/board/pan_ccy/687977/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "59분 11초 남음"
+          "statusText": "49분 11초 남음"
         }
       ],
       "closed": [
