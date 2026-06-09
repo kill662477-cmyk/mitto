@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-09T11:00:45.013Z",
+  "checkedAt": "2026-06-09T11:10:31.614Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/687290/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "59분 11초 남음"
+          "statusText": "49분 24초 남음"
         },
         {
           "board": "mitto",
@@ -1162,18 +1162,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1561892",
-          "title": "[와토/진행] 🎯캄몬vsDM 미니대전 1세트 먼진vs은서 🎯",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1561892",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1561892/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
         }
       ],
       "closed": [
@@ -1185,6 +1173,18 @@
           "title": "⚡6월 9일 20시 미니대전 vs DM 승부예측⚡ (3)",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1560399",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1560399/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1561892",
+          "title": "[와토/마감] 🎯캄몬vsDM 미니대전 1세트 먼진vs은서 🎯",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1561892",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1561892/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
