@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-10T00:40:30.086Z",
+  "checkedAt": "2026-06-10T00:50:28.735Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,24 +8,24 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "687979",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 워싱턴 vs [H]샌프란시스코 :: 6/10 :: 10:45",
+          "title": "[🟢진행중/와토/54분 남음] ⚾ MLB ⚾ 워싱턴 vs [H]샌프란시스코 :: 6/10 :: 10:45",
           "articleUrl": "https://ygosu.com/board/pan_ccy/687979",
           "watoUrl": "https://ygosu.com/board/pan_ccy/687979/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 4분 남음"
+          "statusText": "54분 12초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "687978",
-          "title": "[🟢진행중/와토/59분 남음] ⚾ MLB ⚾ 신시내티 vs [H]샌디에이고 :: 6/10 :: 10:40",
+          "title": "[🟢진행중/와토/49분 남음] ⚾ MLB ⚾ 신시내티 vs [H]샌디에이고 :: 6/10 :: 10:40",
           "articleUrl": "https://ygosu.com/board/pan_ccy/687978",
           "watoUrl": "https://ygosu.com/board/pan_ccy/687978/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "59분 12초 남음"
+          "statusText": "49분 11초 남음"
         }
       ],
       "closed": [
