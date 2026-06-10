@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-10T00:10:30.447Z",
+  "checkedAt": "2026-06-10T00:20:27.508Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/687979/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 34분 남음"
+          "statusText": "1시간 24분 남음"
         },
         {
           "board": "mitto",
@@ -25,19 +25,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/687978/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 29분 남음"
+          "statusText": "1시간 19분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "687977",
-          "title": "[🟢진행중/와토/29분 남음] ⚾ MLB ⚾ 시카고컵스(-1.5) vs [H]콜로라도 :: 6/10 :: 09:40",
+          "title": "[🟢진행중/와토/19분 남음] ⚾ MLB ⚾ 시카고컵스(-1.5) vs [H]콜로라도 :: 6/10 :: 09:40",
           "articleUrl": "https://ygosu.com/board/pan_ccy/687977",
           "watoUrl": "https://ygosu.com/board/pan_ccy/687977/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "29분 11초 남음"
+          "statusText": "19분 12초 남음"
         }
       ],
       "closed": [
