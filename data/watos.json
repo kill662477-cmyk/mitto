@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-10T08:30:37.990Z",
+  "checkedAt": "2026-06-10T08:40:30.816Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,60 +8,60 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "688382",
-          "title": "[🟢진행중/와토/59분 남음] ⚾ KBO ⚾ 두산(-1.5) vs [H] 롯데 :: 6/10 :: 18시 30분",
+          "title": "[🟢진행중/와토/49분 남음] ⚾ KBO ⚾ 두산(-1.5) vs [H] 롯데 :: 6/10 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/688382",
           "watoUrl": "https://ygosu.com/board/pan_ccy/688382/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "59분 17초 남음"
+          "statusText": "49분 24초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "688381",
-          "title": "[🟢진행중/와토/59분 남음] ⚾ KBO ⚾ KIA(+0.5) vs [H] 한화 :: 6/10 :: 18시 30분",
+          "title": "[🟢진행중/와토/49분 남음] ⚾ KBO ⚾ KIA(+0.5) vs [H] 한화 :: 6/10 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/688381",
           "watoUrl": "https://ygosu.com/board/pan_ccy/688381/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "59분 16초 남음"
+          "statusText": "49분 23초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "688380",
-          "title": "[🟢진행중/와토/59분 남음] ⚾ KBO ⚾ 삼성(-0.5) vs [H] KT :: 6/10 :: 18시 30분",
+          "title": "[🟢진행중/와토/49분 남음] ⚾ KBO ⚾ 삼성(-0.5) vs [H] KT :: 6/10 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/688380",
           "watoUrl": "https://ygosu.com/board/pan_ccy/688380/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "59분 15초 남음"
+          "statusText": "49분 22초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "688379",
-          "title": "[🟢진행중/와토/59분 남음] ⚾ KBO ⚾ NC(-1.5) vs [H] 키움 :: 6/10 :: 18시 30분",
+          "title": "[🟢진행중/와토/49분 남음] ⚾ KBO ⚾ NC(-1.5) vs [H] 키움 :: 6/10 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/688379",
           "watoUrl": "https://ygosu.com/board/pan_ccy/688379/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "59분 15초 남음"
+          "statusText": "49분 21초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "688378",
-          "title": "[🟢진행중/와토/59분 남음] ⚾ KBO ⚾ SSG(+1.5) vs [H] LG :: 6/10 :: 18시 30분",
+          "title": "[🟢진행중/와토/49분 남음] ⚾ KBO ⚾ SSG(+1.5) vs [H] LG :: 6/10 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/688378",
           "watoUrl": "https://ygosu.com/board/pan_ccy/688378/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "59분 14초 남음"
+          "statusText": "49분 20초 남음"
         }
       ],
       "closed": [],
@@ -998,6 +998,18 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
+          "id": "1566342",
+          "title": "👀김윤환 금일 방송 시청자 11061명 언/오버👀 (4)",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1566342",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1566342/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
           "id": "1564282",
           "title": "🎮6월10일 8시쯤 캄몬vs수술대 미니대전 승부예측🎮 (3)",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1564282",
@@ -1929,18 +1941,6 @@
           "title": "[와토/종료] 🍅 마토 23PL 1승 여부 🍅",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1495338",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1495338/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1495313",
-          "title": "[와토/종료] 🍅 토마토 23PL 승부예측 🍅",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1495313",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1495313/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
