@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-10T01:20:29.556Z",
+  "checkedAt": "2026-06-10T01:30:51.382Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,24 +8,24 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "687979",
-          "title": "[🟢진행중/와토/24분 남음] ⚾ MLB ⚾ 워싱턴 vs [H]샌프란시스코 :: 6/10 :: 10:45",
+          "title": "[🟢진행중/와토/14분 남음] ⚾ MLB ⚾ 워싱턴 vs [H]샌프란시스코 :: 6/10 :: 10:45",
           "articleUrl": "https://ygosu.com/board/pan_ccy/687979",
           "watoUrl": "https://ygosu.com/board/pan_ccy/687979/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "24분 12초 남음"
+          "statusText": "13분 51초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "687978",
-          "title": "[🟢진행중/와토/19분 남음] ⚾ MLB ⚾ 신시내티 vs [H]샌디에이고 :: 6/10 :: 10:40",
+          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ 신시내티 vs [H]샌디에이고 :: 6/10 :: 10:40",
           "articleUrl": "https://ygosu.com/board/pan_ccy/687978",
           "watoUrl": "https://ygosu.com/board/pan_ccy/687978/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "19분 11초 남음"
+          "statusText": "8분 51초 남음"
         }
       ],
       "closed": [
@@ -34,7 +34,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "687977",
-          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 시카고컵스(-1.5) vs [H]콜로라도 :: 6/10 :: 09:40",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 시카고컵스(-1.5) vs [H]콜로라도 :: 6/10 :: 09:40",
           "articleUrl": "https://ygosu.com/board/pan_ccy/687977",
           "watoUrl": "https://ygosu.com/board/pan_ccy/687977/?s_wato=Y",
           "tab": "closed",
@@ -109,18 +109,6 @@
           "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ LA다저스 vs [H]피츠버그 :: 6/10 :: 07:40",
           "articleUrl": "https://ygosu.com/board/pan_ccy/687971",
           "watoUrl": "https://ygosu.com/board/pan_ccy/687971/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "687970",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 보스턴 vs [H]탬파베이 :: 6/10 :: 07:40",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/687970",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/687970/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -255,6 +243,18 @@
           "title": "[와토/종료] 🌠준메프 1세트🌠 1경기: 정우 vs 지성",
           "articleUrl": "https://ygosu.com/board/pan_ccy/688016",
           "watoUrl": "https://ygosu.com/board/pan_ccy/688016/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "687970",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 보스턴 vs [H]탬파베이 :: 6/10 :: 07:40",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/687970",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/687970/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
