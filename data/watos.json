@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-11T10:10:30.442Z",
+  "checkedAt": "2026-06-11T10:20:30.255Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/688819/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 49분 남음"
+          "statusText": "8시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/689042/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 49분 남음"
+          "statusText": "21시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/689041/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 49분 남음"
+          "statusText": "21시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/689040/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 49분 남음"
+          "statusText": "21시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/688821/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 49분 남음"
+          "statusText": "15시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/688820/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 49분 남음"
+          "statusText": "15시간 39분 남음"
         }
       ],
       "closed": [
@@ -996,20 +996,7 @@
           "statusText": "진행중"
         }
       ],
-      "closed": [
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1565087",
-          "title": "✨김윤중 영입 와토✨ 이번주 내로 영입한다 vs 영입 안한다 (3)",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1565087",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1565087/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
+      "closed": [],
       "result": [
         {
           "board": "monstarz",
