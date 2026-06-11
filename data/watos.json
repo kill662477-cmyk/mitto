@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-11T10:00:43.191Z",
+  "checkedAt": "2026-06-11T10:10:30.442Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/688819/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 59분 남음"
+          "statusText": "8시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/689042/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 59분 남음"
+          "statusText": "21시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/689041/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 59분 남음"
+          "statusText": "21시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/689040/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 59분 남음"
+          "statusText": "21시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/688821/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 58분 남음"
+          "statusText": "15시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -133,22 +133,10 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/688820/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 58분 남음"
+          "statusText": "15시간 49분 남음"
         }
       ],
       "closed": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "688507",
-          "title": "🌠스타 종족최강전 준결승🌠 토스 ...",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/688507",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/688507/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -205,6 +193,18 @@
           "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ NC(-1.5) vs [H] 키움 :: 6/11 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/688898",
           "watoUrl": "https://ygosu.com/board/pan_ccy/688898/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "688507",
+          "title": "🌠스타 종족최강전 준결승🌠 토스 ...",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/688507",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/688507/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -939,18 +939,6 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1565087",
-          "title": "✨김윤중 영입 와토✨ 이번주 내로 영입한다 vs 영입 안한다 (3)",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1565087",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1565087/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "4시간 57분 남음"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
           "id": "1570292",
           "title": "[또또/와토/진행] 🎮 캄몬 vs 흑카 5경기 🎮",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1570292",
@@ -1008,7 +996,20 @@
           "statusText": "진행중"
         }
       ],
-      "closed": [],
+      "closed": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1565087",
+          "title": "✨김윤중 영입 와토✨ 이번주 내로 영입한다 vs 영입 안한다 (3)",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1565087",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1565087/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        }
+      ],
       "result": [
         {
           "board": "monstarz",
@@ -1847,7 +1848,7 @@
           "boardName": "숲게",
           "category": null,
           "id": "1686741",
-          "title": "💎 씨나인 학생회장 당선자 맞추기 💎 (2)",
+          "title": "💎 씨나인 학생회장 당선자 맞추기 💎 (3)",
           "articleUrl": "https://ygosu.com/board/soop/1686741",
           "watoUrl": "https://ygosu.com/board/soop/1686741/?s_wato=Y",
           "tab": "live",
