@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-11T06:50:28.367Z",
+  "checkedAt": "2026-06-11T07:03:51.207Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/688507/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 9분 남음"
+          "statusText": "2시간 56분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/688819/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 9분 남음"
+          "statusText": "11시간 56분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/689043/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1일 1시간 남음"
+          "statusText": "1일 55분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/689042/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1일 1시간 남음"
+          "statusText": "1일 55분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/689041/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1일 1시간 남음"
+          "statusText": "1일 55분 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/689040/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1일 1시간 남음"
+          "statusText": "1일 55분 남음"
         },
         {
           "board": "mitto",
@@ -145,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/688902/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 39분 남음"
+          "statusText": "2시간 25분 남음"
         },
         {
           "board": "mitto",
@@ -157,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/688901/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 39분 남음"
+          "statusText": "2시간 25분 남음"
         },
         {
           "board": "mitto",
@@ -169,7 +169,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/688900/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 39분 남음"
+          "statusText": "2시간 25분 남음"
         },
         {
           "board": "mitto",
@@ -181,7 +181,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/688899/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 39분 남음"
+          "statusText": "2시간 25분 남음"
         },
         {
           "board": "mitto",
@@ -193,31 +193,31 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/688898/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 39분 남음"
+          "statusText": "2시간 25분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "688821",
-          "title": "[🟢진행중/와토/19시간 남음] 💎북중미 월드컵💎대한민국 vs 체 코 ::: 6/12 ::: 11시 (B)",
+          "title": "[🟢진행중/와토/18시간 남음] 💎북중미 월드컵💎대한민국 vs 체 코 ::: 6/12 ::: 11시 (B)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/688821",
           "watoUrl": "https://ygosu.com/board/pan_ccy/688821/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "19시간 9분 남음"
+          "statusText": "18시간 55분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "688820",
-          "title": "[🟢진행중/와토/19시간 남음] 💎북중미 월드컵💎대한민국 vs 체 코 ::: 6/12 ::: 11시 (A)",
+          "title": "[🟢진행중/와토/18시간 남음] 💎북중미 월드컵💎대한민국 vs 체 코 ::: 6/12 ::: 11시 (A)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/688820",
           "watoUrl": "https://ygosu.com/board/pan_ccy/688820/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "19시간 9분 남음"
+          "statusText": "18시간 55분 남음"
         }
       ],
       "closed": [],
@@ -938,22 +938,58 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
+          "id": "1569866",
+          "title": "🎮캄몬 vs 흑카 미니대전 🎮 6/11 8시 예상",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1569866",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1569866/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
           "id": "1565087",
           "title": "✨김윤중 영입 와토✨ 이번주 내로 영입한다 vs 영입 안한다 (3)",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1565087",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1565087/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 7분 남음"
+          "statusText": "7시간 54분 남음"
         },
         {
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1569866",
-          "title": "[또또/와토/진행] 🎮캄몬 vs 흑카 미니대전 🎮 6/11 8시 예상",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1569866",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1569866/?s_wato=Y",
+          "id": "1570285",
+          "title": "[또또/와토/진행] 🎮 캄몬 vs 흑캄 3경기 🎮",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1570285",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1570285/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1570284",
+          "title": "[또또/와토/진행] 🎮 캄몬 vs 흑캄 2경기 🎮",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1570284",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1570284/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1570281",
+          "title": "[또또/와토/진행] 🎮 캄몬 vs 흑카 1경기 🎮",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1570281",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1570281/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -1812,71 +1848,11 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1509563",
-          "title": "[와토/종료] 🌠노스타워즈 뉴캣슬 vs 흑카데미 🌠 16:00",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1509563",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1509563/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1509561",
-          "title": "[와토/종료] 🌠 노스타워즈 수술대 vs 엠비대 🌠 16:00",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1509561",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1509561/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1508555",
-          "title": "[또또/와토/종료] ⭐​스타워즈 캄몬 최종성적 예측⭐​",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1508555",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1508555/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
     "soop": {
       "live": [
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1685364",
-          "title": "🎯🎯 스타부 영입 맞추기 🎯🎯 (8)",
-          "articleUrl": "https://ygosu.com/board/soop/1685364",
-          "watoUrl": "https://ygosu.com/board/soop/1685364/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "5분 55초 남음"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1685586",
-          "title": "🔥철구 목요일 시청자수 13000명 언/옵🔥 (3)",
-          "articleUrl": "https://ygosu.com/board/soop/1685586",
-          "watoUrl": "https://ygosu.com/board/soop/1685586/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "5분 54초 남음"
-        },
         {
           "board": "soop",
           "boardName": "숲게",
@@ -1891,6 +1867,30 @@
         }
       ],
       "closed": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1685364",
+          "title": "🎯🎯 스타부 영입 맞추기 🎯🎯 (8)",
+          "articleUrl": "https://ygosu.com/board/soop/1685364",
+          "watoUrl": "https://ygosu.com/board/soop/1685364/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1685586",
+          "title": "🔥철구 목요일 시청자수 13000명 언/옵🔥 (3)",
+          "articleUrl": "https://ygosu.com/board/soop/1685586",
+          "watoUrl": "https://ygosu.com/board/soop/1685586/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
