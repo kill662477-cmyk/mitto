@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-13T00:50:34.665Z",
+  "checkedAt": "2026-06-13T01:00:47.625Z",
   "boards": {
     "mitto": {
       "live": [
@@ -37,19 +37,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/690112/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 24분 남음"
+          "statusText": "1시간 13분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "690111",
-          "title": "[🟢진행중/와토/47분 남음] ⚾ MLB ⚾ 탬파베이(-1.5) vs [H]LA에인절스 :: 6/13 :: 10:38",
+          "title": "[🟢진행중/와토/37분 남음] ⚾ MLB ⚾ 탬파베이(-1.5) vs [H]LA에인절스 :: 6/13 :: 10:38",
           "articleUrl": "https://ygosu.com/board/pan_ccy/690111",
           "watoUrl": "https://ygosu.com/board/pan_ccy/690111/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "47분 12초 남음"
+          "statusText": "36분 58초 남음"
         },
         {
           "board": "mitto",
@@ -116,48 +116,36 @@
           "boardName": "미또게",
           "category": "etc",
           "id": "690054",
-          "title": "[🟢진행중/와토/5시간 남음] 🏆MSI선발전🏆 젠지(-2.5) vs KT 풀세트 ::: 6/13 15시 BO5",
+          "title": "[🟢진행중/와토/4시간 남음] 🏆MSI선발전🏆 젠지(-2.5) vs KT 풀세트 ::: 6/13 15시 BO5",
           "articleUrl": "https://ygosu.com/board/pan_ccy/690054",
           "watoUrl": "https://ygosu.com/board/pan_ccy/690054/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 8분 남음"
+          "statusText": "4시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
           "id": "690053",
-          "title": "[🟢진행중/와토/5시간 남음] 🏆MSI선발전🏆 젠지(-1.5) vs KT 풀세트(B) ::: 6/13 15시 BO5",
+          "title": "[🟢진행중/와토/4시간 남음] 🏆MSI선발전🏆 젠지(-1.5) vs KT 풀세트(B) ::: 6/13 15시 BO5",
           "articleUrl": "https://ygosu.com/board/pan_ccy/690053",
           "watoUrl": "https://ygosu.com/board/pan_ccy/690053/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 8분 남음"
+          "statusText": "4시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
           "id": "690052",
-          "title": "[🟢진행중/와토/5시간 남음] 🏆MSI선발전🏆 젠지(-1.5) vs KT 풀세트(A) ::: 6/13 15시 BO5",
+          "title": "[🟢진행중/와토/4시간 남음] 🏆MSI선발전🏆 젠지(-1.5) vs KT 풀세트(A) ::: 6/13 15시 BO5",
           "articleUrl": "https://ygosu.com/board/pan_ccy/690052",
           "watoUrl": "https://ygosu.com/board/pan_ccy/690052/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 8분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "689647",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵💎[H]미국 (-0.5) vs 파라과이 : 6/13 : AM 10시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/689647",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/689647/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 39초 남음"
+          "statusText": "4시간 58분 남음"
         }
       ],
       "closed": [
@@ -253,6 +241,18 @@
           "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 샌디에이고 vs [H]볼티모어 :: 6/13 :: 08:05",
           "articleUrl": "https://ygosu.com/board/pan_ccy/690103",
           "watoUrl": "https://ygosu.com/board/pan_ccy/690103/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "689647",
+          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵💎[H]미국 (-0.5) vs 파라과이 : 6/13 : AM 10시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/689647",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/689647/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -1925,14 +1925,14 @@
           "watoUrl": "https://ygosu.com/board/soop/1690449/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 6분 남음"
+          "statusText": "4시간 56분 남음"
         },
         {
           "board": "soop",
           "boardName": "숲게",
           "category": null,
           "id": "1686741",
-          "title": "💎 씨나인 학생회장 당선자 맞추기 💎 (3)",
+          "title": "💎 씨나인 학생회장 당선자 맞추기 💎 (4)",
           "articleUrl": "https://ygosu.com/board/soop/1686741",
           "watoUrl": "https://ygosu.com/board/soop/1686741/?s_wato=Y",
           "tab": "live",
