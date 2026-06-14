@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-14T09:10:33.433Z",
+  "checkedAt": "2026-06-14T09:20:32.515Z",
   "boards": {
     "mitto": {
       "live": [
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/691844/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 49분 남음"
+          "statusText": "10시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/691754/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 49분 남음"
+          "statusText": "15시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/691753/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 49분 남음"
+          "statusText": "15시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/691736/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 49분 남음"
+          "statusText": "16시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/691735/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 49분 남음"
+          "statusText": "13시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/691734/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 49분 남음"
+          "statusText": "10시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/691733/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 49분 남음"
+          "statusText": "7시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -285,42 +285,6 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
-          "id": "691257",
-          "title": "[🟡마감/와토/마감] 🏆MSI선발전🏆 T1 vs 젠지 3세트",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/691257",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/691257/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "691254",
-          "title": "[🟡마감/와토/마감] 🏆MSI선발전🏆 T1 (+1.5) vs 젠지 풀세트(B) ::: 6/14 15시 BO5",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/691254",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/691254/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "691253",
-          "title": "[🟡마감/와토/마감] 🏆MSI선발전🏆 T1 (+1.5) vs 젠지 풀세트(A) ::: 6/14 15시 BO5",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/691253",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/691253/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
           "id": "691252",
           "title": "[🟡마감/와토/마감] 🏆MSI선발전🏆 T1 vs 젠지 풀세트(B) ::: 6/14 15시 BO5",
           "articleUrl": "https://ygosu.com/board/pan_ccy/691252",
@@ -383,10 +347,46 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
+          "id": "691257",
+          "title": "[🔴결과/와토/종료] 🏆MSI선발전🏆 T1 vs 젠지 3세트",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/691257",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/691257/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
           "id": "691255",
           "title": "[🔴결과/와토/종료] 🏆MSI선발전🏆 T1 vs 젠지 1세트",
           "articleUrl": "https://ygosu.com/board/pan_ccy/691255",
           "watoUrl": "https://ygosu.com/board/pan_ccy/691255/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "691254",
+          "title": "[🔴결과/와토/종료] 🏆MSI선발전🏆 T1 (+1.5) vs 젠지 풀세트(B) ::: 6/14 15시 BO5",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/691254",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/691254/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "691253",
+          "title": "[🔴결과/와토/종료] 🏆MSI선발전🏆 T1 (+1.5) vs 젠지 풀세트(A) ::: 6/14 15시 BO5",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/691253",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/691253/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
