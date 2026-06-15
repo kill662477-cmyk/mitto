@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-15T00:50:34.444Z",
+  "checkedAt": "2026-06-15T01:00:46.033Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,43 +13,43 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/692216/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 9분 남음"
+          "statusText": "10시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "etc",
-          "id": "691754",
-          "title": "[🟢진행중/와토/9분 남음] 🥊UFC 라이트급 타이틀전🥊토푸리아 vs 게이치 ::: 월요일 ::: AM 10시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/691754",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/691754/?s_wato=Y",
+          "category": "football",
+          "id": "692692",
+          "title": "[🟢진행중/와토/14시간 남음] 💎북중미 월드컵💎 스페인 (-3.5) vs 카보베르 ::: 6/16 ::: AM 01시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/692692",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/692692/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9분 8초 남음"
+          "statusText": "14시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "etc",
-          "id": "691753",
-          "title": "[🟢진행중/와토/9분 남음] 🥊UFC 헤비급 잠정 타이틀전🥊페레이라 vs 시릴 간 ::: 월요일 ::: AM 10시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/691753",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/691753/?s_wato=Y",
+          "category": "football",
+          "id": "692691",
+          "title": "[🟢진행중/와토/14시간 남음] 💎북중미 월드컵💎 스페인 (-2.5) vs 카보베르 ::: 6/16 ::: AM 01시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/692691",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/692691/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9분 7초 남음"
+          "statusText": "14시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "691736",
-          "title": "[🟢진행중/와토/1시간 남음] 💎북중미 월드컵💎 스웨덴 (-0.5) vs 튀니지 ::: 6/15 ::: AM 11시",
+          "title": "[🟢진행중/와토/59분 남음] 💎북중미 월드컵💎 스웨덴 (-0.5) vs 튀니지 ::: 6/15 ::: AM 11시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/691736",
           "watoUrl": "https://ygosu.com/board/pan_ccy/691736/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 9분 남음"
+          "statusText": "58분 54초 남음"
         }
       ],
       "closed": [
@@ -61,6 +61,30 @@
           "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 텍사스 vs [H] 보스턴 :: 6/15 :: 8시 20분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/692104",
           "watoUrl": "https://ygosu.com/board/pan_ccy/692104/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "691754",
+          "title": "[🟢진행중/와토/마감] 🥊UFC 라이트급 타이틀전🥊토푸리아 vs 게이치 ::: 월요일 ::: AM 10시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/691754",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/691754/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "691753",
+          "title": "[🟢진행중/와토/마감] 🥊UFC 헤비급 잠정 타이틀전🥊페레이라 vs 시릴 간 ::: 월요일 ::: AM 10시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/691753",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/691753/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -990,30 +1014,6 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "689833",
-          "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ SSG(+1.5) vs [H] 삼성 :: 6/12 :: 18시 30분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/689833",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/689833/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "689660",
-          "title": "[🔴결과/와토/종료] 💎북중미 월드컵💎대한민국 vs 체 코 ::: 💥후반전 또또💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/689660",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/689660/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
@@ -1054,18 +1054,6 @@
           "title": "[와토/종료] 🧨사이드뱃 금일 2부펀딩 110만개 u/o🧨",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1586357",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1586357/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1585029",
-          "title": "[또또/와토/종료] 🕹캄몬 대학대전 승리의 단체 2부 ★80만★ U/O🕹",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1585029",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1585029/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -2620,6 +2608,18 @@
           "title": "[와토/종료] 💎스타워즈 4강 3경기 효짱 vs 박하악💎",
           "articleUrl": "https://ygosu.com/board/soop/1649053",
           "watoUrl": "https://ygosu.com/board/soop/1649053/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1649049",
+          "title": "[와토/종료] 💎스타워즈 4강 2경기 남수댕 vs 내가먼지💎",
+          "articleUrl": "https://ygosu.com/board/soop/1649049",
+          "watoUrl": "https://ygosu.com/board/soop/1649049/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
