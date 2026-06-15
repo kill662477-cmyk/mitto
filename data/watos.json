@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-15T03:50:35.606Z",
+  "checkedAt": "2026-06-15T04:00:45.553Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,67 +13,67 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/692216/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 9분 남음"
+          "statusText": "7시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "692696",
-          "title": "[🟢진행중/와토/21시간 남음] 💎북중미 월드컵💎 이란 (-0.5) vs 뉴질랜드 ::: 6/16 ::: AM 10시",
+          "title": "[🟢진행중/와토/20시간 남음] 💎북중미 월드컵💎 이란 (-0.5) vs 뉴질랜드 ::: 6/16 ::: AM 10시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/692696",
           "watoUrl": "https://ygosu.com/board/pan_ccy/692696/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 9분 남음"
+          "statusText": "20시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "692695",
-          "title": "[🟢진행중/와토/18시간 남음] 💎북중미 월드컵💎 사우디아라비아 (+1.5) vs 우루과이 : 6/16 : AM 07시",
+          "title": "[🟢진행중/와토/17시간 남음] 💎북중미 월드컵💎 사우디아라비아 (+1.5) vs 우루과이 : 6/16 : AM 07시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/692695",
           "watoUrl": "https://ygosu.com/board/pan_ccy/692695/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18시간 9분 남음"
+          "statusText": "17시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "692694",
-          "title": "[🟢진행중/와토/15시간 남음] 💎북중미 월드컵💎 벨기에 (-1.5) vs 이집트 ::: 6/16 ::: AM 04시",
+          "title": "[🟢진행중/와토/14시간 남음] 💎북중미 월드컵💎 벨기에 (-1.5) vs 이집트 ::: 6/16 ::: AM 04시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/692694",
           "watoUrl": "https://ygosu.com/board/pan_ccy/692694/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 9분 남음"
+          "statusText": "14시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "692692",
-          "title": "[🟢진행중/와토/12시간 남음] 💎북중미 월드컵💎 스페인 (-3.5) vs 카보베르 ::: 6/16 ::: AM 01시",
+          "title": "[🟢진행중/와토/11시간 남음] 💎북중미 월드컵💎 스페인 (-3.5) vs 카보베르 ::: 6/16 ::: AM 01시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/692692",
           "watoUrl": "https://ygosu.com/board/pan_ccy/692692/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 9분 남음"
+          "statusText": "11시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "692691",
-          "title": "[🟢진행중/와토/12시간 남음] 💎북중미 월드컵💎 스페인 (-2.5) vs 카보베르 ::: 6/16 ::: AM 01시",
+          "title": "[🟢진행중/와토/11시간 남음] 💎북중미 월드컵💎 스페인 (-2.5) vs 카보베르 ::: 6/16 ::: AM 01시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/692691",
           "watoUrl": "https://ygosu.com/board/pan_ccy/692691/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 9분 남음"
+          "statusText": "11시간 59분 남음"
         }
       ],
       "closed": [
@@ -97,18 +97,6 @@
           "title": "[🟡마감/와토/마감] 🥊UFC 헤비급 잠정 타이틀전🥊페레이라 vs 시릴 간 ::: 월요일 ::: AM 10시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/691753",
           "watoUrl": "https://ygosu.com/board/pan_ccy/691753/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "691736",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵💎 스웨덴 (-0.5) vs 튀니지 ::: 6/15 ::: AM 11시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/691736",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/691736/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -243,6 +231,18 @@
           "title": "[🔴결과/와토/종료] 💎북중미 월드컵💎 네덜란드 vs 일본 ::: 6/15 ::: AM 05시 (노핸디매치)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/691844",
           "watoUrl": "https://ygosu.com/board/pan_ccy/691844/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "691736",
+          "title": "[🔴결과/와토/종료] 💎북중미 월드컵💎 스웨덴 (-0.5) vs 튀니지 ::: 6/15 ::: AM 11시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/691736",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/691736/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
