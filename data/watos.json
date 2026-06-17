@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-17T22:00:42.809Z",
+  "checkedAt": "2026-06-17T22:10:32.407Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/694598/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 39분 남음"
+          "statusText": "3시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/694597/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 39분 남음"
+          "statusText": "1시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -37,31 +37,31 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/694596/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 14분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "694595",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 시카고W(+1.5) vs [H] 뉴욕양키스 :: 6/18 :: 8시 5분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/694595",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/694595/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
           "statusText": "1시간 4분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
+          "id": "694595",
+          "title": "[🟢진행중/와토/54분 남음] ⚾ MLB ⚾ 시카고W(+1.5) vs [H] 뉴욕양키스 :: 6/18 :: 8시 5분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/694595",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/694595/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "54분 16초 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
           "id": "694592",
-          "title": "[🟢진행중/와토/44분 남음] ⚾ MLB ⚾ 토론토 vs [H] 보스턴 :: 6/18 :: 7시 45분",
+          "title": "[🟢진행중/와토/34분 남음] ⚾ MLB ⚾ 토론토 vs [H] 보스턴 :: 6/18 :: 7시 45분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/694592",
           "watoUrl": "https://ygosu.com/board/pan_ccy/694592/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "44분 7초 남음"
+          "statusText": "34분 15초 남음"
         },
         {
           "board": "mitto",
@@ -217,7 +217,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/694272/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 58분 남음"
+          "statusText": "3시간 48분 남음"
         },
         {
           "board": "mitto",
@@ -229,31 +229,31 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/694271/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 58분 남음"
+          "statusText": "3시간 48분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "694270",
-          "title": "[🟢진행중/와토/59분 남음] 💎북중미 월드컵💎 가 나 vs 파나마 ::: 6/18 ::: AM 08시 (노핸디매치)",
+          "title": "[🟢진행중/와토/49분 남음] 💎북중미 월드컵💎 가 나 vs 파나마 ::: 6/18 ::: AM 08시 (노핸디매치)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/694270",
           "watoUrl": "https://ygosu.com/board/pan_ccy/694270/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "58분 12초 남음"
+          "statusText": "48분 21초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "694269",
-          "title": "[🟢진행중/와토/59분 남음] 💎북중미 월드컵💎 가 나 (-0.5) vs 파나마 :: 6/18 :: AM 08시",
+          "title": "[🟢진행중/와토/49분 남음] 💎북중미 월드컵💎 가 나 (-0.5) vs 파나마 :: 6/18 :: AM 08시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/694269",
           "watoUrl": "https://ygosu.com/board/pan_ccy/694269/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "58분 11초 남음"
+          "statusText": "48분 20초 남음"
         }
       ],
       "closed": [
