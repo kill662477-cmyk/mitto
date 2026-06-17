@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-17T23:10:53.725Z",
+  "checkedAt": "2026-06-17T23:20:34.321Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,31 +13,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/694598/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 29분 남음"
+          "statusText": "2시간 19분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "694597",
-          "title": "[🟢진행중/와토/29분 남음] ⚾ MLB ⚾ 클리블랜드 vs [H] 밀워키 :: 6/18 :: 8시 40분",
+          "title": "[🟢진행중/와토/19분 남음] ⚾ MLB ⚾ 클리블랜드 vs [H] 밀워키 :: 6/18 :: 8시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/694597",
           "watoUrl": "https://ygosu.com/board/pan_ccy/694597/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "28분 59초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "694596",
-          "title": "[🟢진행중/와토/4분 남음] ⚾ MLB ⚾ 샌프란시스코 vs [H] 애틀랜타 :: 6/18 :: 8시 15분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/694596",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/694596/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "3분 58초 남음"
+          "statusText": "19분 18초 남음"
         },
         {
           "board": "mitto",
@@ -193,7 +181,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/694272/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 48분 남음"
+          "statusText": "2시간 38분 남음"
         },
         {
           "board": "mitto",
@@ -205,10 +193,22 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/694271/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 48분 남음"
+          "statusText": "2시간 38분 남음"
         }
       ],
       "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "694596",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 샌프란시스코 vs [H] 애틀랜타 :: 6/18 :: 8시 15분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/694596",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/694596/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -238,7 +238,7 @@
           "boardName": "미또게",
           "category": "football",
           "id": "694270",
-          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵💎 가 나 vs 파나마 ::: 6/18 ::: AM 08시 (노핸디매치)",
+          "title": "[🟡마감/와토/마감] 💎북중미 월드컵💎 가 나 vs 파나마 ::: 6/18 ::: AM 08시 (노핸디매치)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/694270",
           "watoUrl": "https://ygosu.com/board/pan_ccy/694270/?s_wato=Y",
           "tab": "closed",
@@ -250,33 +250,9 @@
           "boardName": "미또게",
           "category": "football",
           "id": "694269",
-          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵💎 가 나 (-0.5) vs 파나마 :: 6/18 :: AM 08시",
+          "title": "[🟡마감/와토/마감] 💎북중미 월드컵💎 가 나 (-0.5) vs 파나마 :: 6/18 :: AM 08시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/694269",
           "watoUrl": "https://ygosu.com/board/pan_ccy/694269/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "694268",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵💎 잉글랜드 (-1.5) vs 크로아티아 :: 6/18 :: AM 05시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/694268",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/694268/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "694267",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵💎 잉글랜드 (-0.5) vs 크로아티아 :: 6/18 :: AM 05시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/694267",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/694267/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -579,6 +555,30 @@
           "title": "[🔴결과/와토/종료] 💎북중미 월드컵💎 포르투갈 (-3.5) vs DR 콩고 :: 6/18 :: AM 02시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/694444",
           "watoUrl": "https://ygosu.com/board/pan_ccy/694444/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "694268",
+          "title": "[🔴결과/와토/종료] 💎북중미 월드컵💎 잉글랜드 (-1.5) vs 크로아티아 :: 6/18 :: AM 05시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/694268",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/694268/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "694267",
+          "title": "[🔴결과/와토/종료] 💎북중미 월드컵💎 잉글랜드 (-0.5) vs 크로아티아 :: 6/18 :: AM 05시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/694267",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/694267/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
