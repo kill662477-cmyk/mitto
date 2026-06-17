@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-17T23:20:34.321Z",
+  "checkedAt": "2026-06-17T23:30:43.693Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,19 +13,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/694598/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 19분 남음"
+          "statusText": "2시간 9분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "694597",
-          "title": "[🟢진행중/와토/19분 남음] ⚾ MLB ⚾ 클리블랜드 vs [H] 밀워키 :: 6/18 :: 8시 40분",
+          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ 클리블랜드 vs [H] 밀워키 :: 6/18 :: 8시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/694597",
           "watoUrl": "https://ygosu.com/board/pan_ccy/694597/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "19분 18초 남음"
+          "statusText": "9분 9초 남음"
         },
         {
           "board": "mitto",
@@ -181,7 +181,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/694272/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 38분 남음"
+          "statusText": "2시간 28분 남음"
         },
         {
           "board": "mitto",
@@ -193,7 +193,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/694271/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 38분 남음"
+          "statusText": "2시간 28분 남음"
         }
       ],
       "closed": [
@@ -2081,6 +2081,18 @@
     },
     "soop": {
       "live": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1709087",
+          "title": "💎 씨나인 엑셀 1회차 매출 700만 언/오버 💎 (2)",
+          "articleUrl": "https://ygosu.com/board/soop/1709087",
+          "watoUrl": "https://ygosu.com/board/soop/1709087/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
