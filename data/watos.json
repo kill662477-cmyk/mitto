@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-18T01:00:47.717Z",
+  "checkedAt": "2026-06-18T01:10:34.478Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,12 +8,12 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "694598",
-          "title": "[🟢진행중/와토/39분 남음] ⚾ MLB ⚾ 피츠버그 vs [H] 애슬레틱스 :: 6/18 :: 10시 40분",
+          "title": "[🟢진행중/와토/29분 남음] ⚾ MLB ⚾ 피츠버그 vs [H] 애슬레틱스 :: 6/18 :: 10시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/694598",
           "watoUrl": "https://ygosu.com/board/pan_ccy/694598/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "39분 5초 남음"
+          "statusText": "29분 19초 남음"
         },
         {
           "board": "mitto",
@@ -164,24 +164,24 @@
           "boardName": "미또게",
           "category": "football",
           "id": "694272",
-          "title": "[🟢진행중/와토/59분 남음] 💎북중미 월드컵💎 우즈베키스탄 (+2.5) vs 콜롬비아 : 6/18 : AM 11시",
+          "title": "[🟢진행중/와토/49분 남음] 💎북중미 월드컵💎 우즈베키스탄 (+2.5) vs 콜롬비아 : 6/18 : AM 11시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/694272",
           "watoUrl": "https://ygosu.com/board/pan_ccy/694272/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "58분 8초 남음"
+          "statusText": "48분 26초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "694271",
-          "title": "[🟢진행중/와토/59분 남음] 💎북중미 월드컵💎 우즈베키스탄 (+1.5) vs 콜롬비아 : 6/18 : AM 11시",
+          "title": "[🟢진행중/와토/49분 남음] 💎북중미 월드컵💎 우즈베키스탄 (+1.5) vs 콜롬비아 : 6/18 : AM 11시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/694271",
           "watoUrl": "https://ygosu.com/board/pan_ccy/694271/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "58분 7초 남음"
+          "statusText": "48분 25초 남음"
         }
       ],
       "closed": [
@@ -229,30 +229,6 @@
           "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 토론토 vs [H] 보스턴 :: 6/18 :: 7시 45분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/694592",
           "watoUrl": "https://ygosu.com/board/pan_ccy/694592/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "694270",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵💎 가 나 vs 파나마 ::: 6/18 ::: AM 08시 (노핸디매치)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/694270",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/694270/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "694269",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵💎 가 나 (-0.5) vs 파나마 :: 6/18 :: AM 08시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/694269",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/694269/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -555,6 +531,30 @@
           "title": "[🔴결과/와토/종료] 💎북중미 월드컵💎 포르투갈 (-3.5) vs DR 콩고 :: 6/18 :: AM 02시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/694444",
           "watoUrl": "https://ygosu.com/board/pan_ccy/694444/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "694270",
+          "title": "[🔴결과/와토/종료] 💎북중미 월드컵💎 가 나 vs 파나마 ::: 6/18 ::: AM 08시 (노핸디매치)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/694270",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/694270/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "694269",
+          "title": "[🔴결과/와토/종료] 💎북중미 월드컵💎 가 나 (-0.5) vs 파나마 :: 6/18 :: AM 08시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/694269",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/694269/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
