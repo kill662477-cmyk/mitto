@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-18T01:50:36.293Z",
+  "checkedAt": "2026-06-18T02:00:45.638Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,12 +8,12 @@
           "boardName": "미또게",
           "category": "star",
           "id": "695099",
-          "title": "🌠스타 종족최강전 준결승🌠 저그 vs 테란 ::: 목 ::: 19시 (2)",
+          "title": "🌠스타 종족최강전 준결승🌠 저그 vs 테란 ::: 목 ::: 19시 (4)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/695099",
           "watoUrl": "https://ygosu.com/board/pan_ccy/695099/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 9분 남음"
+          "statusText": "7시간 59분 남음"
         },
         {
           "board": "mitto",
@@ -158,30 +158,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "694272",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵💎 우즈베키스탄 (+2.5) vs 콜롬비아 : 6/18 : AM 11시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/694272",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/694272/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 21초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "694271",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵💎 우즈베키스탄 (+1.5) vs 콜롬비아 : 6/18 : AM 11시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/694271",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/694271/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 20초 남음"
         }
       ],
       "closed": [
@@ -236,11 +212,23 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "baseball",
-          "id": "694592",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 토론토 vs [H] 보스턴 :: 6/18 :: 7시 45분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/694592",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/694592/?s_wato=Y",
+          "category": "football",
+          "id": "694272",
+          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵💎 우즈베키스탄 (+2.5) vs 콜롬비아 : 6/18 : AM 11시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/694272",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/694272/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "694271",
+          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵💎 우즈베키스탄 (+1.5) vs 콜롬비아 : 6/18 : AM 11시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/694271",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/694271/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -267,6 +255,18 @@
           "title": "[🔴결과/와토/종료] 🏆중간계스크림🏆 민교팀 vs 상호팀 1세트 ::: 10시시작",
           "articleUrl": "https://ygosu.com/board/pan_ccy/694624",
           "watoUrl": "https://ygosu.com/board/pan_ccy/694624/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "694592",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 토론토 vs [H] 보스턴 :: 6/18 :: 7시 45분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/694592",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/694592/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -2091,7 +2091,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1709091/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2일 6시간 남음"
+          "statusText": "2일 5시간 남음"
         },
         {
           "board": "soop",
@@ -2103,7 +2103,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1709087/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2일 6시간 남음"
+          "statusText": "2일 5시간 남음"
         },
         {
           "board": "soop",
