@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-18T03:00:44.854Z",
+  "checkedAt": "2026-06-18T03:10:38.344Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,12 +8,12 @@
           "boardName": "미또게",
           "category": "star",
           "id": "695099",
-          "title": "🌠스타 종족최강전 준결승🌠 저그 vs 테란 ::: 목 ::: 19시 (4)",
+          "title": "🌠스타 종족최강전 준결승🌠 저그 vs 테란 ::: 목 ::: 19시 (5)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/695099",
           "watoUrl": "https://ygosu.com/board/pan_ccy/695099/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 59분 남음"
+          "statusText": "6시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/695116/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 29분 남음"
+          "statusText": "6시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/695115/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 29분 남음"
+          "statusText": "6시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/695114/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 29분 남음"
+          "statusText": "6시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/695113/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 29분 남음"
+          "statusText": "6시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/695112/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 29분 남음"
+          "statusText": "6시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -1131,6 +1131,18 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
+          "id": "1599986",
+          "title": "[와토/진행] 🎯 지두두 촌캉스 6000 u/o 🎯",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1599986",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1599986/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
           "id": "1599984",
           "title": "[와토/진행] 🎯 지두두 촌캉스 5000 u/o 🎯",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1599984",
@@ -2086,18 +2098,6 @@
           "title": "[또또/와토/종료] 🎮미니대전 개인전🎮3세트소주양vs오하얀",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1545465",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1545465/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1545464",
-          "title": "[또또/와토/종료] 🎮미니대전 개인전🎮치리vs뚜비 2세트",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1545464",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1545464/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
