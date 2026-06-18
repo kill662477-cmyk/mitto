@@ -1,8 +1,20 @@
 {
-  "checkedAt": "2026-06-18T01:40:50.539Z",
+  "checkedAt": "2026-06-18T01:50:36.293Z",
   "boards": {
     "mitto": {
       "live": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "695099",
+          "title": "🌠스타 종족최강전 준결승🌠 저그 vs 테란 ::: 목 ::: 19시 (2)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/695099",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/695099/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "8시간 9분 남음"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -152,24 +164,24 @@
           "boardName": "미또게",
           "category": "football",
           "id": "694272",
-          "title": "[🟢진행중/와토/19분 남음] 💎북중미 월드컵💎 우즈베키스탄 (+2.5) vs 콜롬비아 : 6/18 : AM 11시",
+          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵💎 우즈베키스탄 (+2.5) vs 콜롬비아 : 6/18 : AM 11시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/694272",
           "watoUrl": "https://ygosu.com/board/pan_ccy/694272/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18분 8초 남음"
+          "statusText": "8분 21초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "694271",
-          "title": "[🟢진행중/와토/19분 남음] 💎북중미 월드컵💎 우즈베키스탄 (+1.5) vs 콜롬비아 : 6/18 : AM 11시",
+          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵💎 우즈베키스탄 (+1.5) vs 콜롬비아 : 6/18 : AM 11시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/694271",
           "watoUrl": "https://ygosu.com/board/pan_ccy/694271/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18분 7초 남음"
+          "statusText": "8분 20초 남음"
         }
       ],
       "closed": [
@@ -1095,18 +1107,6 @@
           "title": "[🔴결과/와토/종료] 💎북중미 월드컵💎 이라크 (+2.5) vs 노르웨이 ::: 6/17 ::: AM 07",
           "articleUrl": "https://ygosu.com/board/pan_ccy/693523",
           "watoUrl": "https://ygosu.com/board/pan_ccy/693523/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "693522",
-          "title": "[🔴결과/와토/종료] 💎북중미 월드컵💎 프랑스 (-2.5) vs 세네갈 :: 6/17 :: AM 04시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/693522",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/693522/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
