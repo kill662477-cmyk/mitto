@@ -1,20 +1,8 @@
 {
-  "checkedAt": "2026-06-18T01:30:39.527Z",
+  "checkedAt": "2026-06-18T01:40:50.539Z",
   "boards": {
     "mitto": {
       "live": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "694598",
-          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ 피츠버그 vs [H] 애슬레틱스 :: 6/18 :: 10시 40분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/694598",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/694598/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "9분 14초 남음"
-        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -164,27 +152,39 @@
           "boardName": "미또게",
           "category": "football",
           "id": "694272",
-          "title": "[🟢진행중/와토/29분 남음] 💎북중미 월드컵💎 우즈베키스탄 (+2.5) vs 콜롬비아 : 6/18 : AM 11시",
+          "title": "[🟢진행중/와토/19분 남음] 💎북중미 월드컵💎 우즈베키스탄 (+2.5) vs 콜롬비아 : 6/18 : AM 11시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/694272",
           "watoUrl": "https://ygosu.com/board/pan_ccy/694272/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "28분 19초 남음"
+          "statusText": "18분 8초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "694271",
-          "title": "[🟢진행중/와토/29분 남음] 💎북중미 월드컵💎 우즈베키스탄 (+1.5) vs 콜롬비아 : 6/18 : AM 11시",
+          "title": "[🟢진행중/와토/19분 남음] 💎북중미 월드컵💎 우즈베키스탄 (+1.5) vs 콜롬비아 : 6/18 : AM 11시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/694271",
           "watoUrl": "https://ygosu.com/board/pan_ccy/694271/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "28분 18초 남음"
+          "statusText": "18분 7초 남음"
         }
       ],
       "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "694598",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 피츠버그 vs [H] 애슬레틱스 :: 6/18 :: 10시 40분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/694598",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/694598/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
