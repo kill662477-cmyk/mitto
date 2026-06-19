@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-19T02:10:36.272Z",
+  "checkedAt": "2026-06-19T02:20:35.020Z",
   "boards": {
     "mitto": {
       "live": [
@@ -1079,21 +1079,20 @@
     },
     "monstarz": {
       "live": [],
-      "closed": [
+      "closed": [],
+      "result": [
         {
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
           "id": "1604632",
-          "title": "⚽ 월드컵 ⚽ 대한민국 손흥민 득점 O/X (1)",
+          "title": "[와토/종료] ⚽ 월드컵 ⚽ 대한민국 손흥민 득점 O/X",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1604632",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1604632/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
