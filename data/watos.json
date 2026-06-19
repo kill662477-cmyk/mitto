@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-19T01:40:33.113Z",
+  "checkedAt": "2026-06-19T01:50:32.213Z",
   "boards": {
     "mitto": {
       "live": [
@@ -61,18 +61,6 @@
           "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 세인트루이스 vs [H] 캔자스시티 :: 6/19 :: 8시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/695286",
           "watoUrl": "https://ygosu.com/board/pan_ccy/695286/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "695283",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 시카고W(+1.5) vs [H] 뉴욕양키스 :: 6/19 :: 8시 5분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/695283",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/695283/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -255,6 +243,18 @@
           "title": "[와토/종료] 🌠준메프 1세트🌠 2경기 정우 vs 제동",
           "articleUrl": "https://ygosu.com/board/pan_ccy/695482",
           "watoUrl": "https://ygosu.com/board/pan_ccy/695482/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "695283",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 시카고W(+1.5) vs [H] 뉴욕양키스 :: 6/19 :: 8시 5분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/695283",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/695283/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
