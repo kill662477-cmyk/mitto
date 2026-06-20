@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-20T10:00:46.898Z",
+  "checkedAt": "2026-06-20T10:10:33.821Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696645/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "17시간 59분 남음"
+          "statusText": "17시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696644/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "17시간 59분 남음"
+          "statusText": "17시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696643/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 59분 남음"
+          "statusText": "13시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696642/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 59분 남음"
+          "statusText": "13시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696641/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 59분 남음"
+          "statusText": "9시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696640/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 59분 남음"
+          "statusText": "9시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696639/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 59분 남음"
+          "statusText": "6시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696638/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 59분 남음"
+          "statusText": "6시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -1138,7 +1138,8 @@
       ]
     },
     "monstarz": {
-      "live": [
+      "live": [],
+      "closed": [
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -1147,9 +1148,9 @@
           "title": "🎯뉴캄옥션 경매 시청자 18000명 up & down 🎯",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1609781",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1609781/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "monstarz",
@@ -1159,12 +1160,10 @@
           "title": "💡뉴캄옥션 캄몬 여캠 참여 인원수 맞추기 💡",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1609331",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1609331/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "2분 22초 남음"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
