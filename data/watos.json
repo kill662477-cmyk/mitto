@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-20T18:30:41.337Z",
+  "checkedAt": "2026-06-20T18:40:33.623Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/697167/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 29분 남음"
+          "statusText": "10시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696871/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 39분 남음"
+          "statusText": "7시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696867/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 39분 남음"
+          "statusText": "7시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696866/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 39분 남음"
+          "statusText": "7시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696862/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 44분 남음"
+          "statusText": "4시간 34분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696838/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 39분 남음"
+          "statusText": "1시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696830/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 39분 남음"
+          "statusText": "1시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696828/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 39분 남음"
+          "statusText": "1시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696827/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 34분 남음"
+          "statusText": "1시간 24분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696645/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 29분 남음"
+          "statusText": "9시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696644/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 29분 남음"
+          "statusText": "9시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -145,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696643/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 28분 남음"
+          "statusText": "5시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -157,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696642/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 28분 남음"
+          "statusText": "5시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -169,7 +169,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696641/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 28분 남음"
+          "statusText": "1시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -181,7 +181,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696640/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 28분 남음"
+          "statusText": "1시간 19분 남음"
         }
       ],
       "closed": [
@@ -1126,7 +1126,20 @@
       ]
     },
     "monstarz": {
-      "live": [],
+      "live": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1614090",
+          "title": "[와토/2분 남음] 3시45분자동마감) 소주양 vs 비타밍 vs 지두두",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1614090",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1614090/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "2분 28초 남음"
+        }
+      ],
       "closed": [],
       "result": [
         {
@@ -2064,37 +2077,12 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1554237",
-          "title": "[와토/종료] 🎯 먼진 vs 막현",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1554237",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1554237/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
     "soop": {
       "live": [],
-      "closed": [
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1715355",
-          "title": "[와토/마감] 💎 엑셀 1회차 예비형 온다 VS 안온다 💎",
-          "articleUrl": "https://ygosu.com/board/soop/1715355",
-          "watoUrl": "https://ygosu.com/board/soop/1715355/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
+      "closed": [],
       "result": [
         {
           "board": "soop",
@@ -2104,6 +2092,18 @@
           "title": "[와토/종료] 💎족메프 최종승리팀💎",
           "articleUrl": "https://ygosu.com/board/soop/1715759",
           "watoUrl": "https://ygosu.com/board/soop/1715759/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1715355",
+          "title": "[와토/종료] 💎 엑셀 1회차 예비형 온다 VS 안온다 💎",
+          "articleUrl": "https://ygosu.com/board/soop/1715355",
+          "watoUrl": "https://ygosu.com/board/soop/1715355/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
