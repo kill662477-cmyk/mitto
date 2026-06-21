@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-20T23:54:04.268Z",
+  "checkedAt": "2026-06-21T00:00:49.732Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,12 +8,12 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "697167",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ 롯데(-1.5) vs [H] 키움 :: 6/21 :: 14시",
+          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ 롯데(-1.5) vs [H] 키움 :: 6/21 :: 14시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/697167",
           "watoUrl": "https://ygosu.com/board/pan_ccy/697167/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 5분 남음"
+          "statusText": "4시간 59분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696871/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 15분 남음"
+          "statusText": "2시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696867/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 15분 남음"
+          "statusText": "2시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -49,55 +49,31 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/696866/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 15분 남음"
+          "statusText": "2시간 9분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "696645",
-          "title": "[🟢진행중/와토/4시간 남음] 💎북중미 월드컵💎 튀니지 (+1.5) vs 일본 :: 6/21 :: PM 01시",
+          "title": "[🟢진행중/와토/3시간 남음] 💎북중미 월드컵💎 튀니지 (+1.5) vs 일본 :: 6/21 :: PM 01시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/696645",
           "watoUrl": "https://ygosu.com/board/pan_ccy/696645/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 5분 남음"
+          "statusText": "3시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "696644",
-          "title": "[🟢진행중/와토/4시간 남음] 💎북중미 월드컵💎 튀니지 (+0.5) vs 일본 :: 6/21 :: PM 01시",
+          "title": "[🟢진행중/와토/3시간 남음] 💎북중미 월드컵💎 튀니지 (+0.5) vs 일본 :: 6/21 :: PM 01시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/696644",
           "watoUrl": "https://ygosu.com/board/pan_ccy/696644/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 5분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "696643",
-          "title": "[🟢진행중/와토/5분 남음] 💎북중미 월드컵💎 에콰도르 (-3.5) vs 퀴라소 :: 6/21 :: AM 09시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/696643",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/696643/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "5분 37초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "696642",
-          "title": "[🟢진행중/와토/5분 남음] 💎북중미 월드컵💎 에콰도르 (-2.5) vs 퀴라소 :: 6/21 :: AM 09시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/696642",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/696642/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "5분 36초 남음"
+          "statusText": "3시간 58분 남음"
         }
       ],
       "closed": [
@@ -109,6 +85,30 @@
           "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 뉴욕메츠(+1.5) vs [H] 필라델피아 :: 6/21 :: 8시 15분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/696862",
           "watoUrl": "https://ygosu.com/board/pan_ccy/696862/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "696643",
+          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵💎 에콰도르 (-3.5) vs 퀴라소 :: 6/21 :: AM 09시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/696643",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/696643/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "696642",
+          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵💎 에콰도르 (-2.5) vs 퀴라소 :: 6/21 :: AM 09시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/696642",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/696642/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
