@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-21T21:50:47.827Z",
+  "checkedAt": "2026-06-21T22:00:42.625Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,55 +13,31 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/697876/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 28분 남음"
+          "statusText": "1시간 18분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "697497",
-          "title": "[🟢진행중/와토/3시간 남음] 💎북중미 월드컵💎 뉴질랜드 (+1.5) vs 이집트 :: 6/22 :: AM 10시",
+          "title": "[🟢진행중/와토/2시간 남음] 💎북중미 월드컵💎 뉴질랜드 (+1.5) vs 이집트 :: 6/22 :: AM 10시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/697497",
           "watoUrl": "https://ygosu.com/board/pan_ccy/697497/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 7분 남음"
+          "statusText": "2시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "697496",
-          "title": "[🟢진행중/와토/3시간 남음] 💎북중미 월드컵💎 뉴질랜드 (+0.5) vs 이집트 :: 6/22 :: AM 10시",
+          "title": "[🟢진행중/와토/2시간 남음] 💎북중미 월드컵💎 뉴질랜드 (+0.5) vs 이집트 :: 6/22 :: AM 10시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/697496",
           "watoUrl": "https://ygosu.com/board/pan_ccy/697496/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 7분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "697495",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵💎 우루과이 (-1.5) vs 카보베르데 :: 6/22 :: AM 07시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/697495",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/697495/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "7분 55초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "697494",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵💎 우루과이 (-0.5) vs 카보베르데 :: 6/22 :: AM 07시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/697494",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/697494/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "7분 54초 남음"
+          "statusText": "2시간 58분 남음"
         }
       ],
       "closed": [
@@ -118,7 +94,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "697839",
-          "title": "⚾ MLB ⚾ 신시내티 vs [H] 뉴욕양...",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 신시내티 vs [H] 뉴욕양키스 :: 6/22 :: 2시 35분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/697839",
           "watoUrl": "https://ygosu.com/board/pan_ccy/697839/?s_wato=Y",
           "tab": "closed",
@@ -157,6 +133,30 @@
           "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 밀워키 vs [H] 애틀랜타 :: 6/22 :: 2시 35분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/697843",
           "watoUrl": "https://ygosu.com/board/pan_ccy/697843/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "697495",
+          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵💎 우루과이 (-1.5) vs 카보베르데 :: 6/22 :: AM 07시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/697495",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/697495/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "697494",
+          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵💎 우루과이 (-0.5) vs 카보베르데 :: 6/22 :: AM 07시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/697494",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/697494/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
