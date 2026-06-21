@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-21T04:30:56.258Z",
+  "checkedAt": "2026-06-21T04:40:32.044Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,36 +8,24 @@
           "boardName": "미또게",
           "category": "etc",
           "id": "697330",
-          "title": "[🐢거북이게임🐢/와토/29분 남음] 🐢🐢🐢 거북이 레이스 13회차 // 14:00 자동마감 🐢🐢🐢",
+          "title": "[🐢거북이게임🐢/와토/19분 남음] 🐢🐢🐢 거북이 레이스 13회차 // 14:00 자동마감 🐢🐢🐢",
           "articleUrl": "https://ygosu.com/board/pan_ccy/697330",
           "watoUrl": "https://ygosu.com/board/pan_ccy/697330/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "28분 58초 남음"
+          "statusText": "19분 21초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
           "id": "697329",
-          "title": "[🐢거북이게임🐢/와토/19분 남음] 🐢🐢🐢 거북이 레이스 12회차 // 13:50 자동마감 🐢🐢🐢",
+          "title": "[🐢거북이게임🐢/와토/9분 남음] 🐢🐢🐢 거북이 레이스 12회차 // 13:50 자동마감 🐢🐢🐢",
           "articleUrl": "https://ygosu.com/board/pan_ccy/697329",
           "watoUrl": "https://ygosu.com/board/pan_ccy/697329/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18분 57초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "697327",
-          "title": "[🐢거북이게임🐢/와토/10분 남음] 🐢🐢🐢 거북이 레이스 11회차 // 13:40 자동마감 🐢🐢🐢",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/697327",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/697327/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "9분 56초 남음"
+          "statusText": "9분 21초 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/697259/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 28분 남음"
+          "statusText": "3시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -145,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/697258/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 28분 남음"
+          "statusText": "3시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -157,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/697257/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 28분 남음"
+          "statusText": "3시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -169,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/697256/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 28분 남음"
+          "statusText": "3시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -181,19 +169,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/697255/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 28분 남음"
+          "statusText": "3시간 19분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "697167",
-          "title": "[🟢진행중/와토/29분 남음] ⚾ KBO ⚾ 롯데(-1.5) vs [H] 키움 :: 6/21 :: 14시",
+          "title": "[🟢진행중/와토/19분 남음] ⚾ KBO ⚾ 롯데(-1.5) vs [H] 키움 :: 6/21 :: 14시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/697167",
           "watoUrl": "https://ygosu.com/board/pan_ccy/697167/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "28분 37초 남음"
+          "statusText": "19분 남음"
         }
       ],
       "closed": [
@@ -259,6 +247,18 @@
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "697327",
+          "title": "[🐢거북이게임🐢/와토/마감] 🐢🐢🐢 거북이 레이스 11회차 // 13:40 자동마감 🐢🐢🐢",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/697327",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/697327/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
