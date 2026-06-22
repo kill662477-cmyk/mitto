@@ -1,21 +1,9 @@
 {
-  "checkedAt": "2026-06-22T02:30:39.343Z",
+  "checkedAt": "2026-06-22T02:40:35.492Z",
   "boards": {
     "mitto": {
       "live": [],
       "closed": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "697876",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 뉴욕메츠(+1.5) vs [H] 필라델피아 :: 6/22 :: 8시 20분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/697876",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/697876/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -278,6 +266,18 @@
           "title": "[🐢거북이게임🐢/와토/종료] 🐢🐢🐢 거북이 레이스 66회차 // 23:00 자동마감 🐢🐢🐢",
           "articleUrl": "https://ygosu.com/board/pan_ccy/697971",
           "watoUrl": "https://ygosu.com/board/pan_ccy/697971/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "697876",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 뉴욕메츠(+1.5) vs [H] 필라델피아 :: 6/22 :: 8시 20분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/697876",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/697876/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
