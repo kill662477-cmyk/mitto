@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-22T00:14:15.538Z",
+  "checkedAt": "2026-06-22T00:20:34.325Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,24 +8,24 @@
           "boardName": "미또게",
           "category": "football",
           "id": "697497",
-          "title": "[🟢진행중/와토/45분 남음] 💎북중미 월드컵💎 뉴질랜드 (+1.5) vs 이집트 :: 6/22 :: AM 10시",
+          "title": "[🟢진행중/와토/39분 남음] 💎북중미 월드컵💎 뉴질랜드 (+1.5) vs 이집트 :: 6/22 :: AM 10시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/697497",
           "watoUrl": "https://ygosu.com/board/pan_ccy/697497/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "44분 28초 남음"
+          "statusText": "38분 12초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "697496",
-          "title": "[🟢진행중/와토/45분 남음] 💎북중미 월드컵💎 뉴질랜드 (+0.5) vs 이집트 :: 6/22 :: AM 10시",
+          "title": "[🟢진행중/와토/39분 남음] 💎북중미 월드컵💎 뉴질랜드 (+0.5) vs 이집트 :: 6/22 :: AM 10시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/697496",
           "watoUrl": "https://ygosu.com/board/pan_ccy/697496/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "44분 27초 남음"
+          "statusText": "38분 11초 남음"
         }
       ],
       "closed": [
@@ -34,7 +34,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "697876",
-          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 뉴욕메츠(+1.5) vs [H] 필라델피아 :: 6/22 :: 8시 20분",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 뉴욕메츠(+1.5) vs [H] 필라델피아 :: 6/22 :: 8시 20분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/697876",
           "watoUrl": "https://ygosu.com/board/pan_ccy/697876/?s_wato=Y",
           "tab": "closed",
@@ -61,78 +61,6 @@
           "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 보스턴 vs [H] 시애틀 :: 6/22 :: 5시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/697865",
           "watoUrl": "https://ygosu.com/board/pan_ccy/697865/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "697861",
-          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ LA에인절스 vs [H] 애슬레틱스 :: 6/22 :: 5시 5분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/697861",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/697861/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "697853",
-          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 샌디에이고 vs [H] 텍사스 :: 6/22 :: 3시 35분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/697853",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/697853/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "697846",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 샌프란시스코 vs [H] 마이애미 :: 6/22 :: 2시 40분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/697846",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/697846/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "697844",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 워싱턴 vs [H] 탬파베이 :: 6/22 :: 2시 40분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/697844",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/697844/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "697843",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 밀워키 vs [H] 애틀랜타 :: 6/22 :: 2시 35분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/697843",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/697843/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "697839",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 신시내티 vs [H] 뉴욕양키스 :: 6/22 :: 2시 35분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/697839",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/697839/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -375,6 +303,78 @@
           "title": "[🐢거북이게임🐢/와토/종료] 🐢🐢🐢 거북이 레이스 66회차 // 23:00 자동마감 🐢🐢🐢",
           "articleUrl": "https://ygosu.com/board/pan_ccy/697971",
           "watoUrl": "https://ygosu.com/board/pan_ccy/697971/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "697861",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ LA에인절스 vs [H] 애슬레틱스 :: 6/22 :: 5시 5분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/697861",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/697861/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "697853",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 샌디에이고 vs [H] 텍사스 :: 6/22 :: 3시 35분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/697853",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/697853/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "697846",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 샌프란시스코 vs [H] 마이애미 :: 6/22 :: 2시 40분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/697846",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/697846/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "697844",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 워싱턴 vs [H] 탬파베이 :: 6/22 :: 2시 40분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/697844",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/697844/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "697843",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 밀워키 vs [H] 애틀랜타 :: 6/22 :: 2시 35분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/697843",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/697843/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "697839",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 신시내티 vs [H] 뉴욕양키스 :: 6/22 :: 2시 35분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/697839",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/697839/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
