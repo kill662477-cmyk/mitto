@@ -1,34 +1,9 @@
 {
-  "checkedAt": "2026-06-22T02:50:34.789Z",
+  "checkedAt": "2026-06-22T03:00:47.261Z",
   "boards": {
     "mitto": {
       "live": [],
-      "closed": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "697497",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵💎 뉴질랜드 (+1.5) vs 이집트 :: 6/22 :: AM 10시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/697497",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/697497/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "697496",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵💎 뉴질랜드 (+0.5) vs 이집트 :: 6/22 :: AM 10시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/697496",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/697496/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
+      "closed": [],
       "result": [
         {
           "board": "mitto",
@@ -674,6 +649,30 @@
           "title": "[🐢거북이게임🐢/와토/종료] 🐢🐢🐢 거북이 레이스 14회차 // 14:10 자동마감 🐢🐢🐢",
           "articleUrl": "https://ygosu.com/board/pan_ccy/697540",
           "watoUrl": "https://ygosu.com/board/pan_ccy/697540/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "697497",
+          "title": "[🟡마감/와토/마감] 💎북중미 월드컵💎 뉴질랜드 (+1.5) vs 이집트 :: 6/22 :: AM 10시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/697497",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/697497/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "697496",
+          "title": "[🟡마감/와토/마감] 💎북중미 월드컵💎 뉴질랜드 (+0.5) vs 이집트 :: 6/22 :: AM 10시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/697496",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/697496/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
