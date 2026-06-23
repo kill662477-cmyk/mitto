@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-23T00:30:39.652Z",
+  "checkedAt": "2026-06-23T00:40:35.610Z",
   "boards": {
     "mitto": {
       "live": [
@@ -133,31 +133,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/698713/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 38분 남음"
+          "statusText": "1시간 28분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "698712",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾MLB⚾ 볼티모어(-1.5) vs [H]LA에인절스 :: 6/23 :: 10시 38분",
+          "title": "[🟢진행중/와토/57분 남음] ⚾MLB⚾ 볼티모어(-1.5) vs [H]LA에인절스 :: 6/23 :: 10시 38분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/698712",
           "watoUrl": "https://ygosu.com/board/pan_ccy/698712/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 6분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "698711",
-          "title": "[🟢진행중/와토/9분 남음] ⚾MLB⚾ 보스턴 vs [H]콜로라도 :: 6/23 :: 09시 40분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/698711",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/698711/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 32초 남음"
+          "statusText": "56분 57초 남음"
         },
         {
           "board": "mitto",
@@ -169,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/698446/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 27분 남음"
+          "statusText": "2시간 18분 남음"
         },
         {
           "board": "mitto",
@@ -181,10 +169,22 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/698445/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 27분 남음"
+          "statusText": "2시간 18분 남음"
         }
       ],
       "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "698711",
+          "title": "[🟢진행중/와토/마감] ⚾MLB⚾ 보스턴 vs [H]콜로라도 :: 6/23 :: 09시 40분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/698711",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/698711/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
