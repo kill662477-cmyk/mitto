@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-23T23:30:39.591Z",
+  "checkedAt": "2026-06-23T23:43:36.007Z",
   "boards": {
     "mitto": {
       "live": [
@@ -133,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/699521/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 28분 남음"
+          "statusText": "2시간 15분 남음"
         },
         {
           "board": "mitto",
@@ -145,55 +145,43 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/699475/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 13분 남음"
+          "statusText": "2시간 37초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "699474",
-          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 애틀랜타 vs [H]샌디에이고 :: 6/24 :: 10:40",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 애틀랜타 vs [H]샌디에이고 :: 6/24 :: 10:40",
           "articleUrl": "https://ygosu.com/board/pan_ccy/699474",
           "watoUrl": "https://ygosu.com/board/pan_ccy/699474/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 8분 남음"
+          "statusText": "1시간 55분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "699473",
-          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 볼티모어(-1.5) vs [H]LA에인절스 :: 6/24 :: 10:38",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 볼티모어(-1.5) vs [H]LA에인절스 :: 6/24 :: 10:38",
           "articleUrl": "https://ygosu.com/board/pan_ccy/699473",
           "watoUrl": "https://ygosu.com/board/pan_ccy/699473/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 6분 남음"
+          "statusText": "1시간 53분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "699472",
-          "title": "[🟢진행중/와토/14분 남음] ⚾ MLB ⚾ 애리조나 vs [H]세인트루이스 :: 6/24 :: 08:45",
+          "title": "[🟢진행중/와토/1분 남음] ⚾ MLB ⚾ 애리조나 vs [H]세인트루이스 :: 6/24 :: 08:45",
           "articleUrl": "https://ygosu.com/board/pan_ccy/699472",
           "watoUrl": "https://ygosu.com/board/pan_ccy/699472/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13분 30초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "699471",
-          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ LA다저스(-1.5) vs [H]미네소타 :: 6/24 :: 08:40",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/699471",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/699471/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 29초 남음"
+          "statusText": "34초 남음"
         },
         {
           "board": "mitto",
@@ -205,7 +193,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/699176/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 28분 남음"
+          "statusText": "2시간 15분 남음"
         }
       ],
       "closed": [
@@ -217,6 +205,18 @@
           "title": "⚾ MLB ⚾ 휴스턴 vs [H]토론토 ::...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/699466",
           "watoUrl": "https://ygosu.com/board/pan_ccy/699466/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "699471",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ LA다저스(-1.5) vs [H]미네소타 :: 6/24 :: 08:40",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/699471",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/699471/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -2159,7 +2159,7 @@
           "boardName": "숲게",
           "category": null,
           "id": "1732809",
-          "title": "🎯🎯 오늘 혜루방송 시청자수 8888명 언/오버 🎯🎯 (2)",
+          "title": "🎯🎯 오늘 혜루방송 시청자수 7777명 언/오버 🎯🎯 (2)",
           "articleUrl": "https://ygosu.com/board/soop/1732809",
           "watoUrl": "https://ygosu.com/board/soop/1732809/?s_wato=Y",
           "tab": "live",
