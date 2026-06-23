@@ -1,20 +1,8 @@
 {
-  "checkedAt": "2026-06-23T09:30:42.359Z",
+  "checkedAt": "2026-06-23T09:50:50.757Z",
   "boards": {
     "mitto": {
       "live": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "699282",
-          "title": "[🐢거북이게임🐢/와토/9분 남음] 🐢🐢 거북이 레이스 329회차 // 18:40 자동마감 🐢🐢",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/699282",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/699282/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "9분 11초 남음"
-        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -25,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/699177/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 28분 남음"
+          "statusText": "16시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/699176/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 28분 남음"
+          "statusText": "16시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/699175/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 28분 남음"
+          "statusText": "13시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/699174/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 28분 남음"
+          "statusText": "13시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/699173/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 28분 남음"
+          "statusText": "10시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/699172/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 28분 남음"
+          "statusText": "10시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/699171/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 28분 남음"
+          "statusText": "7시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/699170/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 28분 남음"
+          "statusText": "7시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -274,7 +262,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "699162",
-          "title": "[🟢진행중/와토/마감] ⚾ KBO ⚾ 두산(+1.5) vs [H] 한화 :: 6/23 :: 18시 30분",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 두산(+1.5) vs [H] 한화 :: 6/23 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/699162",
           "watoUrl": "https://ygosu.com/board/pan_ccy/699162/?s_wato=Y",
           "tab": "closed",
@@ -286,7 +274,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "699161",
-          "title": "[🟢진행중/와토/마감] ⚾ KBO ⚾ SSG(+0.5) vs [H] KT :: 6/23 :: 18시 30분",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ SSG(+0.5) vs [H] KT :: 6/23 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/699161",
           "watoUrl": "https://ygosu.com/board/pan_ccy/699161/?s_wato=Y",
           "tab": "closed",
@@ -299,8 +287,20 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
+          "id": "699282",
+          "title": "[🐢거북이게임🐢/와토/종료] 🐢🐢 거북이 레이스 329회차 // 18:40 자동마감 🐢🐢",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/699282",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/699282/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
           "id": "699281",
-          "title": "[🐢거북이게임🐢/와토/종료중] 🐢🐢 거북이 레이스 328회차 // 18:30 자동마감 🐢🐢",
+          "title": "[🐢거북이게임🐢/와토/종료] 🐢🐢 거북이 레이스 328회차 // 18:30 자동마감 🐢🐢",
           "articleUrl": "https://ygosu.com/board/pan_ccy/699281",
           "watoUrl": "https://ygosu.com/board/pan_ccy/699281/?s_wato=Y",
           "tab": "result",
@@ -2170,25 +2170,13 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1730751",
-          "title": "💎 뉴캄옥션 B조 1경기 최종승/패 이윤열팀 vs 전태규팀 💎",
-          "articleUrl": "https://ygosu.com/board/soop/1730751",
-          "watoUrl": "https://ygosu.com/board/soop/1730751/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
           "id": "1731174",
           "title": "[와토/7시간 남음] 🔥 월드컵 호날두 득점 O/X:: 02:00 마감 🔥",
           "articleUrl": "https://ygosu.com/board/soop/1731174",
           "watoUrl": "https://ygosu.com/board/soop/1731174/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 25분 남음"
+          "statusText": "7시간 5분 남음"
         },
         {
           "board": "soop",
@@ -2294,6 +2282,18 @@
           "title": "[와토/진행] 💎 뉴캄옥션 개인전 이윤열 vs 전태규 💎",
           "articleUrl": "https://ygosu.com/board/soop/1730752",
           "watoUrl": "https://ygosu.com/board/soop/1730752/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1730751",
+          "title": "[와토/진행] 💎 뉴캄옥션 B조 1경기 최종승/패 이윤열팀 vs 전태규팀 💎",
+          "articleUrl": "https://ygosu.com/board/soop/1730751",
+          "watoUrl": "https://ygosu.com/board/soop/1730751/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
