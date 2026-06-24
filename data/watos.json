@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-24T01:40:37.021Z",
+  "checkedAt": "2026-06-24T01:50:51.661Z",
   "boards": {
     "mitto": {
       "live": [
@@ -128,39 +128,39 @@
           "boardName": "미또게",
           "category": "football",
           "id": "699521",
-          "title": "[🟢진행중/와토/19분 남음] 💎북중미 월드컵💎 콜롬비아 (-1.5) vs DR콩고 :: 6/24 :: AM 11시",
+          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵💎 콜롬비아 (-1.5) vs DR콩고 :: 6/24 :: AM 11시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/699521",
           "watoUrl": "https://ygosu.com/board/pan_ccy/699521/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18분 57초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "699475",
-          "title": "[🟢진행중/와토/4분 남음] ⚾ MLB ⚾ 애슬레틱스 vs [H]샌프란시스코 :: 6/24 :: 10:45",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/699475",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/699475/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "3분 37초 남음"
+          "statusText": "8분 40초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "699176",
-          "title": "[🟢진행중/와토/19분 남음] 💎북중미 월드컵💎 콜롬비아 (-0.5) vs DR콩고 :: 6/24 :: AM 11시",
+          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵💎 콜롬비아 (-0.5) vs DR콩고 :: 6/24 :: AM 11시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/699176",
           "watoUrl": "https://ygosu.com/board/pan_ccy/699176/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18분 12초 남음"
+          "statusText": "7분 54초 남음"
         }
       ],
       "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "699475",
+          "title": "⚾ MLB ⚾ 애슬레틱스 vs [H]샌프...",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/699475",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/699475/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
