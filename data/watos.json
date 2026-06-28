@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-28T20:03:19.699Z",
+  "checkedAt": "2026-06-28T20:10:33.553Z",
   "boards": {
     "mitto": {
       "live": [
@@ -85,31 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703624/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 15분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "703623",
-          "title": "[🟢진행중/와토/6분 남음] ⚾ MLB ⚾ LA다저스 (-1.5) vs [H]샌디에이고 :: 6/29 : 05시 10분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/703623",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/703623/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "5분 49초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "703622",
-          "title": "[🟢진행중/와토/1분 남음] ⚾ MLB ⚾ 애틀랜타 (-1.5) vs [H]샌프란시스코 :: 6/29 : 05시 05분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/703622",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/703622/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "48초 남음"
+          "statusText": "3시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -125,6 +101,30 @@
         }
       ],
       "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "703623",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ LA다저스 (-1.5) vs [H]샌디에이고 :: 6/29 : 05시 10분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/703623",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/703623/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "703622",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 애틀랜타 (-1.5) vs [H]샌프란시스코 :: 6/29 : 05시 05분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/703622",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/703622/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -2248,7 +2248,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1752123/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 23분 남음"
+          "statusText": "7시간 15분 남음"
         }
       ],
       "closed": [],
