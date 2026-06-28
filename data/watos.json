@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-28T08:20:31.837Z",
+  "checkedAt": "2026-06-28T08:30:42.315Z",
   "boards": {
     "mitto": {
       "live": [
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703589/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 29분 남음"
+          "statusText": "1시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -37,91 +37,79 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703588/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 19분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "703587",
-          "title": "[와토/1시간 남음] 🐢 거북이 레이스(5인용) 22회차 // 18:30 자동마감 🐢",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/703587",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/703587/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
           "statusText": "1시간 9분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
+          "id": "703587",
+          "title": "[와토/59분 남음] 🐢 거북이 레이스(5인용) 22회차 // 18:30 자동마감 🐢",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/703587",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/703587/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "59분 9초 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
           "id": "703586",
-          "title": "[와토/59분 남음] 🐢 거북이 레이스(5인용) 21회차 // 18:20 자동마감 🐢",
+          "title": "[와토/49분 남음] 🐢 거북이 레이스(5인용) 21회차 // 18:20 자동마감 🐢",
           "articleUrl": "https://ygosu.com/board/pan_ccy/703586",
           "watoUrl": "https://ygosu.com/board/pan_ccy/703586/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "59분 18초 남음"
+          "statusText": "49분 8초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
           "id": "703585",
-          "title": "[와토/49분 남음] 🐢 거북이 레이스(5인용) 20회차 // 18:10 자동마감 🐢",
+          "title": "[와토/39분 남음] 🐢 거북이 레이스(5인용) 20회차 // 18:10 자동마감 🐢",
           "articleUrl": "https://ygosu.com/board/pan_ccy/703585",
           "watoUrl": "https://ygosu.com/board/pan_ccy/703585/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "49분 17초 남음"
+          "statusText": "39분 7초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
           "id": "703584",
-          "title": "[와토/39분 남음] 🐢 거북이 레이스(5인용) 19회차 // 18:00 자동마감 🐢",
+          "title": "[와토/29분 남음] 🐢 거북이 레이스(5인용) 19회차 // 18:00 자동마감 🐢",
           "articleUrl": "https://ygosu.com/board/pan_ccy/703584",
           "watoUrl": "https://ygosu.com/board/pan_ccy/703584/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "39분 16초 남음"
+          "statusText": "29분 7초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
           "id": "703583",
-          "title": "[와토/29분 남음] 🐢 거북이 레이스(5인용) 18회차 // 17:50 자동마감 🐢",
+          "title": "[와토/19분 남음] 🐢 거북이 레이스(5인용) 18회차 // 17:50 자동마감 🐢",
           "articleUrl": "https://ygosu.com/board/pan_ccy/703583",
           "watoUrl": "https://ygosu.com/board/pan_ccy/703583/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "29분 15초 남음"
+          "statusText": "19분 6초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
           "id": "703582",
-          "title": "[와토/19분 남음] 🐢 거북이 레이스(5인용) 17회차 // 17:40 자동마감 🐢",
+          "title": "[와토/9분 남음] 🐢 거북이 레이스(5인용) 17회차 // 17:40 자동마감 🐢",
           "articleUrl": "https://ygosu.com/board/pan_ccy/703582",
           "watoUrl": "https://ygosu.com/board/pan_ccy/703582/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "19분 15초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "703581",
-          "title": "[와토/9분 남음] 🐢 거북이 레이스(5인용) 16회차 // 17:30 자동마감 🐢",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/703581",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/703581/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "9분 14초 남음"
+          "statusText": "9분 5초 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703191/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 39분 남음"
+          "statusText": "10시간 28분 남음"
         },
         {
           "board": "mitto",
@@ -145,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703190/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 39분 남음"
+          "statusText": "10시간 28분 남음"
         },
         {
           "board": "mitto",
@@ -157,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703189/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 39분 남음"
+          "statusText": "10시간 28분 남음"
         },
         {
           "board": "mitto",
@@ -169,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703188/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 39분 남음"
+          "statusText": "10시간 28분 남음"
         }
       ],
       "closed": [
@@ -236,35 +224,11 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "etc",
-          "id": "702831",
-          "title": "🏆MSI또또🏆최종 승/패: KC (-2.5)...",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/702831",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/702831/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
           "category": "baseball",
           "id": "702782",
           "title": "[🦑미징어게임🦑/와토/마감] 🦑미징어 KBO🦑 기아 (-0.5) vs 두산 ::: 17:00",
           "articleUrl": "https://ygosu.com/board/pan_ccy/702782",
           "watoUrl": "https://ygosu.com/board/pan_ccy/702782/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "702775",
-          "title": "[🦑미징어게임🦑/와토/마감] 🦑미징어 MSI🦑 카르민코프 (-2.5) vs 딥크로스 ::: 17:00 BO.5",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/702775",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/702775/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -323,8 +287,20 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
+          "id": "703581",
+          "title": "[와토/종료] 🐢 거북이 레이스(5인용) 16회차 // 17:30 자동마감 🐢",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/703581",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/703581/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
           "id": "703580",
-          "title": "[와토/마감] 🐢 거북이 레이스(5인용) 15회차 // 17:20 자동마감 🐢",
+          "title": "[와토/종료] 🐢 거북이 레이스(5인용) 15회차 // 17:20 자동마감 🐢",
           "articleUrl": "https://ygosu.com/board/pan_ccy/703580",
           "watoUrl": "https://ygosu.com/board/pan_ccy/703580/?s_wato=Y",
           "tab": "result",
@@ -375,6 +351,18 @@
           "title": "[🐢거북이게임🐢/와토/종료] 🐢 거북이 레이스(5인용) 922회차 // 21:30 자동마감 🐢",
           "articleUrl": "https://ygosu.com/board/pan_ccy/702910",
           "watoUrl": "https://ygosu.com/board/pan_ccy/702910/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "702831",
+          "title": "🏆MSI또또🏆최종 승/패: KC (-2.5)...",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/702831",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/702831/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -651,6 +639,18 @@
           "title": "[🦑미징어게임🦑/와토/종료] 🦑미징어 MLB🦑 필라델피아 (+1.5) vs 뉴욕메츠 ::: 05:10",
           "articleUrl": "https://ygosu.com/board/pan_ccy/702784",
           "watoUrl": "https://ygosu.com/board/pan_ccy/702784/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "702775",
+          "title": "[🦑미징어게임🦑/와토/종료] 🦑미징어 MSI🦑 카르민코프 (-2.5) vs 딥크로스 ::: 17:00 BO.5",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/702775",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/702775/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
