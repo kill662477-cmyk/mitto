@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-28T14:30:39.630Z",
+  "checkedAt": "2026-06-28T14:40:35.283Z",
   "boards": {
     "mitto": {
       "live": [
@@ -102,18 +102,6 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "star",
-          "id": "703730",
-          "title": "[와토/진행] 🌠메프 2세트 🌠 2경기: 짭제팀 vs 제동팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/703730",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/703730/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
           "category": "etc",
           "id": "703643",
           "title": "[🟢진행중/와토/진행] 🏆MSI또또🏆팀리퀴드(-2.5) vs DCG 풀세트 ::: BO5 앞경기이후시작",
@@ -193,7 +181,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703624/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 48분 남음"
+          "statusText": "8시간 38분 남음"
         },
         {
           "board": "mitto",
@@ -205,7 +193,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703623/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 38분 남음"
+          "statusText": "5시간 28분 남음"
         },
         {
           "board": "mitto",
@@ -217,7 +205,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703622/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 33분 남음"
+          "statusText": "5시간 23분 남음"
         },
         {
           "board": "mitto",
@@ -229,7 +217,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703621/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 43분 남음"
+          "statusText": "4시간 33분 남음"
         },
         {
           "board": "mitto",
@@ -241,7 +229,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703620/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 43분 남음"
+          "statusText": "3시간 33분 남음"
         },
         {
           "board": "mitto",
@@ -253,7 +241,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703619/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 38분 남음"
+          "statusText": "3시간 28분 남음"
         },
         {
           "board": "mitto",
@@ -265,43 +253,43 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703618/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 38분 남음"
+          "statusText": "3시간 28분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "703617",
-          "title": "[🟢진행중/와토/3시간 남음] ⚾ MLB ⚾ 필라델피아 (-1.5) vs [H]뉴욕메츠 :: 6/29 :: 02시 40분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 필라델피아 (-1.5) vs [H]뉴욕메츠 :: 6/29 :: 02시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/703617",
           "watoUrl": "https://ygosu.com/board/pan_ccy/703617/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 8분 남음"
+          "statusText": "2시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "703616",
-          "title": "[🟢진행중/와토/3시간 남음] ⚾ MLB ⚾ 애리조나 (+1.5) vs [H]탬파베이 :: 6/29 :: 02시 40분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 애리조나 (+1.5) vs [H]탬파베이 :: 6/29 :: 02시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/703616",
           "watoUrl": "https://ygosu.com/board/pan_ccy/703616/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 8분 남음"
+          "statusText": "2시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "703615",
-          "title": "[🟢진행중/와토/3시간 남음] ⚾ MLB ⚾ 텍사스 vs [H]토론토 :: 6/29 :: 02시 37분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 텍사스 vs [H]토론토 :: 6/29 :: 02시 37분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/703615",
           "watoUrl": "https://ygosu.com/board/pan_ccy/703615/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 5분 남음"
+          "statusText": "2시간 55분 남음"
         },
         {
           "board": "mitto",
@@ -325,7 +313,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703191/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 28분 남음"
+          "statusText": "4시간 18분 남음"
         },
         {
           "board": "mitto",
@@ -337,7 +325,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703190/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 28분 남음"
+          "statusText": "4시간 18분 남음"
         },
         {
           "board": "mitto",
@@ -349,7 +337,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703189/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 28분 남음"
+          "statusText": "4시간 18분 남음"
         },
         {
           "board": "mitto",
@@ -361,7 +349,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703188/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 28분 남음"
+          "statusText": "4시간 18분 남음"
         }
       ],
       "closed": [
@@ -369,16 +357,28 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
-          "id": "703729",
-          "title": "[와토/마감] 🌠메프 2세트 🌠 1경기: 정우 vs 수철",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/703729",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/703729/?s_wato=Y",
+          "id": "703730",
+          "title": "[와토/마감] 🌠메프 2세트 🌠 2경기: 짭제 vs 수철",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/703730",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/703730/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "703729",
+          "title": "[와토/종료] 🌠메프 2세트 🌠 1경기: 정우 vs 수철",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/703729",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/703729/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -2243,13 +2243,25 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
+          "id": "1752196",
+          "title": "🎯🎯월요일 국토방송 철구형 방송 시청자수 7777 언/오버 🎯🎯 (5)",
+          "articleUrl": "https://ygosu.com/board/soop/1752196",
+          "watoUrl": "https://ygosu.com/board/soop/1752196/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
           "id": "1752123",
           "title": "🔥월요일 철구형 국토게스트 맞추기🔥 (6)",
           "articleUrl": "https://ygosu.com/board/soop/1752123",
           "watoUrl": "https://ygosu.com/board/soop/1752123/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 55분 남음"
+          "statusText": "12시간 45분 남음"
         }
       ],
       "closed": [],
