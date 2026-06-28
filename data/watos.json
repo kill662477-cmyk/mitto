@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-28T05:20:34.184Z",
+  "checkedAt": "2026-06-28T05:30:40.031Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703275/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 39분 남음"
+          "statusText": "2시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703274/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 39분 남음"
+          "statusText": "2시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703273/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 39분 남음"
+          "statusText": "2시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703272/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 39분 남음"
+          "statusText": "2시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703270/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 39분 남음"
+          "statusText": "2시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703269/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 39분 남음"
+          "statusText": "2시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703191/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 39분 남음"
+          "statusText": "13시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703190/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 39분 남음"
+          "statusText": "13시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703189/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 39분 남음"
+          "statusText": "13시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/703188/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 39분 남음"
+          "statusText": "13시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -138,30 +138,6 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "etc",
-          "id": "702826",
-          "title": "[🟢진행중/와토/진행] 🏆MSI또또🏆5세트: T1 (-11.5) vs 팀리퀴드 :: 일 :: 12시 BO.5",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/702826",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/702826/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "702825",
-          "title": "[🟢진행중/와토/진행] 🏆MSI또또🏆4세트: T1 (-11.5) vs 팀리퀴드 :: 일 :: 12시 BO.5",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/702825",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/702825/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
           "category": "baseball",
           "id": "702782",
           "title": "[🦑미징어게임🦑/와토/2시간 남음] 🦑미징어 KBO🦑 기아 (-0.5) vs 두산 ::: 17:00",
@@ -169,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/702782/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 38분 남음"
+          "statusText": "2시간 28분 남음"
         },
         {
           "board": "mitto",
@@ -181,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/702775/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 38분 남음"
+          "statusText": "2시간 28분 남음"
         },
         {
           "board": "mitto",
@@ -193,7 +169,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/702767/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 38분 남음"
+          "statusText": "2시간 28분 남음"
         },
         {
           "board": "mitto",
@@ -205,7 +181,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/702766/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 38분 남음"
+          "statusText": "2시간 28분 남음"
         },
         {
           "board": "mitto",
@@ -217,7 +193,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/702765/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 38분 남음"
+          "statusText": "2시간 28분 남음"
         },
         {
           "board": "mitto",
@@ -229,46 +205,10 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/702764/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 38분 남음"
+          "statusText": "2시간 28분 남음"
         }
       ],
       "closed": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "702824",
-          "title": "🏆MSI또또🏆3세트: T1 (-11.5) vs ...",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/702824",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/702824/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "702821",
-          "title": "[🟡마감/와토/마감] 🏆MSI또또🏆최종 승/패: T1 (-2.5) vs 팀리퀴드 :일: 12시 BO5 (B)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/702821",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/702821/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "702820",
-          "title": "[🟡마감/와토/마감] 🏆MSI또또🏆최종 승/패: T1 (-2.5) vs 팀리퀴드 :일: 12시 BO5 (A)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/702820",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/702820/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -466,6 +406,18 @@
         {
           "board": "mitto",
           "boardName": "미또게",
+          "category": "etc",
+          "id": "702824",
+          "title": "🏆MSI또또🏆3세트: T1 (-11.5) vs ...",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/702824",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/702824/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
           "category": "baseball",
           "id": "702852",
           "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 텍사스 (+1.5) vs [H]토론토 :: 6/28 :: 04시 07분",
@@ -507,6 +459,30 @@
           "title": "[🔴결과/와토/종료] 🏆MSI또또🏆1세트: T1 (-11.5) vs 팀리퀴드 :: 일 :: 12시 BO.5",
           "articleUrl": "https://ygosu.com/board/pan_ccy/702822",
           "watoUrl": "https://ygosu.com/board/pan_ccy/702822/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "702821",
+          "title": "[🔴결과/와토/종료] 🏆MSI또또🏆최종 승/패: T1 (-2.5) vs 팀리퀴드 :일: 12시 BO5 (B)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/702821",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/702821/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "702820",
+          "title": "[🔴결과/와토/종료] 🏆MSI또또🏆최종 승/패: T1 (-2.5) vs 팀리퀴드 :일: 12시 BO5 (A)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/702820",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/702820/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
