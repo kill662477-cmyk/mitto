@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-28T23:00:44.224Z",
+  "checkedAt": "2026-06-28T23:10:34.890Z",
   "boards": {
     "mitto": {
       "live": [
@@ -80,12 +80,12 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "703624",
-          "title": "[🟢진행중/와토/19분 남음] ⚾ MLB ⚾ 뉴욕양키스 vs [H]보스턴 :: 6/29 :: 08시 20분",
+          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ 뉴욕양키스 vs [H]보스턴 :: 6/29 :: 08시 20분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/703624",
           "watoUrl": "https://ygosu.com/board/pan_ccy/703624/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18분 24초 남음"
+          "statusText": "8분 32초 남음"
         },
         {
           "board": "mitto",
@@ -2248,7 +2248,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1752123/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 25분 남음"
+          "statusText": "4시간 15분 남음"
         }
       ],
       "closed": [],
