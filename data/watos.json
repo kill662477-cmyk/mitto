@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-06-29T08:20:33.180Z",
+  "checkedAt": "2026-06-29T08:30:33.196Z",
   "boards": {
     "mitto": {
       "live": [
@@ -145,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/704098/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 39분 남음"
+          "statusText": "16시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -157,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/704097/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 39분 남음"
+          "statusText": "16시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -169,43 +169,43 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/704096/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 39분 남음"
+          "statusText": "16시간 29분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "704095",
-          "title": "[🟢진행중/와토/12시간 남음] 💎북중미 월드컵💎 독일 (-2.5) vs 파라과이 : 6/30 : AM 05시30분",
+          "title": "[🟢진행중/와토/11시간 남음] 💎북중미 월드컵💎 독일 (-2.5) vs 파라과이 : 6/30 : AM 05시30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/704095",
           "watoUrl": "https://ygosu.com/board/pan_ccy/704095/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 9분 남음"
+          "statusText": "11시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "704094",
-          "title": "[🟢진행중/와토/12시간 남음] 💎북중미 월드컵💎 독일 (-1.5) vs 파라과이 :6/30: AM 05시30분 (B)",
+          "title": "[🟢진행중/와토/11시간 남음] 💎북중미 월드컵💎 독일 (-1.5) vs 파라과이 :6/30: AM 05시30분 (B)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/704094",
           "watoUrl": "https://ygosu.com/board/pan_ccy/704094/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 9분 남음"
+          "statusText": "11시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "704093",
-          "title": "[🟢진행중/와토/12시간 남음] 💎북중미 월드컵💎 독일 (-1.5) vs 파라과이 :6/30: AM 05시30분 (A)",
+          "title": "[🟢진행중/와토/11시간 남음] 💎북중미 월드컵💎 독일 (-1.5) vs 파라과이 :6/30: AM 05시30분 (A)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/704093",
           "watoUrl": "https://ygosu.com/board/pan_ccy/704093/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 9분 남음"
+          "statusText": "11시간 59분 남음"
         },
         {
           "board": "mitto",
@@ -217,7 +217,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/704092/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 39분 남음"
+          "statusText": "8시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -229,7 +229,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/704091/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 39분 남음"
+          "statusText": "8시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -241,7 +241,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/704090/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 39분 남음"
+          "statusText": "8시간 29분 남음"
         }
       ],
       "closed": [],
@@ -2267,18 +2267,6 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1753505",
-          "title": "💎 철구형 5시 방송 혐현동 vs 가좌동 💎 (4)",
-          "articleUrl": "https://ygosu.com/board/soop/1753505",
-          "watoUrl": "https://ygosu.com/board/soop/1753505/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
           "id": "1753461",
           "title": "🎯🎯월요일 철구방송 시청자수 12000 언/오버 🎯🎯 (5)",
           "articleUrl": "https://ygosu.com/board/soop/1753461",
@@ -2289,6 +2277,18 @@
         }
       ],
       "result": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1753505",
+          "title": "[와토/종료] 💎 철구형 5시 방송 혐현동 vs 가좌동 💎",
+          "articleUrl": "https://ygosu.com/board/soop/1753505",
+          "watoUrl": "https://ygosu.com/board/soop/1753505/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
