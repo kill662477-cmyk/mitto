@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-01T00:30:34.706Z",
+  "checkedAt": "2026-07-01T00:40:30.952Z",
   "boards": {
     "mitto": {
       "live": [
@@ -128,24 +128,24 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "705518",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ LA다저스(-1.5) vs [H] 애슬레틱스 :: 7/1 :: 10시 40분",
+          "title": "[🟢진행중/와토/59분 남음] ⚾ MLB ⚾ LA다저스(-1.5) vs [H] 애슬레틱스 :: 7/1 :: 10시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/705518",
           "watoUrl": "https://ygosu.com/board/pan_ccy/705518/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 9분 남음"
+          "statusText": "59분 14초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "705514",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 샌프란시스코 vs [H] 애리조나 :: 7/1 :: 10시 40분",
+          "title": "[🟢진행중/와토/59분 남음] ⚾ MLB ⚾ 샌프란시스코 vs [H] 애리조나 :: 7/1 :: 10시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/705514",
           "watoUrl": "https://ygosu.com/board/pan_ccy/705514/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 9분 남음"
+          "statusText": "59분 13초 남음"
         },
         {
           "board": "mitto",
@@ -236,36 +236,36 @@
           "boardName": "미또게",
           "category": "football",
           "id": "704930",
-          "title": "[🟢진행중/와토/29분 남음] 💎북중미 월드컵💎 멕시코 vs 에콰도르 :: 7/1 :: AM 10시 (노핸디매치)",
+          "title": "[🟢진행중/와토/19분 남음] 💎북중미 월드컵💎 멕시코 vs 에콰도르 :: 7/1 :: AM 10시 (노핸디매치)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/704930",
           "watoUrl": "https://ygosu.com/board/pan_ccy/704930/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "28분 15초 남음"
+          "statusText": "18분 23초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "704929",
-          "title": "[🟢진행중/와토/29분 남음] 💎북중미 월드컵💎 멕시코 (-0.5) vs 에콰도르 : 7/1 : AM 10시 (B)",
+          "title": "[🟢진행중/와토/19분 남음] 💎북중미 월드컵💎 멕시코 (-0.5) vs 에콰도르 : 7/1 : AM 10시 (B)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/704929",
           "watoUrl": "https://ygosu.com/board/pan_ccy/704929/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "28분 14초 남음"
+          "statusText": "18분 22초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "704928",
-          "title": "[🟢진행중/와토/29분 남음] 💎북중미 월드컵💎 멕시코 (-0.5) vs 에콰도르 : 7/1 : AM 10시 (A)",
+          "title": "[🟢진행중/와토/19분 남음] 💎북중미 월드컵💎 멕시코 (-0.5) vs 에콰도르 : 7/1 : AM 10시 (A)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/704928",
           "watoUrl": "https://ygosu.com/board/pan_ccy/704928/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "28분 13초 남음"
+          "statusText": "18분 21초 남음"
         }
       ],
       "closed": [
@@ -1039,6 +1039,18 @@
           "title": "[또또/와토/진행] 🎮뉴캄옥션 네오학버드팀 vs S급친구들팀🎮 5경기",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1651896",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1651896/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1651895",
+          "title": "[또또/와토/진행] 🎮뉴캄옥션 네오학버드팀 vs S급친구들팀🎮 4경기",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1651895",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1651895/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
