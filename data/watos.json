@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-04T07:40:33.181Z",
+  "checkedAt": "2026-07-04T07:50:47.803Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/708796/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 19분 남음"
+          "statusText": "13시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/708795/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 19분 남음"
+          "statusText": "13시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/708794/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 19분 남음"
+          "statusText": "13시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/708793/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 19분 남음"
+          "statusText": "13시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/708792/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 19분 남음"
+          "statusText": "9시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/708791/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 19분 남음"
+          "statusText": "9시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/708790/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 19분 남음"
+          "statusText": "9시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/708780/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 19분 남음"
+          "statusText": "1시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/708779/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 19분 남음"
+          "statusText": "1시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/708778/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 19분 남음"
+          "statusText": "1시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/708777/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 19분 남음"
+          "statusText": "1시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -145,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/708776/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 19분 남음"
+          "statusText": "1시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -218,18 +218,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "707828",
-          "title": "[🟢진행중/와토/진행] 🏆뉴캄옥션 개인전🏆6경기: 김윤환Z vs 왜냐맨P ::: BO.9",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/707828",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/707828/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
         }
       ],
       "closed": [
@@ -285,10 +273,10 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
-          "id": "707829",
-          "title": "[🟡마감/와토/마감] 🏆뉴캄옥션 개인전🏆5경기: 시조새P vs 박듀듀P ::: BO.9",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/707829",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/707829/?s_wato=Y",
+          "id": "707828",
+          "title": "[🟢진행중/와토/진행] 🏆뉴캄옥션 개인전🏆6경기: 김윤환Z vs 왜냐맨P ::: BO.9",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/707828",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/707828/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -743,6 +731,18 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
+          "id": "707829",
+          "title": "[🔴결과/와토/종료] 🏆뉴캄옥션 개인전🏆5경기: 시조새P vs 박듀듀P ::: BO.9",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/707829",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/707829/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
           "id": "707827",
           "title": "[🔴결과/와토/종료] 🏆뉴캄옥션 개인전🏆4경기: 철구Z vs 전태규P ::: BO.9",
           "articleUrl": "https://ygosu.com/board/pan_ccy/707827",
@@ -1143,18 +1143,6 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1661632",
-          "title": "[또또/와토/진행] 🔥뉴캄옥션 결승 족암새퉤퉤퉤vs s급친구들 개인전와토 6경기 김윤환vs 장민철🔥",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1661632",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1661632/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
           "id": "1623624",
           "title": "[와토/진행] 🎆족암새퉤퉤퉤 VS 참교육 🎆에이스 결정전",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1623624",
@@ -1169,10 +1157,10 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1661626",
-          "title": "[또또/와토/마감] 🔥뉴캄옥션 결승 족암새퉤퉤퉤vs s급친구들 개인전와토 5경기 시조새vs박듀듀🔥",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1661626",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1661626/?s_wato=Y",
+          "id": "1661632",
+          "title": "[또또/와토/마감] 🔥뉴캄옥션 결승 족암새퉤퉤퉤vs s급친구들 개인전와토 6경기 김윤환vs 장민철🔥",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1661632",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1661632/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -1203,6 +1191,18 @@
         }
       ],
       "result": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1661626",
+          "title": "[또또/와토/종료] 🔥뉴캄옥션 결승 족암새퉤퉤퉤vs s급친구들 개인전와토 5경기 시조새vs박듀듀🔥",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1661626",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1661626/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -2171,10 +2171,10 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1766256",
-          "title": "🧊 뉴캄옥션 개인전 7세트(핀볼) ??? vs ??? [폴리] 🧊",
-          "articleUrl": "https://ygosu.com/board/soop/1766256",
-          "watoUrl": "https://ygosu.com/board/soop/1766256/?s_wato=Y",
+          "id": "1766258",
+          "title": "🧊 뉴캄옥션 개인전 8세트(핀볼) ??? vs ??? [라데온] 🧊",
+          "articleUrl": "https://ygosu.com/board/soop/1766258",
+          "watoUrl": "https://ygosu.com/board/soop/1766258/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -2183,10 +2183,10 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1766238",
-          "title": "🧊 뉴캄옥션 개인전 6세트 Z김윤환 vs P왜냐맨 [녹아웃] 🧊",
-          "articleUrl": "https://ygosu.com/board/soop/1766238",
-          "watoUrl": "https://ygosu.com/board/soop/1766238/?s_wato=Y",
+          "id": "1766256",
+          "title": "🧊 뉴캄옥션 개인전 7세트(핀볼) ??? vs ??? [폴리] 🧊",
+          "articleUrl": "https://ygosu.com/board/soop/1766256",
+          "watoUrl": "https://ygosu.com/board/soop/1766256/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -2250,21 +2250,21 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
+        }
+      ],
+      "closed": [
         {
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1766258",
-          "title": "[와토/진행] 🧊 뉴캄옥션 개인전 8세트(핀볼) ??? vs ??? [라데온] 🧊",
-          "articleUrl": "https://ygosu.com/board/soop/1766258",
-          "watoUrl": "https://ygosu.com/board/soop/1766258/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        }
-      ],
-      "closed": [
+          "id": "1766238",
+          "title": "[와토/마감] 🧊 뉴캄옥션 개인전 6세트 Z김윤환 vs P왜냐맨 [녹아웃] 🧊",
+          "articleUrl": "https://ygosu.com/board/soop/1766238",
+          "watoUrl": "https://ygosu.com/board/soop/1766238/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
