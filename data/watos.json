@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-05T07:20:33.286Z",
+  "checkedAt": "2026-07-05T07:30:39.420Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/709925/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 39분 남음"
+          "statusText": "1시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/709924/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 39분 남음"
+          "statusText": "1시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/709923/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 39분 남음"
+          "statusText": "1시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/709922/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 39분 남음"
+          "statusText": "1시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/709888/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 39분 남음"
+          "statusText": "16시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/709887/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 39분 남음"
+          "statusText": "16시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/709886/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 39분 남음"
+          "statusText": "16시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/709885/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 39분 남음"
+          "statusText": "16시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/709884/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 39분 남음"
+          "statusText": "12시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/709883/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 39분 남음"
+          "statusText": "12시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/709882/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 39분 남음"
+          "statusText": "12시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -145,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/709881/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 39분 남음"
+          "statusText": "12시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -217,18 +217,6 @@
           "title": "🏆MSI 본선🏆최종 승/패: 한화 (-2...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/709267",
           "watoUrl": "https://ygosu.com/board/pan_ccy/709267/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "709269",
-          "title": "[🟡마감/와토/마감] 🏆MSI 개별🏆1세트: 한화 (-8.5) vs G2 ::: 💥킬핸디확인💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/709269",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/709269/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -639,6 +627,18 @@
           "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 피츠버그(-1.5) vs [H] 워싱턴 :: 7/5 :: AM 0시 5분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/709313",
           "watoUrl": "https://ygosu.com/board/pan_ccy/709313/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "709269",
+          "title": "[🔴결과/와토/종료] 🏆MSI 개별🏆1세트: 한화 (-8.5) vs G2 ::: 💥킬핸디확인💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/709269",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/709269/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -1065,7 +1065,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1652348/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 37분 남음"
+          "statusText": "7시간 27분 남음"
         },
         {
           "board": "monstarz",
@@ -2159,24 +2159,24 @@
           "boardName": "숲게",
           "category": null,
           "id": "1766469",
-          "title": "[와토/35분 남음] 🧊 엑셀 3회차 철구형 기여도 15만개 언/옵 🧊",
+          "title": "[와토/25분 남음] 🧊 엑셀 3회차 철구형 기여도 15만개 언/옵 🧊",
           "articleUrl": "https://ygosu.com/board/soop/1766469",
           "watoUrl": "https://ygosu.com/board/soop/1766469/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "35분 38초 남음"
+          "statusText": "25분 34초 남음"
         },
         {
           "board": "soop",
           "boardName": "숲게",
           "category": null,
           "id": "1766456",
-          "title": "[와토/35분 남음] 🧊 엑셀 3회차 용병 기여도 2등 맞추기 🧊",
+          "title": "[와토/25분 남음] 🧊 엑셀 3회차 용병 기여도 2등 맞추기 🧊",
           "articleUrl": "https://ygosu.com/board/soop/1766456",
           "watoUrl": "https://ygosu.com/board/soop/1766456/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "35분 37초 남음"
+          "statusText": "25분 33초 남음"
         }
       ],
       "closed": [],
