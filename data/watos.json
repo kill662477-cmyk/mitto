@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-06T08:20:33.611Z",
+  "checkedAt": "2026-07-06T08:30:38.705Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/710377/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 39분 남음"
+          "statusText": "3시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/710838/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 39분 남음"
+          "statusText": "15시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/710837/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 39분 남음"
+          "statusText": "15시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/710836/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 39분 남음"
+          "statusText": "15시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/710835/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 39분 남음"
+          "statusText": "15시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/710834/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 39분 남음"
+          "statusText": "10시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/710833/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 39분 남음"
+          "statusText": "10시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/710832/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 39분 남음"
+          "statusText": "10시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/710831/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 39분 남음"
+          "statusText": "10시간 29분 남음"
         }
       ],
       "closed": [],
@@ -2171,10 +2171,10 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1779681",
-          "title": "🧊 스타단판 Z철구 vs T홍구부종 승/패 [라데온] 🧊",
-          "articleUrl": "https://ygosu.com/board/soop/1779681",
-          "watoUrl": "https://ygosu.com/board/soop/1779681/?s_wato=Y",
+          "id": "1779804",
+          "title": "🧊 스타단판 Z철구 vs T홍구테란 승/패 [실피드] 🧊 (1)",
+          "articleUrl": "https://ygosu.com/board/soop/1779804",
+          "watoUrl": "https://ygosu.com/board/soop/1779804/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -2193,6 +2193,18 @@
         }
       ],
       "result": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1779681",
+          "title": "[와토/종료] 🧊 스타단판 Z철구 vs T홍구부종 승/패 [라데온] 🧊",
+          "articleUrl": "https://ygosu.com/board/soop/1779681",
+          "watoUrl": "https://ygosu.com/board/soop/1779681/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
@@ -2945,18 +2957,6 @@
           "title": "[와토/종료] 🔥 월드컵 호날두 득점 O/X:: 02:00 마감 🔥",
           "articleUrl": "https://ygosu.com/board/soop/1731174",
           "watoUrl": "https://ygosu.com/board/soop/1731174/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1730854",
-          "title": "[와토/종료] 🔥화요일 철구형 휴방 VS 노휴방:: 13시 마감🔥",
-          "articleUrl": "https://ygosu.com/board/soop/1730854",
-          "watoUrl": "https://ygosu.com/board/soop/1730854/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
