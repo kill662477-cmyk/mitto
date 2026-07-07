@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-07T22:50:35.153Z",
+  "checkedAt": "2026-07-07T23:00:50.691Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/712035/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 19분 남음"
+          "statusText": "3시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/712034/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 54분 남음"
+          "statusText": "2시간 44분 남음"
         },
         {
           "board": "mitto",
@@ -37,43 +37,43 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/712033/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 49분 남음"
+          "statusText": "2시간 39분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "712032",
-          "title": "[🟢진행중/와토/49분 남음] ⚾ MLB ⚾ 클리블랜드 vs [H]미네소타 :: 7/8 :: 08시 40분",
+          "title": "[🟢진행중/와토/39분 남음] ⚾ MLB ⚾ 클리블랜드 vs [H]미네소타 :: 7/8 :: 08시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/712032",
           "watoUrl": "https://ygosu.com/board/pan_ccy/712032/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "49분 16초 남음"
+          "statusText": "39분 1초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "712031",
-          "title": "[🟢진행중/와토/49분 남음] ⚾ MLB ⚾ 보스턴 vs [H]시카고W :: 7/8 :: 08시 40분",
+          "title": "[🟢진행중/와토/39분 남음] ⚾ MLB ⚾ 보스턴 vs [H]시카고W :: 7/8 :: 08시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/712031",
           "watoUrl": "https://ygosu.com/board/pan_ccy/712031/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "49분 15초 남음"
+          "statusText": "39분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "712030",
-          "title": "[🟢진행중/와토/19분 남음] ⚾ MLB ⚾ 필라델피아 (-1.5) vs [H]신시내티 :: 7/8 :: 08시 10분",
+          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ 필라델피아 (-1.5) vs [H]신시내티 :: 7/8 :: 08시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/712030",
           "watoUrl": "https://ygosu.com/board/pan_ccy/712030/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "19분 15초 남음"
+          "statusText": "8분 59초 남음"
         },
         {
           "board": "mitto",
@@ -228,7 +228,7 @@
           "boardName": "미또게",
           "category": "football",
           "id": "712588",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 16강💎승부차기:: 스위스 vs 콜롬비아",
+          "title": "[🔴결과/와토/종료] 💎북중미 월드컵 16강💎승부차기:: 스위스 vs 콜롬비아",
           "articleUrl": "https://ygosu.com/board/pan_ccy/712588",
           "watoUrl": "https://ygosu.com/board/pan_ccy/712588/?s_wato=Y",
           "tab": "result",
@@ -1161,7 +1161,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1679713/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 7분 남음"
+          "statusText": "9시간 57분 남음"
         },
         {
           "board": "monstarz",
@@ -2213,7 +2213,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1783422/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 6분 남음"
+          "statusText": "6시간 55분 남음"
         },
         {
           "board": "soop",
@@ -2225,7 +2225,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1783238/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 6분 남음"
+          "statusText": "6시간 55분 남음"
         },
         {
           "board": "soop",
@@ -2237,7 +2237,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1782379/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3일 9시간 남음"
+          "statusText": "3일 8시간 남음"
         },
         {
           "board": "soop",
