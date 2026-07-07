@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-07T00:40:32.720Z",
+  "checkedAt": "2026-07-07T00:50:37.471Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,19 +13,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/711140/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 29분 남음"
+          "statusText": "1시간 19분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "711139",
-          "title": "[🟢진행중/와토/59분 남음] ⚾ MLB ⚾ 토론토 vs [H]샌프란시스코 :: 7/7 :: 10시 45분",
+          "title": "[🟢진행중/와토/49분 남음] ⚾ MLB ⚾ 토론토 vs [H]샌프란시스코 :: 7/7 :: 10시 45분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/711139",
           "watoUrl": "https://ygosu.com/board/pan_ccy/711139/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "59분 6초 남음"
+          "statusText": "49분 2초 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/711138/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "59분 5초 남음"
+          "statusText": "49분 1초 남음"
         }
       ],
       "closed": [
@@ -94,7 +94,7 @@
           "boardName": "미또게",
           "category": "football",
           "id": "710838",
-          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵 16강💎미국 vs 벨기에 : 7/7 : AM 09시 (노핸디매치)-B",
+          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 16강💎미국 vs 벨기에 : 7/7 : AM 09시 (노핸디매치)-B",
           "articleUrl": "https://ygosu.com/board/pan_ccy/710838",
           "watoUrl": "https://ygosu.com/board/pan_ccy/710838/?s_wato=Y",
           "tab": "closed",
@@ -106,7 +106,7 @@
           "boardName": "미또게",
           "category": "football",
           "id": "710837",
-          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵 16강💎미국 vs 벨기에 : 7/7 : AM 09시 (노핸디매치)-A",
+          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 16강💎미국 vs 벨기에 : 7/7 : AM 09시 (노핸디매치)-A",
           "articleUrl": "https://ygosu.com/board/pan_ccy/710837",
           "watoUrl": "https://ygosu.com/board/pan_ccy/710837/?s_wato=Y",
           "tab": "closed",
@@ -118,7 +118,7 @@
           "boardName": "미또게",
           "category": "football",
           "id": "710836",
-          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵 16강💎미국 (+0.5) vs 벨기에 :: 7/7 :: AM 09시",
+          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 16강💎미국 (+0.5) vs 벨기에 :: 7/7 :: AM 09시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/710836",
           "watoUrl": "https://ygosu.com/board/pan_ccy/710836/?s_wato=Y",
           "tab": "closed",
@@ -130,7 +130,7 @@
           "boardName": "미또게",
           "category": "football",
           "id": "710835",
-          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵 16강💎미국 (+0.5) vs 벨기에 :: 7/7 :: AM 09시",
+          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 16강💎미국 (+0.5) vs 벨기에 :: 7/7 :: AM 09시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/710835",
           "watoUrl": "https://ygosu.com/board/pan_ccy/710835/?s_wato=Y",
           "tab": "closed",
