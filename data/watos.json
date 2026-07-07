@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-07T01:30:55.601Z",
+  "checkedAt": "2026-07-07T01:40:33.791Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,19 +13,21 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/711140/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "38분 44초 남음"
-        },
+          "statusText": "29분 5초 남음"
+        }
+      ],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "711139",
-          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ 토론토 vs [H]샌프란시스코 :: 7/7 :: 10시 45분",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 토론토 vs [H]샌프란시스코 :: 7/7 :: 10시 45분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/711139",
           "watoUrl": "https://ygosu.com/board/pan_ccy/711139/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 43초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
@@ -35,12 +37,10 @@
           "title": "⚾ MLB ⚾ 애리조나 vs [H]샌디에...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/711138",
           "watoUrl": "https://ygosu.com/board/pan_ccy/711138/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 42초 남음"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
