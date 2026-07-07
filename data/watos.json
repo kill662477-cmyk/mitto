@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-07T11:00:45.173Z",
+  "checkedAt": "2026-07-07T11:10:34.150Z",
   "boards": {
     "mitto": {
       "live": [
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/711814/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 59분 남음"
+          "statusText": "8시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/711813/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 59분 남음"
+          "statusText": "8시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/711812/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 59분 남음"
+          "statusText": "8시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -145,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/711811/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 58분 남음"
+          "statusText": "8시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -157,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/711809/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 58분 남음"
+          "statusText": "4시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -169,7 +169,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/711808/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 58분 남음"
+          "statusText": "4시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -181,7 +181,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/711807/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 58분 남음"
+          "statusText": "4시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -193,7 +193,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/711806/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 58분 남음"
+          "statusText": "4시간 49분 남음"
         }
       ],
       "closed": [
@@ -1127,6 +1127,66 @@
     },
     "monstarz": {
       "live": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1680262",
+          "title": "🎊캄몬 테란반ck 승부예측🎊",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1680262",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1680262/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1680303",
+          "title": "[와토/진행] 🎊캄몬 테란반ck 개인전🎊 5경기 햇살 vs 정소이",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1680303",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1680303/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1680302",
+          "title": "[와토/진행] 🎊캄몬 테란반ck 개인전🎊 4경기 두두 vs 디임",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1680302",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1680302/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1680301",
+          "title": "[와토/진행] 🎊캄몬 테란반ck 개인전🎊 3경기 비타밍 vs 오리꿍",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1680301",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1680301/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1680287",
+          "title": "[와토/진행] 🎊캄몬 테란반ck 개인전🎊 1경기 동원 vs 영화",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1680287",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1680287/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -2102,71 +2162,23 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1633195",
-          "title": "[또또/와토/종료] 🎮즉흥CK🎮 지두두팀 vs 이유란팀 최종 승리팀",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1633195",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1633195/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1632997",
-          "title": "[와토/종료] 🎆 암참토밍 놀이동산 시청자수 7333 U/O (2-3시on) 🎆",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1632997",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1632997/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1628509",
-          "title": "[와토/종료] 🌠네오학버드 vs NaDa_개장수🌠 7경기 이경민 vs 박재혁 라데온",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1628509",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1628509/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1628508",
-          "title": "[와토/종료] 🌠네오학버드 vs NaDa_개장수🌠 6경기 이경민 vs 박재혁 폴리포이드",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1628508",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1628508/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1628507",
-          "title": "[와토/종료] 🌠네오학버드 vs NaDa_개장수🌠 5경기 먼진 vs 경콩 녹아웃",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1628507",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1628507/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
     "soop": {
       "live": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1782826",
+          "title": "🧊 스타 8티어 평가전 진땅콩 vs 단비송 🧊단판",
+          "articleUrl": "https://ygosu.com/board/soop/1782826",
+          "watoUrl": "https://ygosu.com/board/soop/1782826/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
@@ -2959,18 +2971,6 @@
           "title": "[와토/종료] 💎 뉴캄옥션 개인전 3세트 T최세상 vs P졈니 💎",
           "articleUrl": "https://ygosu.com/board/soop/1732397",
           "watoUrl": "https://ygosu.com/board/soop/1732397/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1732395",
-          "title": "[와토/종료] 💎 뉴캄옥션 개인전 6세트 P시조새 vs T지두두 💎",
-          "articleUrl": "https://ygosu.com/board/soop/1732395",
-          "watoUrl": "https://ygosu.com/board/soop/1732395/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
