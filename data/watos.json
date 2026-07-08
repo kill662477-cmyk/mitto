@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-08T10:30:42.174Z",
+  "checkedAt": "2026-07-08T10:40:39.592Z",
   "boards": {
     "mitto": {
       "live": [
@@ -1157,18 +1157,6 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1679713",
-          "title": "영입맞추기)미진 vs 땃쥐 vs 세나 vs 남덕선(18:00 마감) (3)",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1679713",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1679713/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
           "id": "1652348",
           "title": "[와토/마감] 🐭야생땃쥐 영입한다 vs 안한다 와토🐭",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1652348",
@@ -1179,6 +1167,18 @@
         }
       ],
       "result": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1679713",
+          "title": "영입맞추기)미진 vs 땃쥐 vs 세나 vs 남덕선(18:00 마감) (3)",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1679713",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1679713/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -2179,6 +2179,18 @@
     },
     "soop": {
       "live": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1785591",
+          "title": "[와토/진행] 🧊스타 란란 + 족명보 뇌대리 vs 키링 3/2 최종승리🧊",
+          "articleUrl": "https://ygosu.com/board/soop/1785591",
+          "watoUrl": "https://ygosu.com/board/soop/1785591/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
