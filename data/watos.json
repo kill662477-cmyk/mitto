@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-08T10:10:37.743Z",
+  "checkedAt": "2026-07-08T10:20:37.378Z",
   "boards": {
     "mitto": {
       "live": [
@@ -298,18 +298,6 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "etc",
-          "id": "711833",
-          "title": "🏆MSI또또🏆 LYON(-1.5) vs TSW 풀...",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/711833",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/711833/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
           "category": "baseball",
           "id": "712027",
           "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 애틀랜타 (+1.5) vs [H]피츠버그 :: 7/8 :: 07시 40분",
@@ -579,6 +567,18 @@
           "title": "[🔴결과/와토/종료] 🏆MSI또또🏆 G2 (+1.5) vs T1 풀세트 8일 앞경기 종료 후 BO5",
           "articleUrl": "https://ygosu.com/board/pan_ccy/711898",
           "watoUrl": "https://ygosu.com/board/pan_ccy/711898/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "711833",
+          "title": "[🔴결과/와토/종료] 🏆MSI또또🏆 LYON(-1.5) vs TSW 풀세트 ::: 7/08 낮12시 BO5",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/711833",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/711833/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
