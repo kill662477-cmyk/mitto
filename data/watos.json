@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-09T13:50:38.039Z",
+  "checkedAt": "2026-07-09T14:00:47.284Z",
   "boards": {
     "mitto": {
       "live": [
@@ -152,7 +152,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "714507",
-          "title": "[와토/진행] 🌠 메프 1세트 🌠 5경기: 영진팀 vs 윤철팀",
+          "title": "[와토/진행] 🌠 메프 1세트 🌠 5경기: 짭제 vs 현제",
           "articleUrl": "https://ygosu.com/board/pan_ccy/714507",
           "watoUrl": "https://ygosu.com/board/pan_ccy/714507/?s_wato=Y",
           "tab": "live",
@@ -164,7 +164,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "714506",
-          "title": "[와토/진행] 🌠 메프 1세트 🌠 4경기: 영진팀 vs 윤철팀",
+          "title": "[와토/진행] 🌠 메프 1세트 🌠 4경기: 영진 vs 홍구",
           "articleUrl": "https://ygosu.com/board/pan_ccy/714506",
           "watoUrl": "https://ygosu.com/board/pan_ccy/714506/?s_wato=Y",
           "tab": "live",
@@ -176,7 +176,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "714505",
-          "title": "[와토/진행] 🌠 메프 1세트 🌠 3경기: 영진팀 vs 윤철팀",
+          "title": "[와토/진행] 🌠 메프 1세트 🌠 3경기: 지성 vs 윤철",
           "articleUrl": "https://ygosu.com/board/pan_ccy/714505",
           "watoUrl": "https://ygosu.com/board/pan_ccy/714505/?s_wato=Y",
           "tab": "live",
@@ -188,21 +188,9 @@
           "boardName": "미또게",
           "category": "star",
           "id": "714504",
-          "title": "[와토/진행] 🌠 메프 1세트 🌠 2경기: 영진팀 vs 윤철팀",
+          "title": "[와토/진행] 🌠 메프 1세트 🌠 2경기: 윤중 vs 재호",
           "articleUrl": "https://ygosu.com/board/pan_ccy/714504",
           "watoUrl": "https://ygosu.com/board/pan_ccy/714504/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "714503",
-          "title": "[와토/진행] 🌠 메프 1세트 🌠 1경기: 영진팀 vs 윤철팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/714503",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/714503/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -217,7 +205,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/714448/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 54분 남음"
+          "statusText": "11시간 43분 남음"
         },
         {
           "board": "mitto",
@@ -229,7 +217,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/714447/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 49분 남음"
+          "statusText": "11시간 38분 남음"
         },
         {
           "board": "mitto",
@@ -241,7 +229,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/714446/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 14분 남음"
+          "statusText": "10시간 3분 남음"
         },
         {
           "board": "mitto",
@@ -253,7 +241,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/714445/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 53분 남음"
+          "statusText": "9시간 43분 남음"
         },
         {
           "board": "mitto",
@@ -265,7 +253,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/714444/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 18분 남음"
+          "statusText": "9시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -277,7 +265,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/714443/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 48분 남음"
+          "statusText": "8시간 38분 남음"
         },
         {
           "board": "mitto",
@@ -289,7 +277,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/714442/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 48분 남음"
+          "statusText": "8시간 38분 남음"
         },
         {
           "board": "mitto",
@@ -301,7 +289,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/714441/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 18분 남음"
+          "statusText": "4시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -313,7 +301,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/714440/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 48분 남음"
+          "statusText": "3시간 38분 남음"
         },
         {
           "board": "mitto",
@@ -325,7 +313,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/714439/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 43분 남음"
+          "statusText": "3시간 33분 남음"
         },
         {
           "board": "mitto",
@@ -337,7 +325,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/714438/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 18분 남음"
+          "statusText": "3시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -349,7 +337,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/714437/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 18분 남음"
+          "statusText": "3시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -361,7 +349,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/714436/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 43분 남음"
+          "statusText": "2시간 33분 남음"
         },
         {
           "board": "mitto",
@@ -452,96 +440,96 @@
           "boardName": "미또게",
           "category": "football",
           "id": "713852",
-          "title": "[🟢진행중/와토/6시간 남음] 💎북중미 월드컵 8강💎프랑스 vs 모로코 : 7/10 : AM 05시 (노핸디매치)-B",
+          "title": "[🟢진행중/와토/5시간 남음] 💎북중미 월드컵 8강💎프랑스 vs 모로코 : 7/10 : AM 05시 (노핸디매치)-B",
           "articleUrl": "https://ygosu.com/board/pan_ccy/713852",
           "watoUrl": "https://ygosu.com/board/pan_ccy/713852/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 8분 남음"
+          "statusText": "5시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "713851",
-          "title": "[🟢진행중/와토/6시간 남음] 💎북중미 월드컵 8강💎프랑스 vs 모로코 : 7/10 : AM 05시 (노핸디매치)-A",
+          "title": "[🟢진행중/와토/5시간 남음] 💎북중미 월드컵 8강💎프랑스 vs 모로코 : 7/10 : AM 05시 (노핸디매치)-A",
           "articleUrl": "https://ygosu.com/board/pan_ccy/713851",
           "watoUrl": "https://ygosu.com/board/pan_ccy/713851/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 8분 남음"
+          "statusText": "5시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "713850",
-          "title": "[🟢진행중/와토/6시간 남음] 💎북중미 월드컵 8강💎프랑스 (-0.5) vs 모로코 :7/10: AM 05시 (C)",
+          "title": "[🟢진행중/와토/5시간 남음] 💎북중미 월드컵 8강💎프랑스 (-0.5) vs 모로코 :7/10: AM 05시 (C)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/713850",
           "watoUrl": "https://ygosu.com/board/pan_ccy/713850/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 8분 남음"
+          "statusText": "5시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "713849",
-          "title": "[🟢진행중/와토/6시간 남음] 💎북중미 월드컵 8강💎프랑스 (-0.5) vs 모로코 :7/10: AM 05시 (B)",
+          "title": "[🟢진행중/와토/5시간 남음] 💎북중미 월드컵 8강💎프랑스 (-0.5) vs 모로코 :7/10: AM 05시 (B)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/713849",
           "watoUrl": "https://ygosu.com/board/pan_ccy/713849/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 8분 남음"
+          "statusText": "5시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "713848",
-          "title": "[🟢진행중/와토/6시간 남음] 💎북중미 월드컵 8강💎프랑스 (-0.5) vs 모로코 :7/10: AM 05시 (A)",
+          "title": "[🟢진행중/와토/5시간 남음] 💎북중미 월드컵 8강💎프랑스 (-0.5) vs 모로코 :7/10: AM 05시 (A)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/713848",
           "watoUrl": "https://ygosu.com/board/pan_ccy/713848/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 8분 남음"
+          "statusText": "5시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "713847",
-          "title": "[🟢진행중/와토/6시간 남음] 💎북중미 월드컵 8강💎프랑스 (-1.5) vs 모로코 :7/10: AM 05시 (C)",
+          "title": "[🟢진행중/와토/5시간 남음] 💎북중미 월드컵 8강💎프랑스 (-1.5) vs 모로코 :7/10: AM 05시 (C)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/713847",
           "watoUrl": "https://ygosu.com/board/pan_ccy/713847/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 8분 남음"
+          "statusText": "5시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "713846",
-          "title": "[🟢진행중/와토/6시간 남음] 💎북중미 월드컵 8강💎프랑스 (-1.5) vs 모로코 :7/10: AM 05시 (B)",
+          "title": "[🟢진행중/와토/5시간 남음] 💎북중미 월드컵 8강💎프랑스 (-1.5) vs 모로코 :7/10: AM 05시 (B)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/713846",
           "watoUrl": "https://ygosu.com/board/pan_ccy/713846/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 8분 남음"
+          "statusText": "5시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "713845",
-          "title": "[🟢진행중/와토/6시간 남음] 💎북중미 월드컵 8강💎프랑스 (-1.5) vs 모로코 :7/10: AM 05시 (A)",
+          "title": "[🟢진행중/와토/5시간 남음] 💎북중미 월드컵 8강💎프랑스 (-1.5) vs 모로코 :7/10: AM 05시 (A)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/713845",
           "watoUrl": "https://ygosu.com/board/pan_ccy/713845/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 8분 남음"
+          "statusText": "5시간 58분 남음"
         }
       ],
       "closed": [
@@ -559,6 +547,18 @@
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "714503",
+          "title": "[와토/종료] 🌠 메프 1세트 🌠 1경기: 일장 vs 제동",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/714503",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/714503/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -2195,10 +2195,10 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1788573",
-          "title": "🧊 스타열등반 8경기(핀볼) ??? vs ??? 승/패 🧊",
-          "articleUrl": "https://ygosu.com/board/soop/1788573",
-          "watoUrl": "https://ygosu.com/board/soop/1788573/?s_wato=Y",
+          "id": "1788580",
+          "title": "🧊 스타열등반 9경기 ??? vs ??? 승/패 🧊",
+          "articleUrl": "https://ygosu.com/board/soop/1788580",
+          "watoUrl": "https://ygosu.com/board/soop/1788580/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -2207,10 +2207,10 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1788571",
-          "title": "🧊 스타열등반 7경기(핀볼) ??? vs ??? 승/패 🧊",
-          "articleUrl": "https://ygosu.com/board/soop/1788571",
-          "watoUrl": "https://ygosu.com/board/soop/1788571/?s_wato=Y",
+          "id": "1788573",
+          "title": "🧊 스타열등반 8경기 T허로아 vs T김유나 승/패 [폴리] 🧊",
+          "articleUrl": "https://ygosu.com/board/soop/1788573",
+          "watoUrl": "https://ygosu.com/board/soop/1788573/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -2225,7 +2225,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1782379/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1일 18시간 남음"
+          "statusText": "1일 17시간 남음"
         },
         {
           "board": "soop",
@@ -2238,21 +2238,21 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
+        }
+      ],
+      "closed": [
         {
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1788580",
-          "title": "[와토/진행] 🧊 스타열등반 9경기 ??? vs ??? 승/패 🧊",
-          "articleUrl": "https://ygosu.com/board/soop/1788580",
-          "watoUrl": "https://ygosu.com/board/soop/1788580/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        }
-      ],
-      "closed": [
+          "id": "1788571",
+          "title": "[와토/마감] 🧊 스타열등반 7경기 P효짱 vs T선정은 승/패 [라데온] 🧊",
+          "articleUrl": "https://ygosu.com/board/soop/1788571",
+          "watoUrl": "https://ygosu.com/board/soop/1788571/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
