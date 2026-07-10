@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-10T23:10:40.772Z",
+  "checkedAt": "2026-07-10T23:20:35.379Z",
   "boards": {
     "mitto": {
       "live": [
@@ -104,12 +104,12 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "715240",
-          "title": "[🟢진행중/와토/3시간 남음] ⚾ MLB ⚾ 콜로라도 vs [H]샌프란시스코 :: 7/11 :: 11시 15분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 콜로라도 vs [H]샌프란시스코 :: 7/11 :: 11시 15분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/715240",
           "watoUrl": "https://ygosu.com/board/pan_ccy/715240/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 3분 남음"
+          "statusText": "2시간 53분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/715239/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 58분 남음"
+          "statusText": "2시간 48분 남음"
         },
         {
           "board": "mitto",
@@ -133,43 +133,31 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/715238/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 28분 남음"
+          "statusText": "2시간 18분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "715237",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 애틀랜타 (-1.5) vs [H]세인트루이스 : 7/11 :: 09시 15분",
+          "title": "[🟢진행중/와토/54분 남음] ⚾ MLB ⚾ 애틀랜타 (-1.5) vs [H]세인트루이스 : 7/11 :: 09시 15분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/715237",
           "watoUrl": "https://ygosu.com/board/pan_ccy/715237/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 3분 남음"
+          "statusText": "53분 30초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "715236",
-          "title": "[🟢진행중/와토/54분 남음] ⚾ MLB ⚾ 휴스턴 (-1.5) vs [H]텍사스 :: 7/11 :: 09시 05분",
+          "title": "[🟢진행중/와토/44분 남음] ⚾ MLB ⚾ 휴스턴 (-1.5) vs [H]텍사스 :: 7/11 :: 09시 05분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/715236",
           "watoUrl": "https://ygosu.com/board/pan_ccy/715236/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "53분 27초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "715235",
-          "title": "[🟢진행중/와토/3분 남음] ⚾ MLB ⚾ 보스턴 vs [H]뉴욕메츠 :: 7/11 :: 08시 15분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/715235",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/715235/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "2분 26초 남음"
+          "statusText": "43분 29초 남음"
         },
         {
           "board": "mitto",
@@ -353,6 +341,18 @@
         }
       ],
       "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "715235",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 보스턴 vs [H]뉴욕메츠 :: 7/11 :: 08시 15분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/715235",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/715235/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -1113,7 +1113,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1698377/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 48분 남음"
+          "statusText": "8시간 38분 남음"
         },
         {
           "board": "monstarz",
