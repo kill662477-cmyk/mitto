@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-10T00:30:43.328Z",
+  "checkedAt": "2026-07-10T00:40:34.567Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,19 +13,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/714448/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 13분 남음"
+          "statusText": "1시간 4분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "714447",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 애리조나 vs [H]샌디에이고 :: 7/10 :: 10시 40분",
+          "title": "[🟢진행중/와토/59분 남음] ⚾ MLB ⚾ 애리조나 vs [H]샌디에이고 :: 7/10 :: 10시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/714447",
           "watoUrl": "https://ygosu.com/board/pan_ccy/714447/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 8분 남음"
+          "statusText": "59분 1초 남음"
         },
         {
           "board": "mitto",
@@ -1113,7 +1113,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1693416/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 27분 남음"
+          "statusText": "9시간 17분 남음"
         },
         {
           "board": "monstarz",
@@ -2177,7 +2177,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1791233/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 25분 남음"
+          "statusText": "10시간 15분 남음"
         },
         {
           "board": "soop",
