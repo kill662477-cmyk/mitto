@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-11T10:40:38.245Z",
+  "checkedAt": "2026-07-11T10:50:39.772Z",
   "boards": {
     "mitto": {
       "live": [
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/715897/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "14시간 19분 남음"
+          "statusText": "14시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/715896/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "14시간 19분 남음"
+          "statusText": "14시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/715825/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "14시간 19분 남음"
+          "statusText": "14시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/715824/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "14시간 19분 남음"
+          "statusText": "14시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/715823/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "14시간 19분 남음"
+          "statusText": "14시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/715822/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "14시간 19분 남음"
+          "statusText": "14시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/715821/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 19분 남음"
+          "statusText": "10시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/715820/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 19분 남음"
+          "statusText": "10시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/715818/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 19분 남음"
+          "statusText": "10시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -145,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/715817/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 19분 남음"
+          "statusText": "10시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -155,18 +155,6 @@
           "title": "[🟢진행중/와토/진행] 🏆MSI또또🏆 한화(-8.5) vs LYON 5세트 ::: 킬핸디",
           "articleUrl": "https://ygosu.com/board/pan_ccy/715313",
           "watoUrl": "https://ygosu.com/board/pan_ccy/715313/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "715312",
-          "title": "[🟢진행중/와토/진행] 🏆MSI또또🏆 한화(-8.5) vs LYON 4세트 ::: 킬핸디",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/715312",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/715312/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -293,6 +281,18 @@
         }
       ],
       "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "715312",
+          "title": "🏆MSI또또🏆 한화(-8.5) vs LYON 4...",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/715312",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/715312/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
