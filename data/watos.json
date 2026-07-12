@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-12T01:30:43.608Z",
+  "checkedAt": "2026-07-12T01:40:35.978Z",
   "boards": {
     "mitto": {
       "live": [
@@ -177,18 +177,6 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
-          "id": "716250",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 애틀랜타 vs [H]세인트루이스 :: 7/12 :: 08시 15분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/716250",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/716250/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
           "id": "716249",
           "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 시카고컵스 vs [H]신시내티 :: 7/12 :: 08시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/716249",
@@ -283,6 +271,18 @@
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "716250",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 애틀랜타 vs [H]세인트루이스 :: 7/12 :: 08시 15분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/716250",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/716250/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
