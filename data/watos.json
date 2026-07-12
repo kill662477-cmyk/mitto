@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-12T11:00:48.238Z",
+  "checkedAt": "2026-07-12T11:10:39.280Z",
   "boards": {
     "mitto": {
       "live": [
@@ -134,21 +134,21 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
+        }
+      ],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
           "id": "716346",
-          "title": "[🟢진행중/와토/진행] 🏆MSI 결승🏆5세트: BLG (-4.5) vs 한화 : BO.5 💥킬핸디확인💥",
+          "title": "[🟡마감/와토/마감] 🏆MSI 결승🏆5세트: BLG (-4.5) vs 한화 : BO.5 💥킬핸디확인💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/716346",
           "watoUrl": "https://ygosu.com/board/pan_ccy/716346/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
