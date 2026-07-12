@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-12T12:40:37.397Z",
+  "checkedAt": "2026-07-12T12:50:40.153Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/717276/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 29분 남음"
+          "statusText": "7시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/717275/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 29분 남음"
+          "statusText": "7시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/717274/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 24분 남음"
+          "statusText": "7시간 14분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/717273/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 54분 남음"
+          "statusText": "5시간 44분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/717272/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 34분 남음"
+          "statusText": "5시간 24분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/717271/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 29분 남음"
+          "statusText": "5시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/717270/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 59분 남음"
+          "statusText": "4시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/717269/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 59분 남음"
+          "statusText": "4시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/717268/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 59분 남음"
+          "statusText": "4시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/717267/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 54분 남음"
+          "statusText": "4시간 44분 남음"
         },
         {
           "board": "mitto",
@@ -1011,18 +1011,6 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1706585",
-          "title": "[와토/진행] 🎰캄몬 저그반CK 🎰 에이스결정전",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1706585",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1706585/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
           "id": "1661641",
           "title": "[또또/와토/진행] 🔥뉴캄옥션 결승 족암새퉤퉤퉤vs s급친구들 개인전와토 에이스결정전🔥",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1661641",
@@ -1053,6 +1041,18 @@
           "title": "[와토/마감] 💸 무창(+1.5) VS 케이대 와토💸",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1707422",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1707422/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1706585",
+          "title": "[와토/마감] 🎰캄몬 저그반CK 🎰 에이스결정전 찌킹 vs 키링",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1706585",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1706585/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -2111,6 +2111,18 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
+          "id": "1798577",
+          "title": "🧊스타 내전ck 2경기 Z어윤수 VS P윤용태 승/패 🧊 (1)",
+          "articleUrl": "https://ygosu.com/board/soop/1798577",
+          "watoUrl": "https://ygosu.com/board/soop/1798577/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
           "id": "1796660",
           "title": "🧊 씨나인 엑셀 계급전 시청자수 6666 언/오버 🧊",
           "articleUrl": "https://ygosu.com/board/soop/1796660",
@@ -2183,18 +2195,6 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1798577",
-          "title": "[와토/진행] 🧊스타 내전ck ?경기 Z어윤수 VS P윤용태 승/패 🧊",
-          "articleUrl": "https://ygosu.com/board/soop/1798577",
-          "watoUrl": "https://ygosu.com/board/soop/1798577/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
           "id": "1798572",
           "title": "[와토/진행] 🧊스타 내전ck ?경기 T유승곤 VS P김윤중 승/패 🧊",
           "articleUrl": "https://ygosu.com/board/soop/1798572",
@@ -2209,18 +2209,6 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1798596",
-          "title": "🧊 스타내전ck 1경기 Z오리꿍 VS P효짱 승/패 [녹아웃] 🧊 (1)",
-          "articleUrl": "https://ygosu.com/board/soop/1798596",
-          "watoUrl": "https://ygosu.com/board/soop/1798596/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
           "id": "1794388",
           "title": "🧊 일요일 내전ck 저그반 VS 토스반 최종 승/패 🧊 (3)",
           "articleUrl": "https://ygosu.com/board/soop/1794388",
@@ -2231,6 +2219,18 @@
         }
       ],
       "result": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1798596",
+          "title": "[와토/종료] 🧊 스타내전ck 1경기 Z오리꿍 VS P효짱 승/패 [녹아웃] 🧊",
+          "articleUrl": "https://ygosu.com/board/soop/1798596",
+          "watoUrl": "https://ygosu.com/board/soop/1798596/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
