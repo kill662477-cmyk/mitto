@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-12T10:54:09.794Z",
+  "checkedAt": "2026-07-12T11:00:48.238Z",
   "boards": {
     "mitto": {
       "live": [
@@ -2324,21 +2324,20 @@
           "statusText": "진행중"
         }
       ],
-      "closed": [
+      "closed": [],
+      "result": [
         {
           "board": "soop",
           "boardName": "숲게",
           "category": null,
           "id": "1798123",
-          "title": "[와토/마감] 와토) 오늘 앵지는 본인 개인방송에 대해 언급을 할까?",
+          "title": "[와토/종료] 와토) 오늘 앵지는 본인 개인방송에 대해 언급을 할까?",
           "articleUrl": "https://ygosu.com/board/soop/1798123",
           "watoUrl": "https://ygosu.com/board/soop/1798123/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
