@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-12T01:00:49.550Z",
+  "checkedAt": "2026-07-12T01:12:04.227Z",
   "boards": {
     "mitto": {
       "live": [
@@ -146,21 +146,21 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
+        }
+      ],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "716252",
-          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ 애리조나 (+1.5) vs [H]LA다저스 :: 7/12 :: 10시 10분",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 애리조나 (+1.5) vs [H]LA다저스 :: 7/12 :: 10시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/716252",
           "watoUrl": "https://ygosu.com/board/pan_ccy/716252/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 54초 남음"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -212,21 +212,9 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "baseball",
-          "id": "716247",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 필라델피아 vs [H]디트로이트 :: 7/12 :: 07시 10분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/716247",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/716247/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
           "category": "football",
           "id": "715897",
-          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵 8강💎아르헨티나 vs 스위스 :7/12: AM 10시 (노핸디매치)-B",
+          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 8강💎아르헨티나 vs 스위스 :7/12: AM 10시 (노핸디매치)-B",
           "articleUrl": "https://ygosu.com/board/pan_ccy/715897",
           "watoUrl": "https://ygosu.com/board/pan_ccy/715897/?s_wato=Y",
           "tab": "closed",
@@ -295,6 +283,18 @@
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "716247",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 필라델피아 vs [H]디트로이트 :: 7/12 :: 07시 10분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/716247",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/716247/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -1103,6 +1103,18 @@
     },
     "monstarz": {
       "live": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1705125",
+          "title": "🎰캄몬 저그반CK 승자예측🎰",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1705125",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1705125/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -2159,18 +2171,6 @@
           "title": "[와토/종료] 🎗족암새퉤퉤퉤 VS 네오학버드🎗 1경기 철구 vs 김학수",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1647239",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1647239/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1647235",
-          "title": "[와토/종료] 🎗족암새퉤퉤퉤 VS 네오학버드🎗",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1647235",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1647235/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
