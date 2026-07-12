@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-12T11:20:35.761Z",
+  "checkedAt": "2026-07-12T11:30:44.584Z",
   "boards": {
     "mitto": {
       "live": [],
@@ -1022,18 +1022,6 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1706579",
-          "title": "[와토/진행] 🎰캄몬 저그반CK 개인전🎰 5경기 덕선 vs 히엉 폴리",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1706579",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1706579/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
           "id": "1661641",
           "title": "[또또/와토/진행] 🔥뉴캄옥션 결승 족암새퉤퉤퉤vs s급친구들 개인전와토 에이스결정전🔥",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1661641",
@@ -1056,6 +1044,18 @@
         }
       ],
       "closed": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1706579",
+          "title": "[와토/마감] 🎰캄몬 저그반CK 개인전🎰 5경기 덕선 vs 히엉 폴리",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1706579",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1706579/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
