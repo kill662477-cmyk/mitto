@@ -1,8 +1,116 @@
 {
-  "checkedAt": "2026-07-12T09:30:45.903Z",
+  "checkedAt": "2026-07-12T09:40:39.772Z",
   "boards": {
     "mitto": {
       "live": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "717079",
+          "title": "[와토/진행] 🏆스타대전 개인전🏆9경기 ::: 무창클럽 vs 케이대",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/717079",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/717079/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "717078",
+          "title": "[와토/진행] 🏆스타대전 개인전🏆8경기 ::: 무창클럽 vs 케이대",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/717078",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/717078/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "717077",
+          "title": "[와토/진행] 🏆스타대전 개인전🏆7경기 ::: 무창클럽 vs 케이대",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/717077",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/717077/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "717076",
+          "title": "[와토/진행] 🏆스타대전 개인전🏆6경기 ::: 무창클럽 vs 케이대",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/717076",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/717076/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "717075",
+          "title": "[와토/진행] 🏆스타대전 개인전🏆5경기 ::: 무창클럽 vs 케이대",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/717075",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/717075/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "717074",
+          "title": "[와토/진행] 🏆스타대전 개인전🏆4경기 ::: 무창클럽 vs 케이대",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/717074",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/717074/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "717072",
+          "title": "[와토/진행] 🏆스타대전 개인전🏆3경기 ::: 무창클럽 vs 케이대",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/717072",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/717072/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "717071",
+          "title": "[와토/진행] 🏆스타대전 개인전🏆2경기 ::: 무창클럽 vs 케이대",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/717071",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/717071/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "717066",
+          "title": "[와토/진행] 🏆스타대전 개인전🏆1경기 ::: 무창클럽 vs 케이대",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/717066",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/717066/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -990,95 +1098,11 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "714926",
-          "title": "[🔴결과/와토/종료] 💎북중미 월드컵 8강💎스페인 (-0.5) vs 벨기에 :7/11: AM 04시 (C)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/714926",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/714926/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "714925",
-          "title": "[🔴결과/와토/종료] 💎북중미 월드컵 8강💎스페인 (-0.5) vs 벨기에 :7/11: AM 04시 (B)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/714925",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/714925/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "714924",
-          "title": "[🔴결과/와토/종료] 💎북중미 월드컵 8강💎스페인 (-0.5) vs 벨기에 :7/11: AM 04시 (A)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/714924",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/714924/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "714516",
-          "title": "[와토/종료] 🌠 메프 2세트 🌠 7경기: 일장 vs 재호",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/714516",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/714516/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "714515",
-          "title": "[와토/종료] 🌠 메프 2세트 🌠 6경기: 일장 vs 제동",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/714515",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/714515/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "714514",
-          "title": "[와토/종료] 🌠 메프 2세트 🌠 5경기: 일장 vs 홍구",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/714514",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/714514/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
     "monstarz": {
       "live": [
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1705125",
-          "title": "🎰캄몬 저그반CK 승자예측🎰",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1705125",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1705125/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -1183,6 +1207,18 @@
           "title": "[와토/진행] 🎰캄몬 저그반CK 개인전🎰 1경기",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1706572",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1706572/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1705125",
+          "title": "[와토/진행] 🎰캄몬 저그반CK 승자예측🎰",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1705125",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1705125/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
