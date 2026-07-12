@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-12T10:30:44.216Z",
+  "checkedAt": "2026-07-12T10:40:37.080Z",
   "boards": {
     "mitto": {
       "live": [
@@ -1168,21 +1168,9 @@
           "boardName": "스대게",
           "category": null,
           "id": "1706578",
-          "title": "[와토/진행] 🎰캄몬 저그반CK 개인전🎰 4경기",
+          "title": "[와토/진행] 🎰캄몬 저그반CK 개인전🎰 4경기 찢 VS 키링",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1706578",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1706578/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1706576",
-          "title": "[와토/진행] 🎰캄몬 저그반CK 개인전🎰 3경기",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1706576",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1706576/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -1239,6 +1227,18 @@
         }
       ],
       "result": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1706576",
+          "title": "[와토/종료] 🎰캄몬 저그반CK 개인전🎰 3경기 먼진 vs 세주 라데온",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1706576",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1706576/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
