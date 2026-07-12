@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-12T02:20:38.132Z",
+  "checkedAt": "2026-07-12T02:30:45.698Z",
   "boards": {
     "mitto": {
       "live": [
@@ -176,30 +176,6 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "baseball",
-          "id": "716249",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 시카고컵스 vs [H]신시내티 :: 7/12 :: 08시 10분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/716249",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/716249/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "716248",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 휴스턴 vs [H]텍사스 :: 7/12 :: 08시 05분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/716248",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/716248/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
           "category": "football",
           "id": "715897",
           "title": "[🟡마감/와토/마감] 💎북중미 월드컵 8강💎아르헨티나 vs 스위스 :7/12: AM 10시 (노핸디매치)-B",
@@ -279,6 +255,30 @@
           "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 애틀랜타 vs [H]세인트루이스 :: 7/12 :: 08시 15분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/716250",
           "watoUrl": "https://ygosu.com/board/pan_ccy/716250/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "716249",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 시카고컵스 vs [H]신시내티 :: 7/12 :: 08시 10분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/716249",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/716249/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "716248",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 휴스턴 vs [H]텍사스 :: 7/12 :: 08시 05분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/716248",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/716248/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
