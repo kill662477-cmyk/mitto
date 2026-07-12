@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-12T05:20:39.405Z",
+  "checkedAt": "2026-07-12T05:30:43.172Z",
   "boards": {
     "mitto": {
       "live": [
@@ -2206,13 +2206,97 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
+          "id": "1798596",
+          "title": "[와토/진행] 🧊스타 내전ck ?경기 Z오리꿍 VS P효짱 승/패 🧊",
+          "articleUrl": "https://ygosu.com/board/soop/1798596",
+          "watoUrl": "https://ygosu.com/board/soop/1798596/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1798594",
+          "title": "[와토/진행] 🧊스타 내전ck ?경기 Z앵지 VS P졈니 승/패 🧊",
+          "articleUrl": "https://ygosu.com/board/soop/1798594",
+          "watoUrl": "https://ygosu.com/board/soop/1798594/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1798592",
+          "title": "[와토/진행] 🧊스타 내전ck ?경기 Z요닝 VS P디임 승/패 🧊",
+          "articleUrl": "https://ygosu.com/board/soop/1798592",
+          "watoUrl": "https://ygosu.com/board/soop/1798592/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1798587",
+          "title": "[와토/진행] 🧊스타 내전ck ?경기 Z늘봉순 VS P빵훈 승/패 🧊",
+          "articleUrl": "https://ygosu.com/board/soop/1798587",
+          "watoUrl": "https://ygosu.com/board/soop/1798587/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1798580",
+          "title": "[와토/진행] 🧊스타 내전ck ?경기 Z박재혁 VS P왜냐맨 승/패 🧊",
+          "articleUrl": "https://ygosu.com/board/soop/1798580",
+          "watoUrl": "https://ygosu.com/board/soop/1798580/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1798577",
+          "title": "[와토/진행] 🧊스타 내전ck ?경기 Z어윤수 VS P윤용태 승/패 🧊",
+          "articleUrl": "https://ygosu.com/board/soop/1798577",
+          "watoUrl": "https://ygosu.com/board/soop/1798577/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1798572",
+          "title": "[와토/진행] 🧊스타 내전ck ?경기 T유승곤 VS P김윤중 승/패 🧊",
+          "articleUrl": "https://ygosu.com/board/soop/1798572",
+          "watoUrl": "https://ygosu.com/board/soop/1798572/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
           "id": "1798123",
           "title": "[와토/3시간 남음] 와토) 오늘 앵지는 본인 개인방송에 대해 언급을 할까?",
           "articleUrl": "https://ygosu.com/board/soop/1798123",
           "watoUrl": "https://ygosu.com/board/soop/1798123/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 35분 남음"
+          "statusText": "3시간 25분 남음"
         }
       ],
       "closed": [],
@@ -3029,54 +3113,6 @@
           "title": "[와토/종료] 🔥 수요일 용현동 VS 가좌동 맞추기:: 14시 마감 🔥",
           "articleUrl": "https://ygosu.com/board/soop/1757487",
           "watoUrl": "https://ygosu.com/board/soop/1757487/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1757444",
-          "title": "[와토/종료] 🔥 씨나인 방제 영입자 맞추기🔥",
-          "articleUrl": "https://ygosu.com/board/soop/1757444",
-          "watoUrl": "https://ygosu.com/board/soop/1757444/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1756891",
-          "title": "[와토/종료] 🎯🎯 화요일 철구방송 시청자수 13000 언/오버 🎯🎯",
-          "articleUrl": "https://ygosu.com/board/soop/1756891",
-          "watoUrl": "https://ygosu.com/board/soop/1756891/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1756806",
-          "title": "[와토/종료] 🔥 화요일 용현동 VS 가좌동 맞추기:: 16:25분 마감 🔥",
-          "articleUrl": "https://ygosu.com/board/soop/1756806",
-          "watoUrl": "https://ygosu.com/board/soop/1756806/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1755001",
-          "title": "[와토/종료] 💎 족암새스크림 4경기 P시조새 vs P박듀듀 [폴리] 승/패 💎",
-          "articleUrl": "https://ygosu.com/board/soop/1755001",
-          "watoUrl": "https://ygosu.com/board/soop/1755001/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
