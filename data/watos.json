@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-12T08:10:39.343Z",
+  "checkedAt": "2026-07-12T08:20:35.992Z",
   "boards": {
     "mitto": {
       "live": [
@@ -81,18 +81,6 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
-          "id": "716342",
-          "title": "[🟡마감/와토/마감] 🏆MSI 결승🏆1세트: BLG (-4.5) vs 한화 : BO.5 💥킬핸디확인💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/716342",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/716342/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
           "id": "716341",
           "title": "🏆MSI결승🏆최종 승/패: BLG (-1.5...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/716341",
@@ -139,6 +127,18 @@
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "716342",
+          "title": "[🔴결과/와토/종료] 🏆MSI 결승🏆1세트: BLG (-4.5) vs 한화 : BO.5 💥킬핸디확인💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/716342",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/716342/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -2292,12 +2292,12 @@
           "boardName": "숲게",
           "category": null,
           "id": "1798123",
-          "title": "[와토/45분 남음] 와토) 오늘 앵지는 본인 개인방송에 대해 언급을 할까?",
+          "title": "[와토/35분 남음] 와토) 오늘 앵지는 본인 개인방송에 대해 언급을 할까?",
           "articleUrl": "https://ygosu.com/board/soop/1798123",
           "watoUrl": "https://ygosu.com/board/soop/1798123/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "45분 34초 남음"
+          "statusText": "35분 29초 남음"
         }
       ],
       "closed": [],
