@@ -1,20 +1,8 @@
 {
-  "checkedAt": "2026-07-12T03:20:37.502Z",
+  "checkedAt": "2026-07-12T03:30:43.315Z",
   "boards": {
     "mitto": {
       "live": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "715831",
-          "title": "🥊UFC-329🥊코너 맥그리거 vs 맥스 할로웨이 : 7/12 : 일 : 낮12시 ~ (5)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/715831",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/715831/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -32,7 +20,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "716720",
-          "title": "[🟢진행중/와토/진행] 🏆스타대전🏆최종 승/패: 무창클럽 (+1.5) vs 케이대 ::: BO.9 (B)",
+          "title": "🏆스타대전🏆최종 승/패: 무창클럽...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/716720",
           "watoUrl": "https://ygosu.com/board/pan_ccy/716720/?s_wato=Y",
           "tab": "live",
@@ -44,7 +32,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "716719",
-          "title": "[🟢진행중/와토/진행] 🏆스타대전🏆최종 승/패: 무창클럽 (+1.5) vs 케이대 ::: BO.9 (A)",
+          "title": "🏆스타대전🏆최종 승/패: 무창클럽...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/716719",
           "watoUrl": "https://ygosu.com/board/pan_ccy/716719/?s_wato=Y",
           "tab": "live",
@@ -181,6 +169,18 @@
           "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 토론토 vs [H]샌디에이고 :: 7/12 :: 09시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/716251",
           "watoUrl": "https://ygosu.com/board/pan_ccy/716251/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "715831",
+          "title": "[🟡마감/와토/마감] 🥊UFC-329🥊코너 맥그리거 vs 맥스 할로웨이 : 7/12 : 일 : 낮12시 ~",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/715831",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/715831/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -2225,7 +2225,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1798123/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 35분 남음"
+          "statusText": "5시간 25분 남음"
         }
       ],
       "closed": [],
