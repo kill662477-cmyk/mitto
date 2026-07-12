@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-12T11:50:39.532Z",
+  "checkedAt": "2026-07-12T12:02:25.857Z",
   "boards": {
     "mitto": {
       "live": [
@@ -986,6 +986,18 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
+          "id": "1707422",
+          "title": "[와토/진행] 💸 무창(+0.5) VS 케이대 와토💸",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1707422",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1707422/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
           "id": "1706585",
           "title": "[와토/진행] 🎰캄몬 저그반CK 🎰 에이스결정전",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1706585",
@@ -1002,18 +1014,6 @@
           "title": "[와토/진행] 🎰캄몬 저그반CK 개인전🎰 8경기",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1706583",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1706583/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1706582",
-          "title": "[와토/진행] 🎰캄몬 저그반CK 개인전🎰 7경기",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1706582",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1706582/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -1048,10 +1048,10 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1706581",
-          "title": "[와토/마감] 🎰캄몬 저그반CK 개인전🎰 6경기 낭니 vs 하윤 폴리",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1706581",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1706581/?s_wato=Y",
+          "id": "1706582",
+          "title": "[와토/마감] 🎰캄몬 저그반CK 개인전🎰 7경기 조이 VS 아깽",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1706582",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1706582/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -1082,6 +1082,18 @@
         }
       ],
       "result": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1706581",
+          "title": "[와토/종료] 🎰캄몬 저그반CK 개인전🎰 6경기 낭니 vs 하윤 폴리",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1706581",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1706581/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -2065,18 +2077,6 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1648121",
-          "title": "[또또/와토/종료] 🎮뉴캄옥션 참교육팀 vs 반성준팀🎮 1경기 졈니 vs 구루미 맵 : 실피드",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1648121",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1648121/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
@@ -2087,7 +2087,7 @@
           "boardName": "숲게",
           "category": null,
           "id": "1794388",
-          "title": "🧊 일요일 내전ck 저그반 VS 토스반 최종 승/패 🧊 (2)",
+          "title": "🧊 일요일 내전ck 저그반 VS 토스반 최종 승/패 🧊 (3)",
           "articleUrl": "https://ygosu.com/board/soop/1794388",
           "watoUrl": "https://ygosu.com/board/soop/1794388/?s_wato=Y",
           "tab": "live",
