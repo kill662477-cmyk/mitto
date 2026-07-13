@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-13T08:40:37.871Z",
+  "checkedAt": "2026-07-13T08:50:43.509Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/717559/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 19분 남음"
+          "statusText": "3시간 9분 남음"
         }
       ],
       "closed": [],
@@ -2057,20 +2057,21 @@
       ]
     },
     "soop": {
-      "live": [],
-      "closed": [
+      "live": [
         {
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1800008",
-          "title": "💎💎 0713 엑셀부 퇴사자 맞추기 💎💎 (2)",
-          "articleUrl": "https://ygosu.com/board/soop/1800008",
-          "watoUrl": "https://ygosu.com/board/soop/1800008/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
+          "id": "1802794",
+          "title": "🔥🔥🔥🔥 졸업자 멤버 맞추기 와토 🔥🔥🔥🔥 // 오프닝 끝나면 마감",
+          "articleUrl": "https://ygosu.com/board/soop/1802794",
+          "watoUrl": "https://ygosu.com/board/soop/1802794/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        }
+      ],
+      "closed": [
         {
           "board": "soop",
           "boardName": "숲게",
@@ -2097,6 +2098,18 @@
         }
       ],
       "result": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1800008",
+          "title": "[와토/종료] 💎💎 0713 엑셀부 퇴사자 맞추기 💎💎",
+          "articleUrl": "https://ygosu.com/board/soop/1800008",
+          "watoUrl": "https://ygosu.com/board/soop/1800008/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
@@ -2993,18 +3006,6 @@
           "title": "[와토/종료] 🧊 뉴캄옥션 개인전 5세트 Z철구 vs Z박성준 [라데온] 🧊",
           "articleUrl": "https://ygosu.com/board/soop/1759048",
           "watoUrl": "https://ygosu.com/board/soop/1759048/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1758623",
-          "title": "[와토/종료] 🧊 뉴캄옥션 A조 3경기 족암새팀 vs 반성준팀 최종승/패 :: 목요일 19시 :: 🧊",
-          "articleUrl": "https://ygosu.com/board/soop/1758623",
-          "watoUrl": "https://ygosu.com/board/soop/1758623/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
