@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-13T14:50:39.759Z",
+  "checkedAt": "2026-07-13T15:01:04.101Z",
   "boards": {
     "mitto": {
       "live": [
@@ -122,34 +122,35 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
+        }
+      ],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
           "id": "717843",
-          "title": "[와토/진행] 🌠 메프 1세트 🌠 7경기: 택용팀 vs 정우팀",
+          "title": "[와토/마감] 🌠 메프 1세트 🌠 7경기: 홍구 vs 윤철",
           "articleUrl": "https://ygosu.com/board/pan_ccy/717843",
           "watoUrl": "https://ygosu.com/board/pan_ccy/717843/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        }
+      ],
+      "result": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
           "id": "717841",
-          "title": "[와토/진행] 🌠 메프 1세트 🌠 6경기: 택용팀 vs 정우팀",
+          "title": "[와토/종료] 🌠 메프 1세트 🌠 6경기: 택용 vs 지성",
           "articleUrl": "https://ygosu.com/board/pan_ccy/717841",
           "watoUrl": "https://ygosu.com/board/pan_ccy/717841/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        }
-      ],
-      "closed": [],
-      "result": [
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -974,6 +975,18 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
+          "id": "1712428",
+          "title": "💀 시빌워 승자팀 예측 암팀 vs 상대팀 💀 (1)",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1712428",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1712428/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "23시간 56분 남음"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
           "id": "1712731",
           "title": "💸 시빌워 업다운 와토 55만 up & down 💸 (5)",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1712731",
@@ -981,18 +994,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1712428",
-          "title": "[또또/와토/1일 남음] 💀 시빌워 승자팀 예측 암팀 vs 상대팀 💀",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1712428",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1712428/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "1일 7분 남음"
         },
         {
           "board": "monstarz",
