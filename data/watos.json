@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-13T13:00:53.136Z",
+  "checkedAt": "2026-07-13T13:10:56.591Z",
   "boards": {
     "mitto": {
       "live": [
@@ -152,7 +152,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "717840",
-          "title": "[와토/진행] 🌠 메프 1세트 🌠 5경기: 택용팀 vs 정우팀",
+          "title": "[와토/진행] 🌠 메프 1세트 🌠 5경기: 재호 vs 정우",
           "articleUrl": "https://ygosu.com/board/pan_ccy/717840",
           "watoUrl": "https://ygosu.com/board/pan_ccy/717840/?s_wato=Y",
           "tab": "live",
@@ -164,7 +164,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "717839",
-          "title": "[와토/진행] 🌠 메프 1세트 🌠 4경기: 택용팀 vs 정우팀",
+          "title": "[와토/진행] 🌠 메프 1세트 🌠 4경기: 제동 vs 현제",
           "articleUrl": "https://ygosu.com/board/pan_ccy/717839",
           "watoUrl": "https://ygosu.com/board/pan_ccy/717839/?s_wato=Y",
           "tab": "live",
@@ -176,7 +176,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "717838",
-          "title": "[와토/진행] 🌠 메프 1세트 🌠 3경기: 택용팀 vs 정우팀",
+          "title": "[와토/진행] 🌠 메프 1세트 🌠 3경기: 민철 vs 기석",
           "articleUrl": "https://ygosu.com/board/pan_ccy/717838",
           "watoUrl": "https://ygosu.com/board/pan_ccy/717838/?s_wato=Y",
           "tab": "live",
@@ -188,27 +188,27 @@
           "boardName": "미또게",
           "category": "star",
           "id": "717837",
-          "title": "[와토/진행] 🌠 메프 1세트 🌠 2경기: 택용팀 vs 정우팀",
+          "title": "[와토/진행] 🌠 메프 1세트 🌠 2경기: 홍구 vs 지성",
           "articleUrl": "https://ygosu.com/board/pan_ccy/717837",
           "watoUrl": "https://ygosu.com/board/pan_ccy/717837/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "717835",
-          "title": "[와토/진행] 🌠 메프 1세트 🌠 1경기: 택용팀 vs 정우팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/717835",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/717835/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
         }
       ],
       "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "717835",
+          "title": "[와토/마감] 🌠 메프 1세트 🌠 1경기: 택용 vs 윤철",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/717835",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/717835/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
