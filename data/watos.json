@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-13T16:20:40.512Z",
+  "checkedAt": "2026-07-13T16:30:49.385Z",
   "boards": {
     "mitto": {
       "live": [
@@ -50,18 +50,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "717851",
-          "title": "[와토/진행] 🌠 메프 2세트 🌠 6경기: 택용팀 vs 정우팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/717851",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/717851/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
         }
       ],
       "closed": [
@@ -69,16 +57,28 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
-          "id": "717849",
-          "title": "[와토/마감] 🌠 메프 2세트 🌠 5경기: 제동 vs 기석",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/717849",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/717849/?s_wato=Y",
+          "id": "717851",
+          "title": "[와토/마감] 🌠 메프 2세트 🌠 6경기: 홍구 vs 기석",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/717851",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/717851/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "717849",
+          "title": "[와토/종료] 🌠 메프 2세트 🌠 5경기: 제동 vs 기석",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/717849",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/717849/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -981,7 +981,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1712428/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "22시간 37분 남음"
+          "statusText": "22시간 27분 남음"
         },
         {
           "board": "monstarz",
