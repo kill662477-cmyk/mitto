@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-13T09:30:47.879Z",
+  "checkedAt": "2026-07-13T09:40:42.735Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/717559/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 29분 남음"
+          "statusText": "2시간 19분 남음"
         }
       ],
       "closed": [],
@@ -970,6 +970,18 @@
     },
     "monstarz": {
       "live": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1712576",
+          "title": "[또또/와토/진행] 두번째판 치리 vs 오하얀 승리 예측",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1712576",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1712576/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -2041,18 +2053,6 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1648126",
-          "title": "[또또/와토/종료] 🎮뉴캄옥션 참교육팀 vs 반성준팀🎮 6경기 퀸주 vs 막내현진 맵 : 라데온",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1648126",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1648126/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
@@ -2063,12 +2063,12 @@
           "boardName": "숲게",
           "category": null,
           "id": "1803040",
-          "title": "💎💎💎 오늘 기여도 2등 맞추기 💎💎💎 (9시 마감) (1)",
+          "title": "💎💎💎 오늘 기여도 2등 맞추기 💎💎💎 (9시 마감) (5)",
           "articleUrl": "https://ygosu.com/board/soop/1803040",
           "watoUrl": "https://ygosu.com/board/soop/1803040/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 25분 남음"
+          "statusText": "2시간 15분 남음"
         }
       ],
       "closed": [
