@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-13T13:50:38.731Z",
+  "checkedAt": "2026-07-13T14:00:56.442Z",
   "boards": {
     "mitto": {
       "live": [
@@ -184,18 +184,6 @@
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "717559",
-          "title": "[🟡마감/와토/마감] 🌠스타 끝장전🌠 유영진 vs 박상현 :: 월요일 :: 21시 :: BO.9",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/717559",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/717559/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
         }
       ],
       "result": [
@@ -219,6 +207,18 @@
           "title": "[와토/종료] 🌠 메프 1세트 🌠 1경기: 택용 vs 윤철",
           "articleUrl": "https://ygosu.com/board/pan_ccy/717835",
           "watoUrl": "https://ygosu.com/board/pan_ccy/717835/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "717559",
+          "title": "[🔴결과/와토/종료] 🌠스타 끝장전🌠 유영진 vs 박상현 :: 월요일 :: 21시 :: BO.9",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/717559",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/717559/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -993,7 +993,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1712428/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1일 1시간 남음"
+          "statusText": "1일 57분 남음"
         },
         {
           "board": "monstarz",
@@ -1126,6 +1126,246 @@
           "title": "[와토/종료] 🎰캄몬 저그반CK 개인전🎰 6경기 낭니 vs 하윤 폴리",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1706581",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1706581/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1706579",
+          "title": "[와토/종료] 🎰캄몬 저그반CK 개인전🎰 5경기 덕선 vs 히엉 폴리",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1706579",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1706579/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1706578",
+          "title": "[와토/종료] 🎰캄몬 저그반CK 개인전🎰 4경기 찢 VS 키링",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1706578",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1706578/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1706576",
+          "title": "[와토/종료] 🎰캄몬 저그반CK 개인전🎰 3경기 먼진 vs 세주 라데온",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1706576",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1706576/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1706574",
+          "title": "[와토/종료] 🎰캄몬 저그반CK 개인전🎰 2경기 치리 vs 유이 라데온",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1706574",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1706574/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1706572",
+          "title": "[와토/종료] 🎰캄몬 저그반CK 개인전🎰 1경기 조이 vs 아깽 녹아웃",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1706572",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1706572/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1705125",
+          "title": "[와토/종료] 🎰캄몬 저그반CK 승자예측🎰",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1705125",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1705125/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1702555",
+          "title": "[와토/종료] ⚔ 랜PL 최종 승리팀 ⚔",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1702555",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1702555/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1698377",
+          "title": "[와토/종료] 암하랑 vs 벽먼진 현실종겜 청자 7000명 업다운",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1698377",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1698377/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1697525",
+          "title": "[또또/와토/종료] 이스코어 결승전) 이재호 vs 짭제 최종승자",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1697525",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1697525/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1697206",
+          "title": "[와토/종료] 🎮이스코어 4강 변현제 vs 짭제 3/2🎮",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1697206",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1697206/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1697085",
+          "title": "[와토/종료] 🎆캄몬 유즈맵CK 승리팀은?????? 🎆",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1697085",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1697085/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1696965",
+          "title": "[와토/종료] 🎮햇살 4,5 PL vs키링 승리 와토🎮",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1696965",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1696965/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1696934",
+          "title": "[또또/와토/종료] 🎮햇살 4,5 PL 승리팀 와토🎮",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1696934",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1696934/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1694021",
+          "title": "[와토/종료] 암아가 방송 on 2시 30분 언오바",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1694021",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1694021/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1693416",
+          "title": "[또또/와토/종료] 🔥 64강 시작 우리 멤버 중 최종 성적 1위 예측",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1693416",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1693416/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1689812",
+          "title": "[와토/종료] 🎆07/09 암낭니 1:1 합방 시청자 5555명 U/O 🎆",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1689812",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1689812/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1688265",
+          "title": "[또또/와토/종료] 서든 최종팀승리 와토 ㄱㄱ",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1688265",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1688265/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1687718",
+          "title": "[또또/와토/종료] 🪙 덕선 환영회 총 펀딩 개수 60만 up & down 🪙",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1687718",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1687718/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1686418",
+          "title": "[와토/종료] 🔥김윤환 방송on 시간 와토🔥",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1686418",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1686418/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1684751",
+          "title": "[와토/종료] ☘치리vs예실 끝장전 3세트(녹아웃)☘",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1684751",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1684751/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
