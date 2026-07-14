@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-14T02:10:38.443Z",
+  "checkedAt": "2026-07-14T02:20:38.125Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718302/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 49분 남음"
+          "statusText": "16시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718301/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 49분 남음"
+          "statusText": "16시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718300/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 49분 남음"
+          "statusText": "16시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718299/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 49분 남음"
+          "statusText": "16시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718298/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 49분 남음"
+          "statusText": "16시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718297/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 49분 남음"
+          "statusText": "16시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718296/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 49분 남음"
+          "statusText": "16시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718295/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 49분 남음"
+          "statusText": "16시간 39분 남음"
         }
       ],
       "closed": [],
@@ -1028,7 +1028,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1712428/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 47분 남음"
+          "statusText": "12시간 37분 남음"
         },
         {
           "board": "monstarz",
@@ -2073,13 +2073,13 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1808578",
-          "title": "🔥🔥 음바페 VS 야말 공격포인트 대결 🔥🔥 (2)",
-          "articleUrl": "https://ygosu.com/board/soop/1808578",
-          "watoUrl": "https://ygosu.com/board/soop/1808578/?s_wato=Y",
+          "id": "1808631",
+          "title": "[와토/16시간 남음] 🔥 음바페 (-0.5) VS 야말 공격포인트 대결 🔥",
+          "articleUrl": "https://ygosu.com/board/soop/1808631",
+          "watoUrl": "https://ygosu.com/board/soop/1808631/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 45분 남음"
+          "statusText": "16시간 35분 남음"
         },
         {
           "board": "soop",
@@ -2992,18 +2992,6 @@
           "title": "[와토/종료] 🧊 뉴캄옥션 개인전 7세트(핀볼) T비타밍 vs T메옹 [녹아웃] 🧊",
           "articleUrl": "https://ygosu.com/board/soop/1759072",
           "watoUrl": "https://ygosu.com/board/soop/1759072/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1759066",
-          "title": "[와토/종료] 🧊 뉴캄옥션 개인전 6세트 T비타밍 vs T메옹 [폴리] 🧊",
-          "articleUrl": "https://ygosu.com/board/soop/1759066",
-          "watoUrl": "https://ygosu.com/board/soop/1759066/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
