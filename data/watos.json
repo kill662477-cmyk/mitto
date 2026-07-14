@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-14T01:40:41.215Z",
+  "checkedAt": "2026-07-14T01:50:39.299Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718302/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "17시간 19분 남음"
+          "statusText": "17시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718301/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "17시간 19분 남음"
+          "statusText": "17시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718300/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "17시간 19분 남음"
+          "statusText": "17시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718299/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "17시간 19분 남음"
+          "statusText": "17시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718298/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "17시간 19분 남음"
+          "statusText": "17시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718297/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "17시간 19분 남음"
+          "statusText": "17시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718296/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "17시간 19분 남음"
+          "statusText": "17시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718295/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "17시간 19분 남음"
+          "statusText": "17시간 9분 남음"
         }
       ],
       "closed": [],
@@ -987,33 +987,9 @@
           "boardName": "스대게",
           "category": null,
           "id": "1714329",
-          "title": "🙉오늘 시빌워 펀딩 1등 맞히기🙉 (6)",
+          "title": "[또또/와토/진행] 🙉오늘 시빌워 펀딩 1등 맞히기🙉",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1714329",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1714329/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1712428",
-          "title": "💀 시빌워 승자팀 예측 암팀 vs 상대팀 💀 (1)",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1712428",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1712428/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "13시간 17분 남음"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1712731",
-          "title": "💸 시빌워 업다운 와토 55만 up & down 💸 (5)",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1712731",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1712731/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -1029,6 +1005,30 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1712731",
+          "title": "[와토/진행] 💸 시빌워 업다운 와토 55만 up & down 💸",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1712731",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1712731/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1712428",
+          "title": "[또또/와토/13시간 남음] 💀 시빌워 승자팀 예측 암팀 vs 상대팀 💀",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1712428",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1712428/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "13시간 7분 남음"
         },
         {
           "board": "monstarz",
