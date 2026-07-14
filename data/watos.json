@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-14T18:50:58.998Z",
+  "checkedAt": "2026-07-14T19:00:53.243Z",
   "boards": {
     "mitto": {
       "live": [
@@ -14,105 +14,106 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
+        }
+      ],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "718302",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 준결승💎프랑스 vs 스페인 :7/15: AM 4시 (연장/승차포함)-B",
+          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵 준결승💎프랑스 vs 스페인 :7/15: AM 4시 (연장/승차포함)-B",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718302",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718302/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 41초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "718301",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 준결승💎프랑스 vs 스페인 :7/15: AM 4시 (연장/승차포함)-A",
+          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵 준결승💎프랑스 vs 스페인 :7/15: AM 4시 (연장/승차포함)-A",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718301",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718301/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 40초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "718300",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 준결승💎프랑스 vs 스페인 :7/15:AM4시 (노핸디매치)-C",
+          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵 준결승💎프랑스 vs 스페인 :7/15:AM4시 (노핸디매치)-C",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718300",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718300/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 39초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "718299",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 준결승💎프랑스 vs 스페인 :7/15:AM4시 (노핸디매치)-B",
+          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵 준결승💎프랑스 vs 스페인 :7/15:AM4시 (노핸디매치)-B",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718299",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718299/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 39초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "718298",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 준결승💎프랑스 vs 스페인 :7/15:AM4시 (노핸디매치)-A",
+          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 준결승💎프랑스 vs 스페인 :7/15:AM4시 (노핸디매치)-A",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718298",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718298/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 38초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "718297",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 준결승💎프랑스 (-0.5) vs 스페인 :7/15: AM 4시 (C)",
+          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 준결승💎프랑스 (-0.5) vs 스페인 :7/15: AM 4시 (C)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718297",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718297/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 37초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "718296",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 준결승💎프랑스 (-0.5) vs 스페인 :7/15: AM 4시 (B)",
+          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 준결승💎프랑스 (-0.5) vs 스페인 :7/15: AM 4시 (B)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718296",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718296/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 36초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "718295",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 준결승💎프랑스 (-0.5) vs 스페인 :7/15: AM 4시 (A)",
+          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 준결승💎프랑스 (-0.5) vs 스페인 :7/15: AM 4시 (A)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718295",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718295/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 15초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         }
       ],
-      "closed": [],
       "result": [
         {
           "board": "mitto",
@@ -2001,25 +2002,25 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
+          "id": "1812545",
+          "title": "🎯 씨나인 나가는 멤버부 맞추기 🎯 (9)",
+          "articleUrl": "https://ygosu.com/board/soop/1812545",
+          "watoUrl": "https://ygosu.com/board/soop/1812545/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "12시간 55분 남음"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
           "id": "1808113",
           "title": "🧊 스타대전 씨나인열등반 vs BGM 최종승/패 🧊 (1)",
           "articleUrl": "https://ygosu.com/board/soop/1808113",
           "watoUrl": "https://ygosu.com/board/soop/1808113/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "14시간 5분 남음"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1812545",
-          "title": "[와토/진행] 🎯 씨나인 나가는 멤버부 맞추기 🎯",
-          "articleUrl": "https://ygosu.com/board/soop/1812545",
-          "watoUrl": "https://ygosu.com/board/soop/1812545/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
+          "statusText": "13시간 55분 남음"
         },
         {
           "board": "soop",
@@ -2133,18 +2134,6 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1808631",
-          "title": "[와토/5분 남음] 🔥 음바페 (-0.5) VS 야말 공격포인트 대결 🔥",
-          "articleUrl": "https://ygosu.com/board/soop/1808631",
-          "watoUrl": "https://ygosu.com/board/soop/1808631/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "5분 26초 남음"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
           "id": "1808125",
           "title": "[와토/진행] 🧊 스타대전 씨나인중등반 vs 캄몬 최종승/패 🧊",
           "articleUrl": "https://ygosu.com/board/soop/1808125",
@@ -2154,7 +2143,20 @@
           "statusText": "진행중"
         }
       ],
-      "closed": [],
+      "closed": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1808631",
+          "title": "[와토/마감] 🔥 음바페 (-0.5) VS 야말 공격포인트 대결 🔥",
+          "articleUrl": "https://ygosu.com/board/soop/1808631",
+          "watoUrl": "https://ygosu.com/board/soop/1808631/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        }
+      ],
       "result": [
         {
           "board": "soop",
