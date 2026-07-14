@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-14T14:40:38.752Z",
+  "checkedAt": "2026-07-14T14:50:42.208Z",
   "boards": {
     "mitto": {
       "live": [
@@ -127,18 +127,6 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
-          "id": "718498",
-          "title": "[와토/진행] 🌠 메프 2세트 🌠 1경기: 제동팀 vs 택용팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/718498",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/718498/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
           "id": "718497",
           "title": "[와토/진행] 🌠 메프 1세트 🌠 7경기: 정우 vs 홍구",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718497",
@@ -157,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718302/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 19분 남음"
+          "statusText": "4시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -169,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718301/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 18분 남음"
+          "statusText": "4시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -181,7 +169,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718300/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 18분 남음"
+          "statusText": "4시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -193,7 +181,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718299/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 18분 남음"
+          "statusText": "4시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -205,7 +193,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718298/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 18분 남음"
+          "statusText": "4시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -217,7 +205,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718297/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 18분 남음"
+          "statusText": "4시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -229,7 +217,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718296/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 18분 남음"
+          "statusText": "4시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -241,10 +229,23 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718295/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 18분 남음"
+          "statusText": "4시간 8분 남음"
         }
       ],
-      "closed": [],
+      "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "718498",
+          "title": "[와토/마감] 🌠 메프 2세트 🌠 1경기: 정우 vs 택용",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/718498",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/718498/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        }
+      ],
       "result": [
         {
           "board": "mitto",
@@ -1094,18 +1095,6 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1714707",
-          "title": "[또또/와토/진행] 🎮캄몬 시빌워🎮 4경기",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1714707",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1714707/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
           "id": "1661641",
           "title": "[또또/와토/진행] 🔥뉴캄옥션 결승 족암새퉤퉤퉤vs s급친구들 개인전와토 에이스결정전🔥",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1661641",
@@ -1132,10 +1121,10 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1714706",
-          "title": "[또또/와토/마감] 🎮캄몬 시빌워🎮 3경기 주하랑 vs 소주양 맵 : 라데온",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1714706",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1714706/?s_wato=Y",
+          "id": "1714707",
+          "title": "[또또/와토/마감] 🎮캄몬 시빌워🎮 4경기 남덕선 vs 클템 맵 : 폴리",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1714707",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1714707/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -1154,6 +1143,18 @@
         }
       ],
       "result": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1714706",
+          "title": "[또또/와토/종료] 🎮캄몬 시빌워🎮 3경기 주하랑 vs 소주양 맵 : 라데온",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1714706",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1714706/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -2080,7 +2081,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1808631/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 15분 남음"
+          "statusText": "4시간 5분 남음"
         },
         {
           "board": "soop",
