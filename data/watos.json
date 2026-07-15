@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-15T08:10:40.614Z",
+  "checkedAt": "2026-07-15T08:20:40.501Z",
   "boards": {
     "mitto": {
       "live": [
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718949/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 49분 남음"
+          "statusText": "10시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718948/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 49분 남음"
+          "statusText": "10시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718947/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 49분 남음"
+          "statusText": "10시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718946/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 49분 남음"
+          "statusText": "10시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718945/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 49분 남음"
+          "statusText": "10시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718944/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 49분 남음"
+          "statusText": "10시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718943/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 49분 남음"
+          "statusText": "10시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718942/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 49분 남음"
+          "statusText": "10시간 39분 남음"
         }
       ],
       "closed": [],
@@ -938,18 +938,6 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1721692",
-          "title": "[와토/진행] ⭐6티어 종족최강전⭐ 최종승리팀",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1721692",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1721692/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
           "id": "1721590",
           "title": "[또또/와토/진행] 윤환햄 H리그 시청자수 와토",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1721590",
@@ -983,7 +971,20 @@
           "statusText": "진행중"
         }
       ],
-      "closed": [],
+      "closed": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1721692",
+          "title": "[와토/마감] ⭐6티어 종족최강전⭐ 최종승리팀",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1721692",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1721692/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        }
+      ],
       "result": [
         {
           "board": "monstarz",
@@ -1989,13 +1990,25 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
+          "id": "1814411",
+          "title": "🧊 스타메프 철구팀 vs ??? 최종 승/패 🧊 (1)",
+          "articleUrl": "https://ygosu.com/board/soop/1814411",
+          "watoUrl": "https://ygosu.com/board/soop/1814411/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
           "id": "1814038",
           "title": "💎 수요일 철구방송 용현동 VS 가좌동 💎 (2)",
           "articleUrl": "https://ygosu.com/board/soop/1814038",
           "watoUrl": "https://ygosu.com/board/soop/1814038/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "45분 41초 남음"
+          "statusText": "35분 44초 남음"
         },
         {
           "board": "soop",
@@ -2007,7 +2020,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1812661/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "45분 40초 남음"
+          "statusText": "35분 43초 남음"
         },
         {
           "board": "soop",
@@ -2019,7 +2032,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1812545/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "45분 39초 남음"
+          "statusText": "35분 42초 남음"
         },
         {
           "board": "soop",
@@ -2031,7 +2044,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1808113/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "45분 38초 남음"
+          "statusText": "35분 42초 남음"
         },
         {
           "board": "soop",
@@ -2932,18 +2945,6 @@
           "title": "[와토/종료] 🧊 스타단판 손풀기 Z철구 vs P라박이 🧊",
           "articleUrl": "https://ygosu.com/board/soop/1764825",
           "watoUrl": "https://ygosu.com/board/soop/1764825/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1764720",
-          "title": "[와토/종료] 🧊 스타단판 손풀기 Z철구 vs P홍구부종 🧊",
-          "articleUrl": "https://ygosu.com/board/soop/1764720",
-          "watoUrl": "https://ygosu.com/board/soop/1764720/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
