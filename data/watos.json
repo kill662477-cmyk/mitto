@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-15T16:00:56.585Z",
+  "checkedAt": "2026-07-15T16:10:40.719Z",
   "boards": {
     "mitto": {
       "live": [
@@ -78,18 +78,6 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "star",
-          "id": "719317",
-          "title": "[와토/진행] 🌠준메프 2세트 🌠 5경기: 철구팀 vs 학수팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/719317",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/719317/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
           "category": "lol",
           "id": "719272",
           "title": "[🟢진행중/와토/진행] 🏆EWC또또🏆 T1 vs BLG 승자전 단판매치(B) ::: 7/16 18시",
@@ -121,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718949/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 58분 남음"
+          "statusText": "2시간 48분 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718948/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 58분 남음"
+          "statusText": "2시간 48분 남음"
         },
         {
           "board": "mitto",
@@ -145,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718947/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 58분 남음"
+          "statusText": "2시간 48분 남음"
         },
         {
           "board": "mitto",
@@ -157,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718946/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 58분 남음"
+          "statusText": "2시간 48분 남음"
         },
         {
           "board": "mitto",
@@ -169,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718945/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 58분 남음"
+          "statusText": "2시간 48분 남음"
         },
         {
           "board": "mitto",
@@ -181,7 +169,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718942/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 58분 남음"
+          "statusText": "2시간 48분 남음"
         },
         {
           "board": "mitto",
@@ -193,7 +181,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718944/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 58분 남음"
+          "statusText": "2시간 48분 남음"
         },
         {
           "board": "mitto",
@@ -205,7 +193,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718943/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 58분 남음"
+          "statusText": "2시간 48분 남음"
         }
       ],
       "closed": [
@@ -213,16 +201,28 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
-          "id": "719316",
-          "title": "[와토/마감] 🌠준메프 2세트 🌠 4경기: 윤중 vs 병구",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/719316",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/719316/?s_wato=Y",
+          "id": "719317",
+          "title": "[와토/마감] 🌠준메프 2세트 🌠 5경기: 윤중 vs 짭제",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/719317",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/719317/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "719316",
+          "title": "[와토/종료] 🌠준메프 2세트 🌠 4경기: 윤중 vs 병구",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/719316",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/719316/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -1150,30 +1150,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1722923",
-          "title": "[또또/와토/진행] 🎮J리그 2세트🎮 6경기",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1722923",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1722923/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1722921",
-          "title": "[또또/와토/진행] 🎮J리그 2세트🎮 5경기 경민 vs 병영 맵 : 애티튜드",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1722921",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1722921/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
         }
       ],
       "closed": [
@@ -1203,6 +1179,18 @@
         }
       ],
       "result": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1722921",
+          "title": "[또또/와토/종료] 🎮J리그 2세트🎮 5경기 경민 vs 병영 맵 : 애티튜드",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1722921",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1722921/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -2159,6 +2147,18 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
+          "id": "1816054",
+          "title": "🧊 스타메프 2SET 6경기 ??? vs ??? 승/패 🧊",
+          "articleUrl": "https://ygosu.com/board/soop/1816054",
+          "watoUrl": "https://ygosu.com/board/soop/1816054/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
           "id": "1816075",
           "title": "[와토/진행] 🧊 스타메프 슈에 ??? vs ??? 승/패 🧊",
           "articleUrl": "https://ygosu.com/board/soop/1816075",
@@ -2207,30 +2207,6 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1816054",
-          "title": "[와토/진행] 🧊 스타메프 2SET 6경기 ??? vs ??? 승/패 🧊",
-          "articleUrl": "https://ygosu.com/board/soop/1816054",
-          "watoUrl": "https://ygosu.com/board/soop/1816054/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1816049",
-          "title": "[와토/진행] 🧊 스타메프 2SET 5경기 ??? vs ??? 승/패 🧊",
-          "articleUrl": "https://ygosu.com/board/soop/1816049",
-          "watoUrl": "https://ygosu.com/board/soop/1816049/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
           "id": "1808125",
           "title": "[와토/진행] 🧊 스타대전 씨나인중등반 vs 캄몬 최종승/패 🧊",
           "articleUrl": "https://ygosu.com/board/soop/1808125",
@@ -2241,6 +2217,18 @@
         }
       ],
       "closed": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1816049",
+          "title": "🧊 스타메프 2SET 5경기 P김윤중 vs Z짭제 승/패 [녹아웃] 🧊",
+          "articleUrl": "https://ygosu.com/board/soop/1816049",
+          "watoUrl": "https://ygosu.com/board/soop/1816049/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
