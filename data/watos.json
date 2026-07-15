@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-15T12:50:42.566Z",
+  "checkedAt": "2026-07-15T13:00:54.035Z",
   "boards": {
     "mitto": {
       "live": [
@@ -176,7 +176,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "719308",
-          "title": "[와토/진행] 🌠준메프 1세트 🌠 3경기: 철구팀 vs 학수팀",
+          "title": "[와토/진행] 🌠준메프 1세트 🌠 3경기: 재호 vs 짭제",
           "articleUrl": "https://ygosu.com/board/pan_ccy/719308",
           "watoUrl": "https://ygosu.com/board/pan_ccy/719308/?s_wato=Y",
           "tab": "live",
@@ -188,21 +188,9 @@
           "boardName": "미또게",
           "category": "star",
           "id": "719307",
-          "title": "[와토/진행] 🌠준메프 1세트 🌠 2경기: 철구팀 vs 학수팀",
+          "title": "[와토/진행] 🌠준메프 1세트 🌠 2경기: 철구 vs 학수",
           "articleUrl": "https://ygosu.com/board/pan_ccy/719307",
           "watoUrl": "https://ygosu.com/board/pan_ccy/719307/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "719306",
-          "title": "[와토/진행] 🌠준메프 1세트 🌠 1경기: 철구팀 vs 학수팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/719306",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/719306/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -236,24 +224,24 @@
           "boardName": "미또게",
           "category": "football",
           "id": "718949",
-          "title": "[🟢진행중/와토/6시간 남음] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 4시 (연장/승차포함)-B",
+          "title": "[🟢진행중/와토/5시간 남음] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 4시 (연장/승차포함)-B",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718949",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718949/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 8분 남음"
+          "statusText": "5시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "718948",
-          "title": "[🟢진행중/와토/6시간 남음] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 4시 (연장/승차포함)-A",
+          "title": "[🟢진행중/와토/5시간 남음] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 4시 (연장/승차포함)-A",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718948",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718948/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 8분 남음"
+          "statusText": "5시간 58분 남음"
         },
         {
           "board": "mitto",
@@ -265,19 +253,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718947/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 8분 남음"
+          "statusText": "5시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "718946",
-          "title": "[🟢진행중/와토/6시간 남음] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 04시 (노핸디매치)-B",
+          "title": "[🟢진행중/와토/5시간 남음] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 04시 (노핸디매치)-B",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718946",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718946/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 8분 남음"
+          "statusText": "5시간 58분 남음"
         },
         {
           "board": "mitto",
@@ -289,46 +277,59 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718945/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 8분 남음"
+          "statusText": "5시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "718944",
-          "title": "💎북중미 월드컵 준결승💎잉글랜드...",
+          "title": "[🟢진행중/와토/5시간 남음] 💎북중미 월드컵 준결승💎잉글랜드 (-0.5) vs 아르헨티나 :7/16: 04시 (C)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718944",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718944/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 8분 남음"
+          "statusText": "5시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "718943",
-          "title": "💎북중미 월드컵 준결승💎잉글랜드...",
+          "title": "[🟢진행중/와토/5시간 남음] 💎북중미 월드컵 준결승💎잉글랜드 (-0.5) vs 아르헨티나 :7/16: 04시 (B)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718943",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718943/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 8분 남음"
+          "statusText": "5시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "718942",
-          "title": "[🟢진행중/와토/6시간 남음] 💎북중미 월드컵 준결승💎잉글랜드 (-0.5) vs 아르헨티나 :7/16: 04시 (A)",
+          "title": "[🟢진행중/와토/5시간 남음] 💎북중미 월드컵 준결승💎잉글랜드 (-0.5) vs 아르헨티나 :7/16: 04시 (A)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718942",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718942/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 8분 남음"
+          "statusText": "5시간 58분 남음"
         }
       ],
-      "closed": [],
+      "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "719306",
+          "title": "[와토/마감] 🌠준메프 1세트 🌠 1경기: 택용 vs 병구",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/719306",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/719306/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        }
+      ],
       "result": [
         {
           "board": "mitto",
@@ -1215,7 +1216,7 @@
           "boardName": "스대게",
           "category": null,
           "id": "1722912",
-          "title": "[또또/와토/진행] 🎮J리그 1세트🎮 7경기",
+          "title": "[또또/와토/진행] 🎮J리그 1세트🎮 7경기 맵 : 아이올로스",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1722912",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1722912/?s_wato=Y",
           "tab": "live",
@@ -2170,30 +2171,6 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1815978",
-          "title": "🧊 스타메프 1SET 1경기 ??? vs ??? 승/패 🧊",
-          "articleUrl": "https://ygosu.com/board/soop/1815978",
-          "watoUrl": "https://ygosu.com/board/soop/1815978/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1814411",
-          "title": "🧊 스타메프 철구팀 vs 학수팀 최종 승/패 🧊 (1)",
-          "articleUrl": "https://ygosu.com/board/soop/1814411",
-          "watoUrl": "https://ygosu.com/board/soop/1814411/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
           "id": "1816075",
           "title": "[와토/진행] 🧊 스타메프 슈에 ??? vs ??? 승/패 🧊",
           "articleUrl": "https://ygosu.com/board/soop/1816075",
@@ -2384,6 +2361,30 @@
         }
       ],
       "closed": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1815978",
+          "title": "🧊 스타메프 1SET 1경기 ??? vs ??? 승/패 🧊",
+          "articleUrl": "https://ygosu.com/board/soop/1815978",
+          "watoUrl": "https://ygosu.com/board/soop/1815978/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1814411",
+          "title": "🧊 스타메프 철구팀 vs 학수팀 최종 승/패 🧊 (1)",
+          "articleUrl": "https://ygosu.com/board/soop/1814411",
+          "watoUrl": "https://ygosu.com/board/soop/1814411/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
