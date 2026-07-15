@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-15T21:00:51.178Z",
+  "checkedAt": "2026-07-15T21:10:42.379Z",
   "boards": {
     "mitto": {
       "live": [
@@ -40,104 +40,7 @@
           "statusText": "진행중"
         }
       ],
-      "closed": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "718949",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 4시 (연장/승차포함)-B",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/718949",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/718949/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "718948",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 4시 (연장/승차포함)-A",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/718948",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/718948/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "718947",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 04시 (노핸디매치)-C",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/718947",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/718947/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "718946",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 04시 (노핸디매치)-B",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/718946",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/718946/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "718945",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 04시 (노핸디매치)-A",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/718945",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/718945/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "718944",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 준결승💎잉글랜드 (-0.5) vs 아르헨티나 :7/16: 04시 (C)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/718944",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/718944/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "718943",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 준결승💎잉글랜드 (-0.5) vs 아르헨티나 :7/16: 04시 (B)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/718943",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/718943/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "718942",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 준결승💎잉글랜드 (-0.5) vs 아르헨티나 :7/16: 04시 (A)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/718942",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/718942/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
+      "closed": [],
       "result": [
         {
           "board": "mitto",
@@ -291,6 +194,102 @@
           "title": "[와토/종료] 🌠준메프 1세트 🌠 1경기: 택용 vs 병구",
           "articleUrl": "https://ygosu.com/board/pan_ccy/719306",
           "watoUrl": "https://ygosu.com/board/pan_ccy/719306/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "718949",
+          "title": "[🟡마감/와토/종료] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 4시 (연장/승차포함)-B",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/718949",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/718949/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "718948",
+          "title": "[🔴결과/와토/종료] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 4시 (연장/승차포함)-A",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/718948",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/718948/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "718947",
+          "title": "[🔴결과/와토/종료] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 04시 (노핸디매치)-C",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/718947",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/718947/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "718946",
+          "title": "[🔴결과/와토/종료] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 04시 (노핸디매치)-B",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/718946",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/718946/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "718945",
+          "title": "[🔴결과/와토/종료] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 04시 (노핸디매치)-A",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/718945",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/718945/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "718944",
+          "title": "[🔴결과/와토/종료] 💎북중미 월드컵 준결승💎잉글랜드 (-0.5) vs 아르헨티나 :7/16: 04시 (C)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/718944",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/718944/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "718943",
+          "title": "[🔴결과/와토/종료] 💎북중미 월드컵 준결승💎잉글랜드 (-0.5) vs 아르헨티나 :7/16: 04시 (B)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/718943",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/718943/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "718942",
+          "title": "[🔴결과/와토/종료] 💎북중미 월드컵 준결승💎잉글랜드 (-0.5) vs 아르헨티나 :7/16: 04시 (A)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/718942",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/718942/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
