@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-15T18:40:41.037Z",
+  "checkedAt": "2026-07-15T18:50:38.405Z",
   "boards": {
     "mitto": {
       "live": [
@@ -44,12 +44,12 @@
           "boardName": "미또게",
           "category": "football",
           "id": "718949",
-          "title": "[🟢진행중/와토/19분 남음] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 4시 (연장/승차포함)-B",
+          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 4시 (연장/승차포함)-B",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718949",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718949/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18분 57초 남음"
+          "statusText": "8분 54초 남음"
         },
         {
           "board": "mitto",
@@ -61,19 +61,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718948/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18분 56초 남음"
+          "statusText": "8분 53초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "718947",
-          "title": "[🟢진행중/와토/19분 남음] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 04시 (노핸디매치)-C",
+          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 04시 (노핸디매치)-C",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718947",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718947/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18분 55초 남음"
+          "statusText": "8분 52초 남음"
         },
         {
           "board": "mitto",
@@ -85,19 +85,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718946/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18분 54초 남음"
+          "statusText": "8분 51초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "718945",
-          "title": "[🟢진행중/와토/19분 남음] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 04시 (노핸디매치)-A",
+          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 04시 (노핸디매치)-A",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718945",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718945/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18분 53초 남음"
+          "statusText": "8분 50초 남음"
         },
         {
           "board": "mitto",
@@ -109,31 +109,31 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718942/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18분 51초 남음"
+          "statusText": "8분 48초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "718944",
-          "title": "[🟢진행중/와토/19분 남음] 💎북중미 월드컵 준결승💎잉글랜드 (-0.5) vs 아르헨티나 :7/16: 04시 (C)",
+          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 준결승💎잉글랜드 (-0.5) vs 아르헨티나 :7/16: 04시 (C)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718944",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718944/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18분 37초 남음"
+          "statusText": "8분 32초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "718943",
-          "title": "[🟢진행중/와토/19분 남음] 💎북중미 월드컵 준결승💎잉글랜드 (-0.5) vs 아르헨티나 :7/16: 04시 (B)",
+          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 준결승💎잉글랜드 (-0.5) vs 아르헨티나 :7/16: 04시 (B)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718943",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718943/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "18분 36초 남음"
+          "statusText": "8분 31초 남음"
         }
       ],
       "closed": [],
@@ -2118,20 +2118,7 @@
           "statusText": "진행중"
         }
       ],
-      "closed": [
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1812661",
-          "title": "[와토/마감] 🧊 수요일 철구방송 시청자수 11111 언/오버 🧊",
-          "articleUrl": "https://ygosu.com/board/soop/1812661",
-          "watoUrl": "https://ygosu.com/board/soop/1812661/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
+      "closed": [],
       "result": [
         {
           "board": "soop",
@@ -2321,6 +2308,18 @@
           "title": "[와토/종료] 💎 수요일 철구방송 용현동 VS 가좌동 💎",
           "articleUrl": "https://ygosu.com/board/soop/1814038",
           "watoUrl": "https://ygosu.com/board/soop/1814038/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1812661",
+          "title": "[와토/종료] 🧊 수요일 철구방송 시청자수 11111 언/오버 🧊",
+          "articleUrl": "https://ygosu.com/board/soop/1812661",
+          "watoUrl": "https://ygosu.com/board/soop/1812661/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
