@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-15T23:00:53.091Z",
+  "checkedAt": "2026-07-15T23:10:40.112Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/719743/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 59분 남음"
+          "statusText": "12시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/719751/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 29분 남음"
+          "statusText": "10시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/719750/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 29분 남음"
+          "statusText": "10시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/719749/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 28분 남음"
+          "statusText": "10시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/719748/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 28분 남음"
+          "statusText": "10시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/719747/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 28분 남음"
+          "statusText": "10시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -2109,6 +2109,42 @@
           "title": "[또또/와토/종료] 🎮45티어 PL 2세트🎮 1경기 하랑 vs 주양 맵 : 폴리",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1676076",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1676076/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1676071",
+          "title": "[또또/와토/종료] 🎮45티어 PL 1세트🎮 4경기 유이 vs 주양 맵 : 녹아웃",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1676071",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1676071/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1676069",
+          "title": "[또또/와토/종료] 🎮45티어 PL 1세트🎮 3경기 키링 vs 햇살 맵 : 폴리",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1676069",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1676069/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1676068",
+          "title": "[또또/와토/종료] 🎮45티어 PL 1세트🎮 2경기 치리 vs 도랑 맵 : 라데온",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1676068",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1676068/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
