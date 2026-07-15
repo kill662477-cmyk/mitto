@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-15T17:30:47.282Z",
+  "checkedAt": "2026-07-15T17:40:46.405Z",
   "boards": {
     "mitto": {
       "live": [
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718949/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 28분 남음"
+          "statusText": "1시간 18분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718948/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 28분 남음"
+          "statusText": "1시간 18분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718947/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 28분 남음"
+          "statusText": "1시간 18분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718946/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 28분 남음"
+          "statusText": "1시간 18분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718945/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 28분 남음"
+          "statusText": "1시간 18분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718942/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 28분 남음"
+          "statusText": "1시간 18분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718944/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 28분 남음"
+          "statusText": "1시간 18분 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718943/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 28분 남음"
+          "statusText": "1시간 18분 남음"
         }
       ],
       "closed": [],
@@ -1064,7 +1064,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1724025/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 27분 남음"
+          "statusText": "21시간 17분 남음"
         },
         {
           "board": "monstarz",
@@ -2123,18 +2123,6 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1818824",
-          "title": "🧊 스타단판 핸디매치 Z철구 vs T이재호 승/패 [라데온] 🧊",
-          "articleUrl": "https://ygosu.com/board/soop/1818824",
-          "watoUrl": "https://ygosu.com/board/soop/1818824/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
           "id": "1812661",
           "title": "[와토/마감] 🧊 수요일 철구방송 시청자수 11111 언/오버 🧊",
           "articleUrl": "https://ygosu.com/board/soop/1812661",
@@ -2145,6 +2133,18 @@
         }
       ],
       "result": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1818824",
+          "title": "[와토/종료] 🧊 스타단판 핸디매치 Z철구 vs T이재호 승/패 [라데온] 🧊",
+          "articleUrl": "https://ygosu.com/board/soop/1818824",
+          "watoUrl": "https://ygosu.com/board/soop/1818824/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
