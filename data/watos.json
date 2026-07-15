@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-15T12:40:39.792Z",
+  "checkedAt": "2026-07-15T12:50:42.566Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,7 +8,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "719322",
-          "title": "[와토/진행] 🌠 준메프 에이스 결정전 🌠",
+          "title": "[와토/진행] 🌠 준메프 에이스 결정전 🌠 철구팀 vs 학수팀",
           "articleUrl": "https://ygosu.com/board/pan_ccy/719322",
           "watoUrl": "https://ygosu.com/board/pan_ccy/719322/?s_wato=Y",
           "tab": "live",
@@ -241,7 +241,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718949/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 18분 남음"
+          "statusText": "6시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -253,7 +253,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718948/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 18분 남음"
+          "statusText": "6시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -265,7 +265,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718947/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 18분 남음"
+          "statusText": "6시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -277,7 +277,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718946/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 18분 남음"
+          "statusText": "6시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -289,7 +289,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718945/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 18분 남음"
+          "statusText": "6시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -301,7 +301,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718944/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 18분 남음"
+          "statusText": "6시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -313,7 +313,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718943/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 18분 남음"
+          "statusText": "6시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -325,7 +325,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718942/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 18분 남음"
+          "statusText": "6시간 8분 남음"
         }
       ],
       "closed": [],
@@ -1094,6 +1094,54 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
+          "id": "1722930",
+          "title": "[또또/와토/진행] 🎮J리그 에결🎮",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1722930",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1722930/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1722929",
+          "title": "[또또/와토/진행] 🎮J리그 2세트🎮 9경기",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1722929",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1722929/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1722927",
+          "title": "[또또/와토/진행] 🎮J리그 2세트🎮 8경기",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1722927",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1722927/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1722924",
+          "title": "[또또/와토/진행] 🎮J리그 2세트🎮 7경기",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1722924",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1722924/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
           "id": "1722923",
           "title": "[또또/와토/진행] 🎮J리그 2세트🎮 6경기",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1722923",
@@ -1179,7 +1227,7 @@
           "boardName": "스대게",
           "category": null,
           "id": "1722910",
-          "title": "[또또/와토/진행] 🎮J리그 1세트🎮 6경기",
+          "title": "[또또/와토/진행] 🎮J리그 1세트🎮 6경기 맵 : 애티튜드",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1722910",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1722910/?s_wato=Y",
           "tab": "live",
@@ -1191,7 +1239,7 @@
           "boardName": "스대게",
           "category": null,
           "id": "1722909",
-          "title": "[또또/와토/진행] 🎮J리그 1세트🎮 5경기",
+          "title": "[또또/와토/진행] 🎮J리그 1세트🎮 5경기 윤환 vs 동원 맵 : 오디세이",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1722909",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1722909/?s_wato=Y",
           "tab": "live",
@@ -1203,7 +1251,7 @@
           "boardName": "스대게",
           "category": null,
           "id": "1722908",
-          "title": "[또또/와토/진행] 🎮J리그 1세트🎮 4경기",
+          "title": "[또또/와토/진행] 🎮J리그 1세트🎮 4경기 사테 vs 수범 맵 : 컬러리스 페이트",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1722908",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1722908/?s_wato=Y",
           "tab": "live",
@@ -1215,7 +1263,7 @@
           "boardName": "스대게",
           "category": null,
           "id": "1722907",
-          "title": "[또또/와토/진행] 🎮J리그 1세트🎮 3경기",
+          "title": "[또또/와토/진행] 🎮J리그 1세트🎮 3경기 성대 vs 영화 맵 : 백룸",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1722907",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1722907/?s_wato=Y",
           "tab": "live",
@@ -1227,63 +1275,39 @@
           "boardName": "스대게",
           "category": null,
           "id": "1722906",
-          "title": "[또또/와토/진행] 🎮J리그 1세트🎮 2경기",
+          "title": "[또또/와토/진행] 🎮J리그 1세트🎮 2경기 경민 vs 수철 맵 : 녹아웃",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1722906",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1722906/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1722905",
-          "title": "[또또/와토/진행] 🎮J리그 1세트🎮 1경기",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1722905",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1722905/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1722078",
-          "title": "[또또/와토/진행] H리그 승리팀 풍츠깨암테 vs 병참범화털",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1722078",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1722078/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1661641",
-          "title": "[또또/와토/진행] 🔥뉴캄옥션 결승 족암새퉤퉤퉤vs s급친구들 개인전와토 에이스결정전🔥",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1661641",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1661641/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1661637",
-          "title": "[또또/와토/진행] 🔥뉴캄옥션 결승 족암새퉤퉤퉤vs s급친구들 개인전와토 8경기🔥",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1661637",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1661637/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
         }
       ],
       "closed": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1722905",
+          "title": "[또또/와토/마감] 🎮J리그 1세트🎮 1경기 깨모 vs 병영 맵 : 옥타곤",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1722905",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1722905/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1722078",
+          "title": "[또또/와토/마감] H리그 승리팀 풍츠깨암테 vs 병참범화털",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1722078",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1722078/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -2122,18 +2146,6 @@
           "title": "[또또/와토/종료] 🎮뉴캄옥션 폐막식 롤CK🎮 김윤환팀 vs 기뉴다팀 최종 승리팀",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1672562",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1672562/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1661633",
-          "title": "[또또/와토/종료] 🔥뉴캄옥션 결승 족암새퉤퉤퉤vs s급친구들 개인전와토 7경기 최세상vs치리🔥",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1661633",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1661633/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
