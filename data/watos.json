@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-15T08:00:54.291Z",
+  "checkedAt": "2026-07-15T08:10:40.614Z",
   "boards": {
     "mitto": {
       "live": [
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718949/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 58분 남음"
+          "statusText": "10시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -37,19 +37,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718948/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 58분 남음"
+          "statusText": "10시간 49분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "718947",
-          "title": "[🟢진행중/와토/10시간 남음] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 04시 (노핸디매치)-C",
+          "title": "💎북중미 월드컵 준결승💎잉글랜드...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718947",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718947/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 58분 남음"
+          "statusText": "10시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -61,43 +61,43 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718946/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 58분 남음"
+          "statusText": "10시간 49분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "718945",
-          "title": "[🟢진행중/와토/10시간 남음] 💎북중미 월드컵 준결승💎잉글랜드 vs 아르헨티나 :7/16: 04시 (노핸디매치)-A",
+          "title": "💎북중미 월드컵 준결승💎잉글랜드...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718945",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718945/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 58분 남음"
+          "statusText": "10시간 49분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "718944",
-          "title": "[🟢진행중/와토/10시간 남음] 💎북중미 월드컵 준결승💎잉글랜드 (-0.5) vs 아르헨티나 :7/16: 04시 (C)",
+          "title": "💎북중미 월드컵 준결승💎잉글랜드...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718944",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718944/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 58분 남음"
+          "statusText": "10시간 49분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "718943",
-          "title": "[🟢진행중/와토/10시간 남음] 💎북중미 월드컵 준결승💎잉글랜드 (-0.5) vs 아르헨티나 :7/16: 04시 (B)",
+          "title": "💎북중미 월드컵 준결승💎잉글랜드...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718943",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718943/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 58분 남음"
+          "statusText": "10시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/718942/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 58분 남음"
+          "statusText": "10시간 49분 남음"
         }
       ],
       "closed": [],
@@ -934,6 +934,18 @@
     },
     "monstarz": {
       "live": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1721692",
+          "title": "[와토/진행] ⭐6티어 종족최강전⭐ 최종승리팀",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1721692",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1721692/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -1968,18 +1980,6 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1654636",
-          "title": "[와토/종료] 🎰뉴캄옥션 족암새퉤퉤퉤 VS 반성준🎰 7경기 비타밍 vs 메옹",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1654636",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1654636/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
@@ -1995,7 +1995,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1814038/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "55분 39초 남음"
+          "statusText": "45분 41초 남음"
         },
         {
           "board": "soop",
@@ -2007,7 +2007,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1812661/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "55분 38초 남음"
+          "statusText": "45분 40초 남음"
         },
         {
           "board": "soop",
@@ -2019,7 +2019,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1812545/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "55분 37초 남음"
+          "statusText": "45분 39초 남음"
         },
         {
           "board": "soop",
@@ -2031,7 +2031,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1808113/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "55분 37초 남음"
+          "statusText": "45분 38초 남음"
         },
         {
           "board": "soop",
