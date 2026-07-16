@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-16T14:30:54.212Z",
+  "checkedAt": "2026-07-16T14:40:41.863Z",
   "boards": {
     "mitto": {
       "live": [
@@ -162,30 +162,6 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "star",
-          "id": "720193",
-          "title": "[와토/진행] 🌠 메프 1세트 🌠 4경기: 짭제 vs 현제",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/720193",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/720193/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "720192",
-          "title": "[와토/진행] 🌠 메프 1세트 🌠 3경기: 홍구 vs 윤철",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/720192",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/720192/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
           "category": "lol",
           "id": "720110",
           "title": "[🟢진행중/와토/진행] 🏆EWC또또🏆DK vs G2 최종전 3세트 :::",
@@ -205,7 +181,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/719886/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 38분 남음"
+          "statusText": "8시간 28분 남음"
         },
         {
           "board": "mitto",
@@ -217,7 +193,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/719885/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 38분 남음"
+          "statusText": "8시간 28분 남음"
         }
       ],
       "closed": [
@@ -225,10 +201,10 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
-          "id": "720191",
-          "title": "[와토/마감] 🌠 메프 1세트 🌠 2경기: 정우 vs 재호",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/720191",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/720191/?s_wato=Y",
+          "id": "720193",
+          "title": "[와토/마감] 🌠 메프 1세트 🌠 4경기: 짭제 vs 현제",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/720193",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/720193/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -238,7 +214,7 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "720109",
-          "title": "[🟢진행중/와토/진행] 🏆EWC또또🏆DK vs G2 최종전 2세트 :::",
+          "title": "[🟡마감/와토/마감] 🏆EWC또또🏆DK vs G2 최종전 2세트 :::",
           "articleUrl": "https://ygosu.com/board/pan_ccy/720109",
           "watoUrl": "https://ygosu.com/board/pan_ccy/720109/?s_wato=Y",
           "tab": "closed",
@@ -259,6 +235,30 @@
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "720192",
+          "title": "[와토/종료] 🌠 메프 1세트 🌠 3경기: 홍구 vs 윤철",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/720192",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/720192/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "720191",
+          "title": "[와토/종료] 🌠 메프 1세트 🌠 2경기: 정우 vs 재호",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/720191",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/720191/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -1145,18 +1145,6 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1727560",
-          "title": "[와토/마감] 🎰미니대전 캄몬 vs 신세계 개인전🎰 4경기 남덕선 vs 또봉순",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1727560",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1727560/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
           "id": "1727523",
           "title": "[와토/마감] 🎰미니대전 캄몬 vs 신세계🎰 메인배팅",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1727523",
@@ -1167,6 +1155,18 @@
         }
       ],
       "result": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1727560",
+          "title": "[와토/종료] 🎰미니대전 캄몬 vs 신세계 개인전🎰 4경기 남덕선 vs 또봉순",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1727560",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1727560/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
