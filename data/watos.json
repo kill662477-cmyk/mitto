@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-16T16:00:50.300Z",
+  "checkedAt": "2026-07-16T16:10:34.855Z",
   "boards": {
     "mitto": {
       "live": [
@@ -102,38 +102,26 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "star",
-          "id": "720198",
-          "title": "[와토/진행] 🌠 메프 2세트 🌠 2경기: 짭제팀 vs 재호팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/720198",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/720198/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
           "category": "baseball",
           "id": "719886",
-          "title": "[🟢진행중/와토/7시간 남음] ⚾ MLB ⚾ 뉴욕메츠(+1.5) vs [H] 필라델피아 :: 7/17 :: 8시 10분",
+          "title": "[🟢진행중/와토/6시간 남음] ⚾ MLB ⚾ 뉴욕메츠(+1.5) vs [H] 필라델피아 :: 7/17 :: 8시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/719886",
           "watoUrl": "https://ygosu.com/board/pan_ccy/719886/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 8분 남음"
+          "statusText": "6시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "719885",
-          "title": "[🟢진행중/와토/7시간 남음] ⚾ MLB ⚾ 뉴욕메츠 vs [H] 필라델피아 :: 7/17 :: 8시 10분",
+          "title": "[🟢진행중/와토/6시간 남음] ⚾ MLB ⚾ 뉴욕메츠 vs [H] 필라델피아 :: 7/17 :: 8시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/719885",
           "watoUrl": "https://ygosu.com/board/pan_ccy/719885/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 8분 남음"
+          "statusText": "6시간 58분 남음"
         }
       ],
       "closed": [
@@ -141,16 +129,28 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
-          "id": "720197",
-          "title": "[와토/마감] 🌠 메프 2세트 🌠 1경기: 홍구 vs 성대",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/720197",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/720197/?s_wato=Y",
+          "id": "720198",
+          "title": "[와토/마감] 🌠 메프 2세트 🌠 2경기: 기석 vs 성대",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/720198",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/720198/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "720197",
+          "title": "[와토/종료] 🌠 메프 2세트 🌠 1경기: 홍구 vs 성대",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/720197",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/720197/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
