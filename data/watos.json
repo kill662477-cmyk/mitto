@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-16T14:00:53.126Z",
+  "checkedAt": "2026-07-16T14:10:45.778Z",
   "boards": {
     "mitto": {
       "live": [
@@ -224,39 +224,27 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "719886",
-          "title": "[🟢진행중/와토/9시간 남음] ⚾ MLB ⚾ 뉴욕메츠(+1.5) vs [H] 필라델피아 :: 7/17 :: 8시 10분",
+          "title": "[🟢진행중/와토/8시간 남음] ⚾ MLB ⚾ 뉴욕메츠(+1.5) vs [H] 필라델피아 :: 7/17 :: 8시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/719886",
           "watoUrl": "https://ygosu.com/board/pan_ccy/719886/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 8분 남음"
+          "statusText": "8시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "719885",
-          "title": "[🟢진행중/와토/9시간 남음] ⚾ MLB ⚾ 뉴욕메츠 vs [H] 필라델피아 :: 7/17 :: 8시 10분",
+          "title": "[🟢진행중/와토/8시간 남음] ⚾ MLB ⚾ 뉴욕메츠 vs [H] 필라델피아 :: 7/17 :: 8시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/719885",
           "watoUrl": "https://ygosu.com/board/pan_ccy/719885/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 8분 남음"
+          "statusText": "8시간 58분 남음"
         }
       ],
       "closed": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "720189",
-          "title": "[와토/마감] 🌠 메프 1세트 🌠 1경기: 기석 vs 지성",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/720189",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/720189/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -295,6 +283,18 @@
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "720189",
+          "title": "[와토/종료] 🌠 메프 1세트 🌠 1경기: 기석 vs 지성",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/720189",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/720189/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -1150,21 +1150,21 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
+        }
+      ],
+      "closed": [
         {
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
           "id": "1727558",
-          "title": "[와토/진행] 🎰미니대전 캄몬 vs 신세계 개인전🎰 3경기 먼진 vs 요시",
+          "title": "[와토/마감] 🎰미니대전 캄몬 vs 신세계 개인전🎰 3경기 먼진 vs 요시",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1727558",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1727558/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
