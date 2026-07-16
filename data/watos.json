@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-16T15:04:07.829Z",
+  "checkedAt": "2026-07-16T15:10:33.875Z",
   "boards": {
     "mitto": {
       "live": [
@@ -164,24 +164,24 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "719886",
-          "title": "[🟢진행중/와토/8시간 남음] ⚾ MLB ⚾ 뉴욕메츠(+1.5) vs [H] 필라델피아 :: 7/17 :: 8시 10분",
+          "title": "[🟢진행중/와토/7시간 남음] ⚾ MLB ⚾ 뉴욕메츠(+1.5) vs [H] 필라델피아 :: 7/17 :: 8시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/719886",
           "watoUrl": "https://ygosu.com/board/pan_ccy/719886/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 5분 남음"
+          "statusText": "7시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "719885",
-          "title": "[🟢진행중/와토/8시간 남음] ⚾ MLB ⚾ 뉴욕메츠 vs [H] 필라델피아 :: 7/17 :: 8시 10분",
+          "title": "[🟢진행중/와토/7시간 남음] ⚾ MLB ⚾ 뉴욕메츠 vs [H] 필라델피아 :: 7/17 :: 8시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/719885",
           "watoUrl": "https://ygosu.com/board/pan_ccy/719885/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 5분 남음"
+          "statusText": "7시간 58분 남음"
         }
       ],
       "closed": [
@@ -1114,21 +1114,21 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
+        }
+      ],
+      "closed": [
         {
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
           "id": "1727563",
-          "title": "[와토/진행] 🎰미니대전 캄몬 vs 신세계 개인전🎰 6경기 먼진 vs 요시",
+          "title": "[와토/마감] 🎰미니대전 캄몬 vs 신세계 개인전🎰 6경기 먼진 vs 요시",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1727563",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1727563/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
