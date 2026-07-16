@@ -1,8 +1,44 @@
 {
-  "checkedAt": "2026-07-16T17:00:46.041Z",
+  "checkedAt": "2026-07-16T17:10:33.261Z",
   "boards": {
     "mitto": {
       "live": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "720705",
+          "title": "[🟢진행중/와토/진행] 🏆EWC또또🏆 한화(-5.5) vs T1 3세트 ::: 킬핸디",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/720705",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/720705/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "720704",
+          "title": "[🟢진행중/와토/진행] 🏆EWC또또🏆 한화(-5.5) vs T1 2세트 ::: 킬핸디",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/720704",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/720704/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "720703",
+          "title": "[🟢진행중/와토/진행] 🏆EWC또또🏆 한화(-5.5) vs T1 1세트 ::: 킬핸디",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/720703",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/720703/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -20,19 +56,19 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "720701",
-          "title": "[와토/21시간 남음] 🏆EWC또또🏆 한화(-1.5) vs T1 풀세트(A) ::: BO3 7/17 20시",
+          "title": "[🟢진행중/와토/진행] 🏆EWC또또🏆 한화(-1.5) vs T1 풀세트(A) ::: BO3 7/17 20시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/720701",
           "watoUrl": "https://ygosu.com/board/pan_ccy/720701/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "21시간 59분 남음"
+          "statusText": "진행중"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "720700",
-          "title": "[와토/진행] 🏆EWC또또🏆 한화 vs T1 풀세트(B) ::: BO3 7/17 20시",
+          "title": "[🟢진행중/와토/진행] 🏆EWC또또🏆 한화 vs T1 풀세트(B) ::: BO3 7/17 20시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/720700",
           "watoUrl": "https://ygosu.com/board/pan_ccy/720700/?s_wato=Y",
           "tab": "live",
@@ -104,24 +140,24 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "719886",
-          "title": "[🟢진행중/와토/6시간 남음] ⚾ MLB ⚾ 뉴욕메츠(+1.5) vs [H] 필라델피아 :: 7/17 :: 8시 10분",
+          "title": "[🟢진행중/와토/5시간 남음] ⚾ MLB ⚾ 뉴욕메츠(+1.5) vs [H] 필라델피아 :: 7/17 :: 8시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/719886",
           "watoUrl": "https://ygosu.com/board/pan_ccy/719886/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 8분 남음"
+          "statusText": "5시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "719885",
-          "title": "[🟢진행중/와토/6시간 남음] ⚾ MLB ⚾ 뉴욕메츠 vs [H] 필라델피아 :: 7/17 :: 8시 10분",
+          "title": "[🟢진행중/와토/5시간 남음] ⚾ MLB ⚾ 뉴욕메츠 vs [H] 필라델피아 :: 7/17 :: 8시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/719885",
           "watoUrl": "https://ygosu.com/board/pan_ccy/719885/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 8분 남음"
+          "statusText": "5시간 58분 남음"
         }
       ],
       "closed": [
@@ -1038,42 +1074,6 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "717845",
-          "title": "[와토/종료] 🌠 메프 2세트 🌠 1경기: 민철 vs 지성",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/717845",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/717845/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "717843",
-          "title": "[와토/종료] 🌠 메프 1세트 🌠 7경기: 홍구 vs 윤철",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/717843",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/717843/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "717841",
-          "title": "[와토/종료] 🌠 메프 1세트 🌠 6경기: 택용 vs 지성",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/717841",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/717841/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
@@ -1087,18 +1087,6 @@
           "title": "[와토/진행] 🌠캄몬 vs 흑카 미니대전🌠 에결",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1728915",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1728915/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1728914",
-          "title": "[와토/진행] 🌠캄몬 vs 흑카 미니대전🌠 6경기 조이 vs 정은 폴리포이드",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1728914",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1728914/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -1121,10 +1109,10 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1728912",
-          "title": "[와토/마감] 🌠캄몬 vs 흑카 미니대전🌠 5경기 덕선 vs 히엉 폴리포이드",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1728912",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1728912/?s_wato=Y",
+          "id": "1728914",
+          "title": "[와토/마감] 🌠캄몬 vs 흑카 미니대전🌠 6경기 조이 vs 정은 폴리포이드",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1728914",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1728914/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -1143,6 +1131,18 @@
         }
       ],
       "result": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1728912",
+          "title": "[와토/종료] 🌠캄몬 vs 흑카 미니대전🌠 5경기 덕선 vs 히엉 폴리포이드",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1728912",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1728912/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
