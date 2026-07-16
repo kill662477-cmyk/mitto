@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-16T22:10:37.237Z",
+  "checkedAt": "2026-07-16T22:20:36.303Z",
   "boards": {
     "mitto": {
       "live": [
@@ -212,24 +212,24 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "719886",
-          "title": "[🟢진행중/와토/59분 남음] ⚾ MLB ⚾ 뉴욕메츠(+1.5) vs [H] 필라델피아 :: 7/17 :: 8시 10분",
+          "title": "[🟢진행중/와토/49분 남음] ⚾ MLB ⚾ 뉴욕메츠(+1.5) vs [H] 필라델피아 :: 7/17 :: 8시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/719886",
           "watoUrl": "https://ygosu.com/board/pan_ccy/719886/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "58분 21초 남음"
+          "statusText": "48분 25초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "719885",
-          "title": "[🟢진행중/와토/59분 남음] ⚾ MLB ⚾ 뉴욕메츠 vs [H] 필라델피아 :: 7/17 :: 8시 10분",
+          "title": "[🟢진행중/와토/49분 남음] ⚾ MLB ⚾ 뉴욕메츠 vs [H] 필라델피아 :: 7/17 :: 8시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/719885",
           "watoUrl": "https://ygosu.com/board/pan_ccy/719885/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "58분 20초 남음"
+          "statusText": "48분 24초 남음"
         }
       ],
       "closed": [],
@@ -2152,7 +2152,20 @@
       ]
     },
     "soop": {
-      "live": [],
+      "live": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1824742",
+          "title": "🔥 금요일 철구형 휴방 VS 노휴방:: 12시 마감 🔥",
+          "articleUrl": "https://ygosu.com/board/soop/1824742",
+          "watoUrl": "https://ygosu.com/board/soop/1824742/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "4시간 36분 남음"
+        }
+      ],
       "closed": [],
       "result": [
         {
@@ -2991,18 +3004,6 @@
           "title": "[와토/종료] 🧊오늘방송 철구형 스타(플레이어) 한다 vs 안한다🧊",
           "articleUrl": "https://ygosu.com/board/soop/1783980",
           "watoUrl": "https://ygosu.com/board/soop/1783980/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1783978",
-          "title": "[와토/종료] 🧊 수요일 철구방송 시청자수 8888 언/오버 🧊",
-          "articleUrl": "https://ygosu.com/board/soop/1783978",
-          "watoUrl": "https://ygosu.com/board/soop/1783978/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
