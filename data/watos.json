@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-17T09:01:01.062Z",
+  "checkedAt": "2026-07-17T09:10:33.897Z",
   "boards": {
     "mitto": {
       "live": [
@@ -226,7 +226,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "720745",
-          "title": "[🟢진행중/와토/마감] ⚾ KBO ⚾ 두산(-0.5) vs [H] NC :: 7/17 :: 18시",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 두산(-0.5) vs [H] NC :: 7/17 :: 18시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/720745",
           "watoUrl": "https://ygosu.com/board/pan_ccy/720745/?s_wato=Y",
           "tab": "closed",
@@ -238,7 +238,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "720743",
-          "title": "[🟢진행중/와토/마감] ⚾ KBO ⚾ 키움(+1.5) vs [H] 한화 :: 7/17 :: 18시",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 키움(+1.5) vs [H] 한화 :: 7/17 :: 18시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/720743",
           "watoUrl": "https://ygosu.com/board/pan_ccy/720743/?s_wato=Y",
           "tab": "closed",
@@ -250,7 +250,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "720742",
-          "title": "[🟢진행중/와토/마감] ⚾ KBO ⚾ KIA(-1.5) vs [H] SSG :: 7/17 :: 18시",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ KIA(-1.5) vs [H] SSG :: 7/17 :: 18시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/720742",
           "watoUrl": "https://ygosu.com/board/pan_ccy/720742/?s_wato=Y",
           "tab": "closed",
@@ -262,7 +262,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "720741",
-          "title": "[🟢진행중/와토/마감] ⚾ KBO ⚾ KT(+1.5) vs [H] LG :: 7/17 :: 18시",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ KT(+1.5) vs [H] LG :: 7/17 :: 18시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/720741",
           "watoUrl": "https://ygosu.com/board/pan_ccy/720741/?s_wato=Y",
           "tab": "closed",
@@ -909,7 +909,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1730743/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 29분 남음"
+          "statusText": "1시간 20분 남음"
         },
         {
           "board": "monstarz",
@@ -2003,12 +2003,12 @@
           "boardName": "숲게",
           "category": null,
           "id": "1825601",
-          "title": "[와토/54분 남음] 와토) ◆프로게이머 앵지 선수의 오늘 판수 8판 언오버◆",
+          "title": "[와토/44분 남음] 와토) ◆프로게이머 앵지 선수의 오늘 판수 8판 언오버◆",
           "articleUrl": "https://ygosu.com/board/soop/1825601",
           "watoUrl": "https://ygosu.com/board/soop/1825601/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "54분 21초 남음"
+          "statusText": "44분 41초 남음"
         }
       ],
       "closed": [],
