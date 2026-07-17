@@ -1,8 +1,44 @@
 {
-  "checkedAt": "2026-07-17T10:30:37.113Z",
+  "checkedAt": "2026-07-17T10:40:31.725Z",
   "boards": {
     "mitto": {
       "live": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "720958",
+          "title": "[🟢진행중/와토/13시간 남음] ⚾ MLB ⚾ 볼티모어 vs [H] 휴스턴 :: 7/18 :: 9시 10분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/720958",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/720958/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "13시간 29분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "720956",
+          "title": "[🟢진행중/와토/13시간 남음] ⚾ MLB ⚾ 미네소타 vs [H] 시카고컵스 :: 7/18 :: 9시 5분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/720956",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/720956/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "13시간 24분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "720955",
+          "title": "[🟢진행중/와토/12시간 남음] ⚾ MLB ⚾ 마이애미(+1.5) vs [H] 밀워키 :: 7/18 :: 8시 40분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/720955",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/720955/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "12시간 59분 남음"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -13,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/720954/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 44분 남음"
+          "statusText": "12시간 34분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/720952/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 44분 남음"
+          "statusText": "12시간 34분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/720951/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 39분 남음"
+          "statusText": "12시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -49,62 +85,26 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/720950/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 34분 남음"
+          "statusText": "12시간 24분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "720949",
-          "title": "[🟢진행중/와토/7시간 남음] ⚾ MLB ⚾ 탬파베이 vs [H] 보스턴 :: 7/18 :: 2시 35분",
+          "title": "[🟢진행중/와토/6시간 남음] ⚾ MLB ⚾ 탬파베이 vs [H] 보스턴 :: 7/18 :: 2시 35분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/720949",
           "watoUrl": "https://ygosu.com/board/pan_ccy/720949/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 4분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "720906",
-          "title": "[🟢진행중/와토/진행] 🏆EWC🏆3세트: 젠지 (-8.5) vs JDG 💥킬핸디확인💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/720906",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/720906/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "720905",
-          "title": "[🟢진행중/와토/진행] 🏆EWC🏆2세트: 젠지 (-8.5) vs JDG 💥킬핸디확인💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/720905",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/720905/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "720904",
-          "title": "[🟢진행중/와토/진행] 🏆EWC🏆1세트: 젠지 (-8.5) vs JDG 💥킬핸디확인💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/720904",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/720904/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
+          "statusText": "6시간 54분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "720903",
-          "title": "[🟢진행중/와토/진행] 🏆EWC🏆최종 승패: 젠지 (-1.5) vs JDG :금: 22시 30분 BO3 (B)",
+          "title": "[🟢진행중/와토/진행] 🏆EWC🏆최종 승패: 젠지 (-1.5) vs JDG :금: 20시 BO3 (B)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/720903",
           "watoUrl": "https://ygosu.com/board/pan_ccy/720903/?s_wato=Y",
           "tab": "live",
