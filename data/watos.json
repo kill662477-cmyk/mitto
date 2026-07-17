@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-17T07:40:32.634Z",
+  "checkedAt": "2026-07-17T07:50:34.438Z",
   "boards": {
     "mitto": {
       "live": [
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/720745/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 19분 남음"
+          "statusText": "1시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/720744/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 19분 남음"
+          "statusText": "1시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/720743/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 19분 남음"
+          "statusText": "1시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/720742/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 19분 남음"
+          "statusText": "1시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/720741/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 19분 남음"
+          "statusText": "1시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -187,18 +187,6 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
-          "id": "720711",
-          "title": "[🟢진행중/와토/진행] 🏆EWC🏆 BLG(-1.5) vs DK 풀세트 7/17 22시 30분 BO3 (A)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/720711",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/720711/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
           "id": "720705",
           "title": "[🟢진행중/와토/진행] 🏆EWC또또🏆 한화(-5.5) vs T1 3세트 ::: 킬핸디",
           "articleUrl": "https://ygosu.com/board/pan_ccy/720705",
@@ -280,7 +268,20 @@
           "statusText": "진행중"
         }
       ],
-      "closed": [],
+      "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "720711",
+          "title": "[🟢진행중/와토/마감] 🏆EWC🏆 BLG(-1.5) vs DK 풀세트 7/17 22시 30분 BO3 (A)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/720711",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/720711/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        }
+      ],
       "result": [
         {
           "board": "mitto",
@@ -1040,7 +1041,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1730743/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 50분 남음"
+          "statusText": "2시간 40분 남음"
         },
         {
           "board": "monstarz",
@@ -2139,7 +2140,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1825601/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 14분 남음"
+          "statusText": "2시간 5분 남음"
         }
       ],
       "closed": [],
