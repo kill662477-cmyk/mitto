@@ -1,8 +1,20 @@
 {
-  "checkedAt": "2026-07-17T10:10:34.710Z",
+  "checkedAt": "2026-07-17T10:20:35.784Z",
   "boards": {
     "mitto": {
       "live": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "720949",
+          "title": "[🟢진행중/와토/7시간 남음] ⚾ MLB ⚾ 탬파베이 vs [H] 보스턴 :: 7/18 :: 2시 35분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/720949",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/720949/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "7시간 14분 남음"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -879,18 +891,6 @@
           "title": "[와토/종료] 🌠 메프 2세트 🌠 3경기: 정우 vs 재호",
           "articleUrl": "https://ygosu.com/board/pan_ccy/718500",
           "watoUrl": "https://ygosu.com/board/pan_ccy/718500/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "718499",
-          "title": "[와토/종료] 🌠 메프 2세트 🌠 2경기: 정우 vs 지성",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/718499",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/718499/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
