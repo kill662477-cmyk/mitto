@@ -1,8 +1,20 @@
 {
-  "checkedAt": "2026-07-17T06:20:35.336Z",
+  "checkedAt": "2026-07-17T06:30:39.224Z",
   "boards": {
     "mitto": {
       "live": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "720870",
+          "title": "[🟢진행중/와토/진행] 🏆EWC또또🏆 한화 vs T1 풀세트(C) ::: BO3 7/17 20시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/720870",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/720870/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -13,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/720745/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 39분 남음"
+          "statusText": "2시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/720744/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 39분 남음"
+          "statusText": "2시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/720743/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 39분 남음"
+          "statusText": "2시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/720742/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 39분 남음"
+          "statusText": "2시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/720741/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 39분 남음"
+          "statusText": "2시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -1013,18 +1025,6 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "718301",
-          "title": "[🔴결과/와토/종료] 💎북중미 월드컵 준결승💎프랑스 vs 스페인 :7/15: AM 4시 (연장/승차포함)-A",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/718301",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/718301/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
@@ -1040,7 +1040,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1730743/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 10분 남음"
+          "statusText": "4시간 24초 남음"
         },
         {
           "board": "monstarz",
