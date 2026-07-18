@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-18T23:00:41.760Z",
+  "checkedAt": "2026-07-18T23:10:32.410Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,48 +8,36 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "721997",
-          "title": "[🟢진행중/와토/3시간 남음] ⚾ MLB ⚾ 디트로이트(-1.5) vs [H]LA에인절스 :: 7/19 :: 11:07",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 디트로이트(-1.5) vs [H]LA에인절스 :: 7/19 :: 11:07",
           "articleUrl": "https://ygosu.com/board/pan_ccy/721997",
           "watoUrl": "https://ygosu.com/board/pan_ccy/721997/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 6분 남음"
+          "statusText": "2시간 56분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "721993",
-          "title": "[🟢진행중/와토/3시간 남음] ⚾ MLB ⚾ 워싱턴 vs [H] 애슬레틱스 :: 7/19 :: 11시 5분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 워싱턴 vs [H] 애슬레틱스 :: 7/19 :: 11시 5분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/721993",
           "watoUrl": "https://ygosu.com/board/pan_ccy/721993/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 4분 남음"
+          "statusText": "2시간 54분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "721991",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 샌프란시스코 vs [H] 시애틀 :: 7/19 :: 9시 8분",
+          "title": "[🟢진행중/와토/57분 남음] ⚾ MLB ⚾ 샌프란시스코 vs [H] 시애틀 :: 7/19 :: 9시 8분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/721991",
           "watoUrl": "https://ygosu.com/board/pan_ccy/721991/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 7분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "721987",
-          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ 피츠버그 vs [H] 클리블랜드 :: 7/19 :: 8:10 (DH 2차전)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/721987",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/721987/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "9분 8초 남음"
+          "statusText": "57분 19초 남음"
         }
       ],
       "closed": [
@@ -57,10 +45,10 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
-          "id": "721958",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 텍사스 vs [H] 애틀랜타 :: 7/19 :: 5시 10분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/721958",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/721958/?s_wato=Y",
+          "id": "721987",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 피츠버그 vs [H] 클리블랜드 :: 7/19 :: 8:10 (DH 2차전)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/721987",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/721987/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -100,93 +88,21 @@
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "721711",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 3.4위전💎프랑스 vs 잉글랜드 :7/19:06시 (연장/승차포함)-B",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/721711",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/721711/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "721710",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 3.4위전💎프랑스 vs 잉글랜드 :7/19:06시 (연장/승차포함)-A",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/721710",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/721710/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "721709",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 3.4위전💎프랑스 vs 잉글랜드 :7/19: 06시 (노핸디매치)-C",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/721709",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/721709/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "721708",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 3.4위전💎프랑스 vs 잉글랜드 :7/19: 06시 (노핸디매치)-B",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/721708",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/721708/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "721707",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 3.4위전💎프랑스 vs 잉글랜드 :7/19: 06시 (노핸디매치)-A",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/721707",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/721707/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "721706",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 3.4위전💎프랑스 (-0.5) vs 잉글랜드 :7/19: 06시 (C)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/721706",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/721706/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "721705",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 3.4위전💎프랑스 (-0.5) vs 잉글랜드 :7/19: 06시 (B)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/721705",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/721705/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "721958",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 텍사스 vs [H] 애틀랜타 :: 7/19 :: 5시 10분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/721958",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/721958/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -443,8 +359,92 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
+          "id": "721711",
+          "title": "[🔴결과/와토/종료] 💎북중미 월드컵 3.4위전💎프랑스 vs 잉글랜드 :7/19:06시 (연장/승차포함)-B",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/721711",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/721711/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "721710",
+          "title": "[🔴결과/와토/종료] 💎북중미 월드컵 3.4위전💎프랑스 vs 잉글랜드 :7/19:06시 (연장/승차포함)-A",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/721710",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/721710/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "721709",
+          "title": "[🔴결과/와토/종료] 💎북중미 월드컵 3.4위전💎프랑스 vs 잉글랜드 :7/19: 06시 (노핸디매치)-C",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/721709",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/721709/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "721708",
+          "title": "[🔴결과/와토/종료] 💎북중미 월드컵 3.4위전💎프랑스 vs 잉글랜드 :7/19: 06시 (노핸디매치)-B",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/721708",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/721708/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "721707",
+          "title": "[🔴결과/와토/종료] 💎북중미 월드컵 3.4위전💎프랑스 vs 잉글랜드 :7/19: 06시 (노핸디매치)-A",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/721707",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/721707/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "721706",
+          "title": "[🔴결과/와토/종료] 💎북중미 월드컵 3.4위전💎프랑스 (-0.5) vs 잉글랜드 :7/19: 06시 (C)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/721706",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/721706/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "721705",
+          "title": "[🔴결과/와토/종료] 💎북중미 월드컵 3.4위전💎프랑스 (-0.5) vs 잉글랜드 :7/19: 06시 (B)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/721705",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/721705/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
           "id": "721703",
-          "title": "[🟡마감/와토/마감] 💎북중미 월드컵 3.4위전💎프랑스 (-0.5) vs 잉글랜드 :7/19: 06시 (A)",
+          "title": "[🔴결과/와토/종료] 💎북중미 월드컵 3.4위전💎프랑스 (-0.5) vs 잉글랜드 :7/19: 06시 (A)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/721703",
           "watoUrl": "https://ygosu.com/board/pan_ccy/721703/?s_wato=Y",
           "tab": "result",
@@ -2055,7 +2055,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1833711/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 55분 남음"
+          "statusText": "4시간 45분 남음"
         },
         {
           "board": "soop",
