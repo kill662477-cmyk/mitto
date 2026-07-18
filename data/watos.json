@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-18T02:20:28.227Z",
+  "checkedAt": "2026-07-18T02:30:34.803Z",
   "boards": {
     "mitto": {
       "live": [
@@ -256,30 +256,6 @@
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "720954",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 텍사스(+1.5) vs [H] 애틀랜타 :: 7/18 :: 8시 15분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/720954",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/720954/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "720952",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 시카고W vs [H] 토론토 :: 7/18 :: 8시 15분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/720952",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/720952/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
         }
       ],
       "result": [
@@ -363,6 +339,30 @@
           "title": "[🔴결과/와토/종료] 🏆EWC🏆최종 승패: BLG (-1.5) vs DK :금: 22시 30분 BO3 (C)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/721112",
           "watoUrl": "https://ygosu.com/board/pan_ccy/721112/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "720954",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 텍사스(+1.5) vs [H] 애틀랜타 :: 7/18 :: 8시 15분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/720954",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/720954/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "720952",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 시카고W vs [H] 토론토 :: 7/18 :: 8시 15분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/720952",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/720952/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -874,7 +874,20 @@
       ]
     },
     "monstarz": {
-      "live": [],
+      "live": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1734861",
+          "title": "💥asl시즌오프 김민철,변현제 누가 더 상위라운드진출할지 와토💥 (2)",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1734861",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1734861/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        }
+      ],
       "closed": [],
       "result": [
         {
@@ -1929,18 +1942,6 @@
           "title": "[와토/종료] 🎮햇살 4,5 PL vs키링 승리 와토🎮",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1696965",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1696965/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1696934",
-          "title": "[또또/와토/종료] 🎮햇살 4,5 PL 승리팀 와토🎮",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1696934",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1696934/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
