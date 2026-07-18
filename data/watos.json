@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-18T00:50:29.139Z",
+  "checkedAt": "2026-07-18T01:00:43.854Z",
   "boards": {
     "mitto": {
       "live": [
@@ -157,43 +157,43 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/720968/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 19분 남음"
+          "statusText": "1시간 8분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "720967",
-          "title": "[🟢진행중/와토/49분 남음] ⚾ MLB ⚾ 세인트루이스 vs [H] 애리조나 :: 7/18 :: 10시 40분",
+          "title": "[🟢진행중/와토/39분 남음] ⚾ MLB ⚾ 세인트루이스 vs [H] 애리조나 :: 7/18 :: 10시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/720967",
           "watoUrl": "https://ygosu.com/board/pan_ccy/720967/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "48분 41초 남음"
+          "statusText": "38분 30초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "720965",
-          "title": "[🟢진행중/와토/49분 남음] ⚾ MLB ⚾ 워싱턴 vs [H] 애슬레틱스 :: 7/18 :: 10시 40분",
+          "title": "[🟢진행중/와토/39분 남음] ⚾ MLB ⚾ 워싱턴 vs [H] 애슬레틱스 :: 7/18 :: 10시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/720965",
           "watoUrl": "https://ygosu.com/board/pan_ccy/720965/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "48분 40초 남음"
+          "statusText": "38분 29초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "720964",
-          "title": "[🟢진행중/와토/47분 남음] ⚾ MLB ⚾ 디트로이트 vs [H] LA에인절스 :: 7/18 :: 10시 38분",
+          "title": "[🟢진행중/와토/37분 남음] ⚾ MLB ⚾ 디트로이트 vs [H] LA에인절스 :: 7/18 :: 10시 38분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/720964",
           "watoUrl": "https://ygosu.com/board/pan_ccy/720964/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "46분 39초 남음"
+          "statusText": "36분 28초 남음"
         }
       ],
       "closed": [
@@ -202,7 +202,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "721566",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 탬파베이 vs [H] 보스턴 :: 7/18 :: 8시 10분 (DH 2차전)",
+          "title": "⚾ MLB ⚾ 탬파베이 vs [H] 보스턴...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/721566",
           "watoUrl": "https://ygosu.com/board/pan_ccy/721566/?s_wato=Y",
           "tab": "closed",
@@ -874,21 +874,21 @@
       ]
     },
     "monstarz": {
-      "live": [
+      "live": [],
+      "closed": [
         {
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
           "id": "1733683",
-          "title": "✨7/18 ASL 시즌오프 김윤환 최종성적은???✨",
+          "title": "✨7/18 ASL 시즌오프 김윤환 최종성적은???✨ (3)",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1733683",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1733683/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "1일 7분 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         }
       ],
-      "closed": [],
       "result": [
         {
           "board": "monstarz",
