@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-18T01:50:30.209Z",
+  "checkedAt": "2026-07-18T02:00:43.015Z",
   "boards": {
     "mitto": {
       "live": [
@@ -152,12 +152,12 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "720968",
-          "title": "[🟢진행중/와토/19분 남음] ⚾ MLB ⚾ 샌프란시스코(+1.5) vs [H] 시애틀 :: 7/18 :: 11시 10분",
+          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ 샌프란시스코(+1.5) vs [H] 시애틀 :: 7/18 :: 11시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/720968",
           "watoUrl": "https://ygosu.com/board/pan_ccy/720968/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "19분 1초 남음"
+          "statusText": "8분 48초 남음"
         }
       ],
       "closed": [
@@ -280,18 +280,6 @@
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "720950",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ LA다저스 vs [H] 뉴욕양키스 :: 7/18 :: 8시 5분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/720950",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/720950/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
         }
       ],
       "result": [
@@ -375,6 +363,18 @@
           "title": "[🔴결과/와토/종료] 🏆EWC🏆최종 승패: BLG (-1.5) vs DK :금: 22시 30분 BO3 (C)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/721112",
           "watoUrl": "https://ygosu.com/board/pan_ccy/721112/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "720950",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ LA다저스 vs [H] 뉴욕양키스 :: 7/18 :: 8시 5분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/720950",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/720950/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -1954,13 +1954,13 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
-          "id": "1828321",
-          "title": "🧊 토요일 채리방송 시청자수 7777 언/오버 🧊 (6)",
-          "articleUrl": "https://ygosu.com/board/soop/1828321",
-          "watoUrl": "https://ygosu.com/board/soop/1828321/?s_wato=Y",
+          "id": "1829112",
+          "title": "🧊 토요일 채리방송 시청자수 6009 언/오버 🧊",
+          "articleUrl": "https://ygosu.com/board/soop/1829112",
+          "watoUrl": "https://ygosu.com/board/soop/1829112/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 5분 남음"
+          "statusText": "진행중"
         }
       ],
       "closed": [],
@@ -2765,18 +2765,6 @@
           "title": "[와토/종료] 🧊 스타 Z앵지 + 족명보뇌대리 vs P박듀듀 3/2 최종승리 🧊",
           "articleUrl": "https://ygosu.com/board/soop/1786122",
           "watoUrl": "https://ygosu.com/board/soop/1786122/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1786051",
-          "title": "[와토/종료] 🧊 스타단판 Z란란 vs P효짱 승/패 [라데온] 🧊",
-          "articleUrl": "https://ygosu.com/board/soop/1786051",
-          "watoUrl": "https://ygosu.com/board/soop/1786051/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
