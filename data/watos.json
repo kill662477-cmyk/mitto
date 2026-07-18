@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-18T07:00:41.540Z",
+  "checkedAt": "2026-07-18T07:10:29.919Z",
   "boards": {
     "mitto": {
       "live": [
@@ -30,30 +30,6 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "star",
-          "id": "721868",
-          "title": "[🟢진행중/와토/진행] 🌠ASL 시즌오픈🌠 결승 1경기 김정우 VS 김택용",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/721868",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/721868/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "721867",
-          "title": "[🟢진행중/와토/진행] 🌠ASL 시즌오픈🌠 결승 최종승자 김정우 VS 김택용 :: BO.3",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/721867",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/721867/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
           "category": "football",
           "id": "721711",
           "title": "[🟢진행중/와토/13시간 남음] 💎북중미 월드컵 3.4위전💎프랑스 vs 잉글랜드 :7/19:06시 (연장/승차포함)-B",
@@ -61,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721711/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 58분 남음"
+          "statusText": "13시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721710/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 58분 남음"
+          "statusText": "13시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721709/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 58분 남음"
+          "statusText": "13시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721708/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 58분 남음"
+          "statusText": "13시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721707/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 58분 남음"
+          "statusText": "13시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721706/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 58분 남음"
+          "statusText": "13시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721705/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 58분 남음"
+          "statusText": "13시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -145,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721703/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 58분 남음"
+          "statusText": "13시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -157,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721699/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 58분 남음"
+          "statusText": "1시간 48분 남음"
         },
         {
           "board": "mitto",
@@ -193,7 +169,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721698/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 58분 남음"
+          "statusText": "1시간 48분 남음"
         },
         {
           "board": "mitto",
@@ -205,7 +181,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721697/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 58분 남음"
+          "statusText": "1시간 48분 남음"
         },
         {
           "board": "mitto",
@@ -217,7 +193,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721696/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 58분 남음"
+          "statusText": "1시간 48분 남음"
         },
         {
           "board": "mitto",
@@ -229,7 +205,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721695/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 58분 남음"
+          "statusText": "1시간 48분 남음"
         },
         {
           "board": "mitto",
@@ -352,8 +328,33 @@
           "statusText": "진행중"
         }
       ],
-      "closed": [],
+      "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "721867",
+          "title": "[🟡마감/와토/마감] 🌠ASL 시즌오픈🌠 결승 최종승자 김정우 VS 김택용 :: BO.3",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/721867",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/721867/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        }
+      ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "721868",
+          "title": "[🔴결과/와토/종료] 🌠ASL 시즌오픈🌠 결승 1경기 김정우 VS 김택용",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/721868",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/721868/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
