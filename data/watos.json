@@ -1,8 +1,20 @@
 {
-  "checkedAt": "2026-07-18T05:20:29.013Z",
+  "checkedAt": "2026-07-18T05:30:37.745Z",
   "boards": {
     "mitto": {
       "live": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "721810",
+          "title": "[🟢진행중/와토/진행] 🌠ASL 시즌오픈🌠 4강 2경기 3세트 김택용 VS 김성대",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/721810",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/721810/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -66,30 +78,6 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "star",
-          "id": "721764",
-          "title": "[🟢진행중/와토/진행] 🌠ASL 시즌오픈🌠 4강 1경기 1세트 김윤중 VS 김정우",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/721764",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/721764/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "721760",
-          "title": "[🟢진행중/와토/진행] 🌠ASL 시즌오픈🌠 4강 1경기 최종승자 김윤중(+1.5) VS 김정우 :: BO.3",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/721760",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/721760/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
           "category": "football",
           "id": "721711",
           "title": "[🟢진행중/와토/15시간 남음] 💎북중미 월드컵 3.4위전💎프랑스 vs 잉글랜드 :7/19:06시 (연장/승차포함)-B",
@@ -97,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721711/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 39분 남음"
+          "statusText": "15시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721710/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 39분 남음"
+          "statusText": "15시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721709/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 39분 남음"
+          "statusText": "15시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721708/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 39분 남음"
+          "statusText": "15시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -145,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721707/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 39분 남음"
+          "statusText": "15시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -157,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721706/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 39분 남음"
+          "statusText": "15시간 28분 남음"
         },
         {
           "board": "mitto",
@@ -169,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721705/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 39분 남음"
+          "statusText": "15시간 28분 남음"
         },
         {
           "board": "mitto",
@@ -181,7 +169,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721703/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "15시간 39분 남음"
+          "statusText": "15시간 28분 남음"
         },
         {
           "board": "mitto",
@@ -193,7 +181,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721699/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 39분 남음"
+          "statusText": "3시간 28분 남음"
         },
         {
           "board": "mitto",
@@ -205,7 +193,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721698/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 39분 남음"
+          "statusText": "3시간 28분 남음"
         },
         {
           "board": "mitto",
@@ -217,7 +205,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721697/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 39분 남음"
+          "statusText": "3시간 28분 남음"
         },
         {
           "board": "mitto",
@@ -229,7 +217,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721696/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 39분 남음"
+          "statusText": "3시간 28분 남음"
         },
         {
           "board": "mitto",
@@ -241,19 +229,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721695/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 39분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "721575",
-          "title": "[🟢진행중/와토/진행] 🏆EWC 4강🏆3세트 ::: 젠지 (-7.5) vs DK 💥킬핸디확인💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/721575",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/721575/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
+          "statusText": "3시간 28분 남음"
         },
         {
           "board": "mitto",
@@ -275,6 +251,18 @@
           "title": "🏆EWC또또🏆 T1(-1.5) vs KC 풀세...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/721469",
           "watoUrl": "https://ygosu.com/board/pan_ccy/721469/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "721575",
+          "title": "[🟢진행중/와토/진행] 🏆EWC 4강🏆3세트 ::: 젠지 (-7.5) vs DK 💥킬핸디확인💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/721575",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/721575/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -388,7 +376,32 @@
           "statusText": "진행중"
         }
       ],
-      "closed": [],
+      "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "721764",
+          "title": "[🟢진행중/와토/마감] 🌠ASL 시즌오픈🌠 4강 1경기 1세트 김윤중 VS 김정우",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/721764",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/721764/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "721760",
+          "title": "[🟢진행중/와토/마감] 🌠ASL 시즌오픈🌠 4강 1경기 최종승자 김윤중(+1.5) VS 김정우 :: BO.3",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/721760",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/721760/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        }
+      ],
       "result": [
         {
           "board": "mitto",
@@ -902,18 +915,6 @@
           "title": "[와토/종료] 🌠 메프 에이스 결정전 🌠 짭제 vs 지성 맵:아이",
           "articleUrl": "https://ygosu.com/board/pan_ccy/720207",
           "watoUrl": "https://ygosu.com/board/pan_ccy/720207/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "720202",
-          "title": "[와토/종료] 🌠 메프 2세트 🌠 6경기: 정우 vs 윤철",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/720202",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/720202/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
