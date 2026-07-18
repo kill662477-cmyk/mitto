@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-18T21:10:32.350Z",
+  "checkedAt": "2026-07-18T21:20:33.285Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721997/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 56분 남음"
+          "statusText": "4시간 46분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721993/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 54분 남음"
+          "statusText": "4시간 44분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721991/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 57분 남음"
+          "statusText": "2시간 47분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721989/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 57분 남음"
+          "statusText": "2시간 47분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/721987/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 59분 남음"
+          "statusText": "1시간 49분 남음"
         }
       ],
       "closed": [
@@ -176,18 +176,6 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "baseball",
-          "id": "721937",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 미네소타 vs [H] 시카고컵스 :: 7/19 :: 3시 20분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/721937",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/721937/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
           "category": "football",
           "id": "721711",
           "title": "[🟡마감/와토/마감] 💎북중미 월드컵 3.4위전💎프랑스 vs 잉글랜드 :7/19:06시 (연장/승차포함)-B",
@@ -283,6 +271,18 @@
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "721937",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 미네소타 vs [H] 시카고컵스 :: 7/19 :: 3시 20분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/721937",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/721937/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -2067,7 +2067,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1833711/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 46분 남음"
+          "statusText": "6시간 36분 남음"
         },
         {
           "board": "soop",
