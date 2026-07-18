@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-18T01:30:38.623Z",
+  "checkedAt": "2026-07-18T01:40:31.448Z",
   "boards": {
     "mitto": {
       "live": [
@@ -152,48 +152,12 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "720968",
-          "title": "[🟢진행중/와토/39분 남음] ⚾ MLB ⚾ 샌프란시스코(+1.5) vs [H] 시애틀 :: 7/18 :: 11시 10분",
+          "title": "[🟢진행중/와토/29분 남음] ⚾ MLB ⚾ 샌프란시스코(+1.5) vs [H] 시애틀 :: 7/18 :: 11시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/720968",
           "watoUrl": "https://ygosu.com/board/pan_ccy/720968/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "38분 55초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "720967",
-          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ 세인트루이스 vs [H] 애리조나 :: 7/18 :: 10시 40분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/720967",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/720967/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 35초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "720965",
-          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ 워싱턴 vs [H] 애슬레틱스 :: 7/18 :: 10시 40분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/720965",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/720965/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 34초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "720964",
-          "title": "[🟢진행중/와토/7분 남음] ⚾ MLB ⚾ 디트로이트 vs [H] LA에인절스 :: 7/18 :: 10시 38분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/720964",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/720964/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "6분 33초 남음"
+          "statusText": "29분 1초 남음"
         }
       ],
       "closed": [
@@ -205,6 +169,42 @@
           "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 탬파베이 vs [H] 보스턴 :: 7/18 :: 8시 10분 (DH 2차전)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/721566",
           "watoUrl": "https://ygosu.com/board/pan_ccy/721566/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "720967",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 세인트루이스 vs [H] 애리조나 :: 7/18 :: 10시 40분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/720967",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/720967/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "720965",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 워싱턴 vs [H] 애슬레틱스 :: 7/18 :: 10시 40분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/720965",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/720965/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "720964",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 디트로이트 vs [H] LA에인절스 :: 7/18 :: 10시 38분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/720964",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/720964/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -1955,7 +1955,7 @@
           "boardName": "숲게",
           "category": null,
           "id": "1828321",
-          "title": "🧊 토요일 채리방송 시청자수 7777 언/오버 🧊 (5)",
+          "title": "🧊 토요일 채리방송 시청자수 7777 언/오버 🧊 (6)",
           "articleUrl": "https://ygosu.com/board/soop/1828321",
           "watoUrl": "https://ygosu.com/board/soop/1828321/?s_wato=Y",
           "tab": "live",
