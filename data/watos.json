@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-18T02:30:34.803Z",
+  "checkedAt": "2026-07-18T02:40:30.510Z",
   "boards": {
     "mitto": {
       "live": [
@@ -360,7 +360,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "720952",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 시카고W vs [H] 토론토 :: 7/18 :: 8시 15분",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 시카고W vs [H] 토론토 :: 7/18 :: 8시 15분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/720952",
           "watoUrl": "https://ygosu.com/board/pan_ccy/720952/?s_wato=Y",
           "tab": "result",
@@ -874,7 +874,8 @@
       ]
     },
     "monstarz": {
-      "live": [
+      "live": [],
+      "closed": [
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -883,12 +884,11 @@
           "title": "💥asl시즌오프 김민철,변현제 누가 더 상위라운드진출할지 와토💥 (2)",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1734861",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1734861/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         }
       ],
-      "closed": [],
       "result": [
         {
           "board": "monstarz",
