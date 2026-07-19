@@ -1,8 +1,20 @@
 {
-  "checkedAt": "2026-07-19T22:10:46.860Z",
+  "checkedAt": "2026-07-19T22:20:29.377Z",
   "boards": {
     "mitto": {
       "live": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "722970",
+          "title": "⚾ MLB ⚾ LA다저스 vs [H] 뉴욕양키스 :: 7/20 :: 8시20분 (DH 2) (1)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/722970",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/722970/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "59분 26초 남음"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -13,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/723534/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 49분 남음"
+          "statusText": "13시간 39분 남음"
         },
         {
           "board": "mitto",
@@ -74,18 +86,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "722970",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ LA다저스 vs [H] 뉴욕양키스 :: 7/20 :: 8시20분 (DH 2)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/722970",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/722970/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "1시간 9분 남음"
         }
       ],
       "closed": [
