@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-19T20:00:57.852Z",
+  "checkedAt": "2026-07-19T20:10:32.281Z",
   "boards": {
     "mitto": {
       "live": [
@@ -73,58 +73,58 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722970/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 18분 남음"
-        },
+          "statusText": "3시간 9분 남음"
+        }
+      ],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "722967",
-          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ 세인트루이스 vs [H] 애리조나 :: 7/20 :: 5시 10분",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 세인트루이스 vs [H] 애리조나 :: 7/20 :: 5시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/722967",
           "watoUrl": "https://ygosu.com/board/pan_ccy/722967/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 53초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "722962",
-          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ 샌프란시스코(+1.5) vs [H] 시애틀 :: 7/20 :: 5시 10분",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 샌프란시스코(+1.5) vs [H] 시애틀 :: 7/20 :: 5시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/722962",
           "watoUrl": "https://ygosu.com/board/pan_ccy/722962/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 52초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "722957",
-          "title": "[🟢진행중/와토/6분 남음] ⚾ MLB ⚾ 디트로이트(-1.5) vs [H] LA에인절스 :: 7/20 :: 5시 7분",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 디트로이트(-1.5) vs [H] LA에인절스 :: 7/20 :: 5시 7분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/722957",
           "watoUrl": "https://ygosu.com/board/pan_ccy/722957/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "5분 51초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "722952",
-          "title": "[🟢진행중/와토/4분 남음] ⚾ MLB ⚾ 워싱턴(-1.5) vs [H] 애슬레틱스 :: 7/20 :: 5시 5분",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 워싱턴(-1.5) vs [H] 애슬레틱스 :: 7/20 :: 5시 5분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/722952",
           "watoUrl": "https://ygosu.com/board/pan_ccy/722952/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "3분 50초 남음"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -229,18 +229,6 @@
           "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 뉴욕메츠 vs [H] 필라델피아 :: 7/20 :: 2시 35분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/722904",
           "watoUrl": "https://ygosu.com/board/pan_ccy/722904/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "722901",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ LA다저스 vs [H] 뉴욕양키스 :: 7/20 :: 1시35분 (DH 1)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/722901",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/722901/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -367,6 +355,18 @@
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "722901",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ LA다저스 vs [H] 뉴욕양키스 :: 7/20 :: 1시35분 (DH 1)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/722901",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/722901/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
