@@ -1,8 +1,32 @@
 {
-  "checkedAt": "2026-07-19T11:40:32.345Z",
+  "checkedAt": "2026-07-19T11:50:32.793Z",
   "boards": {
     "mitto": {
       "live": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "722970",
+          "title": "[🟢진행중/와토/11시간 남음] ⚾ MLB ⚾ LA다저스 vs [H] 뉴욕양키스 :: 7/20 :: 8시20분 (DH 2)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/722970",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/722970/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "11시간 29분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "722967",
+          "title": "[🟢진행중/와토/8시간 남음] ⚾ MLB ⚾ 세인트루이스 vs [H] 애리조나 :: 7/20 :: 5시 10분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/722967",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/722967/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "8시간 19분 남음"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -13,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722962/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 29분 남음"
+          "statusText": "8시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722957/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 26분 남음"
+          "statusText": "8시간 16분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722952/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 24분 남음"
+          "statusText": "8시간 14분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722940/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 29분 남음"
+          "statusText": "7시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722935/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 39분 남음"
+          "statusText": "6시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -73,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722928/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 29분 남음"
+          "statusText": "6시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722925/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 29분 남음"
+          "statusText": "6시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722920/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 29분 남음"
+          "statusText": "6시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722916/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 59분 남음"
+          "statusText": "5시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -121,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722912/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 54분 남음"
+          "statusText": "5시간 44분 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722907/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 54분 남음"
+          "statusText": "5시간 44분 남음"
         },
         {
           "board": "mitto",
@@ -145,7 +169,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722904/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 54분 남음"
+          "statusText": "5시간 44분 남음"
         },
         {
           "board": "mitto",
@@ -157,7 +181,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722901/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 54분 남음"
+          "statusText": "4시간 44분 남음"
         },
         {
           "board": "mitto",
@@ -169,7 +193,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722899/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 34분 남음"
+          "statusText": "4시간 24분 남음"
         },
         {
           "board": "mitto",
@@ -181,7 +205,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722646/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 19분 남음"
+          "statusText": "7시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -193,7 +217,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722645/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 19분 남음"
+          "statusText": "7시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -205,7 +229,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722644/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 19분 남음"
+          "statusText": "7시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -217,7 +241,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722643/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 19분 남음"
+          "statusText": "7시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -229,7 +253,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722642/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 19분 남음"
+          "statusText": "7시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -241,7 +265,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722641/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 19분 남음"
+          "statusText": "7시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -253,7 +277,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722640/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 18분 남음"
+          "statusText": "7시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -265,7 +289,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722639/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 18분 남음"
+          "statusText": "7시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -277,7 +301,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722637/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 18분 남음"
+          "statusText": "7시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -289,7 +313,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722636/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 18분 남음"
+          "statusText": "7시간 8분 남음"
         },
         {
           "board": "mitto",
@@ -386,18 +410,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "722610",
-          "title": "[🟢진행중/와토/진행] 🏆EWC🏆3세트: T1 (+5.5) vs 젠지 💥킬핸디확인💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/722610",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/722610/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
         }
       ],
       "closed": [
@@ -457,6 +469,18 @@
           "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 두산(+0.5) vs [H] NC :: 7/19 :: 18시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/722666",
           "watoUrl": "https://ygosu.com/board/pan_ccy/722666/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "722610",
+          "title": "[🟢진행중/와토/진행] 🏆EWC🏆3세트: T1 (+5.5) vs 젠지 💥킬핸디확인💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/722610",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/722610/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
