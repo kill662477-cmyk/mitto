@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-19T18:50:30.443Z",
+  "checkedAt": "2026-07-19T19:00:43.464Z",
   "boards": {
     "mitto": {
       "live": [
@@ -73,7 +73,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722970/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 29분 남음"
+          "statusText": "4시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -85,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722967/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 19분 남음"
+          "statusText": "1시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -97,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722962/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 19분 남음"
+          "statusText": "1시간 9분 남음"
         },
         {
           "board": "mitto",
@@ -109,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722957/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 16분 남음"
+          "statusText": "1시간 6분 남음"
         },
         {
           "board": "mitto",
@@ -121,139 +121,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/722952/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 14분 남음"
+          "statusText": "1시간 4분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "722940",
-          "title": "[🟢진행중/와토/19분 남음] ⚾ MLB ⚾ 신시내티 vs [H] 콜로라도 :: 7/20 :: 4시 10분",
+          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ 신시내티 vs [H] 콜로라도 :: 7/20 :: 4시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/722940",
           "watoUrl": "https://ygosu.com/board/pan_ccy/722940/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "19분 14초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "722646",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 결승전💎스페인 vs 아르헨티나 :7/20:04시 (연장/승차포함)-C",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/722646",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/722646/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 38초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "722645",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 결승전💎스페인 vs 아르헨티나 :7/20:04시 (연장/승차포함)-B",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/722645",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/722645/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 37초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "722644",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 결승전💎스페인 vs 아르헨티나 :7/20:04시 (연장/승차포함)-A",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/722644",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/722644/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 36초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "722643",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 결승전💎스페인 vs 아르헨티나 :7/20: 04시 (노핸디매치)-C",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/722643",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/722643/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 35초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "722642",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 결승전💎스페인 vs 아르헨티나 :7/20: 04시 (노핸디매치)-B",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/722642",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/722642/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 34초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "722641",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 결승전💎스페인 vs 아르헨티나 :7/20: 04시 (노핸디매치)-A",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/722641",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/722641/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 33초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "722640",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 결승전💎스페인 (-0.5) vs 아르헨티나 :7/20: 04시 (D)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/722640",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/722640/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 32초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "722639",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 결승전💎스페인 (-0.5) vs 아르헨티나 :7/20: 04시 (C)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/722639",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/722639/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 31초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "722637",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 결승전💎스페인 (-0.5) vs 아르헨티나 :7/20: 04시 (B)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/722637",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/722637/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 30초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "722636",
-          "title": "[🟢진행중/와토/9분 남음] 💎북중미 월드컵 결승전💎스페인 (-0.5) vs 아르헨티나 :7/20: 04시 (A)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/722636",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/722636/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 29초 남음"
+          "statusText": "9분 2초 남음"
         }
       ],
       "closed": [
@@ -262,7 +142,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "722935",
-          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 미네소타 vs [H] 시카고컵스 :: 7/20 :: 3시 20분",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 미네소타 vs [H] 시카고컵스 :: 7/20 :: 3시 20분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/722935",
           "watoUrl": "https://ygosu.com/board/pan_ccy/722935/?s_wato=Y",
           "tab": "closed",
@@ -274,7 +154,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "722928",
-          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 샌디에이고 vs [H] 캔자스시티 :: 7/20 :: 3시 10분",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 샌디에이고 vs [H] 캔자스시티 :: 7/20 :: 3시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/722928",
           "watoUrl": "https://ygosu.com/board/pan_ccy/722928/?s_wato=Y",
           "tab": "closed",
@@ -286,7 +166,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "722925",
-          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 마이애미 vs [H] 밀워키 :: 7/20 :: 3시 10분",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 마이애미 vs [H] 밀워키 :: 7/20 :: 3시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/722925",
           "watoUrl": "https://ygosu.com/board/pan_ccy/722925/?s_wato=Y",
           "tab": "closed",
@@ -298,7 +178,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "722920",
-          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 볼티모어 vs [H] 휴스턴 :: 7/20 :: 3시 10분",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 볼티모어 vs [H] 휴스턴 :: 7/20 :: 3시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/722920",
           "watoUrl": "https://ygosu.com/board/pan_ccy/722920/?s_wato=Y",
           "tab": "closed",
@@ -310,7 +190,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "722916",
-          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 피츠버그 vs [H] 클리블랜드 :: 7/20 :: 2시 40분",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 피츠버그 vs [H] 클리블랜드 :: 7/20 :: 2시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/722916",
           "watoUrl": "https://ygosu.com/board/pan_ccy/722916/?s_wato=Y",
           "tab": "closed",
@@ -322,7 +202,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "722912",
-          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 텍사스 vs [H] 애틀랜타 :: 7/20 :: 2시 35분",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 텍사스 vs [H] 애틀랜타 :: 7/20 :: 2시 35분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/722912",
           "watoUrl": "https://ygosu.com/board/pan_ccy/722912/?s_wato=Y",
           "tab": "closed",
@@ -334,7 +214,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "722907",
-          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 탬파베이 vs [H] 보스턴 :: 7/20 :: 2시 35분",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 탬파베이 vs [H] 보스턴 :: 7/20 :: 2시 35분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/722907",
           "watoUrl": "https://ygosu.com/board/pan_ccy/722907/?s_wato=Y",
           "tab": "closed",
@@ -346,7 +226,7 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "722904",
-          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 뉴욕메츠 vs [H] 필라델피아 :: 7/20 :: 2시 35분",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 뉴욕메츠 vs [H] 필라델피아 :: 7/20 :: 2시 35분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/722904",
           "watoUrl": "https://ygosu.com/board/pan_ccy/722904/?s_wato=Y",
           "tab": "closed",
@@ -368,17 +248,137 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "baseball",
-          "id": "722899",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 시카고W vs [H] 토론토 :: 7/20 :: 1시 15분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/722899",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/722899/?s_wato=Y",
+          "category": "football",
+          "id": "722646",
+          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵 결승전💎스페인 vs 아르헨티나 :7/20:04시 (연장/승차포함)-C",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/722646",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/722646/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "722645",
+          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵 결승전💎스페인 vs 아르헨티나 :7/20:04시 (연장/승차포함)-B",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/722645",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/722645/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "722644",
+          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵 결승전💎스페인 vs 아르헨티나 :7/20:04시 (연장/승차포함)-A",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/722644",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/722644/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "722643",
+          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵 결승전💎스페인 vs 아르헨티나 :7/20: 04시 (노핸디매치)-C",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/722643",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/722643/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "722642",
+          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵 결승전💎스페인 vs 아르헨티나 :7/20: 04시 (노핸디매치)-B",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/722642",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/722642/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "722641",
+          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵 결승전💎스페인 vs 아르헨티나 :7/20: 04시 (노핸디매치)-A",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/722641",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/722641/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "722640",
+          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵 결승전💎스페인 (-0.5) vs 아르헨티나 :7/20: 04시 (D)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/722640",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/722640/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "722639",
+          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵 결승전💎스페인 (-0.5) vs 아르헨티나 :7/20: 04시 (C)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/722639",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/722639/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "722637",
+          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵 결승전💎스페인 (-0.5) vs 아르헨티나 :7/20: 04시 (B)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/722637",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/722637/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "722636",
+          "title": "[🟢진행중/와토/마감] 💎북중미 월드컵 결승전💎스페인 (-0.5) vs 아르헨티나 :7/20: 04시 (A)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/722636",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/722636/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
         }
       ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "722899",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 시카고W vs [H] 토론토 :: 7/20 :: 1시 15분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/722899",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/722899/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
