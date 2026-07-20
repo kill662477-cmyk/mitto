@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-20T02:30:36.505Z",
+  "checkedAt": "2026-07-20T02:40:33.871Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,12 +8,12 @@
           "boardName": "미또게",
           "category": "star",
           "id": "723534",
-          "title": "🌠스타 끝장전🌠 장윤철(-2.5) vs 이영웅 :: 월요일 :: 21시 :: BO.9 (1)",
+          "title": "🌠스타 끝장전🌠 장윤철(-2.5) vs 이영웅 :: 월요일 :: 21시 :: BO.9 (2)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/723534",
           "watoUrl": "https://ygosu.com/board/pan_ccy/723534/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 29분 남음"
+          "statusText": "9시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -1137,7 +1137,20 @@
       ]
     },
     "monstarz": {
-      "live": [],
+      "live": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1743914",
+          "title": "[와토/7시간 남음] 🍅토마토배 토너먼트 컨트롤대전 우승자는??🍅",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1743914",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1743914/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "7시간 32분 남음"
+        }
+      ],
       "closed": [],
       "result": [
         {
@@ -2108,18 +2121,6 @@
           "title": "[와토/종료] 💸 무창(+1.5) VS 케이대 와토💸",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1707422",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1707422/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1706585",
-          "title": "[와토/종료] 🎰캄몬 저그반CK 🎰 에이스결정전 찌킹 vs 키링",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1706585",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1706585/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
