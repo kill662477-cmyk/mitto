@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-21T11:31:48.170Z",
+  "checkedAt": "2026-07-21T11:40:31.716Z",
   "boards": {
     "mitto": {
       "live": [
@@ -1186,18 +1186,6 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1746952",
-          "title": "[또또/와토/진행] 🎮테란반 신맵CK 1세트🎮 2경기 비타밍 vs 김설 맵 : 오디세이",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1746952",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1746952/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
         }
       ],
       "closed": [
@@ -1229,10 +1217,10 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1746951",
-          "title": "[또또/와토/마감] 🎮테란반 신맵CK 1세트🎮 1경기 소주양 vs 백갑숙 맵 : 오디세이",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1746951",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1746951/?s_wato=Y",
+          "id": "1746952",
+          "title": "[또또/와토/마감] 🎮테란반 신맵CK 1세트🎮 2경기 비타밍 vs 김설 맵 : 오디세이",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1746952",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1746952/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -1251,6 +1239,18 @@
         }
       ],
       "result": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1746951",
+          "title": "[또또/와토/종료] 🎮테란반 신맵CK 1세트🎮 1경기 소주양 vs 백갑숙 맵 : 오디세이",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1746951",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1746951/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
