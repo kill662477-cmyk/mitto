@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-21T00:00:44.552Z",
+  "checkedAt": "2026-07-21T00:10:32.451Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/724437/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 29분 남음"
+          "statusText": "9시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/724436/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 29분 남음"
+          "statusText": "9시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +37,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/724435/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 29분 남음"
+          "statusText": "9시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +49,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/724434/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 29분 남음"
+          "statusText": "9시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -61,7 +61,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/724433/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 29분 남음"
+          "statusText": "9시간 19분 남음"
         },
         {
           "board": "mitto",
@@ -133,7 +133,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/723829/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 39분 남음"
+          "statusText": "1시간 29분 남음"
         },
         {
           "board": "mitto",
@@ -145,31 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/723817/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 9분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "723816",
-          "title": "⚾ MLB ⚾ 마이애미 vs [H]휴스턴 ...",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/723816",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/723816/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "9분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "723815",
-          "title": "⚾ MLB ⚾ 디트로이트 vs [H]시카...",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/723815",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/723815/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "3분 59초 남음"
+          "statusText": "1시간 59분 남음"
         },
         {
           "board": "mitto",
@@ -209,6 +185,30 @@
         }
       ],
       "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "723816",
+          "title": "⚾ MLB ⚾ 마이애미 vs [H]휴스턴 ...",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/723816",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/723816/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "723815",
+          "title": "⚾ MLB ⚾ 디트로이트 vs [H]시카...",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/723815",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/723815/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -1089,7 +1089,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1745696/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 57분 남음"
+          "statusText": "9시간 47분 남음"
         }
       ],
       "closed": [],
