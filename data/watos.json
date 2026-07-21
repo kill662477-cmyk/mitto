@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-21T11:20:30.485Z",
+  "checkedAt": "2026-07-21T11:31:48.170Z",
   "boards": {
     "mitto": {
       "live": [
@@ -1083,18 +1083,6 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1746969",
-          "title": "[또또/와토/진행] 🎆[ 변현제P vs 김명운Z ] 7판 4선 최종 승자는?🎆",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1746969",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1746969/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
           "id": "1746962",
           "title": "[또또/와토/진행] 🎮테란반 신맵CK 에결🎮",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1746962",
@@ -1168,7 +1156,7 @@
           "boardName": "스대게",
           "category": null,
           "id": "1746955",
-          "title": "[또또/와토/진행] 🎮테란반 신맵CK 1세트🎮 5경기",
+          "title": "[또또/와토/진행] 🎮테란반 신맵CK 1세트🎮 5경기 맵 : 오디세이",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1746955",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1746955/?s_wato=Y",
           "tab": "live",
@@ -1221,6 +1209,18 @@
           "title": "❄7티어종족최강전 우승종족 맞추기 저그 테란 토스❄ (1)",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1745696",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1745696/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1746969",
+          "title": "[또또/와토/마감] 🎆[ 변현제P vs 김명운Z ] 7판 4선 최종 승자는?🎆",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1746969",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1746969/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
