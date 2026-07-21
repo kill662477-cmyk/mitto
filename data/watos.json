@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-21T10:50:31.523Z",
+  "checkedAt": "2026-07-21T11:00:47.690Z",
   "boards": {
     "mitto": {
       "live": [
@@ -1078,7 +1078,20 @@
       ]
     },
     "monstarz": {
-      "live": [],
+      "live": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1746893",
+          "title": "[또또/와토/진행] 테란반 신맵ck) 츠캄 vs 연합팀",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1746893",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1746893/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        }
+      ],
       "closed": [
         {
           "board": "monstarz",
@@ -2050,18 +2063,6 @@
           "title": "[또또/와토/종료] 💀 시빌워 승자팀 예측 암팀 vs 상대팀 💀",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1712428",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1712428/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1710427",
-          "title": "[또또/와토/종료] 👨‍👨‍👧‍👧 테란반 글램핑 3700 +++ U/O 와토 👨‍👨‍👧‍👧",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1710427",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1710427/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
