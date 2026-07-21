@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-21T09:50:30.085Z",
+  "checkedAt": "2026-07-21T10:00:47.514Z",
   "boards": {
     "mitto": {
       "live": [
@@ -1078,7 +1078,8 @@
       ]
     },
     "monstarz": {
-      "live": [
+      "live": [],
+      "closed": [
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -1087,12 +1088,11 @@
           "title": "❄7티어종족최강전 우승종족 맞추기 저그 테란 토스❄ (1)",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1745696",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1745696/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "7분 23초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         }
       ],
-      "closed": [],
       "result": [
         {
           "board": "monstarz",
