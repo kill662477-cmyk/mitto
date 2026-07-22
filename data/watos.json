@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-22T03:42:59.754Z",
+  "checkedAt": "2026-07-22T06:16:59.470Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,60 +8,60 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "725382",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ NC(+0.5) vs [H] LG :: 7/22 :: 18시 30분",
+          "title": "[🟢진행중/와토/3시간 남음] ⚾ KBO ⚾ NC(+0.5) vs [H] LG :: 7/22 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/725382",
           "watoUrl": "https://ygosu.com/board/pan_ccy/725382/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 46분 남음"
+          "statusText": "3시간 12분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "725381",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ 삼성(-0.5) vs [H] 키움 :: 7/22 :: 18시 30분",
+          "title": "[🟢진행중/와토/3시간 남음] ⚾ KBO ⚾ 삼성(-0.5) vs [H] 키움 :: 7/22 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/725381",
           "watoUrl": "https://ygosu.com/board/pan_ccy/725381/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 46분 남음"
+          "statusText": "3시간 12분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "725380",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ 두산(-0.5) vs [H] KT :: 7/22 :: 18시 30분",
+          "title": "[🟢진행중/와토/3시간 남음] ⚾ KBO ⚾ 두산(-0.5) vs [H] KT :: 7/22 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/725380",
           "watoUrl": "https://ygosu.com/board/pan_ccy/725380/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 46분 남음"
+          "statusText": "3시간 12분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "725379",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ SSG(-0.5) vs [H] 롯데 :: 7/22 :: 18시 30분",
+          "title": "[🟢진행중/와토/3시간 남음] ⚾ KBO ⚾ SSG(-0.5) vs [H] 롯데 :: 7/22 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/725379",
           "watoUrl": "https://ygosu.com/board/pan_ccy/725379/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 46분 남음"
+          "statusText": "3시간 12분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "725378",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ 한화(+0.5) vs [H] KIA :: 7/22 :: 18시 30분",
+          "title": "[🟢진행중/와토/3시간 남음] ⚾ KBO ⚾ 한화(+0.5) vs [H] KIA :: 7/22 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/725378",
           "watoUrl": "https://ygosu.com/board/pan_ccy/725378/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 46분 남음"
+          "statusText": "3시간 12분 남음"
         },
         {
           "board": "mitto",
@@ -128,7 +128,7 @@
           "boardName": "미또게",
           "category": "etc",
           "id": "724930",
-          "title": "[와토/진행] 🏆멸망전또또🏆 노종뀨뀨낭 vs 막차타요 3세트 :::",
+          "title": "[🟢진행중/와토/진행] 🏆멸망전또또🏆 노종뀨뀨낭 vs 막차타요 3세트 :::",
           "articleUrl": "https://ygosu.com/board/pan_ccy/724930",
           "watoUrl": "https://ygosu.com/board/pan_ccy/724930/?s_wato=Y",
           "tab": "live",
@@ -184,33 +184,32 @@
           "statusText": "진행중"
         }
       ],
-      "closed": [
+      "closed": [],
+      "result": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "724819",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 신시내티 vs [H] 시애틀 :: 7/22 :: 10시 40분",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 신시내티 vs [H] 시애틀 :: 7/22 :: 10시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/724819",
           "watoUrl": "https://ygosu.com/board/pan_ccy/724819/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "724817",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 세인트루이스 vs [H] LA에인절스 :: 7/22 :: 10시 38분",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 세인트루이스 vs [H] LA에인절스 :: 7/22 :: 10시 38분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/724817",
           "watoUrl": "https://ygosu.com/board/pan_ccy/724817/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -2038,8 +2037,20 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
+          "id": "1854522",
+          "title": "🧊 스타미니대전 씨나인 vs 수술대 최종승/패 🧊 (1)",
+          "articleUrl": "https://ygosu.com/board/soop/1854522",
+          "watoUrl": "https://ygosu.com/board/soop/1854522/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
           "id": "1853131",
-          "title": "🎯 수요일 철구방송 시청자수 11111명 언/오버 🎯",
+          "title": "🎯 수요일 철구방송 시청자수 11111명 언/오버 🎯 (1)",
           "articleUrl": "https://ygosu.com/board/soop/1853131",
           "watoUrl": "https://ygosu.com/board/soop/1853131/?s_wato=Y",
           "tab": "live",
@@ -2047,21 +2058,20 @@
           "statusText": "진행중"
         }
       ],
-      "closed": [
+      "closed": [],
+      "result": [
         {
           "board": "soop",
           "boardName": "숲게",
           "category": null,
           "id": "1847462",
-          "title": "[와토/마감] 🎯 수요일 족다니방송 시청자수 4444명 언/오버 🎯",
+          "title": "[와토/종료] 🎯 수요일 족다니방송 시청자수 4444명 언/오버 🎯",
           "articleUrl": "https://ygosu.com/board/soop/1847462",
           "watoUrl": "https://ygosu.com/board/soop/1847462/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
