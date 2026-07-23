@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-23T04:41:27.251Z",
+  "checkedAt": "2026-07-23T07:24:03.092Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,67 +13,67 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/726324/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 18분 남음"
+          "statusText": "2시간 35분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "726338",
-          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ SSG(+0.5) vs [H] 롯데 :: 7/23 :: 18시 30분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾ KBO ⚾ SSG(+0.5) vs [H] 롯데 :: 7/23 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/726338",
           "watoUrl": "https://ygosu.com/board/pan_ccy/726338/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 48분 남음"
+          "statusText": "2시간 5분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "726337",
-          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ 한화(-0.5) vs [H] KIA :: 7/23 :: 18시 30분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾ KBO ⚾ 한화(-0.5) vs [H] KIA :: 7/23 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/726337",
           "watoUrl": "https://ygosu.com/board/pan_ccy/726337/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 48분 남음"
+          "statusText": "2시간 5분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "726336",
-          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ 두산(-0.5) vs [H] KT :: 7/23 :: 18시 30분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾ KBO ⚾ 두산(-0.5) vs [H] KT :: 7/23 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/726336",
           "watoUrl": "https://ygosu.com/board/pan_ccy/726336/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 48분 남음"
+          "statusText": "2시간 5분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "726335",
-          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ 삼성(-1.5) vs [H] 키움 :: 7/23 :: 18시 30분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾ KBO ⚾ 삼성(-1.5) vs [H] 키움 :: 7/23 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/726335",
           "watoUrl": "https://ygosu.com/board/pan_ccy/726335/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 48분 남음"
+          "statusText": "2시간 5분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "726334",
-          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ NC(+1.5) vs [H] LG :: 7/23 :: 18시 30분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾ KBO ⚾ NC(+1.5) vs [H] LG :: 7/23 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/726334",
           "watoUrl": "https://ygosu.com/board/pan_ccy/726334/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 48분 남음"
+          "statusText": "2시간 5분 남음"
         },
         {
           "board": "mitto",
@@ -1067,21 +1067,20 @@
           "statusText": "진행중"
         }
       ],
-      "closed": [
+      "closed": [],
+      "result": [
         {
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
           "id": "1752523",
-          "title": "[또또/와토/마감] 지동원 vs 드왈트 7판4선",
+          "title": "[또또/와토/종료] 지동원 vs 드왈트 7판4선",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1752523",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1752523/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -2056,24 +2055,23 @@
           "watoUrl": "https://ygosu.com/board/soop/1861783/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 15분 남음"
+          "statusText": "32분 26초 남음"
         }
       ],
-      "closed": [
+      "closed": [],
+      "result": [
         {
           "board": "soop",
           "boardName": "숲게",
           "category": null,
           "id": "1862096",
-          "title": "💎💎 합방하기전 갠방킨다 or 안킨다 (1시마감) 💎💎 (1)",
+          "title": "[와토/종료] 💎💎 합방하기전 갠방킨다 or 안킨다 (1시마감) 💎💎",
           "articleUrl": "https://ygosu.com/board/soop/1862096",
           "watoUrl": "https://ygosu.com/board/soop/1862096/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
