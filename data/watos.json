@@ -1,67 +1,79 @@
 {
-  "checkedAt": "2026-07-24T04:28:37.019Z",
+  "checkedAt": "2026-07-24T07:11:36.091Z",
   "boards": {
     "mitto": {
       "live": [
         {
           "board": "mitto",
           "boardName": "미또게",
+          "category": "lol",
+          "id": "727406",
+          "title": "[🟢진행중/와토/진행] 🏆LOL멸망전🏆 노종뀨뀨낭(+1.5) vs 저로듀스 풀세트 ::: BO3 19시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/727406",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/727406/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
           "category": "baseball",
           "id": "727283",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ KT(-1.5) vs [H] 롯데 :: 7/24 :: 18시 30분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾ KBO ⚾ KT(-1.5) vs [H] 롯데 :: 7/24 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/727283",
           "watoUrl": "https://ygosu.com/board/pan_ccy/727283/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 1분 남음"
+          "statusText": "2시간 18분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "727282",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ 키움(+1.5) vs [H] KIA :: 7/24 :: 18시 30분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾ KBO ⚾ 키움(+1.5) vs [H] KIA :: 7/24 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/727282",
           "watoUrl": "https://ygosu.com/board/pan_ccy/727282/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 1분 남음"
+          "statusText": "2시간 18분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "727281",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ LG(-1.5) vs [H] 한화 :: 7/24 :: 18시 30분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾ KBO ⚾ LG(-1.5) vs [H] 한화 :: 7/24 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/727281",
           "watoUrl": "https://ygosu.com/board/pan_ccy/727281/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 1분 남음"
+          "statusText": "2시간 18분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "727280",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ NC(-1.5) vs [H] SSG :: 7/24 :: 18시 30분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾ KBO ⚾ NC(-1.5) vs [H] SSG :: 7/24 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/727280",
           "watoUrl": "https://ygosu.com/board/pan_ccy/727280/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 1분 남음"
+          "statusText": "2시간 18분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "727279",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ 삼성(-1.5) vs [H] 두산 :: 7/24 :: 18시 30분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾ KBO ⚾ 삼성(-1.5) vs [H] 두산 :: 7/24 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/727279",
           "watoUrl": "https://ygosu.com/board/pan_ccy/727279/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 1분 남음"
+          "statusText": "2시간 18분 남음"
         },
         {
           "board": "mitto",
@@ -1059,7 +1071,7 @@
           "boardName": "스대게",
           "category": null,
           "id": "1755674",
-          "title": "🍼금일 낭니 유스ck 승리팀 맞추기🍼 (4)",
+          "title": "🍼금일 낭니 유스ck 승리팀 맞추기🍼 (3)",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1755674",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1755674/?s_wato=Y",
           "tab": "live",
@@ -1076,7 +1088,7 @@
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1755901/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 59분 남음"
+          "statusText": "3시간 16분 남음"
         },
         {
           "board": "monstarz",
@@ -2050,12 +2062,12 @@
           "boardName": "숲게",
           "category": null,
           "id": "1866545",
-          "title": "🔥 스타미니대전 씨나인 vs ??? 최종승/패 🔥 (1)",
+          "title": "🔥 스타미니대전 씨나인 vs 수술대 최종승/패 🔥 (1)",
           "articleUrl": "https://ygosu.com/board/soop/1866545",
           "watoUrl": "https://ygosu.com/board/soop/1866545/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "진행중"
+          "statusText": "5시간 44분 남음"
         },
         {
           "board": "soop",
