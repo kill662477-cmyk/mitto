@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-26T22:07:36.426Z",
+  "checkedAt": "2026-07-26T23:10:30.691Z",
   "boards": {
     "mitto": {
       "live": [
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/729232/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 52분 남음"
+          "statusText": "12시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -92,12 +92,12 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "728765",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 뉴욕양키스 vs [H] 필라델피아 :: 7/27 :: 8시 20분",
+          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ 뉴욕양키스 vs [H] 필라델피아 :: 7/27 :: 8시 20분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/728765",
           "watoUrl": "https://ygosu.com/board/pan_ccy/728765/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 11분 남음"
+          "statusText": "9분 2초 남음"
         }
       ],
       "closed": [
@@ -2074,13 +2074,25 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
+          "id": "1889664",
+          "title": "🎯🎯 월요일 철구방송 시청자수 8888명 언/오버 🎯🎯",
+          "articleUrl": "https://ygosu.com/board/soop/1889664",
+          "watoUrl": "https://ygosu.com/board/soop/1889664/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
           "id": "1889419",
           "title": "🏆🏆정중만컵 투표 2일차 씨나인 등수 맞추기 🏆🏆",
           "articleUrl": "https://ygosu.com/board/soop/1889419",
           "watoUrl": "https://ygosu.com/board/soop/1889419/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "16시간 49분 남음"
+          "statusText": "15시간 45분 남음"
         },
         {
           "board": "soop",
@@ -2092,7 +2104,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1889413/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 49분 남음"
+          "statusText": "9시간 45분 남음"
         }
       ],
       "closed": [],
@@ -2753,18 +2765,6 @@
           "title": "[와토/종료] 🧊 스타메프 2SET 5경기 P김윤중 vs Z짭제 승/패 [녹아웃] 🧊",
           "articleUrl": "https://ygosu.com/board/soop/1816049",
           "watoUrl": "https://ygosu.com/board/soop/1816049/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1816040",
-          "title": "[와토/종료] 🧊 스타메프 2SET 3경기 P김택용 vs P송병구 승/패 🧊",
-          "articleUrl": "https://ygosu.com/board/soop/1816040",
-          "watoUrl": "https://ygosu.com/board/soop/1816040/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
