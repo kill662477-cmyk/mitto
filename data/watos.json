@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-27T00:16:05.103Z",
+  "checkedAt": "2026-07-27T04:08:45.565Z",
   "boards": {
     "mitto": {
       "live": [
@@ -25,14 +25,14 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/729232/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 43분 남음"
+          "statusText": "7시간 51분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "728969",
-          "title": "[와토/진행] 🏆LOL멸망전🏆 노종뀨뀨낭 vs 교권보호국 3세트 :::",
+          "title": "[🟢진행중/와토/진행] 🏆LOL멸망전🏆 노종뀨뀨낭 vs 교권보호국 3세트 :::",
           "articleUrl": "https://ygosu.com/board/pan_ccy/728969",
           "watoUrl": "https://ygosu.com/board/pan_ccy/728969/?s_wato=Y",
           "tab": "live",
@@ -44,7 +44,7 @@
           "boardName": "미또게",
           "category": "lol",
           "id": "728968",
-          "title": "[와토/진행] 🏆LOL멸망전🏆 노종뀨뀨낭 vs 교권보호국 2세트 :::",
+          "title": "[🟢진행중/와토/진행] 🏆LOL멸망전🏆 노종뀨뀨낭 vs 교권보호국 2세트 :::",
           "articleUrl": "https://ygosu.com/board/pan_ccy/728968",
           "watoUrl": "https://ygosu.com/board/pan_ccy/728968/?s_wato=Y",
           "tab": "live",
@@ -88,20 +88,7 @@
           "statusText": "진행중"
         }
       ],
-      "closed": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "728765",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 뉴욕양키스 vs [H] 필라델피아 :: 7/27 :: 8시 20분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/728765",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/728765/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
+      "closed": [],
       "result": [
         {
           "board": "mitto",
@@ -243,6 +230,18 @@
           "title": "[와토/종료] 🌠 메프 1세트 🌠 1경기: 홍구 vs 기석 - 백룸",
           "articleUrl": "https://ygosu.com/board/pan_ccy/728880",
           "watoUrl": "https://ygosu.com/board/pan_ccy/728880/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "728765",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 뉴욕양키스 vs [H] 필라델피아 :: 7/27 :: 8시 20분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/728765",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/728765/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -1103,6 +1102,18 @@
     },
     "monstarz": {
       "live": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1769946",
+          "title": "🚨중만컵 캄몬스타즈 1일차 투표순위맞추기🚨",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1769946",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1769946/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "5시간 49분 남음"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -2053,23 +2064,23 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1731709",
-          "title": "[또또/와토/종료] 🎰미니대전 캄몬스타즈 vs JSA 메인매치 🎰",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1731709",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1731709/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
     "soop": {
       "live": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "1889872",
+          "title": "🏆🏆정중만컵 투표 1일차 씨나인 등수 맞추기 🏆🏆",
+          "articleUrl": "https://ygosu.com/board/soop/1889872",
+          "watoUrl": "https://ygosu.com/board/soop/1889872/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "4시간 47분 남음"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
@@ -2092,19 +2103,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1889419/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "14시간 40분 남음"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1889413",
-          "title": "🏆🏆정중만컵 투표 1일차 씨나인 등수 맞추기 🏆🏆",
-          "articleUrl": "https://ygosu.com/board/soop/1889413",
-          "watoUrl": "https://ygosu.com/board/soop/1889413/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8시간 40분 남음"
+          "statusText": "10시간 47분 남음"
         }
       ],
       "closed": [],
