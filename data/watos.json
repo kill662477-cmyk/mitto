@@ -1,80 +1,8 @@
 {
-  "checkedAt": "2026-07-31T07:39:45.757Z",
+  "checkedAt": "2026-07-31T10:17:10.276Z",
   "boards": {
     "mitto": {
       "live": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "732686",
-          "title": "[🟢진행중/와토/진행] 🏆LCK 킬핸디🏆젠지(-5.5) vs T1 : 1세트(A) : 31일(금) : 17시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/732686",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/732686/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "732626",
-          "title": "⚾ KBO ⚾ 삼성(-1.5) vs [H] 롯데...",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/732626",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/732626/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "1시간 50분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "732625",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ KBO ⚾ KIA(-0.5) vs [H] NC :: 7/31 :: 18시 30분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/732625",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/732625/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "1시간 50분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "732624",
-          "title": "⚾ KBO ⚾ 한화(-0.5) vs [H] KT :...",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/732624",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/732624/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "1시간 50분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "732623",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ KBO ⚾ SSG(-0.5) vs [H] 키움 :: 7/31 :: 18시 30분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/732623",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/732623/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "1시간 50분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "732622",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ KBO ⚾ LG(-0.5) vs [H] 두산 :: 7/31 :: 18시 30분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/732622",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/732622/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "1시간 50분 남음"
-        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -218,118 +146,83 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "732111",
-          "title": "[🟢진행중/와토/진행] 🏆LCK 킬핸디🏆젠지(-5.5) vs T1 : 3세트(B) : 31일(금) : 17시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/732111",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/732111/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "732110",
-          "title": "[🟢진행중/와토/진행] 🏆LCK 킬핸디🏆젠지(-5.5) vs T1 : 3세트(A) : 31일(금) : 17시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/732110",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/732110/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "732108",
-          "title": "[🟢진행중/와토/진행] 🏆LCK 킬핸디🏆젠지(-5.5) vs T1 : 2세트(B) : 31일(금) : 17시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/732108",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/732108/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "732107",
-          "title": "[🟢진행중/와토/진행] 🏆LCK 킬핸디🏆젠지(-5.5) vs T1 : 2세트(A) : 31일(금) : 17시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/732107",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/732107/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "732106",
-          "title": "[🟢진행중/와토/진행] 🏆LCK 킬핸디🏆젠지(-5.5) vs T1 : 1세트(B) : 31일(금) : 17시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/732106",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/732106/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "732104",
-          "title": "[🟢진행중/와토/20분 남음] 🏆LCK또또🏆젠지(-1.5) vs T1 : 31일(금) : 17시 풀세트(D)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/732104",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/732104/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "19분 10초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "732103",
-          "title": "[🟢진행중/와토/20분 남음] 🏆LCK또또🏆젠지(-1.5) vs T1 : 31일(금) : 17시 풀세트(C)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/732103",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/732103/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "19분 9초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "732102",
-          "title": "[🟢진행중/와토/20분 남음] 🏆LCK또또🏆젠지 vs T1 : 31일(금) : 17시 풀세트(B)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/732102",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/732102/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "19분 8초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "lol",
-          "id": "732101",
-          "title": "[🟢진행중/와토/20분 남음] 🏆LCK또또🏆젠지 vs T1 : 31일(금) : 17시 풀세트(A)",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/732101",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/732101/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "19분 7초 남음"
         }
       ],
-      "closed": [],
+      "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "732626",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 삼성(-1.5) vs [H] 롯데 :: 7/31 :: 18시 30분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/732626",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/732626/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "732625",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ KIA(-0.5) vs [H] NC :: 7/31 :: 18시 30분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/732625",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/732625/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "732624",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ 한화(-0.5) vs [H] KT :: 7/31 :: 18시 30분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/732624",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/732624/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "732623",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ SSG(-0.5) vs [H] 키움 :: 7/31 :: 18시 30분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/732623",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/732623/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "732622",
+          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ LG(-0.5) vs [H] 두산 :: 7/31 :: 18시 30분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/732622",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/732622/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        }
+      ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "732686",
+          "title": "[🔴결과/와토/종료] 🏆LCK 킬핸디🏆젠지(-5.5) vs T1 : 1세트(A) : 31일(금) : 17시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/732686",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/732686/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -470,6 +363,90 @@
           "title": "[와토/종료] 🌠 메프 1세트 🌠 1경기: 짭제 vs 기석",
           "articleUrl": "https://ygosu.com/board/pan_ccy/732190",
           "watoUrl": "https://ygosu.com/board/pan_ccy/732190/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "732108",
+          "title": "[🔴결과/와토/종료] 🏆LCK 킬핸디🏆젠지(-5.5) vs T1 : 2세트(B) : 31일(금) : 17시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/732108",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/732108/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "732107",
+          "title": "[🔴결과/와토/종료] 🏆LCK 킬핸디🏆젠지(-5.5) vs T1 : 2세트(A) : 31일(금) : 17시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/732107",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/732107/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "732106",
+          "title": "[🔴결과/와토/종료] 🏆LCK 킬핸디🏆젠지(-5.5) vs T1 : 1세트(B) : 31일(금) : 17시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/732106",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/732106/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "732104",
+          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆젠지(-1.5) vs T1 : 31일(금) : 17시 풀세트(D)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/732104",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/732104/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "732103",
+          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆젠지(-1.5) vs T1 : 31일(금) : 17시 풀세트(C)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/732103",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/732103/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "732102",
+          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆젠지 vs T1 : 31일(금) : 17시 풀세트(B)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/732102",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/732102/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "lol",
+          "id": "732101",
+          "title": "[🔴결과/와토/종료] 🏆LCK또또🏆젠지 vs T1 : 31일(금) : 17시 풀세트(A)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/732101",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/732101/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -1058,6 +1035,42 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
+          "id": "1795505",
+          "title": "[와토/진행] 🎮캄몬 vs DM 미니대전🎮 7세트",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1795505",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1795505/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1795503",
+          "title": "[또또/와토/진행] 🎮캄몬 vs DM 미니대전🎮 6세트",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1795503",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1795503/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1795501",
+          "title": "[또또/와토/4시간 남음] 🎮캄몬 vs DM 미니대전🎮 최종승리팀 5세트",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1795501",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1795501/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "4시간 40분 남음"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
           "id": "1786913",
           "title": "[와토/진행] 🌈캄몬 vs JSA 미니대전 개인전 🌈 8경기 오디세이",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1786913",
@@ -1089,34 +1102,59 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1747612",
-          "title": "[와토/진행] 🎯캄몬 테란vs저그 내전 개인전🎯 에이스결정전",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1747612",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1747612/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1747611",
-          "title": "[와토/진행] 🎯캄몬 테란vs저그 내전 개인전🎯6경기",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1747611",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1747611/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
         }
       ],
-      "closed": [],
+      "closed": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1795486",
+          "title": "🎮캄몬 vs DM 미니대전🎮 최종승리팀 (1)",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1795486",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1795486/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1795498",
+          "title": "[또또/와토/마감] 🎮캄몬 vs DM 미니대전🎮4세트 먼진vs은서",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1795498",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1795498/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        }
+      ],
       "result": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1795496",
+          "title": "[또또/와토/종료] 🎮캄몬 vs DM 미니대전🎮 3세트 남덕선vs다나짱",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1795496",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1795496/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1795492",
+          "title": "[또또/와토/종료] 🎮캄몬 vs DM 미니대전🎮 개인전 2세트 지두두vs빵리나",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1795492",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1795492/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -2052,66 +2090,6 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1749664",
-          "title": "[와토/종료] 💣코미디빅리그 개인전💣1세트 1경기 윤열 vs 성준 레퀴엠",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1749664",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1749664/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1749660",
-          "title": "[와토/종료] 💣코미디빅리그 승리팀은??💣",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1749660",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1749660/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1748201",
-          "title": "[와토/종료] 🏆2부 서든어택🏆(3/2) 윤환팀 vs 치리팀 승자예측",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1748201",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1748201/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1747610",
-          "title": "[와토/종료] 🎯캄몬 테란vs저그 내전 개인전🎯5경기 주양vs치리",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1747610",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1747610/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1747607",
-          "title": "[와토/종료] 🎯캄몬 테란vs저그 내전 개인전🎯4경기 두두 vs 마토",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1747607",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1747607/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
@@ -2127,7 +2105,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1914212/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2002일 7시간 남음"
+          "statusText": "2002일 4시간 남음"
         }
       ],
       "closed": [
