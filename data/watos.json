@@ -1,295 +1,139 @@
 {
-  "checkedAt": "2026-08-04T12:49:44.422Z",
+  "checkedAt": "2026-08-04T15:12:54.290Z",
   "boards": {
     "mitto": {
       "live": [
         {
           "board": "mitto",
           "boardName": "미또게",
+          "category": "etc",
+          "id": "736279",
+          "title": "💎클럽친선경기💎팀 K리그 (+1.5) vs 맨시티 ::: 8.5 (수) ::: 20시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/736279",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/736279/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "19시간 47분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
           "category": "baseball",
           "id": "736211",
-          "title": "[🟢진행중/와토/12시간 남음] ⚾ MLB ⚾ 샌디에이고 vs [H] 애리조나 :: 8/5 :: 10시 40분",
+          "title": "[🟢진행중/와토/10시간 남음] ⚾ MLB ⚾ 샌디에이고 vs [H] 애리조나 :: 8/5 :: 10시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/736211",
           "watoUrl": "https://ygosu.com/board/pan_ccy/736211/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 50분 남음"
+          "statusText": "10시간 26분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "736210",
-          "title": "[🟢진행중/와토/12시간 남음] ⚾ MLB ⚾ 디트로이트 vs [H] 시애틀 :: 8/5 :: 10시 40분",
+          "title": "[🟢진행중/와토/10시간 남음] ⚾ MLB ⚾ 디트로이트 vs [H] 시애틀 :: 8/5 :: 10시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/736210",
           "watoUrl": "https://ygosu.com/board/pan_ccy/736210/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 50분 남음"
+          "statusText": "10시간 26분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "736209",
-          "title": "[🟢진행중/와토/11시간 남음] ⚾ MLB ⚾ 샌프란시스코(+1.5) vs [H] 텍사스 :: 8/5 :: 9시 5분",
+          "title": "[🟢진행중/와토/8시간 남음] ⚾ MLB ⚾ 샌프란시스코(+1.5) vs [H] 텍사스 :: 8/5 :: 9시 5분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/736209",
           "watoUrl": "https://ygosu.com/board/pan_ccy/736209/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 15분 남음"
+          "statusText": "8시간 51분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "736208",
-          "title": "[🟢진행중/와토/11시간 남음] ⚾ MLB ⚾ LA다저스(-1.5) vs [H] 시카고C :: 8/5 :: 9시 5분",
+          "title": "[🟢진행중/와토/8시간 남음] ⚾ MLB ⚾ LA다저스(-1.5) vs [H] 시카고C :: 8/5 :: 9시 5분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/736208",
           "watoUrl": "https://ygosu.com/board/pan_ccy/736208/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "11시간 15분 남음"
+          "statusText": "8시간 51분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "736207",
-          "title": "[🟢진행중/와토/10시간 남음] ⚾ MLB ⚾ 피츠버그(+1.5) vs [H] 밀워키 :: 8/5 :: 8시 40분",
+          "title": "[🟢진행중/와토/8시간 남음] ⚾ MLB ⚾ 피츠버그(+1.5) vs [H] 밀워키 :: 8/5 :: 8시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/736207",
           "watoUrl": "https://ygosu.com/board/pan_ccy/736207/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 50분 남음"
+          "statusText": "8시간 26분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "736206",
-          "title": "[🟢진행중/와토/10시간 남음] ⚾ MLB ⚾ 미네소타(-1.5) vs [H] 캔자스시티 :: 8/5 :: 8시 40분",
+          "title": "[🟢진행중/와토/8시간 남음] ⚾ MLB ⚾ 미네소타(-1.5) vs [H] 캔자스시티 :: 8/5 :: 8시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/736206",
           "watoUrl": "https://ygosu.com/board/pan_ccy/736206/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 50분 남음"
+          "statusText": "8시간 26분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "736205",
-          "title": "[🟢진행중/와토/10시간 남음] ⚾ MLB ⚾ 마이애미(+1.5) vs [H] 애틀랜타 :: 8/5 :: 8시 15분",
+          "title": "[🟢진행중/와토/8시간 남음] ⚾ MLB ⚾ 마이애미(+1.5) vs [H] 애틀랜타 :: 8/5 :: 8시 15분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/736205",
           "watoUrl": "https://ygosu.com/board/pan_ccy/736205/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 25분 남음"
+          "statusText": "8시간 1분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "736204",
-          "title": "[🟢진행중/와토/10시간 남음] ⚾ MLB ⚾ 시카고W vs [H] 보스턴 :: 8/5 :: 8시 10분",
+          "title": "[🟢진행중/와토/7시간 남음] ⚾ MLB ⚾ 시카고W vs [H] 보스턴 :: 8/5 :: 8시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/736204",
           "watoUrl": "https://ygosu.com/board/pan_ccy/736204/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 20분 남음"
+          "statusText": "7시간 56분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "736203",
-          "title": "[🟢진행중/와토/10시간 남음] ⚾ MLB ⚾ 세인트루이스(+1.5) vs [H] 뉴욕양키스 :: 8/5 :: 8시 5분",
+          "title": "[🟢진행중/와토/7시간 남음] ⚾ MLB ⚾ 세인트루이스(+1.5) vs [H] 뉴욕양키스 :: 8/5 :: 8시 5분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/736203",
           "watoUrl": "https://ygosu.com/board/pan_ccy/736203/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 15분 남음"
+          "statusText": "7시간 51분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "736202",
-          "title": "[🟢진행중/와토/9시간 남음] ⚾ MLB ⚾ 워싱턴(+1.5) vs [H] 필라델피아 :: 8/5 :: 7시 40분",
+          "title": "[🟢진행중/와토/7시간 남음] ⚾ MLB ⚾ 워싱턴(+1.5) vs [H] 필라델피아 :: 8/5 :: 7시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/736202",
           "watoUrl": "https://ygosu.com/board/pan_ccy/736202/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "9시간 50분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "736192",
-          "title": "[와토/진행] 🌠 메프 에이스 결정전 🌠 택용팀 vs 현제팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/736192",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/736192/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "736191",
-          "title": "[와토/진행] 🌠 메프 2세트 🌠 9경기: 택용팀 vs 현제팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/736191",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/736191/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "736190",
-          "title": "[와토/진행] 🌠 메프 2세트 🌠 8경기: 택용팀 vs 현제팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/736190",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/736190/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "736189",
-          "title": "[와토/진행] 🌠 메프 2세트 🌠 7경기: 택용팀 vs 현제팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/736189",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/736189/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "736188",
-          "title": "[와토/진행] 🌠 메프 2세트 🌠 6경기: 택용팀 vs 현제팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/736188",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/736188/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "736187",
-          "title": "[와토/진행] 🌠 메프 2세트 🌠 5경기: 택용팀 vs 현제팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/736187",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/736187/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "736186",
-          "title": "[와토/진행] 🌠 메프 2세트 🌠 4경기: 택용팀 vs 현제팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/736186",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/736186/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "736185",
-          "title": "[와토/진행] 🌠 메프 2세트 🌠 3경기: 택용팀 vs 현제팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/736185",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/736185/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "736184",
-          "title": "[와토/진행] 🌠 메프 2세트 🌠 2경기: 택용팀 vs 현제팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/736184",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/736184/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "736183",
-          "title": "[와토/진행] 🌠 메프 2세트 🌠 1경기: 택용팀 vs 현제팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/736183",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/736183/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "736182",
-          "title": "[와토/진행] 🌠 메프 1세트 🌠 7경기: 택용팀 vs 현제팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/736182",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/736182/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "736181",
-          "title": "[와토/진행] 🌠 메프 1세트 🌠 6경기: 택용팀 vs 현제팀",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/736181",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/736181/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "736180",
-          "title": "[와토/진행] 🌠 메프 1세트 🌠 5경기: 기석 vs 정우",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/736180",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/736180/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "736178",
-          "title": "[와토/진행] 🌠 메프 1세트 🌠 4경기: 일장 vs 현제",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/736178",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/736178/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
+          "statusText": "7시간 26분 남음"
         },
         {
           "board": "mitto",
@@ -472,69 +316,116 @@
           "statusText": "진행중"
         }
       ],
-      "closed": [
+      "closed": [],
+      "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "736188",
+          "title": "[와토/종료] 🌠 메프 2세트 🌠 6경기: 일장 vs 지성",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/736188",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/736188/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "736187",
+          "title": "[와토/종료] 🌠 메프 2세트 🌠 5경기: 택용 vs 지성",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/736187",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/736187/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "736186",
+          "title": "[와토/종료] 🌠 메프 2세트 🌠 4경기: 기석 vs 지성",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/736186",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/736186/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "736185",
+          "title": "[와토/종료] 🌠 메프 2세트 🌠 3경기: 제동 vs 지성",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/736185",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/736185/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "736184",
+          "title": "[와토/종료] 🌠 메프 2세트 🌠 2경기: 제동 vs 현제",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/736184",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/736184/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "736183",
+          "title": "[와토/종료] 🌠 메프 2세트 🌠 1경기: 재욱 vs 현제",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/736183",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/736183/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "736178",
+          "title": "[와토/종료] 🌠 메프 1세트 🌠 4경기: 일장 vs 현제",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/736178",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/736178/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "736175",
+          "title": "🌠 메프 1세트 🌠 1경기: 택용 vs ...",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/736175",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/736175/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
           "id": "736177",
-          "title": "[와토/마감] 🌠 메프 1세트 🌠 3경기: 제동 vs 지성",
+          "title": "[와토/종료] 🌠 메프 1세트 🌠 3경기: 제동 vs 지성",
           "articleUrl": "https://ygosu.com/board/pan_ccy/736177",
           "watoUrl": "https://ygosu.com/board/pan_ccy/736177/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
         },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "736113",
-          "title": "🏆케스파컵또또🏆 브리온 vs KRX ...",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/736113",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/736113/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "736114",
-          "title": "[🟡마감/와토/마감] 🏆케스파컵또또🏆 브리온 vs KRX 풀세트(B) ::: BO3 곧시작ㄱㄱㄱ",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/736114",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/736114/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "735844",
-          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ LG(-1.5) vs [H] SSG :: 8/4 :: 18시 30분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/735844",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/735844/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "735780",
-          "title": "[🟡마감/와토/마감] ⚾ KBO ⚾ LG(-2.5) vs [H] SSG :: 8/4 :: 18시 30분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/735780",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/735780/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -550,11 +441,23 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "star",
-          "id": "736175",
-          "title": "[와토/종료] 🌠 메프 1세트 🌠 1경기: 택용 vs 명운",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/736175",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/736175/?s_wato=Y",
+          "category": "etc",
+          "id": "736114",
+          "title": "[🔴결과/와토/종료] 🏆케스파컵또또🏆 브리온 vs KRX 풀세트(B) ::: BO3 곧시작ㄱㄱㄱ",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/736114",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/736114/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "736113",
+          "title": "[🔴결과/와토/종료] 🏆케스파컵또또🏆 브리온 vs KRX 풀세트(A) ::: BO3 곧시작ㄱㄱㄱ",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/736113",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/736113/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -579,6 +482,18 @@
           "title": "[🔴결과/와토/종료] 🏆케스파컵또또🏆 젠지(-1.5) vs 든숲 풀세트(A) ::: BO3 티한전이후시작",
           "articleUrl": "https://ygosu.com/board/pan_ccy/735967",
           "watoUrl": "https://ygosu.com/board/pan_ccy/735967/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "735844",
+          "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ LG(-1.5) vs [H] SSG :: 8/4 :: 18시 30분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/735844",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/735844/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -663,6 +578,18 @@
           "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ 한화(+0.5) vs [H] 삼성 :: 8/4 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/735782",
           "watoUrl": "https://ygosu.com/board/pan_ccy/735782/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "735780",
+          "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ LG(-2.5) vs [H] SSG :: 8/4 :: 18시 30분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/735780",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/735780/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -1086,18 +1013,6 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "734539",
-          "title": "[와토/종료] 🌠 메프 2세트 🌠 1경기: 정우 vs 택용",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/734539",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/734539/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
@@ -1107,46 +1022,10 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1810716",
-          "title": "[또또/와토/진행] 🎮캄몬 vs JSA 합숙 끝장전 에결🎮",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1810716",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1810716/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1810704",
-          "title": "[또또/와토/진행] 🎮캄몬 vs JSA 합숙 끝장전🎮 10경기 비타밍 vs 려원 맵 : 오디세이",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1810704",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1810704/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1810702",
-          "title": "[또또/와토/진행] 🎮캄몬 vs JSA 합숙 끝장전🎮 9경기 비타밍 vs 려원 맵 : 에티튜드",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1810702",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1810702/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1810700",
-          "title": "[또또/와토/진행] 🎮캄몬 vs JSA 합숙 끝장전🎮 8경기 임조이 vs 려원 맵 : 녹아웃",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1810700",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1810700/?s_wato=Y",
+          "id": "1811529",
+          "title": "[또또/와토/진행] 🎮주하랑 vs 비재희 끝장전🎮 4경기 맵 : 오디세이",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1811529",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1811529/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -1193,16 +1072,64 @@
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1810698",
-          "title": "[또또/와토/마감] 🎮캄몬 vs JSA 합숙 끝장전🎮 7경기 임조이 vs 려원 맵 : 라데온",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1810698",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1810698/?s_wato=Y",
+          "id": "1811528",
+          "title": "[또또/와토/마감] 🎮주하랑 vs 비재희 끝장전🎮 3경기 맵 : 녹아웃",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1811528",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1811528/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
         }
       ],
       "result": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1810704",
+          "title": "[또또/와토/종료] 🎮캄몬 vs JSA 합숙 끝장전🎮 10경기 비타밍 vs 려원 맵 : 오디세이",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1810704",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1810704/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1810702",
+          "title": "[또또/와토/종료] 🎮캄몬 vs JSA 합숙 끝장전🎮 9경기 비타밍 vs 려원 맵 : 에티튜드",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1810702",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1810702/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1810700",
+          "title": "[또또/와토/종료] 🎮캄몬 vs JSA 합숙 끝장전🎮 8경기 임조이 vs 려원 맵 : 녹아웃",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1810700",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1810700/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1810698",
+          "title": "[또또/와토/종료] 🎮캄몬 vs JSA 합숙 끝장전🎮 7경기 임조이 vs 려원 맵 : 라데온",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1810698",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1810698/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -2138,30 +2065,6 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1770387",
-          "title": "[와토/종료] 🌈캄몬스타즈 vs 뉴캣슬 미니대전 개인전🌈 1경기 소주양 vs 백갑숙",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1770387",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1770387/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1770383",
-          "title": "[또또/와토/종료] 🌈캄몬스타즈 vs 뉴캣슬 미니대전🌈",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1770383",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1770383/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
@@ -2172,12 +2075,12 @@
           "boardName": "숲게",
           "category": null,
           "id": "1914212",
-          "title": "[와토/1998일 남음] 철구 방송 씻고킨다 vs 안씻고킨다",
+          "title": "[와토/1997일 남음] 철구 방송 씻고킨다 vs 안씻고킨다",
           "articleUrl": "https://ygosu.com/board/soop/1914212",
           "watoUrl": "https://ygosu.com/board/soop/1914212/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1998일 2시간 남음"
+          "statusText": "1997일 23시간 남음"
         }
       ],
       "closed": [
@@ -2755,18 +2658,6 @@
           "title": "[와토/종료] 🎯 오늘 철구햄 휴방 한다vs안한다 🎯",
           "articleUrl": "https://ygosu.com/board/soop/1841212",
           "watoUrl": "https://ygosu.com/board/soop/1841212/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1835825",
-          "title": "[와토/종료] 💎라페 vs 철구 스타 막코💎",
-          "articleUrl": "https://ygosu.com/board/soop/1835825",
-          "watoUrl": "https://ygosu.com/board/soop/1835825/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
