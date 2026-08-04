@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-04T05:34:47.976Z",
+  "checkedAt": "2026-08-04T08:06:49.621Z",
   "boards": {
     "mitto": {
       "live": [
@@ -8,12 +8,12 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "735844",
-          "title": "[🟢진행중/와토/3시간 남음] ⚾ KBO ⚾ LG(-1.5) vs [H] SSG :: 8/4 :: 18시 30분",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ KBO ⚾ LG(-1.5) vs [H] SSG :: 8/4 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/735844",
           "watoUrl": "https://ygosu.com/board/pan_ccy/735844/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 55분 남음"
+          "statusText": "1시간 23분 남음"
         },
         {
           "board": "mitto",
@@ -30,86 +30,38 @@
         {
           "board": "mitto",
           "boardName": "미또게",
-          "category": "etc",
-          "id": "735842",
-          "title": "[🟢진행중/와토/진행] 🏆케스파컵또또🏆 T1 vs 한화 2세트 ::: ALL1군출전",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/735842",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/735842/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "735841",
-          "title": "[🟢진행중/와토/진행] 🏆케스파컵또또🏆 T1 vs 한화 1세트 ::: 8/4 15시 전체1군출전",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/735841",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/735841/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "735839",
-          "title": "[🟢진행중/와토/진행] 🏆케스파컵또또🏆 T1 vs 한화 풀세트(B) ::: BO3 8/4 15시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/735839",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/735839/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "735831",
-          "title": "[🟢진행중/와토/진행] 🏆케스파컵또또🏆 T1 vs 한화 풀세트(A) ::: BO3 8/4 15시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/735831",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/735831/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
           "category": "baseball",
           "id": "735783",
-          "title": "[🟢진행중/와토/3시간 남음] ⚾ KBO ⚾ 키움(+1.5) vs [H] 롯데 :: 8/4 :: 18시 30분",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ KBO ⚾ 키움(+1.5) vs [H] 롯데 :: 8/4 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/735783",
           "watoUrl": "https://ygosu.com/board/pan_ccy/735783/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 55분 남음"
+          "statusText": "1시간 22분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "735782",
-          "title": "[🟢진행중/와토/3시간 남음] ⚾ KBO ⚾ 한화(+0.5) vs [H] 삼성 :: 8/4 :: 18시 30분",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ KBO ⚾ 한화(+0.5) vs [H] 삼성 :: 8/4 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/735782",
           "watoUrl": "https://ygosu.com/board/pan_ccy/735782/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 55분 남음"
+          "statusText": "1시간 22분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "735780",
-          "title": "[🟢진행중/와토/3시간 남음] ⚾ KBO ⚾ LG(-2.5) vs [H] SSG :: 8/4 :: 18시 30분",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ KBO ⚾ LG(-2.5) vs [H] SSG :: 8/4 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/735780",
           "watoUrl": "https://ygosu.com/board/pan_ccy/735780/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 54분 남음"
+          "statusText": "1시간 22분 남음"
         },
         {
           "board": "mitto",
@@ -124,8 +76,57 @@
           "statusText": "진행중"
         }
       ],
-      "closed": [],
+      "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "735839",
+          "title": "[🟡마감/와토/마감] 🏆케스파컵또또🏆 T1 vs 한화 풀세트(B) ::: BO3 8/4 15시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/735839",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/735839/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "735831",
+          "title": "[🟡마감/와토/마감] 🏆케스파컵또또🏆 T1 vs 한화 풀세트(A) ::: BO3 8/4 15시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/735831",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/735831/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        }
+      ],
       "result": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "735842",
+          "title": "[🔴결과/와토/종료] 🏆케스파컵또또🏆 T1 vs 한화 2세트 ::: ALL1군출전",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/735842",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/735842/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "735841",
+          "title": "[🔴결과/와토/종료] 🏆케스파컵또또🏆 T1 vs 한화 1세트 ::: 8/4 15시 전체1군출전",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/735841",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/735841/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -2139,7 +2140,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1914212/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1998일 9시간 남음"
+          "statusText": "1998일 6시간 남음"
         }
       ],
       "closed": [
