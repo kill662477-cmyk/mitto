@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-08T02:33:16.960Z",
+  "checkedAt": "2026-08-08T03:56:30.126Z",
   "boards": {
     "mitto": {
       "live": [
@@ -285,30 +285,6 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
-          "id": "738181",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 볼티모어 vs [H] 텍사스 :: 8/8 :: 9시 15분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/738181",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/738181/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "738180",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 미네소타(+1.5) vs [H] 밀워키 :: 8/8 :: 8시 40분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/738180",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/738180/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
           "id": "738178",
           "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 애틀랜타 vs [H] 뉴욕양키스 :: 8/8 :: 8시 5분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/738178",
@@ -483,6 +459,30 @@
           "title": "[와토/종료] 🌠 메프 1세트 🌠 1경기: 홍구 vs 재욱",
           "articleUrl": "https://ygosu.com/board/pan_ccy/738259",
           "watoUrl": "https://ygosu.com/board/pan_ccy/738259/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "738181",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 볼티모어 vs [H] 텍사스 :: 8/8 :: 9시 15분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/738181",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/738181/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "738180",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 미네소타(+1.5) vs [H] 밀워키 :: 8/8 :: 8시 40분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/738180",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/738180/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -940,24 +940,24 @@
           "boardName": "스대게",
           "category": null,
           "id": "1818642",
-          "title": "👑K-중만컵 8/8 19:00 캄 몬스타즈 vs 엠비대 (2)",
+          "title": "👑K-중만컵 8/8 19:00 캄 몬스타즈 vs 엠비대 (3)",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1818642",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1818642/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 24분 남음"
+          "statusText": "6시간 1분 남음"
         },
         {
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
           "id": "1818623",
-          "title": "[또또/와토/6시간 남음] 오늘 대회 김윤환 방송하러 온다 vs 안온다",
+          "title": "[또또/와토/5시간 남음] 오늘 대회 김윤환 방송하러 온다 vs 안온다",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1818623",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1818623/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 24분 남음"
+          "statusText": "5시간 1분 남음"
         },
         {
           "board": "monstarz",
@@ -1888,7 +1888,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1914212/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1994일 12시간 남음"
+          "statusText": "1994일 10시간 남음"
         }
       ],
       "closed": [
