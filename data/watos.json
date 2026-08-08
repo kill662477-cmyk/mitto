@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-08T21:49:19.920Z",
+  "checkedAt": "2026-08-08T22:13:03.016Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/739177/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "13시간 10분 남음"
+          "statusText": "12시간 46분 남음"
         },
         {
           "board": "mitto",
@@ -128,12 +128,12 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "738958",
-          "title": "[🟢진행중/와토/4시간 남음] ⚾ MLB ⚾ 탬파베이 vs [H] 시애틀 :: 8/9 :: 10시 50분",
+          "title": "[🟢진행중/와토/3시간 남음] ⚾ MLB ⚾ 탬파베이 vs [H] 시애틀 :: 8/9 :: 10시 50분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/738958",
           "watoUrl": "https://ygosu.com/board/pan_ccy/738958/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 26초 남음"
+          "statusText": "3시간 36분 남음"
         },
         {
           "board": "mitto",
@@ -145,7 +145,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/738957/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 20분 남음"
+          "statusText": "1시간 56분 남음"
         },
         {
           "board": "mitto",
@@ -157,7 +157,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/738956/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 25분 남음"
+          "statusText": "1시간 1분 남음"
         },
         {
           "board": "mitto",
@@ -169,7 +169,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/738955/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 25분 남음"
+          "statusText": "1시간 1분 남음"
         },
         {
           "board": "mitto",
@@ -181,7 +181,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/738954/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 25분 남음"
+          "statusText": "1시간 1분 남음"
         },
         {
           "board": "mitto",
@@ -193,31 +193,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/738953/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 20분 남음"
+          "statusText": "56분 38초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "738952",
-          "title": "[🟢진행중/와토/50분 남음] ⚾ MLB ⚾ 뉴욕메츠 vs [H] 피츠버그 :: 8/9 :: 7시 40분",
+          "title": "[🟢진행중/와토/26분 남음] ⚾ MLB ⚾ 뉴욕메츠 vs [H] 피츠버그 :: 8/9 :: 7시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/738952",
           "watoUrl": "https://ygosu.com/board/pan_ccy/738952/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "50분 21초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "738951",
-          "title": "⚾ MLB ⚾ 토론토(+1.5) vs [H] 필...",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/738951",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/738951/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "15분 20초 남음"
+          "statusText": "26분 37초 남음"
         },
         {
           "board": "mitto",
@@ -341,6 +329,18 @@
         }
       ],
       "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "738951",
+          "title": "⚾ MLB ⚾ 토론토(+1.5) vs [H] 필...",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/738951",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/738951/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -1924,7 +1924,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1914212/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1993일 17시간 남음"
+          "statusText": "1993일 16시간 남음"
         }
       ],
       "closed": [
