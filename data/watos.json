@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-10T04:46:33.245Z",
+  "checkedAt": "2026-08-10T06:03:17.103Z",
   "boards": {
     "mitto": {
       "live": [
@@ -7,8 +7,20 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
+          "id": "740395",
+          "title": "[🟢진행중/와토/진행] 🏆케스파컵또또🏆 젠지(-1.5) vs 한화 풀세트 ::: BO3 15시💥양팀 1군💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/740395",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/740395/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
           "id": "739701",
-          "title": "[🟢진행중/와토/진행] 🏆케스파컵또또🏆 젠지 vs 한화 3세트 :::",
+          "title": "[🟢진행중/와토/진행] 🏆케스파컵또또🏆 젠지 vs 한화 3세트 ::: 💥양팀 1군💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/739701",
           "watoUrl": "https://ygosu.com/board/pan_ccy/739701/?s_wato=Y",
           "tab": "live",
@@ -20,7 +32,7 @@
           "boardName": "미또게",
           "category": "etc",
           "id": "739700",
-          "title": "[🟢진행중/와토/진행] 🏆케스파컵또또🏆 젠지 vs 한화 2세트 :::",
+          "title": "[🟢진행중/와토/진행] 🏆케스파컵또또🏆 젠지 vs 한화 2세트 ::: 💥양팀 1군💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/739700",
           "watoUrl": "https://ygosu.com/board/pan_ccy/739700/?s_wato=Y",
           "tab": "live",
@@ -32,7 +44,7 @@
           "boardName": "미또게",
           "category": "etc",
           "id": "739698",
-          "title": "[🟢진행중/와토/진행] 🏆케스파컵또또🏆 젠지 vs 한화 1세트 ::: 8/10 15시",
+          "title": "[🟢진행중/와토/진행] 🏆케스파컵또또🏆 젠지 vs 한화 1세트 ::: 15시 💥양팀 1군💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/739698",
           "watoUrl": "https://ygosu.com/board/pan_ccy/739698/?s_wato=Y",
           "tab": "live",
@@ -44,7 +56,7 @@
           "boardName": "미또게",
           "category": "etc",
           "id": "739697",
-          "title": "[🟢진행중/와토/진행] 🏆케스파컵또또🏆 젠지 vs 한화 풀세트(B) ::: BO3 8/10 15시",
+          "title": "[🟢진행중/와토/진행] 🏆케스파컵또또🏆 젠지 vs 한화 풀세트(B) ::: BO3 15시 💥양팀 1군💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/739697",
           "watoUrl": "https://ygosu.com/board/pan_ccy/739697/?s_wato=Y",
           "tab": "live",
@@ -56,7 +68,7 @@
           "boardName": "미또게",
           "category": "etc",
           "id": "739696",
-          "title": "[🟢진행중/와토/진행] 🏆케스파컵또또🏆 젠지 vs 한화 풀세트(A) ::: BO3 8/10 15시",
+          "title": "[🟢진행중/와토/진행] 🏆케스파컵또또🏆 젠지 vs 한화 풀세트(A) ::: BO3 15시 💥양팀 1군💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/739696",
           "watoUrl": "https://ygosu.com/board/pan_ccy/739696/?s_wato=Y",
           "tab": "live",
@@ -1995,7 +2007,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1914212/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1992일 10시간 남음"
+          "statusText": "1992일 8시간 남음"
         }
       ],
       "closed": [
