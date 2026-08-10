@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-10T00:38:07.222Z",
+  "checkedAt": "2026-08-10T02:58:32.245Z",
   "boards": {
     "mitto": {
       "live": [
@@ -7,8 +7,20 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
+          "id": "739696",
+          "title": "🏆케스파컵또또🏆 젠지 vs 한화 풀...",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/739696",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/739696/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
           "id": "739701",
-          "title": "[🚥선점/와토/진행] 🏆케스파컵또또🏆 젠지 vs 한화 3세트 :::",
+          "title": "[🟢진행중/와토/진행] 🏆케스파컵또또🏆 젠지 vs 한화 3세트 :::",
           "articleUrl": "https://ygosu.com/board/pan_ccy/739701",
           "watoUrl": "https://ygosu.com/board/pan_ccy/739701/?s_wato=Y",
           "tab": "live",
@@ -20,7 +32,7 @@
           "boardName": "미또게",
           "category": "etc",
           "id": "739700",
-          "title": "[🚥선점/와토/진행] 🏆케스파컵또또🏆 젠지 vs 한화 2세트 :::",
+          "title": "[🟢진행중/와토/진행] 🏆케스파컵또또🏆 젠지 vs 한화 2세트 :::",
           "articleUrl": "https://ygosu.com/board/pan_ccy/739700",
           "watoUrl": "https://ygosu.com/board/pan_ccy/739700/?s_wato=Y",
           "tab": "live",
@@ -50,34 +62,9 @@
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "739696",
-          "title": "[🟢진행중/와토/진행] 🏆케스파컵또또🏆 젠지 vs 한화 풀세트(A) ::: BO3 8/10 15시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/739696",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/739696/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
         }
       ],
-      "closed": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "739720",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 휴스턴 vs [H] 샌디에이고 :: 8/10 :: 9시 20분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/739720",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/739720/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
+      "closed": [],
       "result": [
         {
           "board": "mitto",
@@ -168,7 +155,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "739859",
-          "title": "🌠 메프 2세트 🌠 1경기: 제동 vs ...",
+          "title": "[와토/종료] 🌠 메프 2세트 🌠 1경기: 제동 vs 홍구",
           "articleUrl": "https://ygosu.com/board/pan_ccy/739859",
           "watoUrl": "https://ygosu.com/board/pan_ccy/739859/?s_wato=Y",
           "tab": "result",
@@ -243,6 +230,18 @@
           "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 클리블랜드 vs [H] 시카고W :: 8/10 :: 3시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/739721",
           "watoUrl": "https://ygosu.com/board/pan_ccy/739721/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "739720",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 휴스턴 vs [H] 샌디에이고 :: 8/10 :: 9시 20분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/739720",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/739720/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -1996,7 +1995,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1914212/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1992일 14시간 남음"
+          "statusText": "1992일 11시간 남음"
         }
       ],
       "closed": [
