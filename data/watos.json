@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-11T04:54:56.450Z",
+  "checkedAt": "2026-08-11T05:54:07.063Z",
   "boards": {
     "mitto": {
       "live": [
@@ -104,76 +104,63 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "741143",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ KT(+0.5) vs [H] NC :: 8/11 :: 19시",
+          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ KT(+0.5) vs [H] NC :: 8/11 :: 19시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/741143",
           "watoUrl": "https://ygosu.com/board/pan_ccy/741143/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 4분 남음"
+          "statusText": "4시간 5분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "741142",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ 삼성(-0.5) vs [H] KIA :: 8/11 :: 19시",
+          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ 삼성(-0.5) vs [H] KIA :: 8/11 :: 19시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/741142",
           "watoUrl": "https://ygosu.com/board/pan_ccy/741142/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 4분 남음"
+          "statusText": "4시간 5분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "741141",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ 롯데(+0.5) vs [H] SSG :: 8/11 :: 19시",
+          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ 롯데(+0.5) vs [H] SSG :: 8/11 :: 19시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/741141",
           "watoUrl": "https://ygosu.com/board/pan_ccy/741141/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 4분 남음"
+          "statusText": "4시간 5분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "741140",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ LG(-1.5) vs [H] 키움 :: 8/11 :: 19시",
+          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ LG(-1.5) vs [H] 키움 :: 8/11 :: 19시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/741140",
           "watoUrl": "https://ygosu.com/board/pan_ccy/741140/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 4분 남음"
+          "statusText": "4시간 5분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "741139",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ KBO ⚾ 한화(+0.5) vs [H] 두산 :: 8/11 :: 19시",
+          "title": "[🟢진행중/와토/4시간 남음] ⚾ KBO ⚾ 한화(+0.5) vs [H] 두산 :: 8/11 :: 19시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/741139",
           "watoUrl": "https://ygosu.com/board/pan_ccy/741139/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 4분 남음"
+          "statusText": "4시간 5분 남음"
         }
       ],
-      "closed": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "740659",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 텍사스 vs [H] LA에인절스 :: 8/11 :: 10시 38분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/740659",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/740659/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
+      "closed": [],
       "result": [
         {
           "board": "mitto",
@@ -351,6 +338,18 @@
           "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 콜로라도(+1.5) vs [H] 애리조나 :: 8/11 :: 10시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/740673",
           "watoUrl": "https://ygosu.com/board/pan_ccy/740673/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "740659",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 텍사스 vs [H] LA에인절스 :: 8/11 :: 10시 38분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/740659",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/740659/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -2008,7 +2007,7 @@
           "watoUrl": "https://ygosu.com/board/soop/1914212/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1991일 10시간 남음"
+          "statusText": "1991일 9시간 남음"
         }
       ],
       "closed": [
