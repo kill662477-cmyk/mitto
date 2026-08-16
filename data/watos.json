@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-16T23:21:14.362Z",
+  "checkedAt": "2026-08-16T23:45:24.070Z",
   "boards": {
     "mitto": {
       "live": [
@@ -157,18 +157,6 @@
           "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 시애틀 vs [H] 휴스턴 :: 8/17 :: 8시 20분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/746107",
           "watoUrl": "https://ygosu.com/board/pan_ccy/746107/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "746080",
-          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 샌디에이고 vs [H] 클리블랜드 :: 8/17 :: 2시 40분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/746080",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/746080/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -351,6 +339,18 @@
           "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 필라델피아 vs [H] 미네소타 :: 8/17 :: 3시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/746103",
           "watoUrl": "https://ygosu.com/board/pan_ccy/746103/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "746080",
+          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 샌디에이고 vs [H] 클리블랜드 :: 8/17 :: 2시 40분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/746080",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/746080/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
