@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-16T20:00:52.156Z",
+  "checkedAt": "2026-08-16T20:34:58.475Z",
   "boards": {
     "mitto": {
       "live": [
@@ -32,36 +32,12 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "746107",
-          "title": "[🟢진행중/와토/3시간 남음] ⚾ MLB ⚾ 시애틀 vs [H] 휴스턴 :: 8/17 :: 8시 20분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 시애틀 vs [H] 휴스턴 :: 8/17 :: 8시 20분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/746107",
           "watoUrl": "https://ygosu.com/board/pan_ccy/746107/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 18분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "746106",
-          "title": "[🟢진행중/와토/9분 남음] ⚾ MLB ⚾ 밀워키 vs [H] LA다저스 :: 8/17 :: 5시 10분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/746106",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/746106/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "8분 39초 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "746105",
-          "title": "[🟢진행중/와토/4분 남음] ⚾ MLB ⚾ 콜로라도 vs [H] 샌프란시스코 :: 8/17 :: 5시 5분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/746105",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/746105/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "3분 37초 남음"
+          "statusText": "2시간 44분 남음"
         },
         {
           "board": "mitto",
@@ -185,6 +161,30 @@
         }
       ],
       "closed": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "746106",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 밀워키 vs [H] LA다저스 :: 8/17 :: 5시 10분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/746106",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/746106/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "746105",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 콜로라도 vs [H] 샌프란시스코 :: 8/17 :: 5시 5분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/746105",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/746105/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
