@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-17T02:50:39.175Z",
+  "checkedAt": "2026-08-17T03:51:33.456Z",
   "boards": {
     "mitto": {
       "live": [
@@ -2036,13 +2036,25 @@
           "board": "soop",
           "boardName": "숲게",
           "category": null,
+          "id": "2017415",
+          "title": "철구 18일에 방송 킨다 vs 안킨다",
+          "articleUrl": "https://ygosu.com/board/soop/2017415",
+          "watoUrl": "https://ygosu.com/board/soop/2017415/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "11시간 3분 남음"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
           "id": "1914212",
           "title": "[와토/1985일 남음] 철구 방송 씻고킨다 vs 안씻고킨다",
           "articleUrl": "https://ygosu.com/board/soop/1914212",
           "watoUrl": "https://ygosu.com/board/soop/1914212/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1985일 12시간 남음"
+          "statusText": "1985일 11시간 남음"
         }
       ],
       "closed": [
@@ -2524,30 +2536,6 @@
           "title": "[와토/종료] 🧊 스타대전 씨나인 vs 수술대 최종승/패 🧊",
           "articleUrl": "https://ygosu.com/board/soop/1855388",
           "watoUrl": "https://ygosu.com/board/soop/1855388/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1855347",
-          "title": "[와토/종료] 🧊 스타대전 5경기 T허로아 vs P해요이 승/패 [라데온] 🧊",
-          "articleUrl": "https://ygosu.com/board/soop/1855347",
-          "watoUrl": "https://ygosu.com/board/soop/1855347/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1855343",
-          "title": "[와토/종료] 🧊 스타대전 4경기 Z요닝 vs P기나 승/패 [녹아웃] 🧊",
-          "articleUrl": "https://ygosu.com/board/soop/1855343",
-          "watoUrl": "https://ygosu.com/board/soop/1855343/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
