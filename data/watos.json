@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-19T21:57:57.297Z",
+  "checkedAt": "2026-08-19T22:32:46.757Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/749562/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "14시간 1분 남음"
+          "statusText": "13시간 27분 남음"
         },
         {
           "board": "mitto",
@@ -103,6 +103,18 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
+          "id": "749122",
+          "title": "🏆K-중만컵🏆최종 승/패: 수술대 v...",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/749122",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/749122/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
           "id": "749125",
           "title": "[🚥선점/와토/진행] 🏆K-중만컵 개인전🏆0경기::: 깨림이T vs 유이T :::",
           "articleUrl": "https://ygosu.com/board/pan_ccy/749125",
@@ -119,18 +131,6 @@
           "title": "[🚥선점/와토/진행] 🏆K-중만컵 개인전🏆0경기::: 기나P vs 나예리T :::",
           "articleUrl": "https://ygosu.com/board/pan_ccy/749123",
           "watoUrl": "https://ygosu.com/board/pan_ccy/749123/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "749122",
-          "title": "[🟢진행중/와토/진행] 🏆K-중만컵🏆최종 승/패: 수술대 vs 흑카데미 :: 20일(목) :: 19시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/749122",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/749122/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
           "statusText": "진행중"
@@ -277,58 +277,58 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/748863/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 41분 남음"
+          "statusText": "2시간 6분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "748862",
-          "title": "[🟢진행중/와토/42분 남음] ⚾ MLB ⚾ 세인트루이스 vs [H] 신시내티 :: 8/20 :: 7시 40분",
+          "title": "[🟢진행중/와토/7분 남음] ⚾ MLB ⚾ 세인트루이스 vs [H] 신시내티 :: 8/20 :: 7시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/748862",
           "watoUrl": "https://ygosu.com/board/pan_ccy/748862/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "41분 1초 남음"
+          "statusText": "6분 4초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "748861",
-          "title": "[🟢진행중/와토/42분 남음] ⚾ MLB ⚾ 샌프란시스코(+1.5) vs [H]클리블랜드 :: 8/20 :: 7시 40분",
+          "title": "[🟢진행중/와토/7분 남음] ⚾ MLB ⚾ 샌프란시스코(+1.5) vs [H]클리블랜드 :: 8/20 :: 7시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/748861",
           "watoUrl": "https://ygosu.com/board/pan_ccy/748861/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "41분 남음"
+          "statusText": "6분 3초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "748860",
-          "title": "[🟢진행중/와토/37분 남음] ⚾ MLB ⚾ 뉴욕양키스 vs [H] 볼티모어 :: 8/20 :: 7시 35분",
+          "title": "[🟢진행중/와토/2분 남음] ⚾ MLB ⚾ 뉴욕양키스 vs [H] 볼티모어 :: 8/20 :: 7시 35분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/748860",
           "watoUrl": "https://ygosu.com/board/pan_ccy/748860/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "35분 59초 남음"
-        },
+          "statusText": "1분 2초 남음"
+        }
+      ],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "748859",
-          "title": "[🟢진행중/와토/7분 남음] ⚾ MLB ⚾ 마이애미 vs [H] 필라델피아 :: 8/20 :: 7시 5분",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 마이애미 vs [H] 필라델피아 :: 8/20 :: 7시 5분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/748859",
           "watoUrl": "https://ygosu.com/board/pan_ccy/748859/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "5분 58초 남음"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
