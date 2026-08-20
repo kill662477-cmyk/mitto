@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-20T17:05:11.310Z",
+  "checkedAt": "2026-08-20T17:42:14.758Z",
   "boards": {
     "mitto": {
       "live": [
@@ -260,12 +260,12 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "749665",
-          "title": "[🟢진행중/와토/6시간 남음] ⚾ MLB ⚾ LA에인절스(+1.5) vs [H] 휴스턴 :: 8/21 :: 9시 5분",
+          "title": "[🟢진행중/와토/6시간 남음] ⚾ MLB ⚾ LA에인절스(+1.5) vs [H] 휴스턴 :: 8/21 :: 9시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/749665",
           "watoUrl": "https://ygosu.com/board/pan_ccy/749665/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 59분 남음"
+          "statusText": "6시간 27분 남음"
         },
         {
           "board": "mitto",
@@ -277,31 +277,31 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/749664/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 59분 남음"
+          "statusText": "6시간 22분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "749663",
-          "title": "[🟢진행중/와토/5시간 남음] ⚾ MLB ⚾ 뉴욕양키스 vs [H] 볼티모어 :: 8/21 :: 7시 35분",
+          "title": "[🟢진행중/와토/4시간 남음] ⚾ MLB ⚾ 뉴욕양키스 vs [H] 볼티모어 :: 8/21 :: 7시 35분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/749663",
           "watoUrl": "https://ygosu.com/board/pan_ccy/749663/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 29분 남음"
+          "statusText": "4시간 52분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "749661",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 애틀랜타 vs [H] 시카고W :: 8/21 :: 3시 10분",
+          "title": "[🟢진행중/와토/27분 남음] ⚾ MLB ⚾ 애틀랜타 vs [H] 시카고W :: 8/21 :: 3시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/749661",
           "watoUrl": "https://ygosu.com/board/pan_ccy/749661/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 4분 남음"
+          "statusText": "27분 14초 남음"
         },
         {
           "board": "mitto",
@@ -313,46 +313,46 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/749659/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 4분 남음"
+          "statusText": "27분 12초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "749660",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 시애틀 vs [H] 밀워키 :: 8/21 :: 3시 10분",
+          "title": "[🟢진행중/와토/27분 남음] ⚾ MLB ⚾ 시애틀 vs [H] 밀워키 :: 8/21 :: 3시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/749660",
           "watoUrl": "https://ygosu.com/board/pan_ccy/749660/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 3분 남음"
-        },
+          "statusText": "26분 50초 남음"
+        }
+      ],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "749658",
-          "title": "[🟢진행중/와토/4분 남음] ⚾ MLB ⚾ 토론토(+1.5) vs [H] 탬파베이 :: 8/21 :: 2시 10분",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 토론토(+1.5) vs [H] 탬파베이 :: 8/21 :: 2시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/749658",
           "watoUrl": "https://ygosu.com/board/pan_ccy/749658/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "3분 56초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "749657",
-          "title": "[🟢진행중/와토/4분 남음] ⚾ MLB ⚾ 샌프란시스코(+1.5) vs [H]클리블랜드 :: 8/21 :: 2시 10분",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 샌프란시스코(+1.5) vs [H]클리블랜드 :: 8/21 :: 2시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/749657",
           "watoUrl": "https://ygosu.com/board/pan_ccy/749657/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "3분 55초 남음"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -1066,71 +1066,33 @@
       ]
     },
     "monstarz": {
-      "live": [
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1860676",
-          "title": "[또또/와토/진행] 🎮클암CK🎮 에결",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1860676",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1860676/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1860675",
-          "title": "[또또/와토/진행] 🎮클암CK🎮 2세트 5경기",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1860675",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1860675/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        },
+      "live": [],
+      "closed": [],
+      "result": [
         {
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
           "id": "1860674",
-          "title": "[또또/와토/진행] 🎮클암CK🎮 2세트 4경기",
+          "title": "[또또/와토/종료] 🎮클암CK🎮 2세트 4경기 주하랑 vs 비재희 맵 : 애티튜드",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1860674",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1860674/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
-        }
-      ],
-      "closed": [
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1860671",
-          "title": "[또또/와토/마감] 🎮클암CK🎮 2세트 3경기 클템 vs 봉순 맵 : 라데온",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1860671",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1860671/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
         },
         {
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
-          "id": "1859926",
-          "title": "[와토/마감] 🌠클암CK 승부예측 🌠",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1859926",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1859926/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
+          "id": "1860671",
+          "title": "[또또/와토/종료] 🎮클암CK🎮 2세트 3경기 클템 vs 봉순 맵 : 라데온",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1860671",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1860671/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -1235,6 +1197,18 @@
           "title": "[또또/와토/종료] 🎮클암CK🎮 1세트 1경기 아리송이 vs 임조이 맵 : 라데온",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1860656",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1860656/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1859926",
+          "title": "[와토/종료] 🌠클암CK 승부예측 🌠",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1859926",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1859926/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
