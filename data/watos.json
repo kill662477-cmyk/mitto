@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-20T17:42:14.758Z",
+  "checkedAt": "2026-08-20T18:15:14.241Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/750357/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1일 1시간 남음"
+          "statusText": "1일 44분 남음"
         },
         {
           "board": "mitto",
@@ -260,24 +260,24 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "749665",
-          "title": "[🟢진행중/와토/6시간 남음] ⚾ MLB ⚾ LA에인절스(+1.5) vs [H] 휴스턴 :: 8/21 :: 9시 10분",
+          "title": "[🟢진행중/와토/5시간 남음] ⚾ MLB ⚾ LA에인절스(+1.5) vs [H] 휴스턴 :: 8/21 :: 9시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/749665",
           "watoUrl": "https://ygosu.com/board/pan_ccy/749665/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 27분 남음"
+          "statusText": "5시간 54분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "749664",
-          "title": "[🟢진행중/와토/6시간 남음] ⚾ MLB ⚾ 워싱턴 vs [H] 텍사스 :: 8/21 :: 9시 5분",
+          "title": "[🟢진행중/와토/5시간 남음] ⚾ MLB ⚾ 워싱턴 vs [H] 텍사스 :: 8/21 :: 9시 5분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/749664",
           "watoUrl": "https://ygosu.com/board/pan_ccy/749664/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 22분 남음"
+          "statusText": "5시간 49분 남음"
         },
         {
           "board": "mitto",
@@ -289,19 +289,21 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/749663/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 52분 남음"
-        },
+          "statusText": "4시간 19분 남음"
+        }
+      ],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "749661",
-          "title": "[🟢진행중/와토/27분 남음] ⚾ MLB ⚾ 애틀랜타 vs [H] 시카고W :: 8/21 :: 3시 10분",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 애틀랜타 vs [H] 시카고W :: 8/21 :: 3시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/749661",
           "watoUrl": "https://ygosu.com/board/pan_ccy/749661/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "27분 14초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
@@ -311,24 +313,22 @@
           "title": "⚾ MLB ⚾ 애슬레틱스 vs [H] 캔자...",
           "articleUrl": "https://ygosu.com/board/pan_ccy/749659",
           "watoUrl": "https://ygosu.com/board/pan_ccy/749659/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "27분 12초 남음"
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "749660",
-          "title": "[🟢진행중/와토/27분 남음] ⚾ MLB ⚾ 시애틀 vs [H] 밀워키 :: 8/21 :: 3시 10분",
+          "title": "[🟡마감/와토/마감] ⚾ MLB ⚾ 시애틀 vs [H] 밀워키 :: 8/21 :: 3시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/749660",
           "watoUrl": "https://ygosu.com/board/pan_ccy/749660/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "26분 50초 남음"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -1066,7 +1066,20 @@
       ]
     },
     "monstarz": {
-      "live": [],
+      "live": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1862356",
+          "title": "🎖마이너스 경매 1등은? 🎖 (1)",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1862356",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1862356/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        }
+      ],
       "closed": [],
       "result": [
         {
@@ -2037,18 +2050,6 @@
           "title": "[와토/종료] 🔥저글링레이스 ㄱㄱ🔥",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1834973",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1834973/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1834949",
-          "title": "[와토/종료] 🔥저글링레이스 ㄱㄱ🔥",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1834949",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1834949/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
