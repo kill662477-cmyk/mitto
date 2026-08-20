@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-20T22:11:44.645Z",
+  "checkedAt": "2026-08-20T22:48:33.082Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/750357/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "20시간 48분 남음"
+          "statusText": "20시간 11분 남음"
         },
         {
           "board": "mitto",
@@ -265,7 +265,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/749665/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 57분 남음"
+          "statusText": "1시간 21분 남음"
         },
         {
           "board": "mitto",
@@ -277,22 +277,22 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/749664/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 52분 남음"
-        },
+          "statusText": "1시간 16분 남음"
+        }
+      ],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "749663",
-          "title": "[🟢진행중/와토/23분 남음] ⚾ MLB ⚾ 뉴욕양키스 vs [H] 볼티모어 :: 8/21 :: 7시 35분",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 뉴욕양키스 vs [H] 볼티모어 :: 8/21 :: 7시 35분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/749663",
           "watoUrl": "https://ygosu.com/board/pan_ccy/749663/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "22분 49초 남음"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -1150,6 +1150,18 @@
           "title": "[또또/와토/종료] 🎮클암CK🎮 1세트 6경기 김윤환 vs 김윤중 맵 : 오디세이",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1860667",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1860667/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "1860666",
+          "title": "[또또/와토/종료] 🎮클암CK🎮 1세트 5경기 클템 vs 봉순 맵 : 라데온",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1860666",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1860666/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
