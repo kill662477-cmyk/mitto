@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-22T16:37:26.478Z",
+  "checkedAt": "2026-08-22T16:58:41.135Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,7 +13,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/752321/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 27분 남음"
+          "statusText": "5시간 6분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +25,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/751650/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 52분 남음"
+          "statusText": "2시간 31분 남음"
         },
         {
           "board": "mitto",
@@ -176,12 +176,12 @@
           "boardName": "미또게",
           "category": "baseball",
           "id": "751541",
-          "title": "[🟢진행중/와토/8시간 남음] ⚾ MLB ⚾ 미네소타 vs [H] 샌디에이고 :: 8/23 :: 9시 40분",
+          "title": "[🟢진행중/와토/7시간 남음] ⚾ MLB ⚾ 미네소타 vs [H] 샌디에이고 :: 8/23 :: 9시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/751541",
           "watoUrl": "https://ygosu.com/board/pan_ccy/751541/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 2분 남음"
+          "statusText": "7시간 40분 남음"
         },
         {
           "board": "mitto",
@@ -193,7 +193,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/751540/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 32분 남음"
+          "statusText": "7시간 10분 남음"
         },
         {
           "board": "mitto",
@@ -205,7 +205,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/751539/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 37분 남음"
+          "statusText": "6시간 15분 남음"
         },
         {
           "board": "mitto",
@@ -217,7 +217,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/751538/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 37분 남음"
+          "statusText": "6시간 15분 남음"
         },
         {
           "board": "mitto",
@@ -229,7 +229,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/751537/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 37분 남음"
+          "statusText": "6시간 15분 남음"
         },
         {
           "board": "mitto",
@@ -241,7 +241,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/751536/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 37분 남음"
+          "statusText": "6시간 15분 남음"
         },
         {
           "board": "mitto",
@@ -253,7 +253,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/751535/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 32분 남음"
+          "statusText": "6시간 10분 남음"
         },
         {
           "board": "mitto",
@@ -265,7 +265,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/751534/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "3시간 32분 남음"
+          "statusText": "3시간 10분 남음"
         },
         {
           "board": "mitto",
@@ -277,19 +277,19 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/751533/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1시간 31분 남음"
+          "statusText": "1시간 10분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "751532",
-          "title": "[🟢진행중/와토/57분 남음] ⚾ MLB ⚾ 토론토 vs [H] 뉴욕양키스 :: 8/23 :: 2시 35분",
+          "title": "[🟢진행중/와토/36분 남음] ⚾ MLB ⚾ 토론토 vs [H] 뉴욕양키스 :: 8/23 :: 2시 35분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/751532",
           "watoUrl": "https://ygosu.com/board/pan_ccy/751532/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "56분 45초 남음"
+          "statusText": "35분 28초 남음"
         }
       ],
       "closed": [
@@ -863,20 +863,7 @@
     },
     "monstarz": {
       "live": [],
-      "closed": [
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1868410",
-          "title": "오늘 3부는 랜능크 덕몽?",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1868410",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1868410/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
+      "closed": [],
       "result": [
         {
           "board": "monstarz",
