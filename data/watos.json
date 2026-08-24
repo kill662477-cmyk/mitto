@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-24T23:10:21.149Z",
+  "checkedAt": "2026-08-24T23:40:28.644Z",
   "boards": {
     "mitto": {
       "live": [
@@ -73,82 +73,82 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/753513/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 34분 남음"
+          "statusText": "2시간 4분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "753512",
-          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 피츠버그 vs [H] 샌디에이고 :: 8/25 :: 10시 40분",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 피츠버그 vs [H] 샌디에이고 :: 8/25 :: 10시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/753512",
           "watoUrl": "https://ygosu.com/board/pan_ccy/753512/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 29분 남음"
+          "statusText": "1시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "753511",
-          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 필라델피아 vs [H] 시애틀 :: 8/25 :: 10시 40분",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 필라델피아 vs [H] 시애틀 :: 8/25 :: 10시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/753511",
           "watoUrl": "https://ygosu.com/board/pan_ccy/753511/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 29분 남음"
+          "statusText": "1시간 59분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "753510",
-          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 미네소타(-1.5) vs [H] 애슬레틱스 :: 8/25 :: 10시 40분",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 미네소타(-1.5) vs [H] 애슬레틱스 :: 8/25 :: 10시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/753510",
           "watoUrl": "https://ygosu.com/board/pan_ccy/753510/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 28분 남음"
+          "statusText": "1시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "753509",
-          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 시카고C vs [H] 애리조나 :: 8/25 :: 10시 40분",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 시카고C vs [H] 애리조나 :: 8/25 :: 10시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/753509",
           "watoUrl": "https://ygosu.com/board/pan_ccy/753509/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 28분 남음"
+          "statusText": "1시간 58분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "753499",
-          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 클리블랜드(-1.5) vs [H]LA에인절스 :: 8/25 ::10시 38분",
+          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 클리블랜드(-1.5) vs [H]LA에인절스 :: 8/25 ::10시 38분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/753499",
           "watoUrl": "https://ygosu.com/board/pan_ccy/753499/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "2시간 26분 남음"
-        },
+          "statusText": "1시간 56분 남음"
+        }
+      ],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "753498",
-          "title": "[🟢진행중/와토/29분 남음] ⚾ MLB ⚾ 텍사스 vs [H] 시카고W :: 8/25 :: 8시 40분",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 텍사스 vs [H] 시카고W :: 8/25 :: 8시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/753498",
           "watoUrl": "https://ygosu.com/board/pan_ccy/753498/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "28분 52초 남음"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
