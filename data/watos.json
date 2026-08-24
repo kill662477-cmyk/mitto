@@ -1,19 +1,79 @@
 {
-  "checkedAt": "2026-08-24T11:34:42.894Z",
+  "checkedAt": "2026-08-24T11:59:21.236Z",
   "boards": {
     "mitto": {
       "live": [
         {
           "board": "mitto",
           "boardName": "미또게",
+          "category": "star",
+          "id": "753466",
+          "title": "[🟢진행중/와토/진행] 🌠ASL 24강 E조🌠최종전: 승자전 패자 vs 패자전 승자 :: 💥단판💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/753466",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/753466/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "753465",
+          "title": "[🟢진행중/와토/진행] 🌠ASL 24강 E조🌠패자전: 1경기 패자 vs 2경기 패자 :: 💥단판💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/753465",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/753465/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "753464",
+          "title": "[🟢진행중/와토/진행] 🌠ASL 24강 E조🌠승자전: 1경기 승자 vs 2경기 승자 :: 💥단판💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/753464",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/753464/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "753463",
+          "title": "[🟢진행중/와토/진행] 🌠ASL 24강 E조🌠 2경기: 정영재 vs 최호선 ::: 녹아웃 💥단판💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/753463",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/753463/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "753462",
+          "title": "[🟢진행중/와토/진행] 🌠ASL 24강 E조🌠 1경기: 김민철 vs 임진묵 ::: 녹아웃 💥단판💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/753462",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/753462/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "진행중"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
           "category": "football",
           "id": "753256",
-          "title": "[🟢진행중/와토/7시간 남음] 🌍세리아A🌍 AS로마 (-0.5) vs 피오렌티나 :: 8/25 :: 03시45분",
+          "title": "[🟢진행중/와토/6시간 남음] 🌍세리아A🌍 AS로마 (-0.5) vs 피오렌티나 :: 8/25 :: 03시45분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/753256",
           "watoUrl": "https://ygosu.com/board/pan_ccy/753256/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 10분 남음"
+          "statusText": "6시간 45분 남음"
         },
         {
           "board": "mitto",
@@ -25,7 +85,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/753255/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 55분 남음"
+          "statusText": "4시간 30분 남음"
         },
         {
           "board": "mitto",
@@ -37,7 +97,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/753254/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 55분 남음"
+          "statusText": "7시간 30분 남음"
         },
         {
           "board": "mitto",
@@ -49,7 +109,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/753253/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 55분 남음"
+          "statusText": "5시간 30분 남음"
         },
         {
           "board": "mitto",
@@ -61,19 +121,7 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/753252/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 25분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "star",
-          "id": "752636",
-          "title": "[🟢진행중/와토/진행] 🌠ASL 24강 D조🌠 최종전: 임홍규Z vs 조일장Z :: 💥단판💥",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/752636",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/752636/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "진행중"
+          "statusText": "7시간 25초 남음"
         }
       ],
       "closed": [],
@@ -206,6 +254,18 @@
           "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 세인트루이스(+1.5) vs [H]필라델피아 :: 8/24 :: 2시 35분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/752695",
           "watoUrl": "https://ygosu.com/board/pan_ccy/752695/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "star",
+          "id": "752636",
+          "title": "[🔴결과/와토/종료] 🌠ASL 24강 D조🌠 최종전: 임홍규Z vs 조일장Z :: 💥단판💥",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/752636",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/752636/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -1022,66 +1082,6 @@
           "title": "[🔴결과/와토/종료] 🏆LCK또또🏆최종 승/패: DK (+1.5) vs 젠지 :: 토 :: 17시 BO.3",
           "articleUrl": "https://ygosu.com/board/pan_ccy/750593",
           "watoUrl": "https://ygosu.com/board/pan_ccy/750593/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "750579",
-          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 피츠버그(+1.5) vs [H] LA다저스 :: 8/22 :: 11시 10분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/750579",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/750579/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "750578",
-          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 시카고C vs [H] 시애틀 :: 8/22 :: 11시 10분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/750578",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/750578/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "750577",
-          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 미네소타 vs [H] 샌디에이고 :: 8/22 :: 10시 40분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/750577",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/750577/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "750576",
-          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 신시내티 vs [H] 애리조나 :: 8/22 :: 10시 40분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/750576",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/750576/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "750575",
-          "title": "[🔴결과/와토/종료] ⚾ MLB ⚾ 뉴욕메츠 vs [H] 시카고W :: 8/22 :: 8시 40분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/750575",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/750575/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
