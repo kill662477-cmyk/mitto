@@ -1,22 +1,21 @@
 {
-  "checkedAt": "2026-08-30T21:33:13.243Z",
+  "checkedAt": "2026-08-30T23:50:08.780Z",
   "boards": {
     "mitto": {
-      "live": [
+      "live": [],
+      "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "759602",
-          "title": "[🟢진행중/와토/1시간 남음] ⚾ MLB ⚾ 신시내티 vs [H] 시카고C :: 8/31 :: 8시 20분",
+          "title": "[🟢진행중/와토/마감] ⚾ MLB ⚾ 신시내티 vs [H] 시카고C :: 8/31 :: 8시 20분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/759602",
           "watoUrl": "https://ygosu.com/board/pan_ccy/759602/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "1시간 46분 남음"
-        }
-      ],
-      "closed": [
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
