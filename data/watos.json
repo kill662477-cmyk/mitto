@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-20T11:16:37.200Z",
+  "checkedAt": "2026-09-20T14:44:05.527Z",
   "boards": {
     "mitto": {
       "live": [
@@ -7,121 +7,145 @@
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
+          "id": "784349",
+          "title": "[🟢진행중/와토/5시간 남음] ⚾ MLB ⚾ 샌프란시스코(+2.5) vs [H]LA다저스 :: 9/21 :: 5시 10분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/784349",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/784349/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "5시간 25분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "784204",
+          "title": "[🚥선점/와토/16시간 남음] ⚽AG 여자축구⚽ 대한민국 (+1.5) vs 북한 :: 21일(월) :: 16시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/784204",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/784204/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "16시간 15분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
           "id": "783839",
-          "title": "[🚥선점/와토/12시간 남음] ⚾ MLB ⚾ 밀워키(-1.5) vs [H] 볼티모어 :: 9/21 :: 8시 20분",
+          "title": "[🟢진행중/와토/8시간 남음] ⚾ MLB ⚾ 밀워키(-1.5) vs [H] 볼티모어 :: 9/21 :: 8시 20분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/783839",
           "watoUrl": "https://ygosu.com/board/pan_ccy/783839/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 3분 남음"
+          "statusText": "8시간 35분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "783838",
-          "title": "[🚥선점/와토/8시간 남음] ⚾ MLB ⚾ 뉴욕양키스 vs [H] 애리조나 :: 9/21 :: 5시 10분",
+          "title": "[🟢진행중/와토/5시간 남음] ⚾ MLB ⚾ 뉴욕양키스 vs [H] 애리조나 :: 9/21 :: 5시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/783838",
           "watoUrl": "https://ygosu.com/board/pan_ccy/783838/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 53분 남음"
+          "statusText": "5시간 25분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "783837",
-          "title": "[🚥선점/와토/8시간 남음] ⚾ MLB ⚾ 마이애미 vs [H] 샌디에이고 :: 9/21 :: 5시 10분",
+          "title": "[🟢진행중/와토/5시간 남음] ⚾ MLB ⚾ 마이애미 vs [H] 샌디에이고 :: 9/21 :: 5시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/783837",
           "watoUrl": "https://ygosu.com/board/pan_ccy/783837/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 53분 남음"
+          "statusText": "5시간 25분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "783836",
-          "title": "[🚥선점/와토/8시간 남음] ⚾ MLB ⚾ 미네소타 vs [H] LA에인절스 :: 9/21 :: 5시 7분",
+          "title": "[🟢진행중/와토/5시간 남음] ⚾ MLB ⚾ 미네소타 vs [H] LA에인절스 :: 9/21 :: 5시 7분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/783836",
           "watoUrl": "https://ygosu.com/board/pan_ccy/783836/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 50분 남음"
+          "statusText": "5시간 22분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "783828",
-          "title": "[🚥선점/와토/7시간 남음] ⚾ MLB ⚾ 토론토 vs [H] 텍사스 :: 9/21 :: 3시 35분",
+          "title": "[🟢진행중/와토/3시간 남음] ⚾ MLB ⚾ 토론토 vs [H] 텍사스 :: 9/21 :: 3시 35분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/783828",
           "watoUrl": "https://ygosu.com/board/pan_ccy/783828/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 18분 남음"
+          "statusText": "3시간 50분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "783827",
-          "title": "[🚥선점/와토/6시간 남음] ⚾ MLB ⚾ 워싱턴 vs [H] 세인트루이스 :: 9/21 :: 3시 15분",
+          "title": "[🟢진행중/와토/3시간 남음] ⚾ MLB ⚾ 워싱턴 vs [H] 세인트루이스 :: 9/21 :: 3시 15분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/783827",
           "watoUrl": "https://ygosu.com/board/pan_ccy/783827/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 58분 남음"
+          "statusText": "3시간 30분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "783826",
-          "title": "[🚥선점/와토/6시간 남음] ⚾ MLB ⚾ 디트로이트 vs [H] 시카고W :: 9/21 :: 3시 10분",
+          "title": "[🟢진행중/와토/3시간 남음] ⚾ MLB ⚾ 디트로이트 vs [H] 시카고W :: 9/21 :: 3시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/783826",
           "watoUrl": "https://ygosu.com/board/pan_ccy/783826/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 53분 남음"
+          "statusText": "3시간 25분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "783825",
-          "title": "[🚥선점/와토/6시간 남음] ⚾ MLB ⚾ 애틀랜타 vs [H] 휴스턴 :: 9/21 :: 3시 10분",
+          "title": "[🟢진행중/와토/3시간 남음] ⚾ MLB ⚾ 애틀랜타 vs [H] 휴스턴 :: 9/21 :: 3시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/783825",
           "watoUrl": "https://ygosu.com/board/pan_ccy/783825/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 53분 남음"
+          "statusText": "3시간 25분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "783824",
-          "title": "[🚥선점/와토/6시간 남음] ⚾ MLB ⚾ 보스턴(+1.5) vs [H] 탬파베이 :: 9/21 :: 2시 40분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 보스턴(+1.5) vs [H] 탬파베이 :: 9/21 :: 2시 40분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/783824",
           "watoUrl": "https://ygosu.com/board/pan_ccy/783824/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 23분 남음"
+          "statusText": "2시간 55분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "783823",
-          "title": "[🚥선점/와토/5시간 남음] ⚾ MLB ⚾ 필라델피아(-1.5) vs [H] 뉴욕메츠 :: 9/21 :: 2시 10분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾ MLB ⚾ 필라델피아(-1.5) vs [H] 뉴욕메츠 :: 9/21 :: 2시 10분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/783823",
           "watoUrl": "https://ygosu.com/board/pan_ccy/783823/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 53분 남음"
+          "statusText": "2시간 25분 남음"
         },
         {
           "board": "mitto",
@@ -140,7 +164,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "783407",
-          "title": "[🟢진행중/와토/진행] 🌠ASL 8강 1경기🌠 5경기 : 이영한 vs 유영진 💥진초💥",
+          "title": "[🚥선점/와토/진행] 🌠ASL 8강 1경기🌠 5경기 : 이영한 vs 유영진 💥진초💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/783407",
           "watoUrl": "https://ygosu.com/board/pan_ccy/783407/?s_wato=Y",
           "tab": "live",
@@ -152,7 +176,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "783406",
-          "title": "[🟢진행중/와토/진행] 🌠ASL 8강 1경기🌠 4경기 : 이영한 vs 유영진 💥진초💥",
+          "title": "[🚥선점/와토/진행] 🌠ASL 8강 1경기🌠 4경기 : 이영한 vs 유영진 💥진초💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/783406",
           "watoUrl": "https://ygosu.com/board/pan_ccy/783406/?s_wato=Y",
           "tab": "live",
@@ -164,7 +188,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "783405",
-          "title": "[🟢진행중/와토/진행] 🌠ASL 8강 1경기🌠 3경기 : 이영한 vs 유영진 💥진초💥",
+          "title": "[🚥선점/와토/진행] 🌠ASL 8강 1경기🌠 3경기 : 이영한 vs 유영진 💥진초💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/783405",
           "watoUrl": "https://ygosu.com/board/pan_ccy/783405/?s_wato=Y",
           "tab": "live",
@@ -176,7 +200,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "783404",
-          "title": "[🟢진행중/와토/진행] 🌠ASL 8강 1경기🌠 2경기 : 이영한 vs 유영진 💥진초💥",
+          "title": "[🚥선점/와토/진행] 🌠ASL 8강 1경기🌠 2경기 : 이영한 vs 유영진 💥진초💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/783404",
           "watoUrl": "https://ygosu.com/board/pan_ccy/783404/?s_wato=Y",
           "tab": "live",
@@ -212,107 +236,95 @@
           "boardName": "미또게",
           "category": "football",
           "id": "783263",
-          "title": "[🟢진행중/와토/7시간 남음] 🌍세리에A🌍 [H]AC밀란 (-1.5) vs 레체 : 9/21 : 03시45분",
+          "title": "[🟢진행중/와토/4시간 남음] 🌍세리에A🌍 [H]AC밀란 (-1.5) vs 레체 : 9/21 : 03시45분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/783263",
           "watoUrl": "https://ygosu.com/board/pan_ccy/783263/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "7시간 28분 남음"
+          "statusText": "4시간 33초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "783262",
-          "title": "[🟢진행중/와토/4시간 남음] 🌍세리에A🌍 [H]유벤투스 (-0.5) vs 아탈란타 : 9/21 : 01시",
+          "title": "[🟢진행중/와토/1시간 남음] 🌍세리에A🌍 [H]유벤투스 (-0.5) vs 아탈란타 : 9/21 : 01시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/783262",
           "watoUrl": "https://ygosu.com/board/pan_ccy/783262/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 43분 남음"
+          "statusText": "1시간 15분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "783261",
-          "title": "[🟢진행중/와토/4시간 남음] 🌍EPL🌍 [H]풀럼 (+0.5) vs 맨유 : 9/21 : 00시30분",
+          "title": "[🟢진행중/와토/45분 남음] 🌍EPL🌍 [H]풀럼 (+0.5) vs 맨유 : 9/21 : 00시30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/783261",
           "watoUrl": "https://ygosu.com/board/pan_ccy/783261/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "4시간 13분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "783260",
-          "title": "[🟢진행중/와토/2시간 남음] 🌍라리가🌍 [H]AT마드리드 (+0.5) vs 레알마드리드 : 9/20 : 23시15분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/783260",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/783260/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "2시간 58분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "783259",
-          "title": "[🟢진행중/와토/2시간 남음] 🌍분데스🌍 [H]레버쿠젠 (-0.5) vs 라이프치히 : 9/20 : 22시30분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/783259",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/783259/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "2시간 13분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "783258",
-          "title": "[🟢진행중/와토/1시간 남음] 🌍EPL🌍 [H]본머스 (+0.5) vs 리버풀 : 9/20 : 22시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/783258",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/783258/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "1시간 43분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "783257",
-          "title": "[🟢진행중/와토/1시간 남음] 🌍EPL🌍 [H]맨시티 (-1.5) vs 선덜랜드 : 9/20 : 22시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/783257",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/783257/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "1시간 43분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "football",
-          "id": "783256",
-          "title": "[🟢진행중/와토/1시간 남음] 🌍EPL🌍 [H]리즈 (-0.5) vs C.팰리스 : 9/20 : 22시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/783256",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/783256/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "1시간 42분 남음"
+          "statusText": "45분 32초 남음"
         }
       ],
       "closed": [
         {
           "board": "mitto",
           "boardName": "미또게",
+          "category": "football",
+          "id": "783260",
+          "title": "🌍라리가🌍 [H]AT마드리드 (+0.5) ...",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/783260",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/783260/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
           "category": "etc",
-          "id": "782939",
-          "title": "[🟡마감/와토/마감] 🏀AG 남자농구 결승전🏀 일본 (+6.5) vs 대한민국 ::: 9/20 19시40분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/782939",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/782939/?s_wato=Y",
+          "id": "783259",
+          "title": "[🟡마감/와토/마감] 🌍분데스🌍 [H]레버쿠젠 (-0.5) vs 라이프치히 : 9/20 : 22시30분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/783259",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/783259/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "783256",
+          "title": "🌍EPL🌍 [H]리즈 (-0.5) vs C.팰리...",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/783256",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/783256/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "783258",
+          "title": "[🟡마감/와토/마감] 🌍EPL🌍 [H]본머스 (+0.5) vs 리버풀 : 9/20 : 22시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/783258",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/783258/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "football",
+          "id": "783257",
+          "title": "[🟡마감/와토/마감] 🌍EPL🌍 [H]맨시티 (-1.5) vs 선덜랜드 : 9/20 : 22시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/783257",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/783257/?s_wato=Y",
           "tab": "closed",
           "tabName": "마감",
           "statusText": "마감"
@@ -387,6 +399,18 @@
           "title": "[🔴결과/와토/종료] ⚾ KBO ⚾ 한화(+1.5) vs [H] LG :: 9/20 :: 14시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/783128",
           "watoUrl": "https://ygosu.com/board/pan_ccy/783128/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "etc",
+          "id": "782939",
+          "title": "[🔴결과/와토/종료] 🏀AG 남자농구 결승전🏀 일본 (+6.5) vs 대한민국 ::: 9/20 19시40분",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/782939",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/782939/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -1134,56 +1158,31 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "781256",
-          "title": "[🔴결과/와토/종료] 🏐AG 여자배구🏐 베트남(+11.5) vs 대한민국 풀세트 ::: 9/18 16시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/781256",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/781256/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "781210",
-          "title": "[🔴결과/와토/종료] 🌍분데스🌍 [H]바이에른뮌헨 (-3.5) vs 우니온 베를린 :9/19: 03시30분",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/781210",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/781210/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
     "monstarz": {
       "live": [],
-      "closed": [
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "1945955",
-          "title": "[와토/마감] 두주 vs 먼진",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/1945955",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/1945955/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
+      "closed": [],
       "result": [
         {
           "board": "monstarz",
           "boardName": "스대게",
           "category": null,
+          "id": "1945955",
+          "title": "[와토/종료] 두주 vs 먼진",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/1945955",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/1945955/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
           "id": "1945068",
-          "title": "🍅24시간 최고시청자 5800 가능할까?🍅 5시마감",
+          "title": "[와토/종료] 🍅24시간 최고시청자 5800 가능할까?🍅 5시마감",
           "articleUrl": "https://ygosu.com/board/pan_monstarz/1945068",
           "watoUrl": "https://ygosu.com/board/pan_monstarz/1945068/?s_wato=Y",
           "tab": "result",
