@@ -1,8 +1,44 @@
 {
-  "checkedAt": "2026-10-16T04:29:08.452Z",
+  "checkedAt": "2026-10-16T09:13:52.133Z",
   "boards": {
     "mitto": {
       "live": [
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "813309",
+          "title": "[🟢진행중/와토/14시간 남음] ⚾MLB CS⚾ 탬파베이(+1.5) vs [H] 클리블랜드 :: 10/17 :: 9시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/813309",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/813309/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "14시간 46분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "813307",
+          "title": "[🟢진행중/와토/14시간 남음] ⚾MLB CS⚾ 탬파베이(-1.5) vs [H] 클리블랜드 :: 10/17 :: 9시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/813307",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/813307/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "14시간 46분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "baseball",
+          "id": "813306",
+          "title": "[🟢진행중/와토/14시간 남음] ⚾MLB CS⚾ 탬파베이 vs [H] 클리블랜드 :: 10/17 :: 9시",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/813306",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/813306/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "14시간 45분 남음"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -13,26 +49,26 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/813153/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1일 5시간 남음"
+          "statusText": "1일 44분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "lol",
           "id": "813152",
-          "title": "[🟢진행중/와토/1일 남음] 🏆LOL데마시아컵결승🏆 BFX vs WE 풀세트 ::: BO5 10/17 18시",
+          "title": "[🟢진행중/와토/23시간 남음] 🏆LOL데마시아컵결승🏆 BFX vs WE 풀세트 ::: BO5 10/17 18시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/813152",
           "watoUrl": "https://ygosu.com/board/pan_ccy/813152/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "1일 4시간 남음"
+          "statusText": "23시간 45분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "star",
           "id": "813135",
-          "title": "[🚥선점/와토/진행] 🌠ASL 결승전🌠 7경기 : 유영진 vs 김민철 💥진초💥",
+          "title": "[🟢진행중/와토/진행] 🌠ASL 결승전🌠 7경기 : 유영진 vs 김민철 💥진초💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/813135",
           "watoUrl": "https://ygosu.com/board/pan_ccy/813135/?s_wato=Y",
           "tab": "live",
@@ -44,7 +80,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "813134",
-          "title": "[🚥선점/와토/진행] 🌠ASL 결승전🌠 6경기 : 유영진 vs 김민철 💥진초💥",
+          "title": "[🟢진행중/와토/진행] 🌠ASL 결승전🌠 6경기 : 유영진 vs 김민철 💥진초💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/813134",
           "watoUrl": "https://ygosu.com/board/pan_ccy/813134/?s_wato=Y",
           "tab": "live",
@@ -56,7 +92,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "813133",
-          "title": "[🚥선점/와토/진행] 🌠ASL 결승전🌠 5경기 : 유영진 vs 김민철 💥진초💥",
+          "title": "[🟢진행중/와토/진행] 🌠ASL 결승전🌠 5경기 : 유영진 vs 김민철 💥진초💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/813133",
           "watoUrl": "https://ygosu.com/board/pan_ccy/813133/?s_wato=Y",
           "tab": "live",
@@ -68,7 +104,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "813132",
-          "title": "[🚥선점/와토/진행] 🌠ASL 결승전🌠 4경기 : 유영진 vs 김민철 💥진초💥",
+          "title": "[🟢진행중/와토/진행] 🌠ASL 결승전🌠 4경기 : 유영진 vs 김민철 💥진초💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/813132",
           "watoUrl": "https://ygosu.com/board/pan_ccy/813132/?s_wato=Y",
           "tab": "live",
@@ -80,7 +116,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "813131",
-          "title": "[🚥선점/와토/진행] 🌠ASL 결승전🌠 3경기 : 유영진 vs 김민철 💥진초💥",
+          "title": "[🟢진행중/와토/진행] 🌠ASL 결승전🌠 3경기 : 유영진 vs 김민철 💥진초💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/813131",
           "watoUrl": "https://ygosu.com/board/pan_ccy/813131/?s_wato=Y",
           "tab": "live",
@@ -92,7 +128,7 @@
           "boardName": "미또게",
           "category": "star",
           "id": "813130",
-          "title": "[🚥선점/와토/진행] 🌠ASL 결승전🌠 2경기 : 유영진 vs 김민철 💥진초💥",
+          "title": "[🟢진행중/와토/진행] 🌠ASL 결승전🌠 2경기 : 유영진 vs 김민철 💥진초💥",
           "articleUrl": "https://ygosu.com/board/pan_ccy/813130",
           "watoUrl": "https://ygosu.com/board/pan_ccy/813130/?s_wato=Y",
           "tab": "live",
@@ -152,24 +188,24 @@
           "boardName": "미또게",
           "category": "etc",
           "id": "812347",
-          "title": "[🟢진행중/와토/5시간 남음] 🏐여배또또🏐 현대건설(+2.5) vs GS칼텍스 ::: 10/16 19시",
+          "title": "[🟢진행중/와토/46분 남음] 🏐여배또또🏐 현대건설(+2.5) vs GS칼텍스 ::: 10/16 19시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/812347",
           "watoUrl": "https://ygosu.com/board/pan_ccy/812347/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 30분 남음"
+          "statusText": "45분 48초 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
           "id": "812345",
-          "title": "[🟢진행중/와토/5시간 남음] 🏐여배또또🏐 현대건설(+1.5) vs GS칼텍스 ::: 10/16 19시",
+          "title": "[🟢진행중/와토/46분 남음] 🏐여배또또🏐 현대건설(+1.5) vs GS칼텍스 ::: 10/16 19시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/812345",
           "watoUrl": "https://ygosu.com/board/pan_ccy/812345/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "5시간 30분 남음"
+          "statusText": "45분 47초 남음"
         }
       ],
       "closed": [],
@@ -1010,42 +1046,6 @@
           "title": "[🔴결과/와토/종료] 🏆LOL데마시아컵4강🏆 KT(-1.5) vs BFX 풀세트 : BO5 10/14 18시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/810181",
           "watoUrl": "https://ygosu.com/board/pan_ccy/810181/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "810093",
-          "title": "[🔴결과/와토/종료] 🏐여배또또🏐 도로공사 (-1.5) vs 현대건설 :: 14일(수) :: 19시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/810093",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/810093/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "810092",
-          "title": "[🔴결과/와토/종료] 🏐여배또또🏐 도로공사 vs 현대건설 :: 14일(수) :: 19시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/810092",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/810092/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "etc",
-          "id": "810091",
-          "title": "[🔴결과/와토/종료] 🏐여배또또🏐 도로공사 (+1.5) vs 현대건설 :: 14일(수) :: 19시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/810091",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/810091/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
