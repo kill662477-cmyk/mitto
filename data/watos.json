@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-18T23:58:13.940Z",
+  "checkedAt": "2026-10-19T04:25:53.287Z",
   "boards": {
     "mitto": {
       "live": [
@@ -13,108 +13,107 @@
           "watoUrl": "https://ygosu.com/board/pan_ccy/816661/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "12시간 1분 남음"
+          "statusText": "7시간 34분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "etc",
           "id": "816756",
-          "title": "[🟢진행중/와토/6시간 남음] 🏐남배또또🏐 한국전력 vs KB손보 ::: 10/19 15시30분",
+          "title": "🏐남배또또🏐 한국전력 vs KB손해보험 ::: 10/19 15시30분 (3)",
           "articleUrl": "https://ygosu.com/board/pan_ccy/816756",
           "watoUrl": "https://ygosu.com/board/pan_ccy/816756/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "6시간 31분 남음"
+          "statusText": "2시간 4분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "816645",
-          "title": "[🚥선점/와토/19시간 남음] 🌍EPL🌍토트넘 vs 코번트리 : 언오버 (2.5) : 10/20 : 04시",
+          "title": "[🟢진행중/와토/14시간 남음] 🌍EPL🌍토트넘 vs 코번트리 : 언오버 (2.5) : 10/20 : 04시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/816645",
           "watoUrl": "https://ygosu.com/board/pan_ccy/816645/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "19시간 1분 남음"
+          "statusText": "14시간 34분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "football",
           "id": "816644",
-          "title": "[🚥선점/와토/19시간 남음] 🌍EPL🌍[H]토트넘 (-1.5) vs 코번트리 : 10/20 : 04시",
+          "title": "[🟢진행중/와토/14시간 남음] 🌍EPL🌍[H]토트넘 (-1.5) vs 코번트리 : 10/20 : 04시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/816644",
           "watoUrl": "https://ygosu.com/board/pan_ccy/816644/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "19시간 1분 남음"
+          "statusText": "14시간 33분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "basketball",
           "id": "816338",
-          "title": "[🟢진행중/와토/10시간 남음] 🏀KBL 또또🏀원주DB vs 대구가스공사 : 언오버(173.5) :19일(월): 19시",
+          "title": "[🟢진행중/와토/5시간 남음] 🏀KBL 또또🏀원주DB vs 대구가스공사 : 언오버(173.5) :19일(월): 19시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/816338",
           "watoUrl": "https://ygosu.com/board/pan_ccy/816338/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 1분 남음"
+          "statusText": "5시간 33분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "basketball",
           "id": "816337",
-          "title": "[🟢진행중/와토/10시간 남음] 🏀KBL 또또🏀원주DB vs 대구가스공사 :: 19일(월) :: 19시",
+          "title": "[🟢진행중/와토/5시간 남음] 🏀KBL 또또🏀원주DB vs 대구가스공사 :: 19일(월) :: 19시",
           "articleUrl": "https://ygosu.com/board/pan_ccy/816337",
           "watoUrl": "https://ygosu.com/board/pan_ccy/816337/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "10시간 1분 남음"
+          "statusText": "5시간 33분 남음"
         }
       ],
-      "closed": [
+      "closed": [],
+      "result": [
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "816258",
-          "title": "[🟡마감/와토/마감] ⚾MLB CS⚾ 탬파베이(+1.5) vs [H] 클리블랜드 :: 10/19 :: 6시 8분",
+          "title": "[🔴결과/와토/종료] ⚾MLB CS⚾ 탬파베이(+1.5) vs [H] 클리블랜드 :: 10/19 :: 6시 8분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/816258",
           "watoUrl": "https://ygosu.com/board/pan_ccy/816258/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "816257",
-          "title": "[🟡마감/와토/마감] ⚾MLB CS⚾ 탬파베이(-1.5) vs [H] 클리블랜드 :: 10/19 :: 6시 8분",
+          "title": "[🔴결과/와토/종료] ⚾MLB CS⚾ 탬파베이(-1.5) vs [H] 클리블랜드 :: 10/19 :: 6시 8분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/816257",
           "watoUrl": "https://ygosu.com/board/pan_ccy/816257/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "816256",
-          "title": "[🟡마감/와토/마감] ⚾MLB CS⚾ 탬파베이 vs [H] 클리블랜드 :: 10/19 :: 6시 8분",
+          "title": "[🔴결과/와토/종료] ⚾MLB CS⚾ 탬파베이 vs [H] 클리블랜드 :: 10/19 :: 6시 8분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/816256",
           "watoUrl": "https://ygosu.com/board/pan_ccy/816256/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        }
-      ],
-      "result": [
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -1984,7 +1983,32 @@
       ]
     },
     "soop": {
-      "live": [],
+      "live": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "2050226",
+          "title": "🔥철구형2, 복귀방송 시청자수 5만명 언더OR오버🔥 (4)",
+          "articleUrl": "https://ygosu.com/board/soop/2050226",
+          "watoUrl": "https://ygosu.com/board/soop/2050226/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "4일 31분 남음"
+        },
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "2050207",
+          "title": "💎 복귀방송 다미아니 목걸이 걸고 온다 vs 안걸고 온다 💎 (9)",
+          "articleUrl": "https://ygosu.com/board/soop/2050207",
+          "watoUrl": "https://ygosu.com/board/soop/2050207/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "2일 22시간 남음"
+        }
+      ],
       "closed": [
         {
           "board": "soop",
@@ -2344,54 +2368,6 @@
           "title": "[와토/종료] 🧊 스타 미니대전 2경기 모리 T vs 2라니 Z 🧊 애티",
           "articleUrl": "https://ygosu.com/board/soop/1870652",
           "watoUrl": "https://ygosu.com/board/soop/1870652/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1869530",
-          "title": "[와토/종료] 🧊 스타 점중 vs 라신 5경기 🧊",
-          "articleUrl": "https://ygosu.com/board/soop/1869530",
-          "watoUrl": "https://ygosu.com/board/soop/1869530/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1868160",
-          "title": "[와토/종료] 🔥 금요일 철구형 휴방 VS 노휴방:: 17시 마감 🔥",
-          "articleUrl": "https://ygosu.com/board/soop/1868160",
-          "watoUrl": "https://ygosu.com/board/soop/1868160/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1866548",
-          "title": "[와토/종료] 🔥 스타대결 머리밀기빵 P김윤중(-2.5) vs T라신 최종승/패 🔥",
-          "articleUrl": "https://ygosu.com/board/soop/1866548",
-          "watoUrl": "https://ygosu.com/board/soop/1866548/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "soop",
-          "boardName": "숲게",
-          "category": null,
-          "id": "1866545",
-          "title": "[와토/종료] 🔥 스타미니대전 씨나인 vs 수술대 최종승/패 🔥",
-          "articleUrl": "https://ygosu.com/board/soop/1866545",
-          "watoUrl": "https://ygosu.com/board/soop/1866545/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
