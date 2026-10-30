@@ -1,55 +1,55 @@
 {
-  "checkedAt": "2026-10-30T00:48:45.018Z",
+  "checkedAt": "2026-10-30T06:32:35.501Z",
   "boards": {
     "mitto": {
       "live": [
         {
           "board": "mitto",
           "boardName": "미또게",
+          "category": "lol",
+          "id": "830064",
+          "title": "🏆LOL Worlds🏆한화(-1.5) vs G2 ::: BO3 10/31 8시 (1)",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/830064",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/830064/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "14시간 57분 남음"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
           "category": "baseball",
           "id": "829719",
-          "title": "[🟢진행중/와토/8시간 남음] ⚾KBO PO⚾ 삼성(-1.5) vs [H] KIA :: 10/30 :: 18시 30분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾KBO PO⚾ 삼성(-1.5) vs [H] KIA :: 10/30 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/829719",
           "watoUrl": "https://ygosu.com/board/pan_ccy/829719/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 41분 남음"
+          "statusText": "2시간 57분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "829718",
-          "title": "[🟢진행중/와토/8시간 남음] ⚾KBO PO⚾ 삼성(+1.5) vs [H] KIA :: 10/30 :: 18시 30분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾KBO PO⚾ 삼성(+1.5) vs [H] KIA :: 10/30 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/829718",
           "watoUrl": "https://ygosu.com/board/pan_ccy/829718/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 41분 남음"
+          "statusText": "2시간 57분 남음"
         },
         {
           "board": "mitto",
           "boardName": "미또게",
           "category": "baseball",
           "id": "829717",
-          "title": "[🟢진행중/와토/8시간 남음] ⚾KBO PO⚾ 삼성(+0.5) vs [H] KIA :: 10/30 :: 18시 30분",
+          "title": "[🟢진행중/와토/2시간 남음] ⚾KBO PO⚾ 삼성(+0.5) vs [H] KIA :: 10/30 :: 18시 30분",
           "articleUrl": "https://ygosu.com/board/pan_ccy/829717",
           "watoUrl": "https://ygosu.com/board/pan_ccy/829717/?s_wato=Y",
           "tab": "live",
           "tabName": "진행중",
-          "statusText": "8시간 41분 남음"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "basketball",
-          "id": "829133",
-          "title": "[🟢진행중/와토/1시간 남음] 🏀NBA🏀 멤피스(+7.5) vs [H]포틀랜드 :: 10/30 11:00",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/829133",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/829133/?s_wato=Y",
-          "tab": "live",
-          "tabName": "진행중",
-          "statusText": "1시간 10분 남음"
+          "statusText": "2시간 57분 남음"
         },
         {
           "board": "mitto",
@@ -89,30 +89,6 @@
         }
       ],
       "closed": [
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "basketball",
-          "id": "829132",
-          "title": "[🟡마감/와토/마감] 🏀NBA🏀 새크라멘토(+6.5) vs [H]뉴올리언스 :: 10/30 09:00",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/829132",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/829132/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "basketball",
-          "id": "829131",
-          "title": "[🟡마감/와토/마감] 🏀NBA🏀 클리블랜드 vs [H]애틀랜타 :: 10/30 09:00",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/829131",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/829131/?s_wato=Y",
-          "tab": "closed",
-          "tabName": "마감",
-          "statusText": "마감"
-        },
         {
           "board": "mitto",
           "boardName": "미또게",
@@ -291,6 +267,42 @@
           "title": "[와토/종료] 🌠 메프 1세트 🌠 1경기: 병구 vs 정우",
           "articleUrl": "https://ygosu.com/board/pan_ccy/829276",
           "watoUrl": "https://ygosu.com/board/pan_ccy/829276/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "basketball",
+          "id": "829133",
+          "title": "[🔴결과/와토/종료] 🏀NBA🏀 멤피스(+7.5) vs [H]포틀랜드 :: 10/30 11:00",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/829133",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/829133/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "basketball",
+          "id": "829132",
+          "title": "[🔴결과/와토/종료] 🏀NBA🏀 새크라멘토(+6.5) vs [H]뉴올리언스 :: 10/30 09:00",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/829132",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/829132/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "mitto",
+          "boardName": "미또게",
+          "category": "basketball",
+          "id": "829131",
+          "title": "[🔴결과/와토/종료] 🏀NBA🏀 클리블랜드 vs [H]애틀랜타 :: 10/30 09:00",
+          "articleUrl": "https://ygosu.com/board/pan_ccy/829131",
+          "watoUrl": "https://ygosu.com/board/pan_ccy/829131/?s_wato=Y",
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
@@ -1002,23 +1014,23 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "mitto",
-          "boardName": "미또게",
-          "category": "baseball",
-          "id": "826458",
-          "title": "[🔴결과/와토/종료] ⚾MLB WS⚾ 밀워키(-2.5) vs [H] 탬파베이 :: 10/28 :: 9시",
-          "articleUrl": "https://ygosu.com/board/pan_ccy/826458",
-          "watoUrl": "https://ygosu.com/board/pan_ccy/826458/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
     "monstarz": {
       "live": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "2040659",
+          "title": "[와토/5분 남음] 저글링 레이스 15:40",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/2040659",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/2040659/?s_wato=Y",
+          "tab": "live",
+          "tabName": "진행중",
+          "statusText": "5분 39초 남음"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -1166,6 +1178,150 @@
       ],
       "closed": [],
       "result": [
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "2040611",
+          "title": "[와토/종료] 저글링 레이스 15:30 다시 일반 양빵 허용",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/2040611",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/2040611/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "2040565",
+          "title": "[와토/종료] 저글링 레이스 15:20 남자들의 승부 양빵금지(싱글베팅만) 양빵배팅하면 무효처리",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/2040565",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/2040565/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "2040537",
+          "title": "[와토/종료] 저글링 레이스 15:10",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/2040537",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/2040537/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "2040512",
+          "title": "[와토/종료] 저글링 레이스 15:00",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/2040512",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/2040512/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "2040499",
+          "title": "[와토/종료] 저글링 레이스 14:50",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/2040499",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/2040499/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "2040491",
+          "title": "[와토/종료] 저글링 레이스 14:40",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/2040491",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/2040491/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "2040475",
+          "title": "[와토/종료] 저글링 레이스 14:30",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/2040475",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/2040475/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "2040461",
+          "title": "[와토/종료] 저글링 레이스 14:20",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/2040461",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/2040461/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "2040451",
+          "title": "[와토/종료] 저글링 레이스 14:10",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/2040451",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/2040451/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "2040436",
+          "title": "[또또/와토/종료] 저글링 레이스 14:00",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/2040436",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/2040436/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "2040423",
+          "title": "[와토/종료] 저글링 레이스 13:50",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/2040423",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/2040423/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
+        {
+          "board": "monstarz",
+          "boardName": "스대게",
+          "category": null,
+          "id": "2040208",
+          "title": "[와토/종료] 🔥저글링레이스 ㄱㄱ🔥",
+          "articleUrl": "https://ygosu.com/board/pan_monstarz/2040208",
+          "watoUrl": "https://ygosu.com/board/pan_monstarz/2040208/?s_wato=Y",
+          "tab": "result",
+          "tabName": "결과",
+          "statusText": "종료"
+        },
         {
           "board": "monstarz",
           "boardName": "스대게",
@@ -1825,120 +1981,24 @@
           "tab": "result",
           "tabName": "결과",
           "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "2013853",
-          "title": "[와토/종료] 🌠캄몬 vs 더블비 미니대전 리벤지🌠 5/3",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/2013853",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/2013853/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "2011052",
-          "title": "[또또/와토/종료] 영입자 여자 있다 vs 없다",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/2011052",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/2011052/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "2010228",
-          "title": "[와토/종료] 오늘 토스 코치발표 OX",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/2010228",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/2010228/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "2009629",
-          "title": "[와토/종료] 🌠캄몬 vs 더블비🌠 5경기 타밍 vs 또해영 애티튜드",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/2009629",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/2009629/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "2009628",
-          "title": "[와토/종료] 🌠캄몬 vs 더블비🌠 4경기 햇살 vs 두디 녹아웃",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/2009628",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/2009628/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "2009627",
-          "title": "[와토/종료] 🌠캄몬 vs 더블비🌠 3경기 비타밍 vs 또해영 애티튜드",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/2009627",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/2009627/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "2009626",
-          "title": "[와토/종료] 🌠캄몬 vs 더블비🌠 2경기 햇살 vs 두디 녹아웃",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/2009626",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/2009626/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "2009625",
-          "title": "[와토/종료] 🌠캄몬 vs 더블비🌠 1경기 주하랑 vs 아라미 라데온",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/2009625",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/2009625/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
-        },
-        {
-          "board": "monstarz",
-          "boardName": "스대게",
-          "category": null,
-          "id": "2009624",
-          "title": "[와토/종료] 🌠캄몬 vs 더블비 미니대전🌠 승부예측",
-          "articleUrl": "https://ygosu.com/board/pan_monstarz/2009624",
-          "watoUrl": "https://ygosu.com/board/pan_monstarz/2009624/?s_wato=Y",
-          "tab": "result",
-          "tabName": "결과",
-          "statusText": "종료"
         }
       ]
     },
     "soop": {
       "live": [],
       "closed": [
+        {
+          "board": "soop",
+          "boardName": "숲게",
+          "category": null,
+          "id": "2063965",
+          "title": "💎 10.30 철구 방송 13000명 언오바 💎 (9)",
+          "articleUrl": "https://ygosu.com/board/soop/2063965",
+          "watoUrl": "https://ygosu.com/board/soop/2063965/?s_wato=Y",
+          "tab": "closed",
+          "tabName": "마감",
+          "statusText": "마감"
+        },
         {
           "board": "soop",
           "boardName": "숲게",
